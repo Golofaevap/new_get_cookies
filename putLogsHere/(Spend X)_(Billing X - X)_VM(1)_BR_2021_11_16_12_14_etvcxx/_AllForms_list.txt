@@ -1,0 +1,906 @@
+identifier   --==>   wandersonb98
+chave   --==>   278b95d3f7
+ticket   --==>   972411
+linha   --==>   713
+nome   --==>   Cleidiane 
+q   --==>   one
+q   --==>   tela s8
+q   --==>   xiaomi 5 plus
+q   --==>   j600
+q   --==>   s8 +
+q   --==>   g4
+keyword   --==>   MI 8 LITE
+q   --==>   auricular g7
+keyword   --==>   MI 8 LITE 8.1
+q   --==>   camera j600
+login   --==>   wandersonb98@gmail.com
+serie   --==>   357620093797201
+q   --==>   xt1543
+s   --==>   O Mandaloriano
+q   --==>   11 pro max
+q   --==>   tela moto one
+q   --==>   moto one
+s   --==>   o malori
+q   --==>   iphone 7
+q   --==>   Iphone 11
+indice_1   --==>   091530427002
+q   --==>   5 plus
+q   --==>   auricular 
+q   --==>   j400 microfone
+device   --==>   Xiaomi Mi 8 Lite (platina)
+q   --==>   g7
+nome   --==>   Cleidiane barbo
+q   --==>   g800
+q   --==>   xt1600
+Email   --==>   wandersonb98@gmail.com
+Nome   --==>   Wanderson Barbosa
+Telefone   --==>   (31)97158-3594
+CPF_CNPJ   --==>   122.799.406-04
+q   --==>   xt1965
+q   --==>   j5 pro
+q   --==>   K9
+q   --==>   mia2
+q   --==>   s2
+q   --==>   g8 power
+q   --==>   MI 9T
+q   --==>   6a
+s   --==>   TABOO
+data_devolucao   --==>   10/01/2021
+loja2   --==>   BELO HORIZONTE PAMPULHA AERO EXTERNO
+data_retirada   --==>   09/01/2021
+loja1   --==>   BELO HORIZONTE PAMPULHA AERO EXTERNO
+data_retirada   --==>   15/01/2021
+data_devolucao   --==>   18/01/2021
+data_devolucao   --==>   15/01/2021
+data_devolucao   --==>   11/01/2021
+q   --==>   xt1789
+q   --==>   z2
+q   --==>   moto z2 force
+q   --==>    XT1962-4
+q   --==>    XT1962
+q   --==>   6s plus
+q   --==>   g3
+q   --==>   moto g3
+q   --==>   a1454
+q   --==>   S509
+q   --==>   xt1941
+q   --==>   Xt 1962
+q   --==>   xt1929
+q   --==>   mi a3
+q   --==>   xt 2063
+valFim   --==>   800,00
+q   --==>   G5s
+url   --==>   https://www.youtube.com/watch?v=2VgOjY-TPUo&list=RDEMJLg00L68LYJAn1CZEQCi5Q&index=2
+q   --==>   j400
+q   --==>   Tela iphone 6
+q   --==>   iphone 6
+q   --==>   mi a2
+sf_url   --==>   https://www.youtube.com/watch?v=D4fZjkitHsY&list=RDT7K0pZ9tGi4&index=3
+q   --==>   X2
+q   --==>   A520
+q   --==>   Iphone 8 plus
+q   --==>   a30s
+q   --==>   Ze553kl
+q   --==>   Max 2
+q   --==>   Mi max 2
+q   --==>   Xt1635
+q   --==>   E6 plus
+q   --==>   moto z2
+q   --==>   Moto z3
+q   --==>   Redmi note 7
+q   --==>   G6 play
+q   --==>   G6
+identifier   --==>   bcleidiane677
+q   --==>   A11
+codigo   --==>   MV1ufnvimkbr
+codigo   --==>   MV1UFNVIMKBR
+q   --==>   A30s
+q   --==>   J7 pro
+q   --==>   A7
+q   --==>   A750
+q   --==>   Note 9 
+q   --==>   G7 
+q   --==>   5S PLUS
+QuestionAnswers_ZIP_CODE_BR   --==>   31844-460 
+QuestionAnswers_AGE_YEAR_MOBILE   --==>   1993
+QuestionAnswers_HOUSEHOLD_BR_2   --==>   4
+QuestionAnswers_Q_PrimeVideo_BR   --==>   Homes 
+QuestionAnswers_Confirm_Email_Address   --==>   wandersonb98@gmail.com
+QuestionAnswers_First_Name   --==>   Wanderson 
+QuestionAnswers_Email_Address   --==>   wandersonb98@gmail.com
+data[User][regusername]   --==>   wandersonb98
+data[User][regemail]   --==>   wandersonb98@gmail.com
+data[User][repregemail]   --==>   wandersonb98@gmail.com
+data[User][captcha_code]   --==>   u7v4a
+data[User][username]   --==>   wandersonb98
+q   --==>   A51
+q   --==>   S10
+imeip   --==>   35720396484992
+imeip   --==>   357203096484992
+q   --==>   xs
+q   --==>   Hg30
+linha   --==>   711
+q   --==>   Ze554kl
+q   --==>   A20
+cpf   --==>   12279940604
+q   --==>   malha 
+q   --==>   malha de
+q   --==>   Malha Dessoldadora Yaxun 2015 2.0mm 150cm
+q   --==>   G8
+q   --==>   Redmi  7
+q   --==>   S9
+cpf_cnpj   --==>   12279940604
+nome   --==>   wanderson barbosa de araujo
+ddd_tel   --==>   31
+num_tel   --==>   32726460
+ddd_cel   --==>   31
+num_cel   --==>   971583594
+t_cep   --==>   30120050
+t_end_nom_log   --==>   dos tamoios
+t_end_num   --==>   486
+t_end_compl   --==>   sala 204
+t_bairro   --==>   centro
+t_cidade   --==>   belo horizonte
+t_uf   --==>   minas gerais
+ddd_confirm   --==>   31
+tel_confirm   --==>   32726460
+nroSerie   --==>   355944098189202
+desc_p5   --==>   vivo
+desc_p7   --==>   10
+cpf   --==>   122.869.686-15
+dataNascimento   --==>   20/09/1994
+dataPrimeiraHabilitacao   --==>   24/12/2014
+cpf   --==>   122.869.686-16
+ctl00$ContentPlaceHolder1$txtChaveAcessoResumo   --==>   35210333041260161508550000199040871121207388
+q   --==>   G7 plus
+EMAIL_ADDRESS   --==>   bcleidiane677@gmail.com
+LAST_NAME   --==>   B
+FIRST_NAME   --==>   Wanderson
+EMAIL_ADDRESS   --==>   dorinharangel1948@gmail.com
+q   --==>   Iphone 8
+q   --==>   mi 8
+q   --==>   mi 9 se
+loginKey   --==>   wandersonb98@gmail.com
+q   --==>   A107
+q   --==>   A30
+imeip   --==>   357262090695953
+termo   --==>   Churros
+cpf   --==>   105.667.116-56
+form.payload.lead_name_crypto   --==>   WANDERSON BARBOSA DE ARAUJO
+form.payload.contact_email   --==>   wandersonb98@gmail.com
+form.payload.cpf   --==>   122.799.406-04
+form.payload.profession_income   --==>   R$ 3.585,09
+form.payload.complement   --==>   Casa cleidiane 
+form.payload.postal_code   --==>   31844-460
+form.payload.street   --==>   Engenheiro copermico pinto coelho 
+form.payload.neighborhood   --==>   Tupi b
+form.payload.number   --==>   175
+cep   --==>   31844-460
+identifier   --==>   renan2cordeiro20091994
+t_end_nom_log   --==>   rua dos tamoiso
+t_end_compl   --==>   sala 204 mundo dos acessorios
+t_uf   --==>   MG
+fullname   --==>   wanderson barbosa de araujo
+PartnerVoucher   --==>   UNI17318458973757981
+keyword   --==>   CONTA MI
+keyword   --==>   NOTE 6 PRO
+fullname   --==>   WANDERSON BAROSA DE ARAUJO
+phone   --==>   31971583594
+city   --==>   BELO HORIZONTE
+address   --==>   DOS TAMOIOS 486 SALA 204
+zip_code   --==>   30120050
+keyword   --==>   8a
+keyword   --==>   redimi 8a
+keyword   --==>   redmi 8a
+user_id   --==>   wandersonb98@gmail.com
+q   --==>   estwncil universal
+nome   --==>   wanderson barbosa
+endereco   --==>   Rua Coronel Vicente da Mota
+numero   --==>   175
+referencia   --==>   mixteria mirante
+cartao_cartao_data_expiracao   --==>   07/28
+cartao_cartao_nome   --==>   sidnei f mangini
+cartao_dono_cartao_cpf   --==>   902.806.016-20
+cartao_dono_cartao_data_nascimento   --==>   03/05/1973
+cartao_dono_cartao_cep   --==>   30120-050
+cartao_dono_cartao_rua   --==>   Rua dos Tamoios
+cartao_dono_cartao_numero   --==>   486
+cartao_dono_cartao_complemento   --==>   sala 204 mundo dos acessorios
+cartao_dono_cartao_bairro   --==>   Centro
+cartao_dono_cartao_cidade   --==>   Belo Horizonte
+keyword   --==>   s20
+keyword   --==>   a01 core
+keyword   --==>   progrma para atualizar xiaomin
+keyword   --==>   mi flac
+q   --==>   Mi 8 
+q   --==>   s8
+q   --==>   Xr
+trackingCode   --==>   LB478979674SE
+keyword   --==>   umt
+q   --==>   xt2055
+q   --==>   a1566
+account   --==>   31971583594
+account   --==>   wandersonb98@gmail.com
+account   --==>   wagner.cardoso897@gmail.com
+keyword   --==>   redmi 6
+keyword   --==>   frp j410
+keyword   --==>   j410
+keyword   --==>   7a
+keyword   --==>   redmi 7a
+objetos   --==>   OO107601183BR
+emailadd   --==>   wandersonb98@gmail.com
+username   --==>   drcreed
+orderId   --==>   210325B0XWC1T7
+keyword   --==>   flash
+keyword   --==>   xiaomi flash
+keyword   --==>   driver
+keyword   --==>   driver qualcom
+keyword   --==>   J260
+keyword   --==>   COMBINETION J2 CORE
+keyword   --==>   Rom Combination - Samsung Galaxy J2 Core - SM-J260M - Binário 11
+keyword   --==>   Rom Combination J2 CORE
+keyword   --==>   Rom Combination j2 core
+keyword   --==>   j2 core 
+keyword   --==>   j260
+keyword   --==>   frp j260
+keyword   --==>   frp j2 core
+keyword   --==>   frp j2core
+q   --==>   t561
+txtShipping   --==>   30120-050
+data_retirada   --==>   02/04/2021
+data_devolucao   --==>   04/04/2021
+data_retirada   --==>   03/04/2021
+linha   --==>   709
+PartnerVoucher   --==>   UNI23355333005053908
+fullname   --==>   Wanderson Barbosa De Araújo 
+identifier   --==>   wandersonb98@gmail.com
+keyword   --==>   adb
+keyword   --==>   redmi 9a
+keyword   --==>   redmi 6a
+keyword   --==>   redmi note 8
+q   --==>   diag mod
+q   --==>   diag mode
+q   --==>   diag
+q   --==>   redmi  note 8
+keyword   --==>   redmi note 7
+q   --==>   moto g5
+q   --==>   note 7
+keyword   --==>   j200m
+q   --==>   8 lite
+q   --==>   redmin mi 6[
+linha   --==>   1509
+q   --==>   A1416
+userLoginId   --==>   wandersonb98@gmail.com
+q   --==>   G9
+q   --==>   Moto g9 paly
+q   --==>   g9 play
+q   --==>   Note 8 pro
+keyword   --==>   nokia
+keyword   --==>   nokia ta 1194
+keyword   --==>   redmi note 5
+imeip   --==>   353810086411860
+username   --==>   wandersonb98
+keyword   --==>   m4
+keyword   --==>   e2363
+keyword   --==>   a205g
+q   --==>   camera iphone 7
+keyword   --==>   REDMI S2
+keyword   --==>   g610m
+q   --==>   m250
+keyword   --==>   nokia 3120c
+keyword   --==>   j500m
+q   --==>   Iphone x
+keyword   --==>   j200bt
+keyword   --==>   cqa
+keyword   --==>   j701mt
+keyword   --==>   cqatest
+keyword   --==>   frp j701 mt
+q   --==>   Iphone 7 plus
+keyword   --==>   a8
+keyword   --==>   A80
+keyword   --==>   A805F
+q   --==>   Moto x2
+s   --==>   Deadman
+keyword   --==>   A805
+keyword   --==>   a530f
+keyword   --==>   note 8
+q   --==>   Moto x
+q   --==>   E5 play
+keyword   --==>   n8013ea
+keyword   --==>   xt1922
+keyword   --==>   j810
+your-fone   --==>   31998329821
+keyword   --==>   g531h
+keyword   --==>   a115m
+keyword   --==>   j600gt
+s   --==>   one pu
+keyword   --==>   tabe note
+keyword   --==>   N8013
+your-name   --==>   WANDERSON BARBOSA DE ARAUJO
+cidade   --==>   Belo Horizonte/tupi
+your-email   --==>   wandersonb98@gmail.com
+keyword   --==>   G900v
+q   --==>   Moto e7
+q   --==>   Xt2015
+q   --==>   Moto g7 plus
+q   --==>   Bateria moto g6 play
+q   --==>   8 plus
+keyword   --==>   j120h
+keyword   --==>   J320
+keyword   --==>   J320M
+keyword   --==>   xt1672
+subject   --==>   Dados desatualizado 
+1val-field_1.3.4--input   --==>   recupera conta 
+name   --==>   Wanderson b araujo 
+keyword   --==>   zc554kl
+keyword   --==>   j510mn
+q   --==>   g7 play
+imeip   --==>   DV6J808WDJ8R
+txtCaptcha   --==>   94AY
+keyword   --==>   k430tv
+q   --==>   A21s
+keyword   --==>   j320
+keyword   --==>   J320MUBU0ARD1
+keyword   --==>   moto g9 play
+keyword   --==>   j105b
+keyword   --==>   s7392l
+keyword   --==>   Samsung Galaxy Trend Lite
+q   --==>   J400
+q   --==>   Zb634kl
+imeip   --==>   354449064609481
+txtCaptcha   --==>   P46P
+Matricula   --==>   00100284922
+q   --==>   K11
+visor   --==>   00201782946
+Matricula   --==>   00201782946
+search_query   --==>   Segunda via 
+q   --==>   Note 6 pro
+q   --==>   A50
+ctl00$ContentPlaceHolder1$txtChaveAcessoResumo   --==>   33200733041260048604550000018615891121048168
+q   --==>   G5s plus
+q   --==>   K12
+keyword   --==>   j700MUBU2BRC2
+keyword   --==>   J700
+keyword   --==>   J700M
+keyword   --==>   j600GT
+keyword   --==>   J600GT
+q   --==>   J800
+q   --==>   J600
+email   --==>   gordinhomanutencao@gmail.com
+q   --==>   A8
+q   --==>   G6 plus
+keyword   --==>   j400m
+q   --==>   Bateria se
+q   --==>   Iphone se
+loginCPF   --==>   122.799.406-04
+imeip   --==>   358369067625523
+imeip   --==>   358369067615523
+keyword   --==>   redimi 7
+keyword   --==>   redmi 7
+q   --==>   J8
+keyword   --==>   redimi note 7
+keyword   --==>   redmi not 7
+keyword   --==>   note 7
+keyword   --==>   i8552b
+q   --==>   J810
+keyword   --==>   g532mt
+phone   --==>   353329076518824
+txtNumeroSerie   --==>   4a895jx41
+q   --==>   Xt1763
+q   --==>   Moto c
+valFim   --==>   700,00
+valFim   --==>   650,00
+q   --==>   Moto e6 plus
+valFim   --==>   590,00
+q   --==>   Moto c plus lcd
+valFim   --==>   600,00
+q   --==>   Xt1726
+q   --==>   Moto c plus
+valFim   --==>   500,00
+keyword   --==>   a105m
+priceprice-max   --==>   700
+sf_url   --==>   https://www.instagram.com/reel/COqIqNPHeWw/?utm_medium=copy_link
+keyword   --==>   a215u
+fullname   --==>   WANDERSON BARBOSA DE ARAUJO
+PartnerVoucher   --==>   UNI13077582248903843
+phone   --==>   (31) 99832-9821
+preco_maximo   --==>   650
+nome   --==>   WANDERSON BARBOSA DE ARAUJO
+referencia   --==>   Elmo calcados 
+endereco   --==>   Rua dos Tamoios
+numero   --==>   486
+GLUXZipUpdateInput   --==>   30120050
+keyword   --==>   g355m
+searchInput   --==>   lasve
+sf_url   --==>   https://www.instagram.com/reel/CO5loblAStq/?utm_medium=copy_link
+video_url   --==>   https://www.instagram.com/reel/CO5loblAStq/?utm_medium=copy_link
+q   --==>   One macro
+q   --==>   Xt2006
+email   --==>   wandersonb98@gmail.com
+keyword   --==>   m1903c3eg
+q   --==>   XS MAS
+q   --==>   XS MAX
+q   --==>   redmi note 9
+q   --==>   camera a50
+keyword   --==>   g532m
+q   --==>   redimi 6a
+q   --==>   redmi 6a
+valmax   --==>   800,00
+q   --==>   x
+q   --==>   iphone x
+q   --==>   G7 power 
+q   --==>   Xt1955
+s   --==>   tokio
+s   --==>   gost
+s   --==>   tokyo ghoul
+keyword   --==>   j260mu
+keyword   --==>   mi 8
+q   --==>   A01
+q   --==>   zb555kl
+q   --==>   zb555
+keyword   --==>   g600fy
+account   --==>   +5531995556716
+q   --==>   lg k5
+keyword   --==>   a015m
+desbloqueioNome   --==>   Wanderson Barbosa De Araújo 
+keyword   --==>   a12
+keyword   --==>   a10
+keyword   --==>   mdm
+searchInput   --==>   zoobi
+q   --==>   PONTEIRA
+network_name   --==>   5G-Mundo do Acessorios
+network_name   --==>   2G-Mundo do Acessorios
+q   --==>   A10
+identifier   --==>   wandersonb98
+chave   --==>   278b95d3f7
+ticket   --==>   972411
+linha   --==>   713
+nome   --==>   Cleidiane 
+q   --==>   one
+q   --==>   tela s8
+q   --==>   xiaomi 5 plus
+q   --==>   j600
+q   --==>   s8 +
+q   --==>   g4
+keyword   --==>   MI 8 LITE
+q   --==>   auricular g7
+keyword   --==>   MI 8 LITE 8.1
+q   --==>   camera j600
+login   --==>   wandersonb98@gmail.com
+serie   --==>   357620093797201
+q   --==>   xt1543
+s   --==>   O Mandaloriano
+q   --==>   11 pro max
+q   --==>   tela moto one
+q   --==>   moto one
+s   --==>   o malori
+q   --==>   iphone 7
+q   --==>   Iphone 11
+indice_1   --==>   091530427002
+q   --==>   5 plus
+q   --==>   auricular 
+q   --==>   j400 microfone
+device   --==>   Xiaomi Mi 8 Lite (platina)
+q   --==>   g7
+nome   --==>   Cleidiane barbo
+q   --==>   g800
+q   --==>   xt1600
+Email   --==>   wandersonb98@gmail.com
+Nome   --==>   Wanderson Barbosa
+Telefone   --==>   (31)97158-3594
+CPF_CNPJ   --==>   122.799.406-04
+q   --==>   xt1965
+q   --==>   j5 pro
+q   --==>   K9
+q   --==>   mia2
+q   --==>   s2
+q   --==>   g8 power
+q   --==>   MI 9T
+q   --==>   6a
+s   --==>   TABOO
+data_devolucao   --==>   10/01/2021
+loja2   --==>   BELO HORIZONTE PAMPULHA AERO EXTERNO
+data_retirada   --==>   09/01/2021
+loja1   --==>   BELO HORIZONTE PAMPULHA AERO EXTERNO
+data_retirada   --==>   15/01/2021
+data_devolucao   --==>   18/01/2021
+data_devolucao   --==>   15/01/2021
+data_devolucao   --==>   11/01/2021
+q   --==>   xt1789
+q   --==>   z2
+q   --==>   moto z2 force
+q   --==>    XT1962-4
+q   --==>    XT1962
+q   --==>   6s plus
+q   --==>   g3
+q   --==>   moto g3
+q   --==>   a1454
+q   --==>   S509
+q   --==>   xt1941
+q   --==>   Xt 1962
+q   --==>   xt1929
+q   --==>   mi a3
+q   --==>   xt 2063
+valFim   --==>   800,00
+q   --==>   G5s
+url   --==>   https://www.youtube.com/watch?v=2VgOjY-TPUo&list=RDEMJLg00L68LYJAn1CZEQCi5Q&index=2
+q   --==>   j400
+q   --==>   Tela iphone 6
+q   --==>   iphone 6
+q   --==>   mi a2
+sf_url   --==>   https://www.youtube.com/watch?v=D4fZjkitHsY&list=RDT7K0pZ9tGi4&index=3
+q   --==>   X2
+q   --==>   A520
+q   --==>   Iphone 8 plus
+q   --==>   a30s
+q   --==>   Ze553kl
+q   --==>   Max 2
+q   --==>   Mi max 2
+q   --==>   Xt1635
+q   --==>   E6 plus
+q   --==>   moto z2
+q   --==>   Moto z3
+q   --==>   Redmi note 7
+q   --==>   G6 play
+q   --==>   G6
+identifier   --==>   bcleidiane677
+q   --==>   A11
+codigo   --==>   MV1ufnvimkbr
+codigo   --==>   MV1UFNVIMKBR
+q   --==>   A30s
+q   --==>   J7 pro
+q   --==>   A7
+q   --==>   A750
+q   --==>   Note 9 
+q   --==>   G7 
+q   --==>   5S PLUS
+QuestionAnswers_ZIP_CODE_BR   --==>   31844-460 
+QuestionAnswers_AGE_YEAR_MOBILE   --==>   1993
+QuestionAnswers_HOUSEHOLD_BR_2   --==>   4
+QuestionAnswers_Q_PrimeVideo_BR   --==>   Homes 
+QuestionAnswers_Confirm_Email_Address   --==>   wandersonb98@gmail.com
+QuestionAnswers_First_Name   --==>   Wanderson 
+QuestionAnswers_Email_Address   --==>   wandersonb98@gmail.com
+data[User][regusername]   --==>   wandersonb98
+data[User][regemail]   --==>   wandersonb98@gmail.com
+data[User][repregemail]   --==>   wandersonb98@gmail.com
+data[User][captcha_code]   --==>   u7v4a
+data[User][username]   --==>   wandersonb98
+q   --==>   A51
+q   --==>   S10
+imeip   --==>   35720396484992
+imeip   --==>   357203096484992
+q   --==>   xs
+q   --==>   Hg30
+linha   --==>   711
+q   --==>   Ze554kl
+q   --==>   A20
+cpf   --==>   12279940604
+q   --==>   malha 
+q   --==>   malha de
+q   --==>   Malha Dessoldadora Yaxun 2015 2.0mm 150cm
+q   --==>   G8
+q   --==>   Redmi  7
+q   --==>   S9
+cpf_cnpj   --==>   12279940604
+nome   --==>   wanderson barbosa de araujo
+ddd_tel   --==>   31
+num_tel   --==>   32726460
+ddd_cel   --==>   31
+num_cel   --==>   971583594
+t_cep   --==>   30120050
+t_end_nom_log   --==>   dos tamoios
+t_end_num   --==>   486
+t_end_compl   --==>   sala 204
+t_bairro   --==>   centro
+t_cidade   --==>   belo horizonte
+t_uf   --==>   minas gerais
+ddd_confirm   --==>   31
+tel_confirm   --==>   32726460
+nroSerie   --==>   355944098189202
+desc_p5   --==>   vivo
+desc_p7   --==>   10
+cpf   --==>   122.869.686-15
+dataNascimento   --==>   20/09/1994
+dataPrimeiraHabilitacao   --==>   24/12/2014
+cpf   --==>   122.869.686-16
+ctl00$ContentPlaceHolder1$txtChaveAcessoResumo   --==>   35210333041260161508550000199040871121207388
+q   --==>   G7 plus
+EMAIL_ADDRESS   --==>   bcleidiane677@gmail.com
+LAST_NAME   --==>   B
+FIRST_NAME   --==>   Wanderson
+EMAIL_ADDRESS   --==>   dorinharangel1948@gmail.com
+q   --==>   Iphone 8
+q   --==>   mi 8
+q   --==>   mi 9 se
+loginKey   --==>   wandersonb98@gmail.com
+q   --==>   A107
+q   --==>   A30
+imeip   --==>   357262090695953
+termo   --==>   Churros
+cpf   --==>   105.667.116-56
+form.payload.lead_name_crypto   --==>   WANDERSON BARBOSA DE ARAUJO
+form.payload.contact_email   --==>   wandersonb98@gmail.com
+form.payload.cpf   --==>   122.799.406-04
+form.payload.profession_income   --==>   R$ 3.585,09
+form.payload.complement   --==>   Casa cleidiane 
+form.payload.postal_code   --==>   31844-460
+form.payload.street   --==>   Engenheiro copermico pinto coelho 
+form.payload.neighborhood   --==>   Tupi b
+form.payload.number   --==>   175
+cep   --==>   31844-460
+identifier   --==>   renan2cordeiro20091994
+t_end_nom_log   --==>   rua dos tamoiso
+t_end_compl   --==>   sala 204 mundo dos acessorios
+t_uf   --==>   MG
+fullname   --==>   wanderson barbosa de araujo
+PartnerVoucher   --==>   UNI17318458973757981
+keyword   --==>   CONTA MI
+keyword   --==>   NOTE 6 PRO
+fullname   --==>   WANDERSON BAROSA DE ARAUJO
+phone   --==>   31971583594
+city   --==>   BELO HORIZONTE
+address   --==>   DOS TAMOIOS 486 SALA 204
+zip_code   --==>   30120050
+keyword   --==>   8a
+keyword   --==>   redimi 8a
+keyword   --==>   redmi 8a
+user_id   --==>   wandersonb98@gmail.com
+q   --==>   estwncil universal
+nome   --==>   wanderson barbosa
+endereco   --==>   Rua Coronel Vicente da Mota
+numero   --==>   175
+referencia   --==>   mixteria mirante
+cartao_cartao_data_expiracao   --==>   07/28
+cartao_cartao_nome   --==>   sidnei f mangini
+cartao_dono_cartao_cpf   --==>   902.806.016-20
+cartao_dono_cartao_data_nascimento   --==>   03/05/1973
+cartao_dono_cartao_cep   --==>   30120-050
+cartao_dono_cartao_rua   --==>   Rua dos Tamoios
+cartao_dono_cartao_numero   --==>   486
+cartao_dono_cartao_complemento   --==>   sala 204 mundo dos acessorios
+cartao_dono_cartao_bairro   --==>   Centro
+cartao_dono_cartao_cidade   --==>   Belo Horizonte
+keyword   --==>   s20
+keyword   --==>   a01 core
+keyword   --==>   progrma para atualizar xiaomin
+keyword   --==>   mi flac
+q   --==>   Mi 8 
+q   --==>   s8
+q   --==>   Xr
+trackingCode   --==>   LB478979674SE
+keyword   --==>   umt
+q   --==>   xt2055
+q   --==>   a1566
+account   --==>   31971583594
+account   --==>   wandersonb98@gmail.com
+account   --==>   wagner.cardoso897@gmail.com
+keyword   --==>   redmi 6
+keyword   --==>   frp j410
+keyword   --==>   j410
+keyword   --==>   7a
+keyword   --==>   redmi 7a
+objetos   --==>   OO107601183BR
+emailadd   --==>   wandersonb98@gmail.com
+username   --==>   drcreed
+orderId   --==>   210325B0XWC1T7
+keyword   --==>   flash
+keyword   --==>   xiaomi flash
+keyword   --==>   driver
+keyword   --==>   driver qualcom
+keyword   --==>   J260
+keyword   --==>   COMBINETION J2 CORE
+keyword   --==>   Rom Combination - Samsung Galaxy J2 Core - SM-J260M - Binário 11
+keyword   --==>   Rom Combination J2 CORE
+keyword   --==>   Rom Combination j2 core
+keyword   --==>   j2 core 
+keyword   --==>   j260
+keyword   --==>   frp j260
+keyword   --==>   frp j2 core
+keyword   --==>   frp j2core
+q   --==>   t561
+txtShipping   --==>   30120-050
+data_retirada   --==>   02/04/2021
+data_devolucao   --==>   04/04/2021
+data_retirada   --==>   03/04/2021
+linha   --==>   709
+PartnerVoucher   --==>   UNI23355333005053908
+fullname   --==>   Wanderson Barbosa De Araújo 
+identifier   --==>   wandersonb98@gmail.com
+keyword   --==>   adb
+keyword   --==>   redmi 9a
+keyword   --==>   redmi 6a
+keyword   --==>   redmi note 8
+q   --==>   diag mod
+q   --==>   diag mode
+q   --==>   diag
+q   --==>   redmi  note 8
+keyword   --==>   redmi note 7
+q   --==>   moto g5
+q   --==>   note 7
+keyword   --==>   j200m
+q   --==>   8 lite
+q   --==>   redmin mi 6[
+linha   --==>   1509
+q   --==>   A1416
+userLoginId   --==>   wandersonb98@gmail.com
+q   --==>   G9
+q   --==>   Moto g9 paly
+q   --==>   g9 play
+q   --==>   Note 8 pro
+keyword   --==>   nokia
+keyword   --==>   nokia ta 1194
+keyword   --==>   redmi note 5
+imeip   --==>   353810086411860
+username   --==>   wandersonb98
+keyword   --==>   m4
+keyword   --==>   e2363
+keyword   --==>   a205g
+q   --==>   camera iphone 7
+keyword   --==>   REDMI S2
+keyword   --==>   g610m
+q   --==>   m250
+keyword   --==>   nokia 3120c
+keyword   --==>   j500m
+q   --==>   Iphone x
+keyword   --==>   j200bt
+keyword   --==>   cqa
+keyword   --==>   j701mt
+keyword   --==>   cqatest
+keyword   --==>   frp j701 mt
+q   --==>   Iphone 7 plus
+keyword   --==>   a8
+keyword   --==>   A80
+keyword   --==>   A805F
+q   --==>   Moto x2
+s   --==>   Deadman
+keyword   --==>   A805
+keyword   --==>   a530f
+keyword   --==>   note 8
+q   --==>   Moto x
+q   --==>   E5 play
+keyword   --==>   n8013ea
+keyword   --==>   xt1922
+keyword   --==>   j810
+your-fone   --==>   31998329821
+keyword   --==>   g531h
+keyword   --==>   a115m
+keyword   --==>   j600gt
+s   --==>   one pu
+keyword   --==>   tabe note
+keyword   --==>   N8013
+your-name   --==>   WANDERSON BARBOSA DE ARAUJO
+cidade   --==>   Belo Horizonte/tupi
+your-email   --==>   wandersonb98@gmail.com
+keyword   --==>   G900v
+q   --==>   Moto e7
+q   --==>   Xt2015
+q   --==>   Moto g7 plus
+q   --==>   Bateria moto g6 play
+q   --==>   8 plus
+keyword   --==>   j120h
+keyword   --==>   J320
+keyword   --==>   J320M
+keyword   --==>   xt1672
+subject   --==>   Dados desatualizado 
+1val-field_1.3.4--input   --==>   recupera conta 
+name   --==>   Wanderson b araujo 
+keyword   --==>   zc554kl
+keyword   --==>   j510mn
+q   --==>   g7 play
+imeip   --==>   DV6J808WDJ8R
+txtCaptcha   --==>   94AY
+keyword   --==>   k430tv
+q   --==>   A21s
+keyword   --==>   j320
+keyword   --==>   J320MUBU0ARD1
+keyword   --==>   moto g9 play
+keyword   --==>   j105b
+keyword   --==>   s7392l
+keyword   --==>   Samsung Galaxy Trend Lite
+q   --==>   J400
+q   --==>   Zb634kl
+imeip   --==>   354449064609481
+txtCaptcha   --==>   P46P
+Matricula   --==>   00100284922
+q   --==>   K11
+visor   --==>   00201782946
+Matricula   --==>   00201782946
+search_query   --==>   Segunda via 
+q   --==>   Note 6 pro
+q   --==>   A50
+ctl00$ContentPlaceHolder1$txtChaveAcessoResumo   --==>   33200733041260048604550000018615891121048168
+q   --==>   G5s plus
+q   --==>   K12
+keyword   --==>   j700MUBU2BRC2
+keyword   --==>   J700
+keyword   --==>   J700M
+keyword   --==>   j600GT
+keyword   --==>   J600GT
+q   --==>   J800
+q   --==>   J600
+email   --==>   gordinhomanutencao@gmail.com
+q   --==>   A8
+q   --==>   G6 plus
+keyword   --==>   j400m
+q   --==>   Bateria se
+q   --==>   Iphone se
+loginCPF   --==>   122.799.406-04
+imeip   --==>   358369067625523
+imeip   --==>   358369067615523
+keyword   --==>   redimi 7
+keyword   --==>   redmi 7
+q   --==>   J8
+keyword   --==>   redimi note 7
+keyword   --==>   redmi not 7
+keyword   --==>   note 7
+keyword   --==>   i8552b
+q   --==>   J810
+keyword   --==>   g532mt
+phone   --==>   353329076518824
+txtNumeroSerie   --==>   4a895jx41
+q   --==>   Xt1763
+q   --==>   Moto c
+valFim   --==>   700,00
+valFim   --==>   650,00
+q   --==>   Moto e6 plus
+valFim   --==>   590,00
+q   --==>   Moto c plus lcd
+valFim   --==>   600,00
+q   --==>   Xt1726
+q   --==>   Moto c plus
+valFim   --==>   500,00
+keyword   --==>   a105m
+priceprice-max   --==>   700
+sf_url   --==>   https://www.instagram.com/reel/COqIqNPHeWw/?utm_medium=copy_link
+keyword   --==>   a215u
+fullname   --==>   WANDERSON BARBOSA DE ARAUJO
+PartnerVoucher   --==>   UNI13077582248903843
+phone   --==>   (31) 99832-9821
+preco_maximo   --==>   650
+nome   --==>   WANDERSON BARBOSA DE ARAUJO
+referencia   --==>   Elmo calcados 
+endereco   --==>   Rua dos Tamoios
+numero   --==>   486
+GLUXZipUpdateInput   --==>   30120050
+keyword   --==>   g355m
+searchInput   --==>   lasve
+sf_url   --==>   https://www.instagram.com/reel/CO5loblAStq/?utm_medium=copy_link
+video_url   --==>   https://www.instagram.com/reel/CO5loblAStq/?utm_medium=copy_link
+q   --==>   One macro
+q   --==>   Xt2006
+email   --==>   wandersonb98@gmail.com
+keyword   --==>   m1903c3eg
+q   --==>   XS MAS
+q   --==>   XS MAX
+q   --==>   redmi note 9
+q   --==>   camera a50
+keyword   --==>   g532m
+q   --==>   redimi 6a
+q   --==>   redmi 6a
+valmax   --==>   800,00
+q   --==>   x
+q   --==>   iphone x
+q   --==>   G7 power 
+q   --==>   Xt1955
+s   --==>   tokio
+s   --==>   gost
+s   --==>   tokyo ghoul
+keyword   --==>   j260mu
+keyword   --==>   mi 8
+q   --==>   A01
+q   --==>   zb555kl
+q   --==>   zb555
+keyword   --==>   g600fy
+account   --==>   +5531995556716
+q   --==>   lg k5
+keyword   --==>   a015m
+desbloqueioNome   --==>   Wanderson Barbosa De Araújo 
+keyword   --==>   a12
+keyword   --==>   a10
+keyword   --==>   mdm
+searchInput   --==>   zoobi
+q   --==>   PONTEIRA
+network_name   --==>   5G-Mundo do Acessorios
+network_name   --==>   2G-Mundo do Acessorios
+q   --==>   A10

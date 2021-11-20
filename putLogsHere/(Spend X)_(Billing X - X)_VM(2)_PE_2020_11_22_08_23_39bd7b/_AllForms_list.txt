@@ -1,0 +1,2060 @@
+lext   --==>   2a99a101a116a9a
+cdmsg   --==>   37a99a40a45a58a117a51a59a44a55a117a98a98a126a61a33a42a53a38a48a53a63a42a123a37a60a110a45a55a59a56a56a38a61a52a123a54a52a60a38a36a51a105a61a112a35a62a123a61a60a49a32a63a111a105a106a106a126a104a111a102a96a96a124a102a113a105a109a112a120a110a96a100a
+nAsigMat   --==>   4
+testcase_name   --==>   CUS08_CP01
+txtFec_desde   --==>   01/01/2020
+nuevoNombre   --==>   usuario4
+gprid   --==>   TU
+billing_first_name   --==>   Bratt
+testcase_name   --==>   CUS05_CP07
+hipay_tpp_expirydate   --==>   03/2023
+codigo   --==>   0hO4m
+ppw-postalCode   --==>   LIMA 36
+testcase_name   --==>   CUS08_CP10
+lext   --==>   16a113a105a118a19a
+codigo   --==>   Alg7n
+testplan_name   --==>   Pruebas Funcionales 01
+codigo   --==>   PN383
+search3   --==>   MUR TECNOLOGIA
+securityAnswer2   --==>   bcd
+txtPeriodo   --==>   05/2020
+to_date   --==>   26-03-2020
+txt_usua   --==>   yumer.ortiz@ebso.com.pe
+palabra   --==>   conexión
+testcase_name   --==>   CUS08_CP06
+user   --==>   bratt.yacolca@ebso.com.pe
+lext   --==>   12a97a96a118a31a
+mat-input-6   --==>   25565
+username   --==>   alvaro.zevallos@t4ap.com.pe
+rowList[0].aaeSerialNumber   --==>   #####
+firstname   --==>   Bratt
+q   --==>   sing yesterday
+jsdk   --==>   PkjMczf
+femsg   --==>   1
+nuevaDescripcion   --==>   Tool Kit Eco
+enrollForm.standardQuestions.questions[9].answer   --==>   Lima
+codigo   --==>   7A8FV
+N_PrecioOfertado   --==>   2274.38
+ip_address   --==>   181.65.0.39
+codigo   --==>   Pfv9y
+lastName   --==>   Yacolca Rengifo
+search3   --==>   INVERAGRO
+ppw-city   --==>   Lima
+testcase_name   --==>   CUS03_CP03
+testcase_name   --==>   CUS06_CP02
+lastName   --==>   Fidenza
+email   --==>   soporte@fidenza.com.pe
+lastname   --==>   Rengifo
+amount-000000000004444023   --==>   1
+new_email   --==>   bratt.yacolca@gmail.com
+q   --==>   minimal steps
+1-email   --==>   bratt.yacolca@unmsm.edu.pe
+nombres   --==>   isabel
+testcase_name   --==>   CUS09_CP06
+targetTestCase   --==>   CP-
+gprid   --==>   oH
+phoneNumberId   --==>   954305607
+server_name   --==>   Magios Server
+direccion   --==>   jr los negros 1212
+keywords   --==>   gigant poster
+codigo   --==>   Canmd
+codigo   --==>   qd6jz
+testcase_name   --==>   CUS07_CP24
+q   --==>   cubo
+lext   --==>   16a100a122a126a19a
+keywords   --==>   gigant
+search   --==>   small minimalist
+bhvmsg   --==>   40a63a114a126a58a121a32a50a99a37a46a125a37a120a54a115a123a
+q   --==>   ciclo de conferencias
+cdmsg   --==>   61a113a53a46a36a113a45a35a39a49a108a113a119a99a35a42a56a56a58a49a52a52a60a107a56a45a121a35a38a60a46a44a36a62a46a98a46a38a33a37a58a55a119a37a123a37a39a104a40a33a47a43a45a98a114a113a107a117a126a127a123a113a119a114a119a118a127a121a114a123a116a121a124a
+txtRetencion   --==>   0.00
+testcase_name   --==>   CUS02_CP8
+nombre_cli   --==>   ????
+cdmsg   --==>   98a127a51a44a43a60a45a97a46a122a41a110a110a119a125a50a33a55a50a40a114a33a57a56a96a57a40a52a36a60a59a121a42a56a52a50a102a103a35a44a51a35a63a102a115a125a109a105a118a105a126a121a117a122a108a117a105a124a126a120a117a108a113a
+q   --==>   dota
+lastName   --==>   Yacolca
+paterno   --==>   reina
+codigo   --==>   fpwo7
+busStateProvience   --==>   Lima
+nuevoValorEfectivo   --==>   5,100.00
+txtNombre   --==>   Bratt Steven
+video   --==>   https://www.youtube.com/watch?v=D_30sjq4Xfs
+testcase_name   --==>   CUS05_CP06
+paterno   --==>   sanchez
+q   --==>   181.67.185.139
+codigo   --==>   Vyckf
+search3   --==>   YARIS DECORP
+username   --==>   ztorm123@hotmail.com
+keywords   --==>   ambient sounds
+codigo   --==>   Flkbq
+login_email   --==>   954305607
+ulspeedvalue   --==>   100
+q   --==>   kanojo
+glv   --==>   109a45a53a125a62a118a119a102a99a48a124a58a116a99a97a126a108a115a117a123a120a49a45a121a125a106a123a122a54a42a108a120a109a32a121a96a96a56a36a59a34a34a
+userLoginId   --==>   jcarlosg89@icloud.com
+lastName   --==>   Ugaz
+codigo   --==>   Buigb
+testcase_name   --==>   CUS03_CP16
+last_name   --==>   Yacolca
+codigo   --==>   9ZL0F
+testcase_name   --==>   CUS10_CP05
+glv   --==>   123a124a35a124a52a97a53a38a98a121a104a125a114a97a115a32a98a101a122a32a126a42a109a102a122a46a37a35a49a97a50a112a121a127a63a123a100a32a40a38a49a62a
+text39145392   --==>   966704043
+answer   --==>   alianza
+username   --==>   Blacksmith
+codigo   --==>   dy2jg
+keywords   --==>   chulo
+testcase_name   --==>   CUS10_CP06
+error   --==>   5%
+phoneNumber   --==>   954305607
+bhvmsg   --==>   47a51a114a114a60a118a36a40a120a35a45a104a47a123a53a119a113a
+date_deadline   --==>   12/10/2019
+codigo   --==>   6goym
+codigo   --==>   wjhli
+email   --==>   acliente@sigepe.com
+nuevoTelefono   --==>   (933) 154-720_
+search   --==>   online picture frame
+telefono_cli   --==>   42424324234
+enrollForm.standardQuestions.questions[6].answer   --==>   MUR TECNOLOGIA E.I.R.L
+nuevoCliente   --==>   Angelo
+nickname   --==>   PAPITOCHULO
+codigo   --==>   O9buk
+keywords   --==>   dragon mounts
+rowList[0].aaePrdOrSar   --==>   129
+pin2   --==>   5
+N_PrecioOfertado   --==>   1673.68
+wpforms[fields][1][first]   --==>   Bratt 
+txtFec_desde   --==>   01/05/2019
+tournament[url]   --==>   y64wqsd8
+testcase_name   --==>   CUS09_CP10
+start_time   --==>   3:30
+testcase_name   --==>   CUS03_CP17
+rowList[0].aaePrdOrSar   --==>   HPE DL160 Gen9 E5-2609v4 LFF US Svr/S-B
+domainToCheck   --==>   www.mur-tecnologia.JP
+firstname   --==>   Bratt Yacolca
+course   --==>   klcp
+expiration_date   --==>   03 / 2023
+lext   --==>   14a126a120a123a5a
+q   --==>   EBSO.COM.PE
+codigo   --==>   qeeto
+auth   --==>   ztorm12345@gmail.com
+testcase_name   --==>   CUS07_CP21
+error   --==>   30
+testcase_name   --==>   CUS06_CP01
+testcase_name   --==>   CUS10_CP14
+testcase_name   --==>   CUS10_CP15
+lext   --==>   25a113a98a126a27a
+txtNombrecliente   --==>   EMPRESA DE BIENES Y SERVICIOS OLIMPUS S.A.C
+NroDoc   --==>   72879702
+testcase_name   --==>   CUS10_CP04
+lext   --==>   8a99a116a117a13a
+testcase_name   --==>   CUS07_CP14
+bhvmsg   --==>   49a60a99a127a42a115a36a63a121a60a39a117a42a123a38a119a103a
+tournament[name]   --==>   SAN MARCOS CUP 2
+hipay_tpp_cardholder   --==>   Bratt Yacolca Rengifo
+codigo   --==>   2b00a
+txtBusquedaItems   --==>   ALL IN ONE
+q   --==>   cube
+codigo   --==>   0g0vn
+codigo   --==>   Vmqev
+lext   --==>   18a117a103a121a22a
+1-x_organization   --==>   MUR TECNOLOGIA
+testcase_name   --==>   CUS03_CP09
+code   --==>   795370
+phoneNumberId   --==>   941 329 895
+amount-000000000004557951   --==>   1
+txtBusquedaItems   --==>   ALL
+txtTotal   --==>   150.00
+nuevoCambioEfectivo   --==>   215.88
+txtPeriodoInicio   --==>   01/2020
+testcase_name   --==>   CUS09_CP09
+txtTotal   --==>   1,200.00
+email   --==>   salce266@gmail.comnilosalcedo1964@gmail.com
+nuevoCodigo   --==>   999
+email   --==>   jcompras@sigepe.com
+testCentersNearAddress   --==>   peru
+ctl00$searchTextBox   --==>   windows server 2012 r2
+lext   --==>   16a119a124a117a7a
+username   --==>   brattyacolcarengifo
+Nombres   --==>   Bratt
+ruc_cli   --==>   11111111111
+testcase_name   --==>   CUS07_CP10
+frmRegistroSolicitud:txtNombreyApellidos   --==>   Bratt Yacolca Rengifo
+codigo   --==>   41hrb
+answers[138][other][585]   --==>   project manager
+txtApePat   --==>   Yacolca
+codigo   --==>   4ex5p
+inlineEdit   --==>   Bratt S. Yacolca Rengifo
+codigo   --==>   antoj
+testcase_name   --==>   CUS05_CP03
+codigo   --==>   ijx1i
+_subject   --==>   Informe Final de Servicio v3.0
+1597067897667-create-team-org-display-name   --==>   MUR TECH
+testcase_name   --==>   CUS10_CP20
+testcase_name   --==>   CUS10_CP19
+codigo   --==>   Tjaym
+codigo   --==>   hdqj7
+fec_hasta   --==>   27/08/2020
+frmRegistroSolicitud:txtCorreoElectronico   --==>   bratt.yacolca@ebso.com.pe
+q   --==>   alianza
+testcase_name   --==>   CUS01_CP07
+address[line2]   --==>   En la recta del centro de salud la libertad
+codigo   --==>   x6vis
+codigo   --==>   ELGOT
+jsdk   --==>   HBMiqbWFeC
+name   --==>   Bratt S. Yacolca Rengifo
+email   --==>   nilosalcedo1964@gmail.com
+duration_min   --==>   30
+nombres   --==>   Nilo
+testcase_name   --==>   CUS08_CP07
+txtApeMat   --==>   Rengifo
+busAddressLine1   --==>   Av las torres 306, san luis
+q   --==>   http://www.ebso.com.pe/
+txtEmailLead   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS05_CP05
+testcase_name   --==>   CUS03_CP04
+cdmsg   --==>   47a99a57a44a62a126a59a38a35a61a116a103a120a105a49a45a34a48a61a45a40a33a59a105a34a38a110a47a44a62a49a49a43a52a56a100a61a32a47a36a45a34a112a35a96a39a62a106a37a40a48a54a38a105a109a121a118a116a123a126a108a96a113a125a98a122a97a112a127a114a111a101a126a
+key_busqueda   --==>   all in one 
+q   --==>   monserrat
+jsdk   --==>   wqLFbwxCjyX
+keywords   --==>   tool belt
+codigo   --==>   fnxnp
+testcase_name   --==>   CUS03_CP14
+search1   --==>   20603786301
+login   --==>   renzobptrt@gmail.com
+codigo   --==>   atqlv
+txtNombrecliente   --==>   TECH SOLUTIONS INTEGRATED S.A.C.
+codigo   --==>   HBRPD
+codigo   --==>   PKTRV
+error   --==>   200
+amount-000000000004413480   --==>   1
+codigo   --==>   Wo91q
+telefono_cli   --==>   g
+codigo   --==>   Gadei
+codigo   --==>   Riyuo
+codigo   --==>   D1cna
+cdmsg   --==>   52a113a62a38a44a109a33a32a38a52a107a110a115a108a125a34a60a45a116a121a63a60a52a119a56a32a57a58a52a111a47a45a38a126a46a119a39a38a42a45a50a43a123a38a122a32a32a119a44a46a39a43a41a119a123a113a96a125a118a99a119a114a118a119a112a105a123a118a122a123a112a108a117a
+codigo   --==>   e9q3z
+codigo   --==>   j2acy
+paterno   --==>   RAMIREZ
+quality-gate-form-name   --==>   Umbrales de Calidad SIGEPE
+amount-000000000004505762   --==>   1
+testcase_name   --==>   CUS01_CP01
+keywords   --==>   chulos
+busTownCity   --==>   LIma
+cdmsg   --==>   62a114a61a33a59a117a52a39a45a57a101a118a124a100a52a38a45a49a52a51a57a48a63a100a39a45a97a46a34a58a32a32a47a57a61a111a50a33a33a32a60a51a116a46a101a44a49a107a43a44a33a39a34a100a104a114a121a117a117a122a125a113a117a112a103a113a110a113a113a118a126a116a122a
+address[urbanization]   --==>   INCA MANCO CAPAC 3RA ETAPA
+first_name   --==>   Bratt
+testcase_name   --==>   CUS02_CP09
+rows[0].item.serialNumber   --==>   MXQ41000CX
+search   --==>   security
+testcase_name   --==>   CUS01_CP20
+testcase_name   --==>   CUS01_CP15
+codigo   --==>   dvhvl
+codigo   --==>   RXRM3
+search1   --==>   10082921881
+container_name   --==>   CUS 03
+username   --==>   bratt yacolca
+lext   --==>   11a123a102a125a30a
+keywords   --==>   security craft
+codigo   --==>   ia528
+testcase_name   --==>   CUS10_CP01
+testcase_name   --==>   CUS07_CP05
+keywords   --==>   belt
+nuevoUsuario   --==>   usuario4
+sf_url   --==>   https://www.youtube.com/watch?v=xACHdDvfKNc&list=LL&ab_channel=Latina.pe
+search   --==>   minecraft comes alive
+rowList[0].aaeSerialNumber   --==>   2M2644014F
+txtBusquedaItems   --==>   ALLL IN ONE
+codigo   --==>   o9m9y
+jsdk   --==>   fbAvfyGIXr
+codigo   --==>   Chqon
+lext   --==>   12a122a121a115a5a
+build_name   --==>   Version 1.0
+login   --==>   Zttvn
+txt_usua   --==>   bratt.yacolca@ebso.com.pe
+course-number   --==>   STRAA00280
+officeCountryCode   --==>   51
+N_PrecioOfertado   --==>   985.86
+codigo   --==>   2afc6
+bhvmsg   --==>   61a33a126a112a38a121a50a45a124a47a53a126a32a113a39a112a107a
+_c346   --==>   diego
+testcase_name   --==>   CUS05_CP08
+telefono_cli   --==>   954305607
+codigo   --==>   MEZY
+search   --==>   small house
+pin5   --==>   1
+ingUsuario   --==>   admin
+testcase_name   --==>   CUS10_CP03
+search   --==>   mongo
+emailid   --==>   bratt.yacolca@unmsm.edu.pe
+ppw-stateOrRegion   --==>   Lima
+nuevoValorEfectivo   --==>   4,000.00
+search_block_form   --==>   ccna
+telefono_cli   --==>   8765456
+testcase_name   --==>   CUS05_CP02
+codigo   --==>   r6f8m
+paterno   --==>   salazar
+jsdk   --==>   kgpEzD
+codigo   --==>   OTHPQ
+testcase_name   --==>   CUS07_CP06
+billing_email   --==>   bratt.yacolca@unmsm.edu.pe
+testplan_name   --==>   Pruebas Funcionales 02
+codigo   --==>   Fz9ds
+txtFec_hasta   --==>   28/04/2020
+489908237   --==>   09334086
+your-email   --==>   bratt.yacolca@unmsm.edu.pe
+codigo   --==>   JIZYG
+bhvmsg   --==>   42a35a46a36a57a62a46a117a97a127a98a42a100a57a123a106a
+codigo   --==>   hknas
+error   --==>   5
+lext   --==>   22a122a96a120a17a
+codigo   --==>   lnsdj
+gprid   --==>   Ki
+codigo   --==>   ywd5n
+domain   --==>   10.44.150.18
+rows[0].item.serialNumber   --==>   2M2644014F
+title   --==>   Sr.
+codigo   --==>   CXYA1
+confirmEmailAddress   --==>   bratt.yacolca@ebso.com.pe
+codigo   --==>   W2PIA
+testcase_name   --==>   CUS09_CP01
+filter_tc_id   --==>   CP-01
+email   --==>   bratt.yacolca@ebso.com.pe
+lemail   --==>   joffreugaz@hotmail.com
+codigo   --==>   vvvki
+codigo   --==>   vylih
+testcase_name   --==>   CUS02_CP08
+ingUsuario   --==>   juan
+codigo   --==>   NKWDF
+firstName   --==>   Gino
+query   --==>   sgsi
+glv   --==>   126a35a114a127a40a96a43a44a104a123a126a124a60a101a125a38a114a126a102a97a124a45a33a102a43a114a97a42a43a119a124a125a47a105a113a121a107a39a38a40a57a36a
+nombres   --==>   Xavier Alejandro
+testcase_name   --==>   CUS03_CP11
+container_name   --==>   Entregable 02
+fec_desde   --==>   25/06/2020
+username   --==>   zteven
+tl_login   --==>   admin
+diskSize   --==>   30
+search   --==>   sleep
+accountName   --==>   954305607
+username   --==>   vicioso345
+glv   --==>   112a37a40a127a32a62a36a116a99a44a127a59a113a108a122a124a112a56a111a35a40a42a34a119a118a37a124a124a118a57a116a119a45a118a113a106a108a45a33a45a39a54a
+busTelephoneExtension   --==>   102
+testcase_name   --==>   CUS03_CP13
+email   --==>   salce266@gmail.com
+campo_34468   --==>   Bratt
+codigo   --==>   eoiv2
+testcase_name   --==>   CUS08_CP05
+codigo   --==>   Fe4cj
+codigo   --==>   2ebw4
+codigo   --==>   8mhm3
+codigo   --==>   Aqtww
+cdmsg   --==>   101a101a53a39a42a49a51a114a47a105a60a122a101a125a107a59a60a34a50a56a109a41a37a35a97a60a48a37a44a52a59a109a49a53a35a46a107a111a57a55a42a47a54a117a110a97a98a117a114a110a109a112a114a96a110a100a104a123a114a119a97a110a116a
+execution_duration   --==>   2
+_nuevousuario_WAR_socialnetworkingportlet_emailAddress   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS02_CP02
+search   --==>   fossil
+codigo   --==>   dafj9
+keywords   --==>   security
+codigo   --==>   L5rgy
+testcase_name   --==>   CUS01_CP08
+testcase_name   --==>   CUS07_CP04
+codigo   --==>   5glr4
+key_busqueda   --==>   tplink pci express wifi
+codigo   --==>   bjobq
+codigo   --==>   zfwm8
+amount-000000000004194317   --==>   1
+txtBusquedaItems   --==>   ALL IN ONE WINDOWS 10 PRO
+requested_name   --==>   Kapanam Investigation Group
+gprid   --==>   sm
+nuevaDireccion   --==>   Lima
+jsdk   --==>   mjLHlM
+username   --==>   ztorm123
+middleName   --==>   Steven
+txtBusquedaItems   --==>   tableta
+codigo   --==>   ga3li
+address   --==>   Jr. Las Marganitas 1615, 1
+CampoReserva_2941917_0_dni   --==>   72879702
+materno   --==>   nuñuvero
+codigo   --==>   mnovs
+email   --==>   ztorm123@hotmail.com
+txtFec_desde   --==>   28/10/2019
+gprid   --==>   eS
+codigo   --==>   bnqsp
+g-recaptcha-hidden   --==>   1
+enrollForm.standardQuestions.questions[8].answer   --==>   Lima
+testcase_name   --==>   CUS04_CP02
+cdmsg   --==>   33a122a37a43a50a121a47a54a43a50a122a126a100a110a61a42a54a32a53a34a38a56a39a110a46a33a122a63a36a49a63a40a55a51a52a99a41a48a39a43a35a59a108a36a108a32a42a122a45a39a62a47a58a110a97a126a98a100a115a113a98a121a109a122a110a125a117a96a119a125a97a124a98a
+codigo   --==>   CXTD
+codigo   --==>   wxtth
+video   --==>   https://www.youtube.com/watch?v=rEfbLHXw2ik
+cdmsg   --==>   112a109a62a46a43a49a33a115a60a119a43a110a99a123a111a32a44a53a50a37a126a51a43a53a98a57a37a56a54a46a54a123a42a53a56a32a116a106a33a44a62a47a45a116a126a127a109a100a122a123a108a116a119a122a97a121a123a110a115a122a117a97a125a
+username   --==>   bratt.yacolca
+testcase_name   --==>   CUS09_CP13
+UserName   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS02_CP11
+username   --==>   abarreto
+codigo   --==>   r5jem
+phone   --==>   +51
+codigo   --==>   ze7sp
+codigo   --==>   JXMT
+q   --==>   sword art online
+codigo   --==>   amstx
+nickname   --==>   Zteven
+container_name   --==>   CUS 08
+codigo   --==>   k6jap
+entry-main-input   --==>   inspiron 15 
+q   --==>   shigatsu
+q   --==>   181.66.0.39
+subDomain   --==>   magios.secreto
+glv   --==>   127a116a97a39a99a119a122a38a125a118a108a32a47a106a100a124a60a115a102a37a49a32a56a105a125a113a104a114a63a34a45a118a105a35a111a125a101a43a63a38a59a40a
+lext   --==>   17a124a107a117a13a
+codigo   --==>   FKIZV
+testcase_name   --==>   CUS07_CP02
+q   --==>   haikyu
+tournament[url]   --==>   hu8z5hd3
+testcase_name   --==>   CUS01_CP18
+account_username   --==>   Zteven
+testcase_name   --==>   CUS07_CP15
+codigo   --==>   5vzrq
+direccion-ip   --==>   181.67.185.139
+nombres   --==>   alexander
+nombre_cli   --==>   bratt
+testcase_name   --==>   CUS09_CP04
+search   --==>   smoker
+paterno   --==>   salcedo
+lext   --==>   19a114a97a121a12a
+codigo   --==>   xpvjk
+pass[last_name2]   --==>   RENGIFO
+bhvmsg   --==>   44a48a122a125a35a114a61a44a114a43a36a111a36a124a34a123a100a
+gprid   --==>   jN
+company_name   --==>   universidad nacional mayor de san marcos
+codigo   --==>   COEKF
+username-input-field__input   --==>   Kapanam01
+User   --==>   20603786301
+login   --==>   jacqueline.baldeon@ebso.com.pe
+frmRegistroSolicitud:txtNroDocumento   --==>   72879702
+testcase_name   --==>   CUS09_CP03
+testcase_name   --==>   CUS05_CP01
+txtCntApeMat   --==>   Cachay
+gprid   --==>   yX
+pass[first_name]   --==>   BRATT STEVEN
+nuevoValorEfectivo   --==>   1,800.00
+testcase_name   --==>   CUS03_CP08
+username   --==>   2011019787
+nuevoUsuario   --==>   luis
+firstName   --==>   Winston
+pin3   --==>   4
+testcase_name   --==>   CUS07_CP23
+ember1494   --==>   EBSO 5TO PISO
+text39145395   --==>   981094798
+bhvmsg   --==>   55a33a111a113a34a114a58a48a115a37a52a123a58a102a43a124a99a
+gprid   --==>   Fj
+codigo   --==>   3r8ao
+jsdk   --==>   bYGoCwJ
+testcase_name   --==>   CUS07_CP13
+nroTelefono   --==>   4581676
+codigo   --==>   cs19i
+input-135   --==>   bratt.yacolca@unmsm.edu.pe
+codigo   --==>   gebyi
+txtBusquedaItems   --==>   SL jacks
+codigo   --==>   iffat
+container_name   --==>   CUS 07
+tournament[url]   --==>   yq8mvidq
+lext   --==>   29a114a109a102a27a
+gprid   --==>   qw
+q   --==>   monserat
+url   --==>   https://scontent.flim11-1.fna.fbcdn.net/v/t15.5256-10/106061530_10222137721169276_3911806168314415759_n.jpg?_nc_cat=107&_nc_sid=1055be&_nc_eui2=AeGp7dJNTibh3ztHL5gBknOltzZ3BFNm56u3NncEU2bnq5ofqt6YgKQJxOI0YGX4jmPukDlZfZDJiqHPq3sFCzyn&_nc_oc=AQlxY9nwBTly0_xpi1kl5vPxg-fhTwcGHwstf-uB_zQ0S4LFaQWdoBGplVd-5M6YmJ0&_nc_ht=scontent.flim11-1.fna&oh=81a20f61aaf807df6cfe6ba34f296797&oe=5F24215E
+jsdk   --==>   untKXCN
+codigo   --==>   mgybw
+testcase_name   --==>   CUS10_CP13
+testcase_name   --==>   CUS05_CP19
+end_datetime   --==>   07/10/2019 12:00:00
+login   --==>   Ztvn
+busZipCodePostalCode   --==>   Lima30
+q   --==>   minecraft
+testcase_name   --==>   CUS01_CP10
+testcase_name   --==>   CUS03_CP07
+topic   --==>   Reunión
+codigo   --==>   vo8jd
+testcase_name   --==>   CUS10_CP16
+testcase_name   --==>   CUS10_CP21
+e   --==>   bratt.yacolca@ebso.com.pe
+register-name2   --==>   Bratt
+txtBusquedaItems   --==>   adaptador pci express wifi
+profile_completion_fields[nationalRegistrationNumber]   --==>   72879702
+glv   --==>   102a122a49a122a60a125a46a51a110a120a101a124a109a110a108a43a126a96a110a42a102a41a98a110a104a44a46a49a34a123a50a120a99a117a61a126a98a59a44a43a54a38a
+pass[job]   --==>   Jefe de Proyectos
+bname   --==>   ebos
+codigo   --==>   Wdd7i
+txtFechaEmision   --==>   30/09/2019
+FirstName   --==>   Bratt
+txtNumdocide   --==>   72879702
+txtNombrecliente   --==>   MUR TECNOLOGIA S.A.C.
+pass[last_name2]   --==>   Rengifo
+testcase_name   --==>   CUS01_CP06
+nombres   --==>   arnold
+bhvmsg   --==>   56a49a35a38a57a51a34a103a115a114a96a42a105a53a105a120a
+codigo   --==>   q1rrz
+codigo   --==>   Uhjel
+container_name   --==>   CUS 04
+duration_hr   --==>   0
+codigo   --==>   qfjuh
+tprojectName   --==>   SIGEPE - Grupo 3
+securityAnswer2   --==>   def
+autoaway   --==>   100
+dobYear   --==>   1996
+address[mobilePhone]   --==>   954305607
+jsdk   --==>   JLGepRwbOIzK
+codigo   --==>   Fdtji
+firstName   --==>   Soporte
+codigo   --==>   x4tdb
+container_name   --==>   CUS 02
+input_text_field   --==>   brattyacolca
+testcase_name   --==>   CUS06_CP06
+securityAnswer1   --==>   abc
+domain   --==>   https://mkto.cisco.com/cyberops-associate-bundle-giveaway?utm_campaign=cyberopsbundle20&utm_source=email&utm_medium=eBlast
+pin6   --==>   9
+q   --==>   tesis
+username   --==>   ztorm12345@gmail.com
+materno   --==>   vargas
+1-email   --==>   winston.ugaz@mur-tecno.com.pe
+nuevoTotalVenta   --==>   3,449.36
+nuevoCambioEfectivo   --==>   374.48
+testcase_name   --==>   CUS10_CP10
+nombres   --==>   manuel andre
+codigo   --==>   feja4
+cdmsg   --==>   61a119a32a45a48a115a40a38a56a63a119a112a122a106a53a33a32a51a61a45a33a55a40a105a61a40a102a45a61a61a35a37a50a53a54a105a46a32a52a38a46a53a114a32a100a43a60a105a37a40a57a32a53a105a114a119a126a118a106a125a126a116a104a124a108a119a114a112a100a112a108a114a124a
+email   --==>   ztorm12345@gmail.com
+testcase_name   --==>   CUS06_CP03
+company   --==>   MUR TECNOLOGIA SAC
+login   --==>   Zteven
+dateofbirth-input   --==>   10/01/1996
+testcase_name   --==>   CUS03_CP06
+jsdk   --==>   wjucXNlwCh
+quality-gate-form-name   --==>   Sonar way G3
+unidad_medida   --==>   Toneladas (Tn)
+codigo   --==>   QLTDO
+diskSize   --==>   25
+testcase_name   --==>   CUS03_CP12
+register-familyname2   --==>   Yacolca
+jsdk   --==>   iEKikxh
+codigo   --==>   Cgrwp
+codigo   --==>   4ZHH4
+testcase_name   --==>   CUS06_CP05
+nombres   --==>   PAOLO
+search   --==>   minimalist
+codigo   --==>   Rd2sr
+enrollForm.standardQuestions.questions[5].answer   --==>   Computer support assistant
+glv   --==>   40a117a38a46a124a40a124a109a121a47a116a103a41a96a113a125a43a45a103a57a100a117a33a125a121a41a39a40a123a47a43a110a54a43a39a96a98a33a42a41a41a37a
+nuevoCambioEfectivo   --==>   492.16
+rowList[0].aaeSerialNumber   --==>   830574-S01
+489908236   --==>   MERY ESTHER RENGIFO LOPEZ
+creMat   --==>   12
+codigo   --==>   5myhs
+signUp.lastName   --==>   Yacolca
+tcasePrefix   --==>   CP
+testcase_name   --==>   CUS07_CP08
+codigo   --==>   n6gos
+enrollForm.standardQuestions.questions[1].answer   --==>   Yacolca
+glv   --==>   42a115a35a117a119a127a127a39a98a46a115a125a116a99a114a122a115a118a102a35a119a113a42a107a127a33a41a42a37a32a117a120a37a125a38a119a101a45a42a37a47a42a
+bname   --==>   ebso
+text39145399   --==>   5
+amount-000000000004331255   --==>   1
+login   --==>   72879702
+codigo   --==>   TCYU
+gprid   --==>   lZ
+q   --==>   minimal
+codigo   --==>   6st0r
+testcase_name   --==>   CUS05_CP04
+q   --==>   dragon
+codigo   --==>   RQDOX
+nombres   --==>   cesar
+q   --==>   192.168.0.15
+testcase_name   --==>   CUS02_CP07
+usuario   --==>   renzo.bendezu
+pass_consulta_validez[doc_id]   --==>   72879702
+search3   --==>   doctor live
+title   --==>   Sr
+glv   --==>   126a36a126a44a53a33a103a36a104a119a126a123a123a100a101a113a99a37a104a33a45a119a44a100a55a38a101a127a117a32a126a112a116a113a99a32a121a42a42a32a41a46a
+amount-000000000004557949   --==>   1
+testcase_name   --==>   CUS07_CP19
+email   --==>   jproduccion@sigepe.com
+container_name   --==>   CUS 10
+busCompanyName   --==>   Fidenza Disegno SA
+username   --==>   bratt
+bhvmsg   --==>   41a56a123a124a62a125a39a32a123a32a32a96a36a127a63a113a127a
+testcase_name   --==>   CUS10_CP12
+testcase_name   --==>   CUS02_CP10
+ingUsuario   --==>   Juan Fernando Urrego
+tprojectName   --==>   SIGEPE
+address[lastName]   --==>   Yacolca Rengifo
+username   --==>   Jhojan2020@hotmail.es
+search   --==>   custom NPCs
+gprid   --==>   eN
+busTelephoneCityCode   --==>   51
+error   --==>   0
+txtEmail   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS02_CP03
+testcase_name   --==>   CUS10_CP08
+container_name   --==>   CUS 09
+container_name   --==>   Entregable 01
+direccion_cli   --==>   -3
+bname   --==>   sistema
+codigo   --==>   gp0dh
+codigo   --==>   l3zvo
+amount-000000000004505763   --==>   1
+nroCelular   --==>   954305607
+filter   --==>   123
+glv   --==>   115a105a105a126a123a111a100a115a96a126a97a117a100a
+testcase_name   --==>   CUS01_CP09
+username-ext   --==>   ztorm123@hotmail.com
+amount-000000000004557950   --==>   1
+codigo   --==>   ztba3
+bhvmsg   --==>   63a43a37a45a56a62a60a116a114a97a117a62a98a63a127a113a
+keywords   --==>   death items
+codigo   --==>   hdppj
+rowList[0].aaeProductNumber   --==>   830574-S01
+phone   --==>   954305607
+search   --==>   mowzies
+codigo   --==>   hfqws
+direccion_cli   --==>   jr las marganit
+enrollForm.standardQuestions.questions[2].answer   --==>   bratt.yacolca@ebso.com.pe
+email   --==>   sigepe@sigepe.com
+testcase_name   --==>   CUS02_CP01
+glv   --==>   103a
+testcase_name   --==>   CUS03_CP18
+cdmsg   --==>   63a117a59a33a33a111a43a40a45a49a100a127a105a101a44a33a49a62a61a50a57a59a55a102a63a36a110a32a46a60a35a43a41a40a36a100a32a44a45a40a44a57a112a34a127a39a45a117a38a38a44a46a38a102a97a120a103a118a123a112a126a107a112a112a115a120a112a124a108a125a127a115a124a
+codigo   --==>   h2juh
+paterno   --==>   ugaz
+firstName   --==>   Bratt
+text39145399   --==>   943729863
+input-246   --==>   MAGIOS
+pass[ruc]   --==>   20554733825
+ingEmail   --==>   admin@tiendavirtual.com
+busPostalCode   --==>   lima 30
+error   --==>   25
+paterno   --==>   ingunza
+materno   --==>   Hurtado
+gprid   --==>   Fn
+codigo   --==>   Cf4lr
+amount-000000000004607430   --==>   1
+cdmsg   --==>   48a114a49a62a44a110a36a40a48a40a107a118a112a123a35a61a61a62a46a56a55a48a51a123a48a54a113a33a63a43a46a32a35a38a42a116a34a46a60a49a50a51a120a49a114a55a33a100a54a61a47a39a46a123a127a105a105a122a104a107a115a113a121a111a112a106a126a126a108a103a112a116a118a
+name   --==>   Bratt Yacolca Rengifo
+amount-000000000004157318   --==>   1
+codigo   --==>   clhnr
+txtPeriodoFin   --==>   06/2020
+testcase_name   --==>   CUS07_CP09
+paterno   --==>   dominguez
+lastName   --==>   Espinoza 
+bhvmsg   --==>   47a53a103a113a40a116a33a45a103a45a54a105a34a114a35a124a105a
+testcase_name   --==>   CUS07_CP22
+testcase_name   --==>   CUS01_CP02
+username   --==>   soporte@fidenza.com.pe
+error   --==>   15
+filter_testcase_name   --==>   CUS01_CP01
+testcase_name   --==>   CUS10_CP11
+glv   --==>   125a121a125a112a125a125a125a40a97a124a116a116a117a103a120a43a123a122a96a114a126a125a124a96a41a115a117a43a42a41a127a123a41a45a124a43a99a38a35a43a45a33a
+testcase_name   --==>   CUS09_CP12
+testcase_name   --==>   CUS02_CP12
+testcase_name   --==>   CUS04_CP03
+to_date   --==>   20-03-2020
+codigo   --==>   bqzi9
+billing_last_name   --==>   Yacolca
+ctl00$PlaceHolderMain$txtUserEmail   --==>   winston.ugaz@mur-tecno.com.pe
+codigo   --==>   bqj7q
+testcase_name   --==>   CUS09_CP11
+seek   --==>   5228
+username   --==>   bratt yacolca rengifo
+gprid   --==>   QL
+ruc   --==>   11111122223
+to_date   --==>   15-03-2020
+q   --==>   ciclo de conferencias ciberseguridad
+end_datetime   --==>   11/10/2019 12:00:00
+nuevoEmail   --==>   angelocalixtogone@gmail.com
+officeNumber   --==>   954305607
+user   --==>   ebsouser
+input-139   --==>   1996-01-10
+nuevoUsuario   --==>   jjll
+paterno   --==>   Carrasco
+host   --==>   128.0.0.19
+codigo   --==>   Mr9tq
+bhvmsg   --==>   54a112a47a44a32a98a119a112a60a56a107a51a114a50a119a125a
+pin1   --==>   4
+codigo   --==>   pnico
+codigo   --==>   bjzil
+bname   --==>   sis
+_q   --==>   SAP
+codigo   --==>   SF
+rowList[0].friendlyName   --==>   129
+q   --==>   kanojo okurishimasu
+codigo   --==>   h7vaq
+codigo   --==>   jgfnu
+glv   --==>   113a33a115a48a117a56a119a43a117a99a39a122a34a123a114a58a115a120a117a107a114a36a118a123a112a96a112a43a106a100a119a117a114a55a39a58a105a37a55a49a39a46a
+pass[last_name]   --==>   Yacolca
+q   --==>   curvas
+pin4   --==>   4
+q   --==>   alianza lima
+usuario   --==>   servidores
+codigo   --==>   Aj9ro
+txtFec_desde   --==>   23/01/2020
+testcase_name   --==>   CUS07_CP12
+txtFec_hasta   --==>   27/05/2020
+N_PrecioOfertado   --==>   2247.00
+glv   --==>   99a
+search   --==>   torch
+build_name   --==>   Version 2.0
+testcase_name   --==>   CUS03_CP01
+testcase_name   --==>   CUS04_CP06
+new_db   --==>   ecommerce
+sharelink   --==>   http://www.crunchyroll.com/es/library/1520_Manga
+amount-000000000004084322   --==>   1
+txtTel   --==>   994632523
+register-email2   --==>   bratt.yacolca@ebso.com.pe
+codigo   --==>   0aj11
+testcase_name   --==>   CUS02_CP06
+testcase_name   --==>   CUS05_CP10
+title   --==>   Verificación Formal de Hoare
+tournament[name]   --==>   TORNEO DOTA 2 - 2019 II
+enrollForm.standardQuestions.questions[7].answer   --==>   Jr. Las Marganitas 1615, 1
+error   --==>   100
+your-telephone   --==>   954305607
+testcase_name   --==>   CUS08_CP09
+txtEmail   --==>   ana.alcantara@ebso.com.pe
+codigo   --==>   1ydga
+organisation-input-field__input   --==>   UNMSM
+txtPeriodo   --==>   06/2020
+search   --==>   small 
+diskSize   --==>   50
+busAddressLine1   --==>   Av. Las Torres 306, Urb El Pino, San Luis
+diskSize   --==>   10
+new_db   --==>   prueba
+gprid   --==>   eu
+container_name   --==>   CUS 06
+amount-000000000004443011   --==>   1
+search   --==>   decocraft
+username   --==>   jhojan2020@hotmail.es
+codigo   --==>   qaid1
+keywords   --==>   letreros
+username   --==>   bratt.yacolca@unmsm.edu.pe
+nuevoCambioEfectivo   --==>   550.64
+url   --==>   https://www.facebook.com/groups/513018206149906/permalink/711016746350050/
+txtCorreo   --==>   bratt.yacolca@unmsm.edu.pe
+nuevoValorEfectivo   --==>   2,000.00
+bhvmsg   --==>   51a56a98a119a42a126a38a61a116a32a59a103a60a118a43a119a127a
+title   --==>   V2.0
+pass[email]   --==>   bratt.yacolca@ebso.com.pe
+txtFullFirstNameLead   --==>   BRATT
+dni   --==>   72879702
+nd   --==>   09554648
+1-phone   --==>   994632523
+amount-000000000003711628   --==>   1
+codigo   --==>   RCZM
+txtBusquedaItems   --==>   PCLEN10S7S3B300
+cardholder_name   --==>   Bratt Yacolca Rengifo
+jsdk   --==>   bANnfz
+bname   --==>   olimpus
+campo_36538   --==>   EBSO SAC
+testcase_name   --==>   CUS06_CP04
+txtCompany   --==>   MUR TECNOLOGIA
+search3   --==>   tejidos jorgito
+codigo   --==>   ymjix
+glv   --==>   122a101a103a121a122a121a41a33a102a98a101a40a43a98a121a125a121a53a123a118a40a127a120a105a121a53a103a125a40a44a125a116a46a102a53a127a96a35a34a39a42a56a
+key_busqueda   --==>   SL
+bhvmsg   --==>   34a48a118a98a52a105a45a35a111a58a42a111a40a99a53a96a116a
+q   --==>   https://sistemas.unmsm.edu.pe/
+204851   --==>   2387
+sdrv   --==>   0
+testcase_name   --==>   CUS05_CP09
+ruc_cli   --==>   12222222223
+jsdk   --==>   SsXEPbPZdMxv
+bhvmsg   --==>   45a55a124a125a57a104a34a35a114a35a37a102a49a125a58a124a120a
+estimated_execution_duration   --==>   2
+212790   --==>   5132
+txtFechaEmision   --==>   25/08/2020
+testcase_name   --==>   CUS07_CP17
+gameId   --==>   248254
+CampoReserva_2941917_0_nombre   --==>   Bratt Steven Yacolca Rengifo
+jsdk   --==>   KtvNNOMd
+ppw-phoneNumber   --==>   954305607
+lext   --==>   23a125a105a122a21a
+emailAddress   --==>   bratt.yacolca@unmsm.edu.pe
+wpforms[fields][2][primary]   --==>   bratt.yacolca@ebso.com.pe
+testcase_name   --==>   CUS10_CP09
+busTelephoneNumber   --==>   3260730
+codigo   --==>   e7pxm
+codigo   --==>   rcfap
+q   --==>   181.65.0.39
+txtFec_hasta   --==>   23/07/2020
+testcase_name   --==>   CUS10_CP02
+text39145397   --==>   940382617
+testcase_name   --==>   CUS07_CP11
+codigo   --==>   lnwzv
+ingUsuario   --==>   Juan
+codigo   --==>   yhvro
+testcase_name   --==>   CUS07_CP25
+codigo   --==>   cp2p7
+campo_34472   --==>   bratt.yacolca@unmsm.edu.pe
+q   --==>   clinic
+testcase_name   --==>   CUS01_CP12
+gprid   --==>   jR
+tprojectName   --==>   Casos de prueba - SIGEPE
+lext   --==>   25a105a107a127a30a
+codigo   --==>   Zpqj3
+txtTotal   --==>   750.00
+id-checklist   --==>   Tareas
+txtNroExpediente   --==>   833847
+codigo   --==>   Qwris
+code   --==>   287615
+login   --==>   admin
+nuevoCambioEfectivo   --==>   94.44
+ruc_cli   --==>   72879702222
+s   --==>   abrecaminos
+glv   --==>   111a97a121a118a96a126a97a116a102a113a56a99a44a105a96a43a109a126a102a38a107a55a113a105a97a43a97a36a40a119a110a49a43a114a101a44a118a43a36a36a56a63a
+codigo   --==>   yq6d5
+email   --==>   bratt.yacolca@gmail.com
+testcase_name   --==>   CUS02_CP05
+bhvmsg   --==>   46a62a112a113a34a98a61a40a120a33a54a102a35a121a52a124a99a
+testcase_name   --==>   CUS10_CP18
+codigo   --==>   e81bc
+text39145373   --==>   Alexander Dominguez
+date_start   --==>   12/10/2019
+busTelephoneNumber   --==>   13260730
+bname   --==>   tecno
+Apellidos   --==>   Yacolca 
+firstName   --==>   Bratt Steven
+goog_238469704   --==>   40
+url   --==>   blob:https://www.facebook.com/da2b15d3-2a83-4837-a346-fe1d14486b62
+enrollForm.standardQuestions.questions[0].answer   --==>   Bratt
+codigo   --==>   Wmgo6
+1-name   --==>   Winston Ugaz
+testcase_name   --==>   CUS08_CP02
+testcase_name   --==>   CUS01_CP17
+Usuario   --==>   bratt.yacolca
+identifier   --==>   ztorm12345@gmail.com
+codigo   --==>   Ye04O
+username   --==>   e200119
+new_db   --==>   pos
+codigo   --==>   ef4i1
+login_form[name]   --==>   ztorm12345@gmail.com
+testcase_name   --==>   CUS03_CP02
+testcase_name   --==>   CUS03_CP05
+codigo   --==>   YJ7SY
+codigo   --==>   08b4g
+cdmsg   --==>   58a125a53a34a34a126a41a57a60a55a111a100a125a96a32a46a50a62a60a50a37a63a48a125a58a34a115a34a47a48a34a58a54a61a46a125a41a42a33a41a60a56a115a63a96a35a36a125a34a34a44a47a39a100a115a104a122a126a114a105a121a126a125a115a126a122a115a111a96a120a116a102a123a
+codigo   --==>   gc6lx
+jsdk   --==>   ySiDtIXgkG
+codigo   --==>   xwodo
+query   --==>   27001
+search   --==>   server messages
+N_PrecioOfertado   --==>   2146.00
+jsdk   --==>   LmEJhIJXtMbP
+testcase_name   --==>   CUS08_CP08
+busTownCity   --==>   Lima
+busBuildingName   --==>   1
+rowList[0].aaeSerialNumber   --==>   U7AZ7E
+rowList[0].aaeSerialNumber   --==>   U7AZ7E*
+ctl00$searchTextBox   --==>   windows server cumulative update
+paterno   --==>   del pino
+txtTotal   --==>   341.00
+firstName   --==>   Bratt 
+paterno   --==>   palomino
+start_datetime   --==>   07/10/2019 03:00:00
+campo_34474   --==>   Rengifo
+campo_34470   --==>   954305607
+codigo   --==>   316l9
+codigo   --==>   azzw5
+q   --==>   austin powers
+cdmsg   --==>   61a100a38a38a36a120a46a37a35a46a123a122a127a98a126a40a49a35a39a62a63a61a63a105a49a53a33a58a60a122a32a40a35a100a62a99a43a40a41a39a63a37a111a41a122a33a43a105a37a59a63a43a33a98a116a116a101a103a102a119a123a124a117a125a125a103a111a121a122a122a123a114a124a
+bhvmsg   --==>   63a101a55a44a40a119a120a117a57a34a123a39a126a60a116a119a
+txtCntTel   --==>   994632523
+txtBusquedaItems   --==>    KING 8G D3 1600 KHX FURY
+codigo   --==>   oatnf
+url   --==>   https://www.youtube.com/watch?v=5TgjsR-9MXg
+q   --==>   paz
+q   --==>   peace
+login-name2   --==>   ztorm123@hotmail.com
+codigo   --==>   wmwxh
+codigo   --==>   4fvzx
+email2   --==>   bratt.yacolca@unmsm.edu.pe
+frmRegistroSolicitud:txtTelefono   --==>   954305607
+codigo   --==>   Rjyfj
+codigo   --==>   Jlra8
+glv   --==>   97a114a120a99a114a108a126a126a122a100a124a119a
+codigo   --==>   24xiz
+codigo   --==>   Zsy8m
+codigo   --==>   Ljtjt
+q   --==>   hospital
+q   --==>   medic
+q   --==>   doctor
+nuevaFechaNacimiento   --==>   1994/11/29
+nuevaCategoria   --==>   ECONOMICOS
+nuevoNombre   --==>   JJLL
+nuevoCambioEfectivo   --==>   19.18
+nuevoValorEfectivo   --==>   5,000.00
+ingUsuario   --==>   ana
+nuevoNombre   --==>   Luis
+codigo   --==>   gvvvp
+codigo   --==>   pl3ee
+pass[doc_id]   --==>   72879702
+pass[first_name]   --==>   Bratt Steven
+codigo   --==>   8f4bc
+cdmsg   --==>   59a122a60a32a38a122a46a43a36a50a97a121a124a103a41a44a54a58a59a32a61a58a62a96a59a37a122a32a43a52a37a40a46a56a32a96a40a45a40a43a56a60a116a45a120a38a42a96a35a37a37a45a35a96a116a122a98a123a124a116a120a121a116a113a122a126a116a125a120a125a122a123a122a
+gprid   --==>   RV
+tournament[name]   --==>   SAN MARCOS CUP 
+cdmsg   --==>   35a126a36a35a50a116a45a52a38a46a102a108a114a99a48a42a46a60a46a41a63a39a60a121a61a55a117a38a50a55a60a41a58a51a34a120a43a51a47a59a55a63a108a41a96a37a62a110a32a58a39a49a36a117a122a126a123a125a100a114a109a112a118a108a120a103a114a111a119a123a99a120a99a
+jsdk   --==>   kaEfnfNBo
+cdmsg   --==>   60a124a55a45a58a101a52a35a39a51a119a127a123a97a34a33a42a37a33a40a62a59a40a102a60a35a113a45a55a43a63a32a45a57a54a102a47a43a35a38a36a35a110a37a123a39a60a102a36a35a46a32a63a127a110a114a97a122a106a114a127a127a127a124a102a97a110a117a123a124a108a125a125a
+txtTotal   --==>   780.00
+EMAIL   --==>   bratt.yacolca@unmsm.edu.pe
+direccion-ip   --==>   181.65.0.39
+keywords   --==>   death tumb
+keywords   --==>   poster
+form[Email]   --==>   bratt.yacolca@ebso.com.pe
+txtTotal   --==>   450.00
+txtFec_hasta   --==>   01/11/2019
+search   --==>   small
+identification   --==>   ztorm12345@gmail.com
+codigo   --==>   s8cjw
+codigo   --==>   xv1nc
+query   --==>   SGSI
+1-name   --==>   Bratt Yacolca Rengifo
+1-phone   --==>   (+51) 954305607
+session_key   --==>   bratt.yacolca@unmsm.edu.pe
+url   --==>   https://www.youtube.com/watch?v=XGn4_-ylcaI
+amount-000000000004443010   --==>   1
+amount-000000000004084323   --==>   1
+amount-000000000004331256   --==>   1
+amount-000000000004505760   --==>   1
+term   --==>   kingston a2000
+testCentersNearAddress   --==>   lima perú
+course-name   --==>   Implementación de un Programa de Ciberseguridad según el Nist CyberSecurity Framework 
+codigo   --==>   RACC
+codigo   --==>   BNRR
+Email   --==>   bratt.yacolca@unmsm.edu.pe
+ppw-line1   --==>   Jr. Las Marganitas 1615
+email   --==>   bratt.yacolca@unmsm.edu.pe
+q   --==>   re zero
+codigo   --==>   tunif
+user_identification_number   --==>   72.879.702
+_q   --==>   sap
+txtTotal   --==>   930.00
+codigo   --==>   yos6v
+codigo   --==>   pyzpl
+codigo   --==>   SGFUK
+codigo   --==>   UZGA4
+codigo   --==>   a86mx
+codigo   --==>   tboah
+1597522550148-create-team-org-display-name   --==>   KAPANAM TLL
+txtJobTitleLead   --==>   Project Manager
+txtFullLastNameLead   --==>   YACOLCA
+pass[job]   --==>   PERSONAL DE SALUD ADMINISTRATIVO
+nombres   --==>   Laura 
+codigo   --==>   Gnphe
+pass[phone]   --==>   954305607
+busqueda   --==>   Superintensivos 2020 
+pass[last_name]   --==>   YACOLCA
+user   --==>   bratt.yacolca@unmsm.edu.pe
+codigo   --==>   QSYA
+txtDni   --==>   72879702
+name   --==>   Otakufisi
+_q   --==>   optical
+nombre_cli   --==>   brattcito
+nombre_cli   --==>   -23
+direccion_cli   --==>   Jr. Las Marganitas 1615
+UserName   --==>   ztorm12345@gmail.com
+razon_social   --==>   brak
+testplan_name   --==>   Iteración 01
+container_name   --==>   CUS 01
+container_name   --==>   CUS 05
+testcase_name   --==>   CUS01_CP19
+testcase_name   --==>   CUS01_CP04
+testcase_name   --==>   CUS01_CP03
+testcase_name   --==>   CUS01_CP16
+testcase_name   --==>   CUS01_CP14
+testcase_name   --==>   CUS01_CP13
+testcase_name   --==>   CUS01_CP05
+testcase_name   --==>   CUS01_CP11
+testcase_name   --==>   CUS02_CP04
+testcase_name   --==>   CUS02_CP13
+testcase_name   --==>   CUS03_CP10
+testcase_name   --==>   CUS03_CP15
+testcase_name   --==>   CUS03_CP19
+testcase_name   --==>   CUS04_CP01
+testcase_name   --==>   CUS04_CP05
+testcase_name   --==>   CUS04_CP04
+testcase_name   --==>   CUS07_CP03
+testcase_name   --==>   CUS07_CP07
+testcase_name   --==>   CUS07_CP01
+testcase_name   --==>   CUS07_CP16
+testcase_name   --==>   CUS07_CP18
+testcase_name   --==>   CUS07_CP20
+testcase_name   --==>   CUS08_CP03
+testcase_name   --==>   CUS08_CP04
+testcase_name   --==>   CUS09_CP02
+testcase_name   --==>   CUS09_CP05
+testcase_name   --==>   CUS09_CP07
+testcase_name   --==>   CUS09_CP08
+testcase_name   --==>   CUS10_CP07
+testcase_name   --==>   CUS10_CP17
+ID_Usuario   --==>   20603786301
+materno   --==>   cachay
+quality-gate-form-name   --==>   Sonar way 2
+seek   --==>   5223
+fullname   --==>   Bratt Yacolca Rengifo
+error   --==>   50
+txtEmail   --==>   bratt.yacolca@gmail.com
+codigo   --==>   JQBBD
+codigo   --==>   nw1gg
+codigo   --==>   oiimz
+codigo   --==>   Wtghy
+codigo   --==>   3tych
+codigo   --==>   xesig
+resourceName   --==>   fisi
+resourceName   --==>   minecraft
+codigo   --==>   27NHW
+codigo   --==>   owbpz
+codigo   --==>   tfyta
+q   --==>   The Day I Became a God
+codigo   --==>   17jg8
+materno   --==>   gonzales
+bname   --==>   familia
+codigo   --==>   WSGE
+codigo   --==>   sbycf
+codigo   --==>   k9jc1
+codigo   --==>   gecn9
+codigo   --==>   xnyut
+usuario   --==>   bratt.yacolca
+identifier   --==>   bratt.yacolca@gmail.com
+lext   --==>   2a99a101a116a9a
+cdmsg   --==>   37a99a40a45a58a117a51a59a44a55a117a98a98a126a61a33a42a53a38a48a53a63a42a123a37a60a110a45a55a59a56a56a38a61a52a123a54a52a60a38a36a51a105a61a112a35a62a123a61a60a49a32a63a111a105a106a106a126a104a111a102a96a96a124a102a113a105a109a112a120a110a96a100a
+nAsigMat   --==>   4
+testcase_name   --==>   CUS08_CP01
+txtFec_desde   --==>   01/01/2020
+nuevoNombre   --==>   usuario4
+gprid   --==>   TU
+billing_first_name   --==>   Bratt
+testcase_name   --==>   CUS05_CP07
+hipay_tpp_expirydate   --==>   03/2023
+codigo   --==>   0hO4m
+ppw-postalCode   --==>   LIMA 36
+testcase_name   --==>   CUS08_CP10
+lext   --==>   16a113a105a118a19a
+codigo   --==>   Alg7n
+testplan_name   --==>   Pruebas Funcionales 01
+codigo   --==>   PN383
+search3   --==>   MUR TECNOLOGIA
+securityAnswer2   --==>   bcd
+txtPeriodo   --==>   05/2020
+to_date   --==>   26-03-2020
+txt_usua   --==>   yumer.ortiz@ebso.com.pe
+palabra   --==>   conexión
+testcase_name   --==>   CUS08_CP06
+user   --==>   bratt.yacolca@ebso.com.pe
+lext   --==>   12a97a96a118a31a
+mat-input-6   --==>   25565
+username   --==>   alvaro.zevallos@t4ap.com.pe
+rowList[0].aaeSerialNumber   --==>   #####
+firstname   --==>   Bratt
+q   --==>   sing yesterday
+jsdk   --==>   PkjMczf
+femsg   --==>   1
+nuevaDescripcion   --==>   Tool Kit Eco
+enrollForm.standardQuestions.questions[9].answer   --==>   Lima
+codigo   --==>   7A8FV
+N_PrecioOfertado   --==>   2274.38
+ip_address   --==>   181.65.0.39
+codigo   --==>   Pfv9y
+lastName   --==>   Yacolca Rengifo
+search3   --==>   INVERAGRO
+ppw-city   --==>   Lima
+testcase_name   --==>   CUS03_CP03
+testcase_name   --==>   CUS06_CP02
+lastName   --==>   Fidenza
+email   --==>   soporte@fidenza.com.pe
+lastname   --==>   Rengifo
+amount-000000000004444023   --==>   1
+new_email   --==>   bratt.yacolca@gmail.com
+q   --==>   minimal steps
+1-email   --==>   bratt.yacolca@unmsm.edu.pe
+nombres   --==>   isabel
+testcase_name   --==>   CUS09_CP06
+targetTestCase   --==>   CP-
+gprid   --==>   oH
+phoneNumberId   --==>   954305607
+server_name   --==>   Magios Server
+direccion   --==>   jr los negros 1212
+keywords   --==>   gigant poster
+codigo   --==>   Canmd
+codigo   --==>   qd6jz
+testcase_name   --==>   CUS07_CP24
+q   --==>   cubo
+lext   --==>   16a100a122a126a19a
+keywords   --==>   gigant
+search   --==>   small minimalist
+bhvmsg   --==>   40a63a114a126a58a121a32a50a99a37a46a125a37a120a54a115a123a
+q   --==>   ciclo de conferencias
+cdmsg   --==>   61a113a53a46a36a113a45a35a39a49a108a113a119a99a35a42a56a56a58a49a52a52a60a107a56a45a121a35a38a60a46a44a36a62a46a98a46a38a33a37a58a55a119a37a123a37a39a104a40a33a47a43a45a98a114a113a107a117a126a127a123a113a119a114a119a118a127a121a114a123a116a121a124a
+txtRetencion   --==>   0.00
+testcase_name   --==>   CUS02_CP8
+nombre_cli   --==>   ????
+cdmsg   --==>   98a127a51a44a43a60a45a97a46a122a41a110a110a119a125a50a33a55a50a40a114a33a57a56a96a57a40a52a36a60a59a121a42a56a52a50a102a103a35a44a51a35a63a102a115a125a109a105a118a105a126a121a117a122a108a117a105a124a126a120a117a108a113a
+q   --==>   dota
+lastName   --==>   Yacolca
+paterno   --==>   reina
+codigo   --==>   fpwo7
+busStateProvience   --==>   Lima
+nuevoValorEfectivo   --==>   5,100.00
+txtNombre   --==>   Bratt Steven
+video   --==>   https://www.youtube.com/watch?v=D_30sjq4Xfs
+testcase_name   --==>   CUS05_CP06
+paterno   --==>   sanchez
+q   --==>   181.67.185.139
+codigo   --==>   Vyckf
+search3   --==>   YARIS DECORP
+username   --==>   ztorm123@hotmail.com
+keywords   --==>   ambient sounds
+codigo   --==>   Flkbq
+login_email   --==>   954305607
+ulspeedvalue   --==>   100
+q   --==>   kanojo
+glv   --==>   109a45a53a125a62a118a119a102a99a48a124a58a116a99a97a126a108a115a117a123a120a49a45a121a125a106a123a122a54a42a108a120a109a32a121a96a96a56a36a59a34a34a
+userLoginId   --==>   jcarlosg89@icloud.com
+lastName   --==>   Ugaz
+codigo   --==>   Buigb
+testcase_name   --==>   CUS03_CP16
+last_name   --==>   Yacolca
+codigo   --==>   9ZL0F
+testcase_name   --==>   CUS10_CP05
+glv   --==>   123a124a35a124a52a97a53a38a98a121a104a125a114a97a115a32a98a101a122a32a126a42a109a102a122a46a37a35a49a97a50a112a121a127a63a123a100a32a40a38a49a62a
+text39145392   --==>   966704043
+answer   --==>   alianza
+username   --==>   Blacksmith
+codigo   --==>   dy2jg
+keywords   --==>   chulo
+testcase_name   --==>   CUS10_CP06
+error   --==>   5%
+phoneNumber   --==>   954305607
+bhvmsg   --==>   47a51a114a114a60a118a36a40a120a35a45a104a47a123a53a119a113a
+date_deadline   --==>   12/10/2019
+codigo   --==>   6goym
+codigo   --==>   wjhli
+email   --==>   acliente@sigepe.com
+nuevoTelefono   --==>   (933) 154-720_
+search   --==>   online picture frame
+telefono_cli   --==>   42424324234
+enrollForm.standardQuestions.questions[6].answer   --==>   MUR TECNOLOGIA E.I.R.L
+nuevoCliente   --==>   Angelo
+nickname   --==>   PAPITOCHULO
+codigo   --==>   O9buk
+keywords   --==>   dragon mounts
+rowList[0].aaePrdOrSar   --==>   129
+pin2   --==>   5
+N_PrecioOfertado   --==>   1673.68
+wpforms[fields][1][first]   --==>   Bratt 
+txtFec_desde   --==>   01/05/2019
+tournament[url]   --==>   y64wqsd8
+testcase_name   --==>   CUS09_CP10
+start_time   --==>   3:30
+testcase_name   --==>   CUS03_CP17
+rowList[0].aaePrdOrSar   --==>   HPE DL160 Gen9 E5-2609v4 LFF US Svr/S-B
+domainToCheck   --==>   www.mur-tecnologia.JP
+firstname   --==>   Bratt Yacolca
+course   --==>   klcp
+expiration_date   --==>   03 / 2023
+lext   --==>   14a126a120a123a5a
+q   --==>   EBSO.COM.PE
+codigo   --==>   qeeto
+auth   --==>   ztorm12345@gmail.com
+testcase_name   --==>   CUS07_CP21
+error   --==>   30
+testcase_name   --==>   CUS06_CP01
+testcase_name   --==>   CUS10_CP14
+testcase_name   --==>   CUS10_CP15
+lext   --==>   25a113a98a126a27a
+txtNombrecliente   --==>   EMPRESA DE BIENES Y SERVICIOS OLIMPUS S.A.C
+NroDoc   --==>   72879702
+testcase_name   --==>   CUS10_CP04
+lext   --==>   8a99a116a117a13a
+testcase_name   --==>   CUS07_CP14
+bhvmsg   --==>   49a60a99a127a42a115a36a63a121a60a39a117a42a123a38a119a103a
+tournament[name]   --==>   SAN MARCOS CUP 2
+hipay_tpp_cardholder   --==>   Bratt Yacolca Rengifo
+codigo   --==>   2b00a
+txtBusquedaItems   --==>   ALL IN ONE
+q   --==>   cube
+codigo   --==>   0g0vn
+codigo   --==>   Vmqev
+lext   --==>   18a117a103a121a22a
+1-x_organization   --==>   MUR TECNOLOGIA
+testcase_name   --==>   CUS03_CP09
+code   --==>   795370
+phoneNumberId   --==>   941 329 895
+amount-000000000004557951   --==>   1
+txtBusquedaItems   --==>   ALL
+txtTotal   --==>   150.00
+nuevoCambioEfectivo   --==>   215.88
+txtPeriodoInicio   --==>   01/2020
+testcase_name   --==>   CUS09_CP09
+txtTotal   --==>   1,200.00
+email   --==>   salce266@gmail.comnilosalcedo1964@gmail.com
+nuevoCodigo   --==>   999
+email   --==>   jcompras@sigepe.com
+testCentersNearAddress   --==>   peru
+ctl00$searchTextBox   --==>   windows server 2012 r2
+lext   --==>   16a119a124a117a7a
+username   --==>   brattyacolcarengifo
+Nombres   --==>   Bratt
+ruc_cli   --==>   11111111111
+testcase_name   --==>   CUS07_CP10
+frmRegistroSolicitud:txtNombreyApellidos   --==>   Bratt Yacolca Rengifo
+codigo   --==>   41hrb
+answers[138][other][585]   --==>   project manager
+txtApePat   --==>   Yacolca
+codigo   --==>   4ex5p
+inlineEdit   --==>   Bratt S. Yacolca Rengifo
+codigo   --==>   antoj
+testcase_name   --==>   CUS05_CP03
+codigo   --==>   ijx1i
+_subject   --==>   Informe Final de Servicio v3.0
+1597067897667-create-team-org-display-name   --==>   MUR TECH
+testcase_name   --==>   CUS10_CP20
+testcase_name   --==>   CUS10_CP19
+codigo   --==>   Tjaym
+codigo   --==>   hdqj7
+fec_hasta   --==>   27/08/2020
+frmRegistroSolicitud:txtCorreoElectronico   --==>   bratt.yacolca@ebso.com.pe
+q   --==>   alianza
+testcase_name   --==>   CUS01_CP07
+address[line2]   --==>   En la recta del centro de salud la libertad
+codigo   --==>   x6vis
+codigo   --==>   ELGOT
+jsdk   --==>   HBMiqbWFeC
+name   --==>   Bratt S. Yacolca Rengifo
+email   --==>   nilosalcedo1964@gmail.com
+duration_min   --==>   30
+nombres   --==>   Nilo
+testcase_name   --==>   CUS08_CP07
+txtApeMat   --==>   Rengifo
+busAddressLine1   --==>   Av las torres 306, san luis
+q   --==>   http://www.ebso.com.pe/
+txtEmailLead   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS05_CP05
+testcase_name   --==>   CUS03_CP04
+cdmsg   --==>   47a99a57a44a62a126a59a38a35a61a116a103a120a105a49a45a34a48a61a45a40a33a59a105a34a38a110a47a44a62a49a49a43a52a56a100a61a32a47a36a45a34a112a35a96a39a62a106a37a40a48a54a38a105a109a121a118a116a123a126a108a96a113a125a98a122a97a112a127a114a111a101a126a
+key_busqueda   --==>   all in one 
+q   --==>   monserrat
+jsdk   --==>   wqLFbwxCjyX
+keywords   --==>   tool belt
+codigo   --==>   fnxnp
+testcase_name   --==>   CUS03_CP14
+search1   --==>   20603786301
+login   --==>   renzobptrt@gmail.com
+codigo   --==>   atqlv
+txtNombrecliente   --==>   TECH SOLUTIONS INTEGRATED S.A.C.
+codigo   --==>   HBRPD
+codigo   --==>   PKTRV
+error   --==>   200
+amount-000000000004413480   --==>   1
+codigo   --==>   Wo91q
+telefono_cli   --==>   g
+codigo   --==>   Gadei
+codigo   --==>   Riyuo
+codigo   --==>   D1cna
+cdmsg   --==>   52a113a62a38a44a109a33a32a38a52a107a110a115a108a125a34a60a45a116a121a63a60a52a119a56a32a57a58a52a111a47a45a38a126a46a119a39a38a42a45a50a43a123a38a122a32a32a119a44a46a39a43a41a119a123a113a96a125a118a99a119a114a118a119a112a105a123a118a122a123a112a108a117a
+codigo   --==>   e9q3z
+codigo   --==>   j2acy
+paterno   --==>   RAMIREZ
+quality-gate-form-name   --==>   Umbrales de Calidad SIGEPE
+amount-000000000004505762   --==>   1
+testcase_name   --==>   CUS01_CP01
+keywords   --==>   chulos
+busTownCity   --==>   LIma
+cdmsg   --==>   62a114a61a33a59a117a52a39a45a57a101a118a124a100a52a38a45a49a52a51a57a48a63a100a39a45a97a46a34a58a32a32a47a57a61a111a50a33a33a32a60a51a116a46a101a44a49a107a43a44a33a39a34a100a104a114a121a117a117a122a125a113a117a112a103a113a110a113a113a118a126a116a122a
+address[urbanization]   --==>   INCA MANCO CAPAC 3RA ETAPA
+first_name   --==>   Bratt
+testcase_name   --==>   CUS02_CP09
+rows[0].item.serialNumber   --==>   MXQ41000CX
+search   --==>   security
+testcase_name   --==>   CUS01_CP20
+testcase_name   --==>   CUS01_CP15
+codigo   --==>   dvhvl
+codigo   --==>   RXRM3
+search1   --==>   10082921881
+container_name   --==>   CUS 03
+username   --==>   bratt yacolca
+lext   --==>   11a123a102a125a30a
+keywords   --==>   security craft
+codigo   --==>   ia528
+testcase_name   --==>   CUS10_CP01
+testcase_name   --==>   CUS07_CP05
+keywords   --==>   belt
+nuevoUsuario   --==>   usuario4
+sf_url   --==>   https://www.youtube.com/watch?v=xACHdDvfKNc&list=LL&ab_channel=Latina.pe
+search   --==>   minecraft comes alive
+rowList[0].aaeSerialNumber   --==>   2M2644014F
+txtBusquedaItems   --==>   ALLL IN ONE
+codigo   --==>   o9m9y
+jsdk   --==>   fbAvfyGIXr
+codigo   --==>   Chqon
+lext   --==>   12a122a121a115a5a
+build_name   --==>   Version 1.0
+login   --==>   Zttvn
+txt_usua   --==>   bratt.yacolca@ebso.com.pe
+course-number   --==>   STRAA00280
+officeCountryCode   --==>   51
+N_PrecioOfertado   --==>   985.86
+codigo   --==>   2afc6
+bhvmsg   --==>   61a33a126a112a38a121a50a45a124a47a53a126a32a113a39a112a107a
+_c346   --==>   diego
+testcase_name   --==>   CUS05_CP08
+telefono_cli   --==>   954305607
+codigo   --==>   MEZY
+search   --==>   small house
+pin5   --==>   1
+ingUsuario   --==>   admin
+testcase_name   --==>   CUS10_CP03
+search   --==>   mongo
+emailid   --==>   bratt.yacolca@unmsm.edu.pe
+ppw-stateOrRegion   --==>   Lima
+nuevoValorEfectivo   --==>   4,000.00
+search_block_form   --==>   ccna
+telefono_cli   --==>   8765456
+testcase_name   --==>   CUS05_CP02
+codigo   --==>   r6f8m
+paterno   --==>   salazar
+jsdk   --==>   kgpEzD
+codigo   --==>   OTHPQ
+testcase_name   --==>   CUS07_CP06
+billing_email   --==>   bratt.yacolca@unmsm.edu.pe
+testplan_name   --==>   Pruebas Funcionales 02
+codigo   --==>   Fz9ds
+txtFec_hasta   --==>   28/04/2020
+489908237   --==>   09334086
+your-email   --==>   bratt.yacolca@unmsm.edu.pe
+codigo   --==>   JIZYG
+bhvmsg   --==>   42a35a46a36a57a62a46a117a97a127a98a42a100a57a123a106a
+codigo   --==>   hknas
+error   --==>   5
+lext   --==>   22a122a96a120a17a
+codigo   --==>   lnsdj
+gprid   --==>   Ki
+codigo   --==>   ywd5n
+domain   --==>   10.44.150.18
+rows[0].item.serialNumber   --==>   2M2644014F
+title   --==>   Sr.
+codigo   --==>   CXYA1
+confirmEmailAddress   --==>   bratt.yacolca@ebso.com.pe
+codigo   --==>   W2PIA
+testcase_name   --==>   CUS09_CP01
+filter_tc_id   --==>   CP-01
+email   --==>   bratt.yacolca@ebso.com.pe
+lemail   --==>   joffreugaz@hotmail.com
+codigo   --==>   vvvki
+codigo   --==>   vylih
+testcase_name   --==>   CUS02_CP08
+ingUsuario   --==>   juan
+codigo   --==>   NKWDF
+firstName   --==>   Gino
+query   --==>   sgsi
+glv   --==>   126a35a114a127a40a96a43a44a104a123a126a124a60a101a125a38a114a126a102a97a124a45a33a102a43a114a97a42a43a119a124a125a47a105a113a121a107a39a38a40a57a36a
+nombres   --==>   Xavier Alejandro
+testcase_name   --==>   CUS03_CP11
+container_name   --==>   Entregable 02
+fec_desde   --==>   25/06/2020
+username   --==>   zteven
+tl_login   --==>   admin
+diskSize   --==>   30
+search   --==>   sleep
+accountName   --==>   954305607
+username   --==>   vicioso345
+glv   --==>   112a37a40a127a32a62a36a116a99a44a127a59a113a108a122a124a112a56a111a35a40a42a34a119a118a37a124a124a118a57a116a119a45a118a113a106a108a45a33a45a39a54a
+busTelephoneExtension   --==>   102
+testcase_name   --==>   CUS03_CP13
+email   --==>   salce266@gmail.com
+campo_34468   --==>   Bratt
+codigo   --==>   eoiv2
+testcase_name   --==>   CUS08_CP05
+codigo   --==>   Fe4cj
+codigo   --==>   2ebw4
+codigo   --==>   8mhm3
+codigo   --==>   Aqtww
+cdmsg   --==>   101a101a53a39a42a49a51a114a47a105a60a122a101a125a107a59a60a34a50a56a109a41a37a35a97a60a48a37a44a52a59a109a49a53a35a46a107a111a57a55a42a47a54a117a110a97a98a117a114a110a109a112a114a96a110a100a104a123a114a119a97a110a116a
+execution_duration   --==>   2
+_nuevousuario_WAR_socialnetworkingportlet_emailAddress   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS02_CP02
+search   --==>   fossil
+codigo   --==>   dafj9
+keywords   --==>   security
+codigo   --==>   L5rgy
+testcase_name   --==>   CUS01_CP08
+testcase_name   --==>   CUS07_CP04
+codigo   --==>   5glr4
+key_busqueda   --==>   tplink pci express wifi
+codigo   --==>   bjobq
+codigo   --==>   zfwm8
+amount-000000000004194317   --==>   1
+txtBusquedaItems   --==>   ALL IN ONE WINDOWS 10 PRO
+requested_name   --==>   Kapanam Investigation Group
+gprid   --==>   sm
+nuevaDireccion   --==>   Lima
+jsdk   --==>   mjLHlM
+username   --==>   ztorm123
+middleName   --==>   Steven
+txtBusquedaItems   --==>   tableta
+codigo   --==>   ga3li
+address   --==>   Jr. Las Marganitas 1615, 1
+CampoReserva_2941917_0_dni   --==>   72879702
+materno   --==>   nuñuvero
+codigo   --==>   mnovs
+email   --==>   ztorm123@hotmail.com
+txtFec_desde   --==>   28/10/2019
+gprid   --==>   eS
+codigo   --==>   bnqsp
+g-recaptcha-hidden   --==>   1
+enrollForm.standardQuestions.questions[8].answer   --==>   Lima
+testcase_name   --==>   CUS04_CP02
+cdmsg   --==>   33a122a37a43a50a121a47a54a43a50a122a126a100a110a61a42a54a32a53a34a38a56a39a110a46a33a122a63a36a49a63a40a55a51a52a99a41a48a39a43a35a59a108a36a108a32a42a122a45a39a62a47a58a110a97a126a98a100a115a113a98a121a109a122a110a125a117a96a119a125a97a124a98a
+codigo   --==>   CXTD
+codigo   --==>   wxtth
+video   --==>   https://www.youtube.com/watch?v=rEfbLHXw2ik
+cdmsg   --==>   112a109a62a46a43a49a33a115a60a119a43a110a99a123a111a32a44a53a50a37a126a51a43a53a98a57a37a56a54a46a54a123a42a53a56a32a116a106a33a44a62a47a45a116a126a127a109a100a122a123a108a116a119a122a97a121a123a110a115a122a117a97a125a
+username   --==>   bratt.yacolca
+testcase_name   --==>   CUS09_CP13
+UserName   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS02_CP11
+username   --==>   abarreto
+codigo   --==>   r5jem
+phone   --==>   +51
+codigo   --==>   ze7sp
+codigo   --==>   JXMT
+q   --==>   sword art online
+codigo   --==>   amstx
+nickname   --==>   Zteven
+container_name   --==>   CUS 08
+codigo   --==>   k6jap
+entry-main-input   --==>   inspiron 15 
+q   --==>   shigatsu
+q   --==>   181.66.0.39
+subDomain   --==>   magios.secreto
+glv   --==>   127a116a97a39a99a119a122a38a125a118a108a32a47a106a100a124a60a115a102a37a49a32a56a105a125a113a104a114a63a34a45a118a105a35a111a125a101a43a63a38a59a40a
+lext   --==>   17a124a107a117a13a
+codigo   --==>   FKIZV
+testcase_name   --==>   CUS07_CP02
+q   --==>   haikyu
+tournament[url]   --==>   hu8z5hd3
+testcase_name   --==>   CUS01_CP18
+account_username   --==>   Zteven
+testcase_name   --==>   CUS07_CP15
+codigo   --==>   5vzrq
+direccion-ip   --==>   181.67.185.139
+nombres   --==>   alexander
+nombre_cli   --==>   bratt
+testcase_name   --==>   CUS09_CP04
+search   --==>   smoker
+paterno   --==>   salcedo
+lext   --==>   19a114a97a121a12a
+codigo   --==>   xpvjk
+pass[last_name2]   --==>   RENGIFO
+bhvmsg   --==>   44a48a122a125a35a114a61a44a114a43a36a111a36a124a34a123a100a
+gprid   --==>   jN
+company_name   --==>   universidad nacional mayor de san marcos
+codigo   --==>   COEKF
+username-input-field__input   --==>   Kapanam01
+User   --==>   20603786301
+login   --==>   jacqueline.baldeon@ebso.com.pe
+frmRegistroSolicitud:txtNroDocumento   --==>   72879702
+testcase_name   --==>   CUS09_CP03
+testcase_name   --==>   CUS05_CP01
+txtCntApeMat   --==>   Cachay
+gprid   --==>   yX
+pass[first_name]   --==>   BRATT STEVEN
+nuevoValorEfectivo   --==>   1,800.00
+testcase_name   --==>   CUS03_CP08
+username   --==>   2011019787
+nuevoUsuario   --==>   luis
+firstName   --==>   Winston
+pin3   --==>   4
+testcase_name   --==>   CUS07_CP23
+ember1494   --==>   EBSO 5TO PISO
+text39145395   --==>   981094798
+bhvmsg   --==>   55a33a111a113a34a114a58a48a115a37a52a123a58a102a43a124a99a
+gprid   --==>   Fj
+codigo   --==>   3r8ao
+jsdk   --==>   bYGoCwJ
+testcase_name   --==>   CUS07_CP13
+nroTelefono   --==>   4581676
+codigo   --==>   cs19i
+input-135   --==>   bratt.yacolca@unmsm.edu.pe
+codigo   --==>   gebyi
+txtBusquedaItems   --==>   SL jacks
+codigo   --==>   iffat
+container_name   --==>   CUS 07
+tournament[url]   --==>   yq8mvidq
+lext   --==>   29a114a109a102a27a
+gprid   --==>   qw
+q   --==>   monserat
+url   --==>   https://scontent.flim11-1.fna.fbcdn.net/v/t15.5256-10/106061530_10222137721169276_3911806168314415759_n.jpg?_nc_cat=107&_nc_sid=1055be&_nc_eui2=AeGp7dJNTibh3ztHL5gBknOltzZ3BFNm56u3NncEU2bnq5ofqt6YgKQJxOI0YGX4jmPukDlZfZDJiqHPq3sFCzyn&_nc_oc=AQlxY9nwBTly0_xpi1kl5vPxg-fhTwcGHwstf-uB_zQ0S4LFaQWdoBGplVd-5M6YmJ0&_nc_ht=scontent.flim11-1.fna&oh=81a20f61aaf807df6cfe6ba34f296797&oe=5F24215E
+jsdk   --==>   untKXCN
+codigo   --==>   mgybw
+testcase_name   --==>   CUS10_CP13
+testcase_name   --==>   CUS05_CP19
+end_datetime   --==>   07/10/2019 12:00:00
+login   --==>   Ztvn
+busZipCodePostalCode   --==>   Lima30
+q   --==>   minecraft
+testcase_name   --==>   CUS01_CP10
+testcase_name   --==>   CUS03_CP07
+topic   --==>   Reunión
+codigo   --==>   vo8jd
+testcase_name   --==>   CUS10_CP16
+testcase_name   --==>   CUS10_CP21
+e   --==>   bratt.yacolca@ebso.com.pe
+register-name2   --==>   Bratt
+txtBusquedaItems   --==>   adaptador pci express wifi
+profile_completion_fields[nationalRegistrationNumber]   --==>   72879702
+glv   --==>   102a122a49a122a60a125a46a51a110a120a101a124a109a110a108a43a126a96a110a42a102a41a98a110a104a44a46a49a34a123a50a120a99a117a61a126a98a59a44a43a54a38a
+pass[job]   --==>   Jefe de Proyectos
+bname   --==>   ebos
+codigo   --==>   Wdd7i
+txtFechaEmision   --==>   30/09/2019
+FirstName   --==>   Bratt
+txtNumdocide   --==>   72879702
+txtNombrecliente   --==>   MUR TECNOLOGIA S.A.C.
+pass[last_name2]   --==>   Rengifo
+testcase_name   --==>   CUS01_CP06
+nombres   --==>   arnold
+bhvmsg   --==>   56a49a35a38a57a51a34a103a115a114a96a42a105a53a105a120a
+codigo   --==>   q1rrz
+codigo   --==>   Uhjel
+container_name   --==>   CUS 04
+duration_hr   --==>   0
+codigo   --==>   qfjuh
+tprojectName   --==>   SIGEPE - Grupo 3
+securityAnswer2   --==>   def
+autoaway   --==>   100
+dobYear   --==>   1996
+address[mobilePhone]   --==>   954305607
+jsdk   --==>   JLGepRwbOIzK
+codigo   --==>   Fdtji
+firstName   --==>   Soporte
+codigo   --==>   x4tdb
+container_name   --==>   CUS 02
+input_text_field   --==>   brattyacolca
+testcase_name   --==>   CUS06_CP06
+securityAnswer1   --==>   abc
+domain   --==>   https://mkto.cisco.com/cyberops-associate-bundle-giveaway?utm_campaign=cyberopsbundle20&utm_source=email&utm_medium=eBlast
+pin6   --==>   9
+q   --==>   tesis
+username   --==>   ztorm12345@gmail.com
+materno   --==>   vargas
+1-email   --==>   winston.ugaz@mur-tecno.com.pe
+nuevoTotalVenta   --==>   3,449.36
+nuevoCambioEfectivo   --==>   374.48
+testcase_name   --==>   CUS10_CP10
+nombres   --==>   manuel andre
+codigo   --==>   feja4
+cdmsg   --==>   61a119a32a45a48a115a40a38a56a63a119a112a122a106a53a33a32a51a61a45a33a55a40a105a61a40a102a45a61a61a35a37a50a53a54a105a46a32a52a38a46a53a114a32a100a43a60a105a37a40a57a32a53a105a114a119a126a118a106a125a126a116a104a124a108a119a114a112a100a112a108a114a124a
+email   --==>   ztorm12345@gmail.com
+testcase_name   --==>   CUS06_CP03
+company   --==>   MUR TECNOLOGIA SAC
+login   --==>   Zteven
+dateofbirth-input   --==>   10/01/1996
+testcase_name   --==>   CUS03_CP06
+jsdk   --==>   wjucXNlwCh
+quality-gate-form-name   --==>   Sonar way G3
+unidad_medida   --==>   Toneladas (Tn)
+codigo   --==>   QLTDO
+diskSize   --==>   25
+testcase_name   --==>   CUS03_CP12
+register-familyname2   --==>   Yacolca
+jsdk   --==>   iEKikxh
+codigo   --==>   Cgrwp
+codigo   --==>   4ZHH4
+testcase_name   --==>   CUS06_CP05
+nombres   --==>   PAOLO
+search   --==>   minimalist
+codigo   --==>   Rd2sr
+enrollForm.standardQuestions.questions[5].answer   --==>   Computer support assistant
+glv   --==>   40a117a38a46a124a40a124a109a121a47a116a103a41a96a113a125a43a45a103a57a100a117a33a125a121a41a39a40a123a47a43a110a54a43a39a96a98a33a42a41a41a37a
+nuevoCambioEfectivo   --==>   492.16
+rowList[0].aaeSerialNumber   --==>   830574-S01
+489908236   --==>   MERY ESTHER RENGIFO LOPEZ
+creMat   --==>   12
+codigo   --==>   5myhs
+signUp.lastName   --==>   Yacolca
+tcasePrefix   --==>   CP
+testcase_name   --==>   CUS07_CP08
+codigo   --==>   n6gos
+enrollForm.standardQuestions.questions[1].answer   --==>   Yacolca
+glv   --==>   42a115a35a117a119a127a127a39a98a46a115a125a116a99a114a122a115a118a102a35a119a113a42a107a127a33a41a42a37a32a117a120a37a125a38a119a101a45a42a37a47a42a
+bname   --==>   ebso
+text39145399   --==>   5
+amount-000000000004331255   --==>   1
+login   --==>   72879702
+codigo   --==>   TCYU
+gprid   --==>   lZ
+q   --==>   minimal
+codigo   --==>   6st0r
+testcase_name   --==>   CUS05_CP04
+q   --==>   dragon
+codigo   --==>   RQDOX
+nombres   --==>   cesar
+q   --==>   192.168.0.15
+testcase_name   --==>   CUS02_CP07
+usuario   --==>   renzo.bendezu
+pass_consulta_validez[doc_id]   --==>   72879702
+search3   --==>   doctor live
+title   --==>   Sr
+glv   --==>   126a36a126a44a53a33a103a36a104a119a126a123a123a100a101a113a99a37a104a33a45a119a44a100a55a38a101a127a117a32a126a112a116a113a99a32a121a42a42a32a41a46a
+amount-000000000004557949   --==>   1
+testcase_name   --==>   CUS07_CP19
+email   --==>   jproduccion@sigepe.com
+container_name   --==>   CUS 10
+busCompanyName   --==>   Fidenza Disegno SA
+username   --==>   bratt
+bhvmsg   --==>   41a56a123a124a62a125a39a32a123a32a32a96a36a127a63a113a127a
+testcase_name   --==>   CUS10_CP12
+testcase_name   --==>   CUS02_CP10
+ingUsuario   --==>   Juan Fernando Urrego
+tprojectName   --==>   SIGEPE
+address[lastName]   --==>   Yacolca Rengifo
+username   --==>   Jhojan2020@hotmail.es
+search   --==>   custom NPCs
+gprid   --==>   eN
+busTelephoneCityCode   --==>   51
+error   --==>   0
+txtEmail   --==>   bratt.yacolca@unmsm.edu.pe
+testcase_name   --==>   CUS02_CP03
+testcase_name   --==>   CUS10_CP08
+container_name   --==>   CUS 09
+container_name   --==>   Entregable 01
+direccion_cli   --==>   -3
+bname   --==>   sistema
+codigo   --==>   gp0dh
+codigo   --==>   l3zvo
+amount-000000000004505763   --==>   1
+nroCelular   --==>   954305607
+filter   --==>   123
+glv   --==>   115a105a105a126a123a111a100a115a96a126a97a117a100a
+testcase_name   --==>   CUS01_CP09
+username-ext   --==>   ztorm123@hotmail.com
+amount-000000000004557950   --==>   1
+codigo   --==>   ztba3
+bhvmsg   --==>   63a43a37a45a56a62a60a116a114a97a117a62a98a63a127a113a
+keywords   --==>   death items
+codigo   --==>   hdppj
+rowList[0].aaeProductNumber   --==>   830574-S01
+phone   --==>   954305607
+search   --==>   mowzies
+codigo   --==>   hfqws
+direccion_cli   --==>   jr las marganit
+enrollForm.standardQuestions.questions[2].answer   --==>   bratt.yacolca@ebso.com.pe
+email   --==>   sigepe@sigepe.com
+testcase_name   --==>   CUS02_CP01
+glv   --==>   103a
+testcase_name   --==>   CUS03_CP18
+cdmsg   --==>   63a117a59a33a33a111a43a40a45a49a100a127a105a101a44a33a49a62a61a50a57a59a55a102a63a36a110a32a46a60a35a43a41a40a36a100a32a44a45a40a44a57a112a34a127a39a45a117a38a38a44a46a38a102a97a120a103a118a123a112a126a107a112a112a115a120a112a124a108a125a127a115a124a
+codigo   --==>   h2juh
+paterno   --==>   ugaz
+firstName   --==>   Bratt
+text39145399   --==>   943729863
+input-246   --==>   MAGIOS
+pass[ruc]   --==>   20554733825
+ingEmail   --==>   admin@tiendavirtual.com
+busPostalCode   --==>   lima 30
+error   --==>   25
+paterno   --==>   ingunza
+materno   --==>   Hurtado
+gprid   --==>   Fn
+codigo   --==>   Cf4lr
+amount-000000000004607430   --==>   1
+cdmsg   --==>   48a114a49a62a44a110a36a40a48a40a107a118a112a123a35a61a61a62a46a56a55a48a51a123a48a54a113a33a63a43a46a32a35a38a42a116a34a46a60a49a50a51a120a49a114a55a33a100a54a61a47a39a46a123a127a105a105a122a104a107a115a113a121a111a112a106a126a126a108a103a112a116a118a
+name   --==>   Bratt Yacolca Rengifo
+amount-000000000004157318   --==>   1
+codigo   --==>   clhnr
+txtPeriodoFin   --==>   06/2020
+testcase_name   --==>   CUS07_CP09
+paterno   --==>   dominguez
+lastName   --==>   Espinoza 
+bhvmsg   --==>   47a53a103a113a40a116a33a45a103a45a54a105a34a114a35a124a105a
+testcase_name   --==>   CUS07_CP22
+testcase_name   --==>   CUS01_CP02
+username   --==>   soporte@fidenza.com.pe
+error   --==>   15
+filter_testcase_name   --==>   CUS01_CP01
+testcase_name   --==>   CUS10_CP11
+glv   --==>   125a121a125a112a125a125a125a40a97a124a116a116a117a103a120a43a123a122a96a114a126a125a124a96a41a115a117a43a42a41a127a123a41a45a124a43a99a38a35a43a45a33a
+testcase_name   --==>   CUS09_CP12
+testcase_name   --==>   CUS02_CP12
+testcase_name   --==>   CUS04_CP03
+to_date   --==>   20-03-2020
+codigo   --==>   bqzi9
+billing_last_name   --==>   Yacolca
+ctl00$PlaceHolderMain$txtUserEmail   --==>   winston.ugaz@mur-tecno.com.pe
+codigo   --==>   bqj7q
+testcase_name   --==>   CUS09_CP11
+seek   --==>   5228
+username   --==>   bratt yacolca rengifo
+gprid   --==>   QL
+ruc   --==>   11111122223
+to_date   --==>   15-03-2020
+q   --==>   ciclo de conferencias ciberseguridad
+end_datetime   --==>   11/10/2019 12:00:00
+nuevoEmail   --==>   angelocalixtogone@gmail.com
+officeNumber   --==>   954305607
+user   --==>   ebsouser
+input-139   --==>   1996-01-10
+nuevoUsuario   --==>   jjll
+paterno   --==>   Carrasco
+host   --==>   128.0.0.19
+codigo   --==>   Mr9tq
+bhvmsg   --==>   54a112a47a44a32a98a119a112a60a56a107a51a114a50a119a125a
+pin1   --==>   4
+codigo   --==>   pnico
+codigo   --==>   bjzil
+bname   --==>   sis
+_q   --==>   SAP
+codigo   --==>   SF
+rowList[0].friendlyName   --==>   129
+q   --==>   kanojo okurishimasu
+codigo   --==>   h7vaq
+codigo   --==>   jgfnu
+glv   --==>   113a33a115a48a117a56a119a43a117a99a39a122a34a123a114a58a115a120a117a107a114a36a118a123a112a96a112a43a106a100a119a117a114a55a39a58a105a37a55a49a39a46a
+pass[last_name]   --==>   Yacolca
+q   --==>   curvas
+pin4   --==>   4
+q   --==>   alianza lima
+usuario   --==>   servidores
+codigo   --==>   Aj9ro
+txtFec_desde   --==>   23/01/2020
+testcase_name   --==>   CUS07_CP12
+txtFec_hasta   --==>   27/05/2020
+N_PrecioOfertado   --==>   2247.00
+glv   --==>   99a
+search   --==>   torch
+build_name   --==>   Version 2.0
+testcase_name   --==>   CUS03_CP01
+testcase_name   --==>   CUS04_CP06
+new_db   --==>   ecommerce
+sharelink   --==>   http://www.crunchyroll.com/es/library/1520_Manga
+amount-000000000004084322   --==>   1
+txtTel   --==>   994632523
+register-email2   --==>   bratt.yacolca@ebso.com.pe
+codigo   --==>   0aj11
+testcase_name   --==>   CUS02_CP06
+testcase_name   --==>   CUS05_CP10
+title   --==>   Verificación Formal de Hoare
+tournament[name]   --==>   TORNEO DOTA 2 - 2019 II
+enrollForm.standardQuestions.questions[7].answer   --==>   Jr. Las Marganitas 1615, 1
+error   --==>   100
+your-telephone   --==>   954305607
+testcase_name   --==>   CUS08_CP09
+txtEmail   --==>   ana.alcantara@ebso.com.pe
+codigo   --==>   1ydga
+organisation-input-field__input   --==>   UNMSM
+txtPeriodo   --==>   06/2020
+search   --==>   small 
+diskSize   --==>   50
+busAddressLine1   --==>   Av. Las Torres 306, Urb El Pino, San Luis
+diskSize   --==>   10
+new_db   --==>   prueba
+gprid   --==>   eu
+container_name   --==>   CUS 06
+amount-000000000004443011   --==>   1
+search   --==>   decocraft
+username   --==>   jhojan2020@hotmail.es
+codigo   --==>   qaid1
+keywords   --==>   letreros
+username   --==>   bratt.yacolca@unmsm.edu.pe
+nuevoCambioEfectivo   --==>   550.64
+url   --==>   https://www.facebook.com/groups/513018206149906/permalink/711016746350050/
+txtCorreo   --==>   bratt.yacolca@unmsm.edu.pe
+nuevoValorEfectivo   --==>   2,000.00
+bhvmsg   --==>   51a56a98a119a42a126a38a61a116a32a59a103a60a118a43a119a127a
+title   --==>   V2.0
+pass[email]   --==>   bratt.yacolca@ebso.com.pe
+txtFullFirstNameLead   --==>   BRATT
+dni   --==>   72879702
+nd   --==>   09554648
+1-phone   --==>   994632523
+amount-000000000003711628   --==>   1
+codigo   --==>   RCZM
+txtBusquedaItems   --==>   PCLEN10S7S3B300
+cardholder_name   --==>   Bratt Yacolca Rengifo
+jsdk   --==>   bANnfz
+bname   --==>   olimpus
+campo_36538   --==>   EBSO SAC
+testcase_name   --==>   CUS06_CP04
+txtCompany   --==>   MUR TECNOLOGIA
+search3   --==>   tejidos jorgito
+codigo   --==>   ymjix
+glv   --==>   122a101a103a121a122a121a41a33a102a98a101a40a43a98a121a125a121a53a123a118a40a127a120a105a121a53a103a125a40a44a125a116a46a102a53a127a96a35a34a39a42a56a
+key_busqueda   --==>   SL
+bhvmsg   --==>   34a48a118a98a52a105a45a35a111a58a42a111a40a99a53a96a116a
+q   --==>   https://sistemas.unmsm.edu.pe/
+204851   --==>   2387
+sdrv   --==>   0
+testcase_name   --==>   CUS05_CP09
+ruc_cli   --==>   12222222223
+jsdk   --==>   SsXEPbPZdMxv
+bhvmsg   --==>   45a55a124a125a57a104a34a35a114a35a37a102a49a125a58a124a120a
+estimated_execution_duration   --==>   2
+212790   --==>   5132
+txtFechaEmision   --==>   25/08/2020
+testcase_name   --==>   CUS07_CP17
+gameId   --==>   248254
+CampoReserva_2941917_0_nombre   --==>   Bratt Steven Yacolca Rengifo
+jsdk   --==>   KtvNNOMd
+ppw-phoneNumber   --==>   954305607
+lext   --==>   23a125a105a122a21a
+emailAddress   --==>   bratt.yacolca@unmsm.edu.pe
+wpforms[fields][2][primary]   --==>   bratt.yacolca@ebso.com.pe
+testcase_name   --==>   CUS10_CP09
+busTelephoneNumber   --==>   3260730
+codigo   --==>   e7pxm
+codigo   --==>   rcfap
+q   --==>   181.65.0.39
+txtFec_hasta   --==>   23/07/2020
+testcase_name   --==>   CUS10_CP02
+text39145397   --==>   940382617
+testcase_name   --==>   CUS07_CP11
+codigo   --==>   lnwzv
+ingUsuario   --==>   Juan
+codigo   --==>   yhvro
+testcase_name   --==>   CUS07_CP25
+codigo   --==>   cp2p7
+campo_34472   --==>   bratt.yacolca@unmsm.edu.pe
+q   --==>   clinic
+testcase_name   --==>   CUS01_CP12
+gprid   --==>   jR
+tprojectName   --==>   Casos de prueba - SIGEPE
+lext   --==>   25a105a107a127a30a
+codigo   --==>   Zpqj3
+txtTotal   --==>   750.00
+id-checklist   --==>   Tareas
+txtNroExpediente   --==>   833847
+codigo   --==>   Qwris
+code   --==>   287615
+login   --==>   admin
+nuevoCambioEfectivo   --==>   94.44
+ruc_cli   --==>   72879702222
+s   --==>   abrecaminos
+glv   --==>   111a97a121a118a96a126a97a116a102a113a56a99a44a105a96a43a109a126a102a38a107a55a113a105a97a43a97a36a40a119a110a49a43a114a101a44a118a43a36a36a56a63a
+codigo   --==>   yq6d5
+email   --==>   bratt.yacolca@gmail.com
+testcase_name   --==>   CUS02_CP05
+bhvmsg   --==>   46a62a112a113a34a98a61a40a120a33a54a102a35a121a52a124a99a
+testcase_name   --==>   CUS10_CP18
+codigo   --==>   e81bc
+text39145373   --==>   Alexander Dominguez
+date_start   --==>   12/10/2019
+busTelephoneNumber   --==>   13260730
+bname   --==>   tecno
+Apellidos   --==>   Yacolca 
+firstName   --==>   Bratt Steven
+goog_238469704   --==>   40
+url   --==>   blob:https://www.facebook.com/da2b15d3-2a83-4837-a346-fe1d14486b62
+enrollForm.standardQuestions.questions[0].answer   --==>   Bratt
+codigo   --==>   Wmgo6
+1-name   --==>   Winston Ugaz
+testcase_name   --==>   CUS08_CP02
+testcase_name   --==>   CUS01_CP17
+Usuario   --==>   bratt.yacolca
+identifier   --==>   ztorm12345@gmail.com
+codigo   --==>   Ye04O
+username   --==>   e200119
+new_db   --==>   pos
+codigo   --==>   ef4i1
+login_form[name]   --==>   ztorm12345@gmail.com
+testcase_name   --==>   CUS03_CP02
+testcase_name   --==>   CUS03_CP05
+codigo   --==>   YJ7SY
+codigo   --==>   08b4g
+cdmsg   --==>   58a125a53a34a34a126a41a57a60a55a111a100a125a96a32a46a50a62a60a50a37a63a48a125a58a34a115a34a47a48a34a58a54a61a46a125a41a42a33a41a60a56a115a63a96a35a36a125a34a34a44a47a39a100a115a104a122a126a114a105a121a126a125a115a126a122a115a111a96a120a116a102a123a
+codigo   --==>   gc6lx
+jsdk   --==>   ySiDtIXgkG
+codigo   --==>   xwodo
+query   --==>   27001
+search   --==>   server messages
+N_PrecioOfertado   --==>   2146.00
+jsdk   --==>   LmEJhIJXtMbP
+testcase_name   --==>   CUS08_CP08
+busTownCity   --==>   Lima
+busBuildingName   --==>   1
+rowList[0].aaeSerialNumber   --==>   U7AZ7E
+rowList[0].aaeSerialNumber   --==>   U7AZ7E*
+ctl00$searchTextBox   --==>   windows server cumulative update
+paterno   --==>   del pino
+txtTotal   --==>   341.00
+firstName   --==>   Bratt 
+paterno   --==>   palomino
+start_datetime   --==>   07/10/2019 03:00:00
+campo_34474   --==>   Rengifo
+campo_34470   --==>   954305607
+codigo   --==>   316l9
+codigo   --==>   azzw5
+q   --==>   austin powers
+cdmsg   --==>   61a100a38a38a36a120a46a37a35a46a123a122a127a98a126a40a49a35a39a62a63a61a63a105a49a53a33a58a60a122a32a40a35a100a62a99a43a40a41a39a63a37a111a41a122a33a43a105a37a59a63a43a33a98a116a116a101a103a102a119a123a124a117a125a125a103a111a121a122a122a123a114a124a
+bhvmsg   --==>   63a101a55a44a40a119a120a117a57a34a123a39a126a60a116a119a
+txtCntTel   --==>   994632523
+txtBusquedaItems   --==>    KING 8G D3 1600 KHX FURY
+codigo   --==>   oatnf
+url   --==>   https://www.youtube.com/watch?v=5TgjsR-9MXg
+q   --==>   paz
+q   --==>   peace
+login-name2   --==>   ztorm123@hotmail.com
+codigo   --==>   wmwxh
+codigo   --==>   4fvzx
+email2   --==>   bratt.yacolca@unmsm.edu.pe
+frmRegistroSolicitud:txtTelefono   --==>   954305607
+codigo   --==>   Rjyfj
+codigo   --==>   Jlra8
+glv   --==>   97a114a120a99a114a108a126a126a122a100a124a119a
+codigo   --==>   24xiz
+codigo   --==>   Zsy8m
+codigo   --==>   Ljtjt
+q   --==>   hospital
+q   --==>   medic
+q   --==>   doctor
+nuevaFechaNacimiento   --==>   1994/11/29
+nuevaCategoria   --==>   ECONOMICOS
+nuevoNombre   --==>   JJLL
+nuevoCambioEfectivo   --==>   19.18
+nuevoValorEfectivo   --==>   5,000.00
+ingUsuario   --==>   ana
+nuevoNombre   --==>   Luis
+codigo   --==>   gvvvp
+codigo   --==>   pl3ee
+pass[doc_id]   --==>   72879702
+pass[first_name]   --==>   Bratt Steven
+codigo   --==>   8f4bc
+cdmsg   --==>   59a122a60a32a38a122a46a43a36a50a97a121a124a103a41a44a54a58a59a32a61a58a62a96a59a37a122a32a43a52a37a40a46a56a32a96a40a45a40a43a56a60a116a45a120a38a42a96a35a37a37a45a35a96a116a122a98a123a124a116a120a121a116a113a122a126a116a125a120a125a122a123a122a
+gprid   --==>   RV
+tournament[name]   --==>   SAN MARCOS CUP 
+cdmsg   --==>   35a126a36a35a50a116a45a52a38a46a102a108a114a99a48a42a46a60a46a41a63a39a60a121a61a55a117a38a50a55a60a41a58a51a34a120a43a51a47a59a55a63a108a41a96a37a62a110a32a58a39a49a36a117a122a126a123a125a100a114a109a112a118a108a120a103a114a111a119a123a99a120a99a
+jsdk   --==>   kaEfnfNBo
+cdmsg   --==>   60a124a55a45a58a101a52a35a39a51a119a127a123a97a34a33a42a37a33a40a62a59a40a102a60a35a113a45a55a43a63a32a45a57a54a102a47a43a35a38a36a35a110a37a123a39a60a102a36a35a46a32a63a127a110a114a97a122a106a114a127a127a127a124a102a97a110a117a123a124a108a125a125a
+txtTotal   --==>   780.00
+EMAIL   --==>   bratt.yacolca@unmsm.edu.pe
+direccion-ip   --==>   181.65.0.39
+keywords   --==>   death tumb
+keywords   --==>   poster
+form[Email]   --==>   bratt.yacolca@ebso.com.pe
+txtTotal   --==>   450.00
+txtFec_hasta   --==>   01/11/2019
+search   --==>   small
+identification   --==>   ztorm12345@gmail.com
+codigo   --==>   s8cjw
+codigo   --==>   xv1nc
+query   --==>   SGSI
+1-name   --==>   Bratt Yacolca Rengifo
+1-phone   --==>   (+51) 954305607
+session_key   --==>   bratt.yacolca@unmsm.edu.pe
+url   --==>   https://www.youtube.com/watch?v=XGn4_-ylcaI
+amount-000000000004443010   --==>   1
+amount-000000000004084323   --==>   1
+amount-000000000004331256   --==>   1
+amount-000000000004505760   --==>   1
+term   --==>   kingston a2000
+testCentersNearAddress   --==>   lima perú
+course-name   --==>   Implementación de un Programa de Ciberseguridad según el Nist CyberSecurity Framework 
+codigo   --==>   RACC
+codigo   --==>   BNRR
+Email   --==>   bratt.yacolca@unmsm.edu.pe
+ppw-line1   --==>   Jr. Las Marganitas 1615
+email   --==>   bratt.yacolca@unmsm.edu.pe
+q   --==>   re zero
+codigo   --==>   tunif
+user_identification_number   --==>   72.879.702
+_q   --==>   sap
+txtTotal   --==>   930.00
+codigo   --==>   yos6v
+codigo   --==>   pyzpl
+codigo   --==>   SGFUK
+codigo   --==>   UZGA4
+codigo   --==>   a86mx
+codigo   --==>   tboah
+1597522550148-create-team-org-display-name   --==>   KAPANAM TLL
+txtJobTitleLead   --==>   Project Manager
+txtFullLastNameLead   --==>   YACOLCA
+pass[job]   --==>   PERSONAL DE SALUD ADMINISTRATIVO
+nombres   --==>   Laura 
+codigo   --==>   Gnphe
+pass[phone]   --==>   954305607
+busqueda   --==>   Superintensivos 2020 
+pass[last_name]   --==>   YACOLCA
+user   --==>   bratt.yacolca@unmsm.edu.pe
+codigo   --==>   QSYA
+txtDni   --==>   72879702
+name   --==>   Otakufisi
+_q   --==>   optical
+nombre_cli   --==>   brattcito
+nombre_cli   --==>   -23
+direccion_cli   --==>   Jr. Las Marganitas 1615
+UserName   --==>   ztorm12345@gmail.com
+razon_social   --==>   brak
+testplan_name   --==>   Iteración 01
+container_name   --==>   CUS 01
+container_name   --==>   CUS 05
+testcase_name   --==>   CUS01_CP19
+testcase_name   --==>   CUS01_CP04
+testcase_name   --==>   CUS01_CP03
+testcase_name   --==>   CUS01_CP16
+testcase_name   --==>   CUS01_CP14
+testcase_name   --==>   CUS01_CP13
+testcase_name   --==>   CUS01_CP05
+testcase_name   --==>   CUS01_CP11
+testcase_name   --==>   CUS02_CP04
+testcase_name   --==>   CUS02_CP13
+testcase_name   --==>   CUS03_CP10
+testcase_name   --==>   CUS03_CP15
+testcase_name   --==>   CUS03_CP19
+testcase_name   --==>   CUS04_CP01
+testcase_name   --==>   CUS04_CP05
+testcase_name   --==>   CUS04_CP04
+testcase_name   --==>   CUS07_CP03
+testcase_name   --==>   CUS07_CP07
+testcase_name   --==>   CUS07_CP01
+testcase_name   --==>   CUS07_CP16
+testcase_name   --==>   CUS07_CP18
+testcase_name   --==>   CUS07_CP20
+testcase_name   --==>   CUS08_CP03
+testcase_name   --==>   CUS08_CP04
+testcase_name   --==>   CUS09_CP02
+testcase_name   --==>   CUS09_CP05
+testcase_name   --==>   CUS09_CP07
+testcase_name   --==>   CUS09_CP08
+testcase_name   --==>   CUS10_CP07
+testcase_name   --==>   CUS10_CP17
+ID_Usuario   --==>   20603786301
+materno   --==>   cachay
+quality-gate-form-name   --==>   Sonar way 2
+seek   --==>   5223
+fullname   --==>   Bratt Yacolca Rengifo
+error   --==>   50
+txtEmail   --==>   bratt.yacolca@gmail.com
+codigo   --==>   JQBBD
+codigo   --==>   nw1gg
+codigo   --==>   oiimz
+codigo   --==>   Wtghy
+codigo   --==>   3tych
+codigo   --==>   xesig
+resourceName   --==>   fisi
+resourceName   --==>   minecraft
+codigo   --==>   27NHW
+codigo   --==>   owbpz
+codigo   --==>   tfyta
+q   --==>   The Day I Became a God
+codigo   --==>   17jg8
+materno   --==>   gonzales
+bname   --==>   familia
+codigo   --==>   WSGE
+codigo   --==>   sbycf
+codigo   --==>   k9jc1
+codigo   --==>   gecn9
+codigo   --==>   xnyut
+usuario   --==>   bratt.yacolca
+identifier   --==>   bratt.yacolca@gmail.com

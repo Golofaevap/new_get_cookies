@@ -1,0 +1,106 @@
+HRSA & FIN Functional
+Training
+Baseline releases, updates & fixes
+Troubleshooting
+PeopleSoft tickets
+Assist in testing, upgrades, projects
+Fit/Gap Meetings
+HUG/Fin Aid IT Rep
+Document/Processes
+Create queries
+
+HRSA & FIN Technical
+Troubleshooting
+PeopleSoft tickets
+Baseline Releases, MP’s
+Assist in testing, 
+upgrades, projects
+TUG & FUG rep
+SQR and nVision reports
+PS customizations
+Security Administration
+Integration w/ 3rd parties
+Document/processes
+Create queries
+
+Responsible for tickets
+Wired Network Services
+Wireless Network Services
+TGB Satellite System
+Firewalls
+Switch/Router configs
+Domain Name Services
+Institutional spam filter
+Virtual Private Network
+CSU network projects
+Server admin alternate
+Higher level NOC tickets
+Onboard cruise support
+Telecommunications
+
+Desktop Support Services
+Install hardware/software
+Security patches
+End user support
+NOC tickets
+Creates images for staff
+Deploys images
+Hardware repair
+Create Port Pass ID Cards
+Onboard cruise support
+
+Serve as subject-matter-expert 
+Implement new tech
+Higher-Level NOC tickets
+Support use tech & apps
+Assist w/instruct software & lab support
+IT Workshops
+Onboard cruise support
+
+Server Administration  (Exchange/Spam,Storage Administration, Active  Directory/Accounts, Print Services, Backup & Recovery, WINS, DHCP, Security)
+TAG representative
+Network Admin alternate
+VoIP Support
+Keyserver License Software
+Higher level NOC tickets
+Onboard cruise support
+	
+Manage Hosted Solutions
+Develop/Support portal 
+Develop/Support website
+Support Web Publishing
+Online Directory
+Corporate Calendar (R25) 
+Blackboard Admin
+Training
+
+Instructional IT support
+Moodle/iLearn (LMS)
+IT Workshops
+Faculty & IT Web pages
+MS IT Academy
+ATI Web Priority
+Builds lab images
+Higher-level NOC tickets
+Follow the Voyage
+Onboard cruise support
+
+Manages NOC ops (servers, networks, telecom, end-user support)
+Supervises tech staff
+PM for Assigned Projects
+Oversees VoIP Support
+Controls & procedures
+Manage Contracts
+VISC Representative
+
+Manage PeopleSoft Tickets
+Project Director
+Monitor/Assign PS Tickets
+Approve COMR Requests
+Manage consultants/contracts
+Manage assigned IT projects 
+Programmer/Analyst Duties
+HUG/SAUG/SW Reporting Rep
+Integration Broker
+End- user communication
+Documentation/Processes

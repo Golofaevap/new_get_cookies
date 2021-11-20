@@ -1,0 +1,9 @@
+﻿.facebook.com	TRUE	/	FALSE	1830365600	datr	v-iSX2MC5JKvd4l0QAe3Wgxg
+.facebook.com	TRUE	/	FALSE	1830365600	locale	en_US
+.facebook.com	TRUE	/	FALSE	1830365600	sb	t-iSX-YLR8J4TliBfx6Dindu
+.facebook.com	TRUE	/	FALSE	1830365600	x-src	%2Fdeactivate_delete_account%2F%7Ccontent
+.facebook.com	TRUE	/	FALSE	1830365600	wd	1349x626
+.facebook.com	TRUE	/	FALSE	1830365600	spin	r.1003722557_b.trunk_t.1620056172_s.1_v.2_
+.facebook.com	TRUE	/	FALSE	1830365600	c_user	1396039232
+.facebook.com	TRUE	/	FALSE	1830365600	xs	22%3AcDGlxD0RHjh_Lw%3A2%3A1603464054%3A6051%3A6654%3A%3AAcW-WjvyrkTGLydqI7l_SEFmHZVB2JWUSavxr1efSCs
+.facebook.com	TRUE	/	FALSE	1830365600	fr	1v5KmhTjxZUlJSa3H.AWUA54o4ytJTbJS1OmkTDR4is4A.BgiIYt.UB.AAA.0.0.BgiIYt.AWVew67s_mg

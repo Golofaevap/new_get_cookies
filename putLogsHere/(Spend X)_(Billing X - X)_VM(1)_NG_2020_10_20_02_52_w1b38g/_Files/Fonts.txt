@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: League Gothic
+Author: The League of Moveable Type
+Url: http://www.fontsquirrel.com/fonts/league-gothic
+
+Font: Poppins
+Author: Indian Type Foundry
+Url: https://www.fontsquirrel.com/fonts/poppins

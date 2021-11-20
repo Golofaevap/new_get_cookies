@@ -1,0 +1,503 @@
+Name: es   |   Value: automatic
+Name: it   |   Value: 1556191704348
+Name: dl   |   Value: https://www.uefa.com/error/index.html?referrer=https%3A//www.uefa.com/uefachampionsleague/season%3D2019/clubs/player%3D63706/statistics
+Name: id   |   Value: 2207123949525156
+Name: it   |   Value: 1556191616737
+Name: q   |   Value: Afifah
+Name: rl   |   Value: https://lm.facebook.com/
+Name: cd[Schema.org]   |   Value: [{"type":"http://schema.org/Product","properties":{"image":["       \n\n","https://www.novatron.gr/media/catalog/product/cache/2/image/450x450/9df78eab33525d08d6e5fb8d27136e95/n/7/n7000r-black-800x780_copy.jpg"],"name":"Newland Symphone N5000: Smartphone PDA Terminal, 2D Imager, Android","description":"\n                            The Symphone N5000 is part of the first series of Android smartphone PDAs by Newland. It is powered by world’s smallest 2D scanning module (by Newland), making the device elegant, compact and light.                         ","sku":"PN09847"},"dimensions":{"w":329,"h":932},"subscopes":[{"type":"http://schema.org/Offer","properties":{"price":"€750.00 ","availability":"In stock\n"},"dimensions":{"w":313,"h":276},"subscopes":[]}]}]
+Name: username   |   Value: eric.pradana_2010
+Name: a   |   Value: exmagento-1.9.3.2-2.0.3
+Name: ts   |   Value: 1556191618106
+Name: it   |   Value: 1555772835243
+Name: cd[Schema.org]   |   Value: []
+Name: cd[Meta]   |   Value: {"title":"“Aku Diuji Dengan Dahsyat Sekarang..” – PU Abu Akui ‘GeIisah’ Di Tanah Suci | Kisah Dunia","meta:description":"Baru-baru ini, kita dikejutkan dengan luahan hiba daripada bekas isteri kepada salah seorang peserta Pencetus Ummah Musim Ketiga iaitu PU Abu Sufyan."}
+Name: id   |   Value: 1362152150465182
+Name: v   |   Value: 2.8.47
+Name: rqm   |   Value: formPOST
+Name: login   |   Value: ee0100776
+Name: cd[Meta]   |   Value: {"title":"ORIGINAL Huawei SuperCharge 4.5A/5A Charger Adapter | Shopee Malaysia","meta:description":"Hightlight: Take out from phone package, limited stock.\nOutput: 5.0V == 2.0A or 4.5V == 5.0A or 5.0V == 4.5A\nOriginal Huawei Mate 10 / 10 pro series SuperCharge technology\n\nAttention please !!! Super charge is support seldom devices only.please check your existing charger Ampire.\n\nFOR TYPE C\nHuawei Mate 9, Mate 9 pro, Mate 9 pro Porsche.\nHuawei P10. P10 plus,\nMate 9, Mate 9 pro, Mate 9 pro Porsche. - Buy ORIGINAL Huawei SuperCharge 4.5A/5A Charger Adapter"}
+Name: ts   |   Value: 1555774086993
+Name: it   |   Value: 1555772520987
+Name: cd[OpenGraph]   |   Value: {"og:title":"ORIGINAL Huawei SuperCharge 4.5A/5A Charger Adapter | Shopee Malaysia","og:description":"Hightlight: Take out from phone package, limited stock.\nOutput: 5.0V == 2.0A or 4.5V == 5.0A or 5.0V == 4.5A\nOriginal Huawei Mate 10 / 10 pro series SuperCharge technology\n\nAttention please !!! Super charge is support seldom devices only.please check your existing charger Ampire.\n\nFOR TYPE C\nHuawei Mate 9, Mate 9 pro, Mate 9 pro Porsche.\nHuawei P10. P10 plus,\nMate 9, Mate 9 pro, Mate 9 pro Porsche. - Buy ORIGINAL Huawei SuperCharge 4.5A/5A Charger Adapter","og:type":"website","og:url":"https://shopee.com.my/ORIGINAL-Huawei-SuperCharge-4.5A-5A-Charger-Adapter-i.82256833.1383803605","og:image":"https://cf.shopee.com.my/file/dd857df3c91450bd5f8a27faeaa9377e"}
+Name: ctl00$ContentPlaceHolder1$txtUserName   |   Value: Pradana
+Name: cd[JSON-LD]   |   Value: [[{"@type":"SportsOrganization","@id":"https://www.uefa.com","@context":"http://schema.org","url":"https://www.uefa.com","description":"Europe's football website, UEFA.com, is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA organises some of the most famous and prestigious football competitions on the European continent including the UEFA Champions League, the UEFA Europa League and the UEFA European Football Championship (UEFA EURO 2012, UEFA EURO 2016 etc.).  The website features live video streaming of many UEFA competitions together with an extensive video archive and mobile service. In addition, there is coverage of the 54 national association domestic leagues, the route to UEFA's club competitions.","name":"UEFA","legalName":"UEFA","location":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"CH","addressLocality":"Nyon","streetAddress":"Route de GenÃ¨ve 46, 1260 Nyon, Switzerland"}},"telephone":"+41 (0) 848 00
+Name: dl   |   Value: https://kisahdunia.com/aku-diuji-dengan-dahsyat-sekarang-pu-abu-akui-geiisah-di-tanah-suci/
+Name: cd[Meta]   |   Value: {"title":"UEFA Champions League - Juventus - Cristiano Ronaldo - UEFA.com","meta:description":"UEFA.com is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA works to promote, protect and develop European football across its 55 member associations and organises some of the world’s most famous football competitions, including the UEFA Champions League, UEFA Women’s Champions League, the UEFA Europa League, UEFA EURO and many more. The site features the latest European football news, goals, an extensive archive of video"}
+Name: sw   |   Value: 360
+Name: cd[Schema.org]   |   Value: [{"type":"http://schema.org/BreadcrumbList","properties":{},"dimensions":{"w":265,"h":60},"subscopes":[{"type":"http://schema.org/ListItem","properties":{"item":"//www.uefa.com/uefachampionsleague/season=2019/clubs/club=50139/","name":"Juventus","position":"1"},"dimensions":{"w":0,"h":0},"subscopes":[]},{"type":"http://schema.org/ListItem","properties":{"item":"//www.uefa.com/uefachampionsleague/season=2019/clubs/player=63706/","name":"Cristiano Ronaldo","position":"1"},"dimensions":{"w":0,"h":0},"subscopes":[]}]},{"type":"https://schema.org/Person","properties":{"name":"Cristiano Ronaldo","url":"//season=/teams/player=63706/","nationality":"POR"},"dimensions":{"w":360,"h":149},"subscopes":[{"type":"http://schema.org/SportsTeam","properties":{"name":"Juventus (ITA)"},"dimensions":{"w":215,"h":24},"subscopes":[]}]}]
+Name: dl   |   Value: https://www.novatron.gr/newland-symphone-n7000r?___store=gb
+Name: fbp   |   Value: fb.2.1555772842636.1330132528
+Name: coo   |   Value: false
+Name: dl   |   Value: https://shopee.com.my/ORIGINAL-Huawei-SuperCharge-4-5A-5A-Charger-Adapter-i.82256833.1383803605?gclid=Cj0KCQjw2IrmBRCJARIsAJZDdxACmIYesD9qNxwCnx-J69Op5yuzpQJ_Y2kGzUWLnt--Um6MEtzDEM4aAv2eEALw_wcB
+Name: sh   |   Value: 640
+Name: q   |   Value: Section 1
+Name: ec   |   Value: 2
+Name: ts   |   Value: 1556330253002
+Name: it   |   Value: 1556330251878
+Name: cd[JSON-LD]   |   Value: [{"@context":"http://schema.org","@type":"WebSite","name":"Shopee","url":"https://shopee.com.my","potentialAction":{"@type":"SearchAction","target":"/search?keyword={search_term_string}","query-input":"required name=search_term_string"},"sameAs":["https://www.facebook.com/ShopeeMY","https://www.instagram.com/Shopee_MY","https://www.youtube.com/channel/UCuo-9GW0hmlGviP9LGbd9PA","https://play.google.com/store/apps/details?id=com.shopee.my","https://itunes.apple.com/MY/app/id959841113"]},{"@context":"http://schema.org","@type":"Product","name":"ORIGINAL Huawei SuperCharge 4.5A/5A Charger Adapter","description":"Hightlight: Take out from phone package, limited stock.\nOutput: 5.0V == 2.0A or 4.5V == 5.0A or 5.0V == 4.5A\nOriginal Huawei Mate 10 / 10 pro series SuperCharge technology\n\nAttention please !!! Super charge is support seldom devices only.please check your existing charger Ampire.\n\nFOR TYPE C\nHuawei Mate 9, Mate 9 pro, Mate 9 pro Porsche.\nHuawei P10. P10 plus,\nMate 9, Mate 9 pro, Mate 9 pro Porsch
+Name: dl   |   Value: https://www.mstar.com.my/spotlight/hiburan/2019/04/20/pu-abu-sufyan
+Name: ts   |   Value: 1555772843323
+Name: cd[OpenGraph]   |   Value: {"twitter:text:title":"Cristiano Ronaldo - Juventus - UCL","og:type":"website","og:title":"Cristiano Ronaldo - Juventus - UCL","og:image":"//img.uefa.com/imgml/TP/players/1/2019/324x324/63706.jpg","og:image:width":"324","og:image:height":"324","og:description":"All the latest UEFA Champions League news and statistics for Cristiano Ronaldo.","og:site_name":"UEFA.com"}
+Name: if   |   Value: false
+Name: fbp   |   Value: fb.2.1556325824793.1381489634
+Name: ts   |   Value: 1555772846300
+Name: cd[JSON-LD]   |   Value: []
+Name: cd[DataLayer]   |   Value: []
+Name: user_name   |   Value: Eric
+Name: ts   |   Value: 1556191705087
+Name: cd[JSON-LD]   |   Value: [{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://kisahdunia.com/","name":"Kisah Dunia","image":"https://kisahdunia.com/wp-content/uploads/2018/07/19665682_538386189618307_1816046831868893313_n.png"}},{"@type":"ListItem","position":2,"item":{"@id":"https://kisahdunia.com/category/cinta-perhubungan/","name":"Cinta &amp; Perhubungan"}},{"@type":"ListItem","position":3,"item":{"@id":"https://kisahdunia.com/aku-diuji-dengan-dahsyat-sekarang-pu-abu-akui-geiisah-di-tanah-suci/","name":"&#8220;Aku Diuji Dengan Dahsyat Sekarang..&#8221; &#8211; PU Abu Akui &#8216;GeIisah&#8217; Di Tanah Suci","image":"https://kisahdunia.com/wp-content/uploads/2019/04/kisahdunia.com-938ab4a3da62bce95c6d90f15af0d6e9.jpg"}}]}]
+Name: ev   |   Value: Microdata
+Name: o   |   Value: 30
+Name: cd[OpenGraph]   |   Value: {}
+Name: q   |   Value: field trip Section 1
+Name: cd[JSON-LD]   |   Value: [{"@context":"http://schema.org","@type":"NewsArticle","headline":"Ustaz selebriti cerai isteri hamil tujuh bulan demi janda anak satu","articleSection":"Spotlight","dateCreated":"2019-04-20T05:37:04Z","creator":["AZLINA MAZLI"],"url":"https://www.mstar.com.my/spotlight/hiburan/2019/04/20/pu-abu-sufyan/","thumbnailUrl":"https://www.mstar.com.my/~/media/upload/2019/04/20/14/39/pupupu1.ashx","keywords":["/spotlight/hiburan","PU Abu Sufyan","Ain Afini","cerai","janda"]}]
+Name: dt2   |   Value: 05/10/2019
+Name: fbp   |   Value: fb.1.1555512188004.1426910882
+Name: cd[Meta]   |   Value: {"title":"Error 404 - The official website for European football - UEFA.com","meta:description":"UEFA.com is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA works to promote, protect and develop European football across its 55 member associations and organises some of the world’s most famous football competitions, including the UEFA Champions League, UEFA Women’s Champions League, the UEFA Europa League, UEFA EURO and many more. The site features the latest European football news, goals, an extensive archive of video"}
+Name: ec   |   Value: 1
+Name: cd[OpenGraph]   |   Value: {"article:published_time":"2019-04-20T16:28:22+08:00","article:modified_time":"2019-04-20T16:28:22+08:00","og:locale":"en_US","og:site_name":"Kisah Dunia","og:title":"\"Aku Diuji Dengan Dahsyat Sekarang..\" - PU Abu Akui 'GeIisah' Di Tanah Suci","og:url":"https://kisahdunia.com/aku-diuji-dengan-dahsyat-sekarang-pu-abu-akui-geiisah-di-tanah-suci/","og:type":"article","og:description":"Baru-baru ini, kita dikejutkan dengan luahan hiba daripada bekas isteri kepada salah seorang peserta Pencetus Ummah Musim Ketiga iaitu PU Abu Sufyan. Menurut Ain Afini yang juga sedang mengandungkan bayi pertama mereka itu, PU Abu telah memilih untuk hidup bersama dengan seorang ibu tunggal, dan tel","og:image":"https://kisahdunia.com/wp-content/uploads/2019/04/kisahdunia.com-938ab4a3da62bce95c6d90f15af0d6e9.jpg","og:image:url":"https://kisahdunia.com/wp-content/uploads/2019/04/kisahdunia.com-938ab4a3da62bce95c6d90f15af0d6e9.jpg","og:image:secure_url":"https://kisahdunia.com/wp-content/uploads/2019/04/kisahdunia.com-938ab4a3da62b
+Name: cd[Meta]   |   Value: {"title":"Symphone N7000R: PDA 5.0” Touch Screen, 2D CMOS imager, BT & WiFi (Dual Band), 4G, GPs, Camera, OS Android 5.1 | Novatron","meta:description":"Symphone N7000R: PDA 5.0” Touch Screen, 2D CMOS imager, BT & WiFi (Dual Band), 4G, GPs, Camera, OS Android 5.1","meta:keywords":"Symphone N7000R: PDA 5.0” Touch Screen, 2D CMOS imager, BT & WiFi (Dual Band), 4G, GPs, Camera, OS Android 5.1"}
+Name: ts   |   Value: 1555772528919
+Name: ts   |   Value: 1556191682107
+Name: dl   |   Value: https://www.uefa.com/uefachampionsleague/season=2019/clubs/player=63706/index.html
+Name: fbp   |   Value: fb.1.1555772528390.518092824
+Name: id   |   Value: 2093040297597992
+Name: cd[OpenGraph]   |   Value: {"article:modified_time":"2019-04-20T16:05:13Z","og:title":"Ustaz selebriti cerai isteri hamil tujuh bulan demi janda anak satu - Hiburan | mStar","og:description":"BEKAS&nbsp;isteri seorang pendakwah bebas mencetuskan tanda tanya dalam kalangan netizen apabila mendakwa diceraikan suaminya kerana kahadiran orang ketiga.","og:url":"https://www.mstar.com.my/spotlight/hiburan/2019/04/20/pu-abu-sufyan/","og:type":"article","og:image":"https://www.mstar.com.my/~/media/upload/2019/04/20/14/39/pupupu1.ashx"}
+Name: rl   |   Value: https://www.uefa.com/uefachampionsleague/season=2019/clubs/player=63706/statistics
+Name: fbp   |   Value: fb.1.1556191617575.1624628539
+Name: it   |   Value: 1555512185815
+Name: cd[OpenGraph]   |   Value: {"twitter:text:title":"Error 404 - The official website for European football","og:type":"website","og:title":"Error 404 - The official website for European football","og:image":"https://img.uefa.com/imgml/icons/social/og/uefacom.jpg","og:image:width":"0","og:image:height":"0","og:description":"UEFA.com is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA works to promote, protect and develop European football across its 55 member associations and organises some of the world’s most famous football competitions, including the UEFA Champions League, UEFA Women’s Champions League, the UEFA Europa League, UEFA EURO and many more. The site features the latest European football news, goals, an extensive archive of video","og:site_name":"UEFA.com"}
+Name: id   |   Value: 757894527666013
+Name: rl   |   Value: https://www.google.com/
+Name: cd[Meta]   |   Value: {"title":"\n\tUstaz selebriti cerai isteri hamil tujuh bulan demi janda anak satu - Hiburan | mStar\n","meta:description":"BEKAS&nbsp;isteri seorang pendakwah bebas mencetuskan tanda tanya dalam kalangan netizen apabila mendakwa diceraikan suaminya kerana kahadiran orang ketiga."}
+Name: a   |   Value: tmgoogletagmanager
+Name: it   |   Value: 1556191681248
+Name: id   |   Value: 1133176620062218
+Name: r   |   Value: stable
+Name: search   |   Value: EEIB413
+Name: session_key   |   Value: eric.pradana_2010@yahoo.com
+Name: search   |   Value: eepb383
+Name: username   |   Value: EE0100776
+Name: givenName   |   Value: ERIC PRADANA PUTRA BIN
+Name: familyName   |   Value: AMIN
+Name: qs   |   Value: "microalgae"
+Name: qs   |   Value: "microalgae growth"
+Name: qs   |   Value: microalgae monitoring
+Name: qs   |   Value: microalgae
+Name: qs   |   Value: measure microalgae
+Name: qs   |   Value: "measuring microalgae growth"
+Name: qs   |   Value: Parameter determination of algae growth based on ecological tank experiment
+Name: qs   |   Value: Parameter determination of algae growth
+Name: qs   |   Value: algae growth
+Name: qs   |   Value: "algae growth"
+Name: firstName   |   Value: Algae
+Name: lastName   |   Value: Hijau
+Name: email   |   Value: granellareinstein@gmail.com
+Name: qs   |   Value: "growth of algae"
+Name: addr   |   Value: ericpradana1997@gmail.com
+Name: user   |   Value: EE0100776
+Name: qs   |   Value: growth of algae in oxide
+Name: userid   |   Value: ericpradana1997@gmail.com
+Name: qs   |   Value: "effect microalgae growth"
+Name: keys   |   Value: Beethoven waltz
+Name: searchterm1   |   Value: algae growth
+Name: query   |   Value: algae growth
+Name: q   |   Value: algae growth
+Name: pf.username   |   Value: ericpradana1997@gmail.com
+Name: search   |   Value: Shamsul
+Name: query   |   Value: Suhaida
+Name: search   |   Value: Suhaida
+Name: autociteUrl   |   Value: http://static.esgindia.org/campaigns/Tree%20felling/Hasire%20Usiru/research/Metro_DPR/chp_10_bmrp_dpr.pdf
+Name: bkQry   |   Value: CHAPTER 10 AUTOMATIC FARE COLLECTION
+Name: autociteUrl   |   Value: CHAPTER 10 AUTOMATIC FARE COLLECTION
+Name: jrQry   |   Value: Effect of outdoor conditions on the growth and lipid accumulation of six green algae
+Name: jrQry   |   Value: Microalgae cultivation for bioenergy production using wastewaters from a municipal WWTP as nutritional sources.
+Name: jrQry   |   Value: Counting chamber methods for quantitative phytoplankton analysis
+Name: jrQry   |   Value: haemocytometer
+Name: jrQry   |   Value: haemocytometer microalgae
+Name: jrQry   |   Value: Counting chamber methods for quantitative phytoplankton analysis - haemocytometer, Palmer-Maloney cell and Sedgewick-Rafter cell
+Name: jrQry   |   Value: Counting chamber methods Murielle LeGresley*
+Name: jrQry   |   Value: phytoplankton haemocytometer
+Name: jrQry   |   Value: microalgae haemocytometer
+Name: jrQry   |   Value: Microalgal cell disruption for biofuel development
+Name: jrQry   |   Value: Harvesting microalgae by bio-flocculation
+Name: jrQry   |   Value: Pengekstrakan Minyak Alga Daripada Mikroalga Air Tawar Chlorella vulgaris
+Name: jrQry   |   Value: Algae oil extraction from freshwater microalgae Chlorella vulgaris
+Name: jrQry   |   Value: Phytoplankton cell counting by flow cytometry.
+Name: jrQry   |   Value: Increased microalgae growth and nutrient removal using balanced N:P ratio in Wastewater
+Name: jrQry   |   Value: Dry weight, volume and optical density
+Name: jrQry   |   Value: Stein, J. R. "Dry weight, volume and optical density." Handbook of Phycological Methods: Culture Methods and Growth Measurements (1973): 21-22.
+Name: jrQry   |   Value: "Dry weight, volume and optical density."
+Name: jrQry   |   Value: Counting cell in cultures with light microscope
+Name: jrQry   |   Value: A technique for the enumeration of unicellular algae
+Name: jrQry   |   Value: Interference by pigment in the estimation of microalgal biomass concentration by optical density
+Name: jrQry   |   Value: The effects of light intensity on the growth of green algae
+Name: jrQry   |   Value: Study of the LEDs spectrums influence on the Spirulina platensis growth in batch culture
+Name: jrQry   |   Value: Study of the LEDs spectrums 
+Name: jrQry   |   Value: Heterotrophic Production of Algal Oils
+Name: jrQry   |   Value: Measurement of protein by spectrophotometry at 205 nm
+Name: username   |   Value: sereik89
+Name: jrQry   |   Value: Boudriga, Noureddine (2010). Security of mobile communications. Boca Raton: CRC Press. pp. 32–33
+Name: bkQry   |   Value:  0849379423
+Name: bkQry   |   Value: 9780763759940
+Name: jrQry   |   Value: Commercial applications of microalgae
+Name: jrQry   |   Value: Food commodities from microalgae
+Name: jrQry   |   Value: Potential for green microalgae to produce hydrogen, pharmaceuticals and other high value products in a combined process
+Name: jrQry   |   Value: Supercritical carbon dioxide extraction of compounds with pharmaceutical importance from microalgae
+Name: jrQry   |   Value: Sewage treatment using immobilied microalgae
+Name: jrQry   |   Value: Carbon dioxide removal from air by microalgae cultured in a membrane-photobioreactor
+Name: jrQry   |   Value: Biodiesel from microalgae
+Name: bkQry   |   Value: peter coutteau microalgae
+Name: bkQry   |   Value: 92-5-103934-8
+Name: jrQry   |   Value: Heterotrophic Growth of Blue-Green Algae in Dim Light
+Name: jrQry   |   Value: Effects of Natural Light Dilution on Microalgae Growth
+Name: jrQry   |   Value: Growth of benthic freshwater algae on dairy manures
+Name: jrQry   |   Value: Growth and chemical composition of Spirulina maxima and Spirulina platensis biomass at different temperatures
+Name: jrQry   |   Value: Effect of Salinity and Temperature on the Growth of Diatoms and Green Algae
+Name: jrQry   |   Value: Microalgae growth and phosphorus uptake in wastewater under simulated cold region conditions
+Name: jrQry   |   Value: Production and nutritive value of Spirulina platensis in reduced cost media
+Name: jrQry   |   Value: Biomass Nutrient Profiles of Three Microalgae: Spirulina platensis, Chlorella vulgaris, and Isochrisis galbana
+Name: jrQry   |   Value: Cosmetic slimming composition containing an extract of biomass of the alga neochloris oleoabundans
+Name: searchTitle   |   Value: 20080038290
+Name: searchTitle   |   Value: Cosmetic slimming composition containing an extract of biomass of the alga neochloris oleoabundans
+Name: jrQry   |   Value: Heterotrophic growth of Neochloris oleoabundans using glucose as a carbon source
+Name: jrQry   |   Value: Production and Rheological Studies of Microalgal Extracellular Biopolymer from Lactose Using the Green Alga Neochloris oleoabundans
+Name: jrQry   |   Value: Effects of nitrogen sources on cell growth and lipid accumulation of green alga Neochloris oleoabundans
+Name: autociteUrl   |   Value: https://kintronics.com/comparison-of-the-classic-analog-paging-system-to-the-pa-over-ip-systems/
+Name: autociteUrl   |   Value: https://www.techwalla.com/articles/how-does-a-pabx-work
+Name: jrQry   |   Value: Application of TETRA technology in city railway wireless communication system 
+Name: autociteUrl   |   Value: http://www.spiritedbiz.com/line-choosing-bottling-system-important-know-need-needs-might-change/
+Name: bkQry   |   Value: 9781461528104
+Name: autociteUrl   |   Value: https://www.kinnek.com/products/bottling_lines/
+Name: email   |   Value: quzairy97@gmail.com
+Name: classID   |   Value: 21288352
+Name: enrollment_password   |   Value: 2378
+Name: title   |   Value: Group 04 Assignment B PCI
+Name: s   |   Value: familiar wife
+Name: s   |   Value: touch your heart
+Name: s   |   Value: because this is 
+Name: s   |   Value: as the gods will
+Name: s   |   Value: Kami-sama no Iu Toori
+Name: myusername   |   Value: EE0100776
+Name: bookingNumberInput   |   Value: X27UXQ
+Name: surnameInput   |   Value: ELIS
+Name: bookingNumberInput   |   Value: MV9G2A
+Name: bkQry   |   Value: Standard Methods for the Examination of Water and Wastewater
+Name: bkQry   |   Value: Standard Methods for the Examination of Water and Wastewater 1998
+Name: jrQry   |   Value: Joint toxicity of microplastics with triclosan to marine microalgae Skeletonema costatum
+Name: jrQry   |   Value: In vitro thrombolytic potential of bioactive compounds from marine Streptomyces sp.
+Name: jrQry   |   Value: Rapid characterization of fatty acids in oleaginous microalgae by near-infrared spectroscopy
+Name: jrQry   |   Value: Rapid characterization of fatty acids in oleaginous microalgae 
+Name: jrQry   |   Value: Rapid and quantitative detection of the microbial spoilage in chicken meat by diffuse reflectance spectroscopy 
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=3wzrx2Yozyc
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=Jxrf_sIGLPY
+Name: honor-title   |   Value: SMKTT Best Student Award 2015
+Name: passportInput   |   Value: A40488115
+Name: autociteUrl   |   Value: https://tucu.ca/wifi-solutions/difference-between-traditional-wifi-and-mesh-wifi-networks/
+Name: autociteUrl   |   Value: https://www.mykris.net/
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=a_F6c2ms8gk
+Name: autociteUrl   |   Value: https://www.mymrt.com.my/business/tender/awarded-contracts/#ssp
+Name: autociteUrl   |   Value: http://www.apex.com.my/#portfolio
+Name: autociteUrl   |   Value: https://www.evd.com.my/railway.html
+Name: autociteUrl   |   Value: https://www.evd.com.my/
+Name: autociteUrl   |   Value: https://www.evd.com.my
+Name: mapsprosearch-field   |   Value: chungnam national university
+Name: q   |   Value: expected outcome
+Name: password   |   Value: Nemesis#837
+Name: myinfo_watchedeps   |   Value: 0
+Name: q   |   Value: sonny 2
+Name: q   |   Value: corp
+Name: q   |   Value: last stand 2
+Name: q   |   Value: boxing
+Name: q   |   Value: castaway
+Name: q   |   Value: sonny
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=p-LHWQelLxk
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=kJJrFYIVQoU
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=IQTpDphYpr0
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=o_-F3fca2T4
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=Q2gj4fb0Vxw
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=U7zIMNrO-yA
+Name: mapsprosearch-field   |   Value: kampung batu MRT station
+Name: url   |   Value: https://www.reddit.com/r/megalinks/comments/7o8zwh/tvvsaucemindfieldyoutubereds02e08theelectricbrain7/
+Name: username   |   Value: EE
+Name: autociteUrl   |   Value: http://www.pearsonitcertification.com/articles/article.aspx?p=1329709&seqNum=4
+Name: autociteUrl   |   Value: http://www.sourceen54.eu/en-54-certification.html for EN 54
+Name: autociteUrl   |   Value: http://www.sourceen54.eu/en-54-certification.html
+Name: autociteUrl   |   Value: https://www.anixter.com/en_us/resources/literature/technology-application-guides/nfpa-130-standard.html
+Name: autociteUrl   |   Value: https://www.skmm.gov.my/skmmgovmy/media/General/pdf/FTS_PABX_1.pdf
+Name: autociteUrl   |   Value: https://sr.indianrailways.gov.in/cris/uploads/files/1458888464879-rti-%20signal.pdf
+Name: autociteUrl   |   Value: https://smallbusiness.chron.com/benefits-using-telecommunication-businesses-18676.html
+Name: your_answer_baru[0]   |   Value: 14460000
+Name: your_answer_baru[1]   |   Value: 12480000
+Name: your_answer_baru[1]   |   Value: 12720000
+Name: your_answer_baru[1]   |   Value: 780000
+Name: your_answer_baru[1]   |   Value: 11700000
+Name: your_answer_baru[2]   |   Value: 2050400
+Name: your_answer_baru[2]   |   Value: 279600
+Name: your_answer_baru[2]   |   Value: 240000
+Name: your_answer_baru[3]   |   Value: 836000
+Name: your_answer_baru[3]   |   Value: 932000
+Name: your_answer_baru[3]   |   Value: 892000
+Name: your_answer_baru[3]   |   Value: 1104000
+Name: your_answer_baru[3]   |   Value: 837000
+Name: your_answer_baru[4]   |   Value: 2330000
+Name: your_answer_baru[4]   |   Value: 1158000
+Name: your_answer_baru[3]   |   Value: 796000
+Name: your_answer_baru[4]   |   Value: 1194000
+Name: your_answer_baru[5]   |   Value: 0.08
+Name: your_answer_baru[6]   |   Value: 2
+Name: your_answer_baru[0]   |   Value: 10887
+Name: your_answer_baru[0]   |   Value: 10886
+Name: your_answer_baru[0]   |   Value: 10494
+Name: your_answer_baru[2]   |   Value: Y
+Name: your_answer_baru[1]   |   Value: 10233
+Name: your_answer_baru[1]   |   Value: 20727
+Name: your_answer_baru[5]   |   Value: D
+Name: your_answer_baru[0]   |   Value: 122500
+Name: your_answer_baru[1]   |   Value: 29400
+Name: your_answer_baru[2]   |   Value: 120000
+Name: your_answer_baru[3]   |   Value: 46200
+Name: your_answer_baru[4]   |   Value: A
+Name: your_answer_baru[4]   |   Value: B
+Name: your_answer_baru[4]   |   Value: C
+Name: your_answer_baru[4]   |   Value: D
+Name: your_answer_baru[6]   |   Value: C
+Name: your_answer_baru[6]   |   Value: B
+Name: your_answer_baru[6]   |   Value: D
+Name: your_answer_baru[7]   |   Value: A
+Name: your_answer_baru[6]   |   Value: A
+Name: your_answer_baru[6]   |   Value: Y
+Name: your_answer_baru[1]   |   Value: 120000
+Name: your_answer_baru[3]   |   Value: 120000
+Name: your_answer_baru[0]   |   Value: 120000
+Name: your_answer_baru[1]   |   Value: 12000
+Name: your_answer_baru[1]   |   Value: 29600
+Name: your_answer_baru[1]   |   Value: 23600
+Name: your_answer_baru[1]   |   Value: 30400
+Name: your_answer_baru[1]   |   Value: 29000
+Name: your_answer_baru[0]   |   Value: 0.55
+Name: your_answer_baru[1]   |   Value: 2.55
+Name: your_answer_baru[2]   |   Value: 3.3
+Name: your_answer_baru[3]   |   Value: 1.96
+Name: your_answer_baru[4]   |   Value: 0.5
+Name: your_answer_baru[0]   |   Value: -652707
+Name: your_answer_baru[1]   |   Value: no
+Name: your_answer_baru[0]   |   Value: A
+Name: your_answer_baru[1]   |   Value: 3152.4
+Name: your_answer_baru[2]   |   Value: 336.6
+Name: your_answer_baru[3]   |   Value: A
+Name: your_answer_baru[0]   |   Value: B
+Name: your_answer_baru[0]   |   Value: 460000
+Name: your_answer_baru[1]   |   Value: 63833
+Name: your_answer_baru[2]   |   Value: 268501
+Name: your_answer_baru[3]   |   Value: 68149
+Name: your_answer_baru[3]   |   Value: 68148
+Name: your_answer_baru[3]   |   Value: 66240
+Name: your_answer_baru[4]   |   Value: 99360
+Name: your_answer_baru[3]   |   Value: 67620
+Name: your_answer_baru[3]   |   Value: 64688
+Name: your_answer_baru[4]   |   Value: 194063
+Name: dt1   |   Value: 30/09/2019
+Name: address2   |   Value: KAMPUNG TASEK PERMAI,
+Name: postcode   |   Value: 68000
+Name: state   |   Value: Selangor
+Name: icNumber   |   Value: 600703716291
+Name: contactNum   |   Value: 0122726022
+Name: sharePercentage   |   Value: 100
+Name: inputAddress1   |   Value: 193C, LORONG PERMAI 8,
+Name: inputAddress2   |   Value: KAMPUNG TASEK PERMAI,
+Name: inputAddress3   |   Value: 68000, AMPANG, SELANGOR
+Name: nominationTypeeb1   |   Value: Trust
+Name: your_answer_baru[0]   |   Value: -3.132
+Name: your_answer_baru[1]   |   Value: -3.818
+Name: your_answer_baru[2]   |   Value: A
+Name: your_answer_baru[1]   |   Value: 46200
+Name: your_answer_baru[0]   |   Value: 123400
+Name: your_answer_baru[1]   |   Value: 41400
+Name: your_answer_baru[2]   |   Value: 143000
+Name: your_answer_baru[3]   |   Value: 55200
+Name: your_answer_baru[7]   |   Value: D
+Name: your_answer_baru[8]   |   Value: C-A-B
+Name: your_answer_baru[8]   |   Value: A-C-B
+Name: your_answer_baru[9]   |   Value: 8.0
+Name: your_answer_baru[10]   |   Value: C
+Name: your_answer_baru[11]   |   Value: 6.1
+Name: your_answer_baru[11]   |   Value: 5.9
+Name: your_answer_baru[11]   |   Value: 5.1
+Name: your_answer_baru[11]   |   Value: 6.8
+Name: your_answer_baru[12]   |   Value: A
+Name: your_answer_baru[13]   |   Value: 26019
+Name: your_answer_baru[2]   |   Value: 14300
+Name: your_answer_baru[14]   |   Value: 18845
+Name: your_answer_baru[15]   |   Value: 25488
+Name: your_answer_baru[16]   |   Value: -5387
+Name: your_answer_baru[17]   |   Value: A
+Name: your_answer_baru[17]   |   Value: C
+Name: your_answer_baru[17]   |   Value: D
+Name: cdmsg   |   Value: 56a117a49a41a38a102a59a43a38a63a108a117a125a124a61a46a52a50a55a43a61a35a42a103a34a53a41a57a127a34a109a47a58a38a108a36a43a53a59a62a63a124a38a117a34a55a117a36a33a44a36a46a97a104a104a100a125a117a120a116a127a105a97a124a125a124a118a117a121a103a110a125a
+Name: bhvmsg   |   Value: 58a116a32a35a42a105a109a123a60a51a108a40a124a34a97a121a
+Name: jsdk   |   Value: NeaALqxj
+Name: glv   |   Value: 127a114a115a111a126a97a118a114a127a107a117a118a96a99a110a120a126a127a120a35a118a107a105a115a126a114a123a34a124a55a59a
+Name: lext   |   Value: 21a117a109a113a17a
+Name: gprid   |   Value: dv
+Name: search   |   Value: zalina
+Name: search   |   Value: coeb422
+Name: search   |   Value: coeb442
+Name: title   |   Value: contemporary engineering economics
+Name: fname   |   Value: Eric P.P
+Name: jsdk   |   Value: VYGLNveC
+Name: sdrv   |   Value: 0
+Name: email   |   Value: eric.pradana_2010@yahoo.com
+Name: bhvmsg   |   Value: 62a35a46a39a52a63a33a116a110a97a106a37a125a37a124a112a
+Name: cdmsg   |   Value: 100a109a62a45a38a48a46a114a51a105a35a97a122a103a104a47a53a35a54a43a44a39a55a49a123a46a35a120a37a47a40a52a96a33a47a63a99a123a43a44a63a60a40a97a119a102a107a112a102a96a114a127a118a111a115a112a111a110a115a121a120a96a114a
+Name: comp-jsoep1t2input   |   Value: 29 orang sehala 30/9 12:00 am
+Name: phone_number   |   Value: 0123456789
+Name: comp-jsoep1soinput   |   Value: 01128161396
+Name: name   |   Value: Gdr
+Name: comp-jsoep1sfinput   |   Value: UNITEN Bangi
+Name: comp-jsoep1s8input   |   Value: Putra
+Name: femsg   |   Value: 0
+Name: Amount   |   Value: 1,000
+Name: comp-jsoep1sxinput   |   Value: KLIA2
+Name: comp-jsoep1skinput   |   Value: granellareinstein@gmail.com
+Name: lext   |   Value: 13a105a107a124a19a
+Name: comp-jsoep1stinput   |   Value: UNITEN Bangi
+Name: glv   |   Value: 103a105a105a125a125a99a107a122a110a119a117a126a121a122a119a119a102a108a125a127a118a102a117a121a100a105a118a118a127a50a118a118a108a63a36a40a45a108a118a37a53a58a125a116a126a50a124a121a101a61a36a40a
+Name: gprid   |   Value: UG
+Name: identifier   |   Value: tahirrahman08@gmail.com
+Name: surnameInput   |   Value: AMIN
+Name: login   |   Value: sereik89
+Name: login   |   Value: granellareinstein@gmail.com
+Name: login   |   Value: ericpradana1997@gmail.com
+Name: username   |   Value: Rurbdhxbxnakwkdhfhndj
+Name: email   |   Value: A@gmail.com
+Name: username   |   Value: Dhdhd
+Name: session[username_or_email]   |   Value: EPP97
+Name: q   |   Value: Hentai
+Name: q   |   Value: Tessa fowler
+Name: q   |   Value: Ryan smiles
+Name: q   |   Value: Ass
+Name: search   |   Value: power electronics
+Name: search   |   Value: power system communication
+Name: search   |   Value: power quality
+Name: search   |   Value: vigna
+Name: search   |   Value: epeb413
+Name: mapsprosearch-field   |   Value: halal ramen oura
+Name: mapsprosearch-field   |   Value: icho namiki
+Name: mapsprosearch-field   |   Value: luke
+Name: phoneNumberId   |   Value: 0183242171
+Name: identifier   |   Value: fredericalawliett3107@gmail.com
+Name: dep_node   |   Value: TSUKIJI
+Name: arv_node   |   Value: TOYOSU
+Name: dep_node   |   Value: SHINTOMICHO(TOKYO)
+Name: arv_node   |   Value: SHINJUKU-GYOEMMAE
+Name: arv_node   |   Value: AKIHABARA
+Name: dep_node   |   Value: AKIHABARA
+Name: arv_node   |   Value: OKACHIMACHI
+Name: arv_node   |   Value: NAKA-OKACHIMACHI
+Name: arv_node   |   Value: SHINJUKU-SANCHOME
+Name: dep_node   |   Value: HARAJUKU
+Name: mapsprosearch-field   |   Value: 1-9-24 jingumae, shibuya
+Name: dep_node   |   Value: OKACHIMACHI
+Name: arv_node   |   Value: SHIBUYA
+Name: arv_node   |   Value: YOYOGI-KOEN
+Name: dep_node   |   Value: SHIBUYA
+Name: arv_node   |   Value: DAIBA(TOKYO)
+Name: dep_node   |   Value: UENO-HIROKOJI
+Name: dep_node   |   Value: DAIBA(TOKYO)
+Name: dep_node   |   Value: KEISEI-TAKASAGO
+Name: arv_node   |   Value: OSHIAGE
+Name: arv_node   |   Value: KEISEI-TAKASAGO
+Name: dep_node   |   Value: KANSAI AIRPORT
+Name: arv_node   |   Value: TEMMABASHI
+Name: dep_node   |   Value: NARA
+Name: arv_node   |   Value: KANSAI AIRPORT
+Name: arv_node   |   Value: NINGYOCHO
+Name: arv_node   |   Value: HANEDA AIRPORT INTERNATIONAL TERMINAL
+Name: first_name   |   Value: Eric
+Name: last_name   |   Value: Pradana
+Name: activation_key   |   Value: 5ZX4Q-HI68J-P10BD-9VTCA-6A07C
+Name: username   |   Value: granellareinstein@gmail.com
+Name: email   |   Value: ericpradana1997@gmail.com
+Name: first_name   |   Value: Pradana
+Name: last_name   |   Value: Putra
+Name: activation_key   |   Value: 1Q3WV-IZ9X8-5ARSB-PM0L2-336C7
+Name: username   |   Value: ericpradana1997@gmail.com
+Name: arv_node   |   Value: YOKOHAMA
+Name: mapsprosearch-field   |   Value: daiso
+Name: dep_node   |   Value: UENO
+Name: dep_node   |   Value: NARITA INTERNATIONAL AIRPORT TERMINAL 1
+Name: arv_node   |   Value: UENO
+Name: arv_node   |   Value: SHINTOMICHO(TOKYO)
+Name: dep_node   |   Value: NARITA AIRPORT TERMINAL 1
+Name: arv_node   |   Value: NIPPORI
+Name: dep_node   |   Value: NIPPORI
+Name: mapsprosearch-field   |   Value: supply control centre
+Name: dep_node   |   Value: HIGASHI-GINZA
+Name: arv_node   |   Value: HIGASHI-GINZA
+Name: dep_node   |   Value: KEISEI-UENO
+Name: arv_node   |   Value: KEISEI-UENO
+Name: arv_node   |   Value: SENGAKUJI
+Name: dep_node   |   Value: TOYOSU
+Name: arv_node   |   Value: ASAKUSA(TOBU/SUBWAY)
+Name: arv_node   |   Value: MAIHAMA
+Name: dep_node   |   Value: YOYOGI-KOEN
+Name: dep_node   |   Value: RESORT GATE WAY
+Name: arv_node   |   Value: TOKYO DISNEY SEA
+Name: dep_node   |   Value: MAIHAMA
+Name: 370418906   |   Value: Ampang
+Name: 368390819_2448361668   |   Value: 0
+Name: 370506663   |   Value: 4
+Name: 368390819_2433475331   |   Value: 4
+Name: 368390819_2433475333   |   Value: 2
+Name: 368390819_2433475335   |   Value: 0
+Name: 368390819_2433475334   |   Value: 0
+Name: 368390819_2433475332   |   Value: 0
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=63Er80cadrI
+Name: qs   |   Value: "power cycle diagram"
+Name: sf_url   |   Value: https://www.youtube.com/watch?v=l9Tw7Mk8dTw
+Name: login   |   Value: eric.pradana_2010@yahoo.com
+Name: mapsprosearch-field   |   Value: 7-eleven 
+Name: search   |   Value: final year project
+Name: search   |   Value: fyp 2
+Name: search   |   Value: eeeb1054
+Name: search   |   Value: ECRB424
+Name: search   |   Value: norani
+Name: search   |   Value: EPRB412
+Name: search   |   Value: ECCB424
+Name: search   |   Value: fyp
+Name: jrQry   |   Value: Effects of nutrients present in Bold's basal medium on the green algaStigeoclonium pascheri
+Name: jrQry   |   Value: Long-term maintenance of 23 strains of freshwater microalgae on solid microbiological culture media: A preliminary study
+Name: jrQry   |   Value: Biological synthesis of silver nanoparticles using the fungus Aspergillus flavus
+Name: jrQry   |   Value: MONITORING OF NITRATES AND PHOSPHATES IN WASTEWATER: CURRENT TECHNOLOGIES AND FURTHER CHALLENGES
+Name: user_address   |   Value: 18A, JALAN MELUR 43, TAMAN MELUR, 68000, AMPANG, SELANGOR.
+Name: user_email   |   Value: granellareinstein@gmail.com
+Name: user_nric   |   Value: 970403147283
+Name: user_name   |   Value: ERIC PRADANA PUTRA BIN AMIN
+Name: user_contact   |   Value: 01128161396
+Name: user_studentid   |   Value: EE0100776
+Name: sso-login-email-input   |   Value: ericpradana1997@gmail.com
+Name: cc_name_tfield   |   Value: ERIC PRADANA PUTRA BIN
+Name: q   |   Value: diode
+Name: q   |   Value: thyristor
+Name: f2d7b487f02d7bfd   |   Value: Thyristor voltage and current measurement
+Name: authUsername[username]   |   Value: 19104613
+Name: member[name]   |   Value: Eric Pradana
+Name: search   |   Value: analysis
+Name: search   |   Value: electronics analysis
+Name: search   |   Value: FYP
+Name: userId   |   Value: 5749556
+Name: profile[email_address]   |   Value: EE0100776@utn.edu.my
+Name: userId   |   Value: granellareinstein@gmail.com
+Name: university   |   Value: UNIVERSITI TENAGA NASIONAL 
+Name: email   |   Value: EE0100776@utn.edu.my
+Name: arv_node   |   Value: TSUKIJI
+Name: dep_node   |   Value: SHINJUKU-GYOEMMAE
+Name: q   |   Value: origin pro
+Name: email   |   Value: eric.pradana_2010@yahoo.com
+Name: userId   |   Value: EE0100776@utn.edu.my
+
+Browser: Mozilla Firefox
+Name: username   |   Value: I17302456
+Name: q   |   Value: sonny 2

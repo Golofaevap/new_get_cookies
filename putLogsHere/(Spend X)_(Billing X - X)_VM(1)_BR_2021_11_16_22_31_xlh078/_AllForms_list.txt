@@ -1,0 +1,500 @@
+identifier   --==>   gnconsult976@gmail.com
+idAcesso   --==>   02381314083
+signin[username]   --==>   gbjrs1990
+recover_password[email]   --==>   gbj_rs@hotmail.com
+data-nascimento   --==>   18/06/1990
+log   --==>   semchassis
+userLoginId   --==>   gbj_rs@hotmail.com
+name   --==>   Americas Hotel
+razao_social   --==>   Americas
+cnpj   --==>   21.092.533/0001-10 
+endereco   --==>   Barra da Tijuca
+email   --==>   barrahotel@novo.com
+cnpj   --==>   21092533000110 
+cnpj   --==>   22465567000176
+endereco   --==>   Av Atlantica
+email   --==>   novohotel@email.com
+buscar   --==>   ad
+email   --==>   admin@gmail.com
+name   --==>   Auxiliar
+name   --==>   João Souza
+email   --==>   email@email.com
+email   --==>   ard@mail.com
+email   --==>   email@mail.com
+name   --==>   Gerente
+name   --==>   Visita à empresa Luana Cosméticos
+phone   --==>   51996647678
+secondaryEmail   --==>   gilbertobreyerjunior@gmail.com
+telegram   --==>   Gilberto Breyer Juniot
+linkedinProfileUrl   --==>   hgilberto-breyer-junior
+addressZipcode   --==>   95650000
+tel   --==>   3000
+project[name]   --==>   projeto_partituras
+project[path]   --==>   projeto_partituras
+user[first_name]   --==>   Gilberto
+user[last_name]   --==>   Breyer Júnior
+user[email]   --==>   gilbertobreyerjunior@gmail.com
+identifier   --==>   gilbertojunior@faccat.br
+password_recovery_request[email]   --==>   gilbertojunior@faccat.br
+nome-completo   --==>   Vera Regina Flesch
+telefone   --==>   (51) 9 9664 7678
+cpf   --==>   229.915.220-20
+user[login]   --==>   gilbertobreyerjunior
+Email   --==>   ss
+Email   --==>   Edinaldosa
+id-checklist   --==>   verificação
+login   --==>   gilbertobreyerjunior
+otp   --==>   858086
+project[path]   --==>   risin_interno
+project[name]   --==>   risin_interno
+Ecom_User_ID   --==>   229.915.220-20
+username   --==>   023.813.140-83
+tl_list-search-box   --==>   es
+user_login   --==>   gbj_rs@hotmail.com
+user_login   --==>   gilbertobreyerjunior@gmail.com
+user_login   --==>   glbertobreyer.jr@gmail.com
+user_login   --==>   suportcodebr@gmail.com
+email   --==>   suportcodebr@gmail.com
+billing_email   --==>   suportcodebr@gmail.com
+billing_discord   --==>   gilbertobreyer.jr#2310
+zipcode   --==>   95650-000
+login   --==>   gbj_rs@hotmail.com
+iVerifyText   --==>   7137098
+ccmonth   --==>   03
+ccyear   --==>   29
+pepPhone Number   --==>   55519664-7678
+email   --==>   gilbertobreyerjunior@gmail.com
+login   --==>   gilbertobreyerjunior@gmail.com
+calc_cep   --==>   95650-000
+fullName   --==>   Júnior Breyer
+birthDate   --==>   18/06/1990
+fullName   --==>   GILBERTO BREYER JUNIOR
+address   --==>   Rodovia ERS 115 Km07 Numero 8104
+neighbourhood   --==>   15 de Novembro
+iccid_input   --==>   89551094360008854664
+telefone_input   --==>   (51) 99664-7678
+email_input   --==>   gilbertobreyerjunior@gmail.com
+username   --==>   suporte@faccat.br
+resetPasswordSuccess:dc3:username   --==>   suporte@faccat.br
+input-nick   --==>   Homem-30
+input-nick   --==>   Homem
+spl_q_vivo_uni_atendimento_menu_eletronico_adicional_pos_txt   --==>   Troca de chip
+validationDefault01   --==>   GILBERTO BREYER JUNIOR
+validationDefault03   --==>   gilbertobreyerjunior@gmail.com
+validationDefault04   --==>   51996647678
+nomeOperador   --==>   GILBERTO BREYER JUNIOR
+emailOperador   --==>   gilbertobreyerjunior@gmail.com
+telefoneOperador   --==>   51996647678
+cpfOperador   --==>   0238134789
+senhaOperador   --==>   12345678
+buscar   --==>   '
+cpfOperador   --==>   0238134788
+nomeOperador   --==>   Tamires Souza
+cpfOperador   --==>   38273921441
+emailOperador   --==>   tamires@email.com
+nomeOperador   --==>   Laiana Pires
+cpfOperador   --==>   38273921443
+telefoneOperador   --==>   51996647679
+emailOperador   --==>   laiana@email.com
+senhaOperador   --==>   1234567895
+nomeOperador   --==>   Eduarda Pires
+cpfOperador   --==>   38273921444
+telefoneOperador   --==>   5199664764
+emailOperador   --==>   eduarda@email.com
+nomeOperador   --==>   Luana Souza
+cpfOperador   --==>   3434243223241
+telefoneOperador   --==>   519936647679
+emailOperador   --==>   luana@email.com
+senhaOperador   --==>   1324324
+buscar   --==>   Lai
+nomeOperador   --==>   Tamires Souza Pires
+cpfOperador   --==>   38273921445
+cpfOperador   --==>   38273921446
+nomeOperador   --==>   Laiana Pires Silveira
+buscar   --==>   G
+buscar   --==>   1=1
+buscar   --==>   '1=1'
+name   --==>   nildo
+email   --==>   nildopd@gmail.com
+endereco   --==>   Rodovia ERS115 Km07
+numero   --==>   7104
+complemento   --==>   Próximo a Pizzaria Dona Luzia
+nome   --==>   VERA REGINA FLESCH
+query   --==>   verificação por foto
+request[custom_fields][360013861192]   --==>   5551996647678
+cpf_cliente   --==>   229.915.220-20
+tl_list-search-box   --==>   ale
+nomeOperador   --==>   T
+nomeOperador   --==>   t
+cpfOperador   --==>   4
+telefoneOperador   --==>   3
+emailOperador   --==>   3
+senhaOperador   --==>   4
+nomeOperador   --==>   Osvaldo Souza
+nomeOperador   --==>   Almiro Tales
+emailOperador   --==>   almiro@email.com
+nomeOperador   --==>   Tais
+cpfOperador   --==>   32142425124
+telefoneOperador   --==>   421411414214
+emailOperador   --==>   tais@email.com
+senhaOperador   --==>   tais@email.com
+nome   --==>   Gilberto Breyer Júnior
+cpfOperador   --==>   3434243223244
+nomeOperador   --==>   r
+nomeOperador   --==>   a
+nomeOperador   --==>   rrwerewrewrewrwrewreworekrewpojerpoewjrpoewjrpoejrewpojporwejrpejowoprjewrpoewrjewporewjrpowerjewporwjroewpjroewpjropwejrpoerjwepowjrweojrweojrweorjewrpoewjrwpoerwjeorwrjewopjroewjrwpoerjweorwjeorewjrwpoejrewporjweporwejrowejrweoprwjerwejorwejworjweorjweorjweporjweporwe
+email   --==>   gbj_rs@hotmail.com
+form.payload.contact_email   --==>   gilbertobreyerjunior@gmail.com
+form.payload.lead_name_crypto   --==>   GILBERTO BREYER JUNIOR
+form.payload.cpf   --==>   023.813.140-83
+form.payload.profession_income   --==>   R$ 1.300,00
+logonId   --==>   02381314083
+nomeOperador   --==>   G
+document   --==>   023.813.140-83
+item-quantity-1456   --==>   1
+postalCode   --==>   95650-000
+client-first-name   --==>   Gilberto
+client-last-name   --==>   Breyer Junior
+client-document   --==>   023.813.140-83
+client-phone   --==>   (51) 99664-7678
+ccName   --==>   GILBERTO B JUNIOR
+creditCardpayment-card-0Code   --==>   137
+holder-document-0   --==>   02381314083
+holder-document-0   --==>   023.813.140-83
+token   --==>   964080
+frete   --==>   95650-000
+qty_1   --==>   1
+calculateFreightField   --==>   95650000
+session_key   --==>   gbj_rs@hotmail.com
+encryptedExpiryDate   --==>   05/26
+nome-usuario   --==>   rrerr
+nome-usuario   --==>   ewrewrw
+item-quantity-2000614   --==>   1
+summary-postal-code   --==>   95650-000
+creditCardpayment-card-0Code   --==>   851
+card-holder-name   --==>   Vera Regina Flesch
+card-expiration-month   --==>   01
+expirationDate-year   --==>   29
+expirationDate-month   --==>   04
+shippingAddress.firstName   --==>   GILBERTO 
+shippingAddress.lastName   --==>   BREYER JUNIOR
+shippingAddress.address1   --==>   Rodovia ERS 115 Km07 
+shippingAddress.houseNumber   --==>   7104
+shippingAddress.phoneNumber   --==>   51996647678
+name   --==>   GILBERTO B JUNIOR
+login-email   --==>   gilbertobreyerjunior@gmail.com
+nome_usuario   --==>   GILBERTO
+cpf   --==>   023.813.140-83
+tl_list-search-box   --==>   alem
+chaveNfe   --==>   31210409339936000973550230021612001510045937
+nomeContato   --==>   Alceu
+telefoneContato   --==>   5199687865
+nomeContato   --==>   Laiana
+telefoneContato   --==>   3184868789
+buscar   --==>   AL
+buscar   --==>   65
+buscar   --==>   51
+nomeContato   --==>   Luana
+telefoneContato   --==>   51988782578
+sl_list-search-box   --==>   alem
+nomeRazao   --==>   GILBERTO
+cpfCnpj   --==>   023.813.140-83
+cep   --==>   95650-000
+field-273   --==>   Gilberto Breyer Júnior
+tl_list-search-box   --==>   inglês
+dataChegada   --==>   30/04/2021
+dataSaida   --==>   01/05/2021
+dataChegada   --==>   17/09/2021
+dataSaida   --==>   18/09/2021
+numero_docto   --==>   02381314083
+ctrlLogin$LoginProfissional$UserName   --==>   gilbertobreyerjunior
+f_curric_nome   --==>   Gilberto Breyer Júnior
+cpf   --==>   02381314083
+txtSearch   --==>   engenharia de software
+first_name   --==>   GILBERTO BREYER JUNIOR
+telephone   --==>   (51) 99664-7678
+urn:li:fs_easyApplyFormElement:(urn:li:fs_normalized_jobPosting:2509530557,9,phoneNumber~nationalNumber)   --==>   51996647678
+sl_list-search-box   --==>   russo
+name   --==>   Luis Alves
+email   --==>   luis@email.com
+primary_first_name   --==>   Gilberto
+primary_last_name   --==>   Breyer Jr
+sl_list-search-box   --==>   ingl
+name   --==>   Lais Alves
+email   --==>   lais@email.com
+input-nick   --==>   Mauro
+usernickname   --==>   Ironforce
+title   --==>   Super recomendo
+name   --==>   Carlos Silva
+email   --==>   carlos@email.com
+name   --==>   Alison alves
+email   --==>   alison@email.com
+cardHolderName   --==>   Vera Regina Flesch
+magalu-state   --==>   RS
+magalu-neighborhood   --==>   CENTRO
+magalu-city   --==>   IGREJINHA
+name   --==>   Tais Nunes
+email   --==>   tais@email.com
+chaveNfe   --==>   31210509339936000973550370008979711490987833
+freight-field   --==>   95650-000
+name   --==>   Gilberto Breyer Júnior
+Email   --==>   gbj_rs@hotmail.com
+user   --==>   gilbertobreyerjunior@gmail.com
+whatsapp   --==>   (51) 99664-7678
+phoneNumberId   --==>   51996647678
+displayName   --==>   forceiron801
+displayName   --==>   ironforce8000
+card_month   --==>   06
+card_year   --==>   29
+cardholdername   --==>   GILBERTO B JUNIOR
+phone   --==>   55 51 9966-47678
+identifier   --==>   gnconsult976@gmail.com
+idAcesso   --==>   02381314083
+signin[username]   --==>   gbjrs1990
+recover_password[email]   --==>   gbj_rs@hotmail.com
+data-nascimento   --==>   18/06/1990
+log   --==>   semchassis
+userLoginId   --==>   gbj_rs@hotmail.com
+name   --==>   Americas Hotel
+razao_social   --==>   Americas
+cnpj   --==>   21.092.533/0001-10 
+endereco   --==>   Barra da Tijuca
+email   --==>   barrahotel@novo.com
+cnpj   --==>   21092533000110 
+cnpj   --==>   22465567000176
+endereco   --==>   Av Atlantica
+email   --==>   novohotel@email.com
+buscar   --==>   ad
+email   --==>   admin@gmail.com
+name   --==>   Auxiliar
+name   --==>   João Souza
+email   --==>   email@email.com
+email   --==>   ard@mail.com
+email   --==>   email@mail.com
+name   --==>   Gerente
+name   --==>   Visita à empresa Luana Cosméticos
+phone   --==>   51996647678
+secondaryEmail   --==>   gilbertobreyerjunior@gmail.com
+telegram   --==>   Gilberto Breyer Juniot
+linkedinProfileUrl   --==>   hgilberto-breyer-junior
+addressZipcode   --==>   95650000
+tel   --==>   3000
+project[name]   --==>   projeto_partituras
+project[path]   --==>   projeto_partituras
+user[first_name]   --==>   Gilberto
+user[last_name]   --==>   Breyer Júnior
+user[email]   --==>   gilbertobreyerjunior@gmail.com
+identifier   --==>   gilbertojunior@faccat.br
+password_recovery_request[email]   --==>   gilbertojunior@faccat.br
+nome-completo   --==>   Vera Regina Flesch
+telefone   --==>   (51) 9 9664 7678
+cpf   --==>   229.915.220-20
+user[login]   --==>   gilbertobreyerjunior
+Email   --==>   ss
+Email   --==>   Edinaldosa
+id-checklist   --==>   verificação
+login   --==>   gilbertobreyerjunior
+otp   --==>   858086
+project[path]   --==>   risin_interno
+project[name]   --==>   risin_interno
+Ecom_User_ID   --==>   229.915.220-20
+username   --==>   023.813.140-83
+tl_list-search-box   --==>   es
+user_login   --==>   gbj_rs@hotmail.com
+user_login   --==>   gilbertobreyerjunior@gmail.com
+user_login   --==>   glbertobreyer.jr@gmail.com
+user_login   --==>   suportcodebr@gmail.com
+email   --==>   suportcodebr@gmail.com
+billing_email   --==>   suportcodebr@gmail.com
+billing_discord   --==>   gilbertobreyer.jr#2310
+zipcode   --==>   95650-000
+login   --==>   gbj_rs@hotmail.com
+iVerifyText   --==>   7137098
+ccmonth   --==>   03
+ccyear   --==>   29
+pepPhone Number   --==>   55519664-7678
+email   --==>   gilbertobreyerjunior@gmail.com
+login   --==>   gilbertobreyerjunior@gmail.com
+calc_cep   --==>   95650-000
+fullName   --==>   Júnior Breyer
+birthDate   --==>   18/06/1990
+fullName   --==>   GILBERTO BREYER JUNIOR
+address   --==>   Rodovia ERS 115 Km07 Numero 8104
+neighbourhood   --==>   15 de Novembro
+iccid_input   --==>   89551094360008854664
+telefone_input   --==>   (51) 99664-7678
+email_input   --==>   gilbertobreyerjunior@gmail.com
+username   --==>   suporte@faccat.br
+resetPasswordSuccess:dc3:username   --==>   suporte@faccat.br
+input-nick   --==>   Homem-30
+input-nick   --==>   Homem
+spl_q_vivo_uni_atendimento_menu_eletronico_adicional_pos_txt   --==>   Troca de chip
+validationDefault01   --==>   GILBERTO BREYER JUNIOR
+validationDefault03   --==>   gilbertobreyerjunior@gmail.com
+validationDefault04   --==>   51996647678
+nomeOperador   --==>   GILBERTO BREYER JUNIOR
+emailOperador   --==>   gilbertobreyerjunior@gmail.com
+telefoneOperador   --==>   51996647678
+cpfOperador   --==>   0238134789
+senhaOperador   --==>   12345678
+buscar   --==>   '
+cpfOperador   --==>   0238134788
+nomeOperador   --==>   Tamires Souza
+cpfOperador   --==>   38273921441
+emailOperador   --==>   tamires@email.com
+nomeOperador   --==>   Laiana Pires
+cpfOperador   --==>   38273921443
+telefoneOperador   --==>   51996647679
+emailOperador   --==>   laiana@email.com
+senhaOperador   --==>   1234567895
+nomeOperador   --==>   Eduarda Pires
+cpfOperador   --==>   38273921444
+telefoneOperador   --==>   5199664764
+emailOperador   --==>   eduarda@email.com
+nomeOperador   --==>   Luana Souza
+cpfOperador   --==>   3434243223241
+telefoneOperador   --==>   519936647679
+emailOperador   --==>   luana@email.com
+senhaOperador   --==>   1324324
+buscar   --==>   Lai
+nomeOperador   --==>   Tamires Souza Pires
+cpfOperador   --==>   38273921445
+cpfOperador   --==>   38273921446
+nomeOperador   --==>   Laiana Pires Silveira
+buscar   --==>   G
+buscar   --==>   1=1
+buscar   --==>   '1=1'
+name   --==>   nildo
+email   --==>   nildopd@gmail.com
+endereco   --==>   Rodovia ERS115 Km07
+numero   --==>   7104
+complemento   --==>   Próximo a Pizzaria Dona Luzia
+nome   --==>   VERA REGINA FLESCH
+query   --==>   verificação por foto
+request[custom_fields][360013861192]   --==>   5551996647678
+cpf_cliente   --==>   229.915.220-20
+tl_list-search-box   --==>   ale
+nomeOperador   --==>   T
+nomeOperador   --==>   t
+cpfOperador   --==>   4
+telefoneOperador   --==>   3
+emailOperador   --==>   3
+senhaOperador   --==>   4
+nomeOperador   --==>   Osvaldo Souza
+nomeOperador   --==>   Almiro Tales
+emailOperador   --==>   almiro@email.com
+nomeOperador   --==>   Tais
+cpfOperador   --==>   32142425124
+telefoneOperador   --==>   421411414214
+emailOperador   --==>   tais@email.com
+senhaOperador   --==>   tais@email.com
+nome   --==>   Gilberto Breyer Júnior
+cpfOperador   --==>   3434243223244
+nomeOperador   --==>   r
+nomeOperador   --==>   a
+nomeOperador   --==>   rrwerewrewrewrwrewreworekrewpojerpoewjrpoewjrpoejrewpojporwejrpejowoprjewrpoewrjewporewjrpowerjewporwjroewpjroewpjropwejrpoerjwepowjrweojrweojrweorjewrpoewjrwpoerwjeorwrjewopjroewjrwpoerjweorwjeorewjrwpoejrewporjweporwejrowejrweoprwjerwejorwejworjweorjweorjweporjweporwe
+email   --==>   gbj_rs@hotmail.com
+form.payload.contact_email   --==>   gilbertobreyerjunior@gmail.com
+form.payload.lead_name_crypto   --==>   GILBERTO BREYER JUNIOR
+form.payload.cpf   --==>   023.813.140-83
+form.payload.profession_income   --==>   R$ 1.300,00
+logonId   --==>   02381314083
+nomeOperador   --==>   G
+document   --==>   023.813.140-83
+item-quantity-1456   --==>   1
+postalCode   --==>   95650-000
+client-first-name   --==>   Gilberto
+client-last-name   --==>   Breyer Junior
+client-document   --==>   023.813.140-83
+client-phone   --==>   (51) 99664-7678
+ccName   --==>   GILBERTO B JUNIOR
+creditCardpayment-card-0Code   --==>   137
+holder-document-0   --==>   02381314083
+holder-document-0   --==>   023.813.140-83
+token   --==>   964080
+frete   --==>   95650-000
+qty_1   --==>   1
+calculateFreightField   --==>   95650000
+session_key   --==>   gbj_rs@hotmail.com
+encryptedExpiryDate   --==>   05/26
+nome-usuario   --==>   rrerr
+nome-usuario   --==>   ewrewrw
+item-quantity-2000614   --==>   1
+summary-postal-code   --==>   95650-000
+creditCardpayment-card-0Code   --==>   851
+card-holder-name   --==>   Vera Regina Flesch
+card-expiration-month   --==>   01
+expirationDate-year   --==>   29
+expirationDate-month   --==>   04
+shippingAddress.firstName   --==>   GILBERTO 
+shippingAddress.lastName   --==>   BREYER JUNIOR
+shippingAddress.address1   --==>   Rodovia ERS 115 Km07 
+shippingAddress.houseNumber   --==>   7104
+shippingAddress.phoneNumber   --==>   51996647678
+name   --==>   GILBERTO B JUNIOR
+login-email   --==>   gilbertobreyerjunior@gmail.com
+nome_usuario   --==>   GILBERTO
+cpf   --==>   023.813.140-83
+tl_list-search-box   --==>   alem
+chaveNfe   --==>   31210409339936000973550230021612001510045937
+nomeContato   --==>   Alceu
+telefoneContato   --==>   5199687865
+nomeContato   --==>   Laiana
+telefoneContato   --==>   3184868789
+buscar   --==>   AL
+buscar   --==>   65
+buscar   --==>   51
+nomeContato   --==>   Luana
+telefoneContato   --==>   51988782578
+sl_list-search-box   --==>   alem
+nomeRazao   --==>   GILBERTO
+cpfCnpj   --==>   023.813.140-83
+cep   --==>   95650-000
+field-273   --==>   Gilberto Breyer Júnior
+tl_list-search-box   --==>   inglês
+dataChegada   --==>   30/04/2021
+dataSaida   --==>   01/05/2021
+dataChegada   --==>   17/09/2021
+dataSaida   --==>   18/09/2021
+numero_docto   --==>   02381314083
+ctrlLogin$LoginProfissional$UserName   --==>   gilbertobreyerjunior
+f_curric_nome   --==>   Gilberto Breyer Júnior
+cpf   --==>   02381314083
+txtSearch   --==>   engenharia de software
+first_name   --==>   GILBERTO BREYER JUNIOR
+telephone   --==>   (51) 99664-7678
+urn:li:fs_easyApplyFormElement:(urn:li:fs_normalized_jobPosting:2509530557,9,phoneNumber~nationalNumber)   --==>   51996647678
+sl_list-search-box   --==>   russo
+name   --==>   Luis Alves
+email   --==>   luis@email.com
+primary_first_name   --==>   Gilberto
+primary_last_name   --==>   Breyer Jr
+sl_list-search-box   --==>   ingl
+name   --==>   Lais Alves
+email   --==>   lais@email.com
+input-nick   --==>   Mauro
+usernickname   --==>   Ironforce
+title   --==>   Super recomendo
+name   --==>   Carlos Silva
+email   --==>   carlos@email.com
+name   --==>   Alison alves
+email   --==>   alison@email.com
+cardHolderName   --==>   Vera Regina Flesch
+magalu-state   --==>   RS
+magalu-neighborhood   --==>   CENTRO
+magalu-city   --==>   IGREJINHA
+name   --==>   Tais Nunes
+email   --==>   tais@email.com
+chaveNfe   --==>   31210509339936000973550370008979711490987833
+freight-field   --==>   95650-000
+name   --==>   Gilberto Breyer Júnior
+Email   --==>   gbj_rs@hotmail.com
+user   --==>   gilbertobreyerjunior@gmail.com
+whatsapp   --==>   (51) 99664-7678
+phoneNumberId   --==>   51996647678
+displayName   --==>   forceiron801
+displayName   --==>   ironforce8000
+card_month   --==>   06
+card_year   --==>   29
+cardholdername   --==>   GILBERTO B JUNIOR
+phone   --==>   55 51 9966-47678

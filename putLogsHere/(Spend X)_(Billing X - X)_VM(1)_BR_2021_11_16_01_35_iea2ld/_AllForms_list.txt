@@ -1,0 +1,192 @@
+identifier   --==>   brunogremio8372@gmail.com
+email   --==>   bruno_becker51@hotmail.com
+nombre_nuevo_votante   --==>   xTSM
+cep   --==>   95930000
+sens1ag0   --==>   18
+dpiag0   --==>   1200
+sens1ag0   --==>   155
+monag0   --==>   75
+sens1ag0   --==>   55
+username   --==>   bruno_becker51@hotmail.com
+key   --==>   d15720ae
+search   --==>   alok
+search   --==>   david guetta
+uid_387   --==>   https://discord.gg/netenho
+input-product-quantity-517579   --==>   1
+usuario   --==>   04546503024
+url   --==>   https://www.youtube.com/watch?v=FFRIddOF_OA
+url   --==>   https://www.youtube.com/watch?v=yR8PIAjFi9s
+q   --==>   https://www.youtube.com/watch?v=yR8PIAjFi9s
+q   --==>   https://www.youtube.com/watch?v=FFRIddOF_OA
+phone   --==>   51 989500061
+search   --==>   skins
+input-cart-zipcode   --==>   95.930-000
+ls_query   --==>   teclado gamer
+calc_cep   --==>   95930-000
+s   --==>   netenho
+s   --==>   faisca
+s   --==>   red
+s   --==>   meta gaming
+zipcode   --==>   95930-000
+user_id   --==>   bruno_becker51@hotmail.com
+input-product-quantity-493823   --==>   1
+name   --==>   Bruno Becker
+street_number   --==>   772
+discount_code   --==>   S2PICHAU
+s   --==>   shaders 1.15
+cnpjdest   --==>   04546503024
+login   --==>   bruno_becker51@hotmail.com
+username   --==>   brunogremio1231
+authcode   --==>   Y8GCJ
+BillingInfo[email]   --==>   bruno_becker51@hotmail.com
+BillingInfo[last_name]   --==>   Becker
+url   --==>   https://steamcommunity.com/tradeoffer/new/?partner=224420807&token=lzRZHrTK
+userLogin   --==>   brunobe17
+nome   --==>   AAAAA
+meta   --==>   150
+s   --==>   pubg
+code   --==>   NAA2V8C9PDM3EPTG
+date_of_birth   --==>   17/02/2000
+plNome   --==>   Bruno Becker
+plNick   --==>   Bruno_Becker17
+timezone   --==>   178
+identifier   --==>   brendapessi123@gmail.com
+firstName   --==>   Bruno
+hwMouse   --==>   Hyperx FPS PRO
+hwMousepad   --==>   REDRAGON 
+hwFone   --==>   Hyperx Cloud Stinger
+hwTeclado   --==>   C3 Tech mecânico rgb
+hwMonitor   --==>   AOC SNIPER 24
+dfResolucao   --==>   1280X1024
+cep   --==>   95930-000
+street   --==>   Rua Frederico Germano H.
+complement   --==>   Casa apto 02
+neighborhood   --==>   Vila Célia
+plNick   --==>   brun0be
+cep_destino   --==>   95930-000
+input-freight-product   --==>   95930-000
+challenge-link   --==>   https://gamersclub.com.br/1x1/FHAK1Jpj
+challenge-link   --==>   https://gamersclub.com.br/1x1/9odDKiWG
+input_1   --==>   brunobe17
+input_2   --==>   bruno_becker51@hotmail.com
+hwMousepad   --==>   HyperX S Fury
+hwTeclado   --==>   HyperX Alloy FPS Pro
+dfOpcaoArranque   --==>   1000
+copy-code   --==>   <iframe src="https://audioglobo.globo.com/widget/widget.html?podcast=758&amp;color=06AA48" width="648" height="253" frameborder="0" scrolling="no"></iframe>
+AuthEmail   --==>   bruno_becker51@hotmail.com
+phoneNumber   --==>   51989500061
+code   --==>   NAA6UQMR4MNJKCMR
+username   --==>   brunobe1724
+q   --==>   https://steamcommunity.com/id/brunobe17
+checkout[full_name]   --==>   Bruno Matheus Becker
+checkout[vat_number]   --==>   04546503024
+checkout[shipping_phone_number]   --==>   51989500061
+checkout[street_name]   --==>   Rua Santa Catarina
+checkout[building_number]   --==>   292
+checkout[street_compliment]   --==>   Casa apto 02
+checkout[shipping_zip_code]   --==>   959300000
+checkout[shipping_city]   --==>   Cruzeiro do Sul
+expiry-date   --==>   01 / 29
+pwAcess   --==>   yurifps
+login   --==>   699.299.710-68
+cpf   --==>   650.191.990-87
+name   --==>   Leonardo Luis Pessi
+birthDate   --==>   02/05/1972
+email   --==>   brunogremio8372@gmail.com
+login   --==>   650.191.990-87
+identifier   --==>   brunogremio8372@gmail.com
+email   --==>   bruno_becker51@hotmail.com
+nombre_nuevo_votante   --==>   xTSM
+cep   --==>   95930000
+sens1ag0   --==>   18
+dpiag0   --==>   1200
+sens1ag0   --==>   155
+monag0   --==>   75
+sens1ag0   --==>   55
+username   --==>   bruno_becker51@hotmail.com
+key   --==>   d15720ae
+search   --==>   alok
+search   --==>   david guetta
+uid_387   --==>   https://discord.gg/netenho
+input-product-quantity-517579   --==>   1
+usuario   --==>   04546503024
+url   --==>   https://www.youtube.com/watch?v=FFRIddOF_OA
+url   --==>   https://www.youtube.com/watch?v=yR8PIAjFi9s
+q   --==>   https://www.youtube.com/watch?v=yR8PIAjFi9s
+q   --==>   https://www.youtube.com/watch?v=FFRIddOF_OA
+phone   --==>   51 989500061
+search   --==>   skins
+input-cart-zipcode   --==>   95.930-000
+ls_query   --==>   teclado gamer
+calc_cep   --==>   95930-000
+s   --==>   netenho
+s   --==>   faisca
+s   --==>   red
+s   --==>   meta gaming
+zipcode   --==>   95930-000
+user_id   --==>   bruno_becker51@hotmail.com
+input-product-quantity-493823   --==>   1
+name   --==>   Bruno Becker
+street_number   --==>   772
+discount_code   --==>   S2PICHAU
+s   --==>   shaders 1.15
+cnpjdest   --==>   04546503024
+login   --==>   bruno_becker51@hotmail.com
+username   --==>   brunogremio1231
+authcode   --==>   Y8GCJ
+BillingInfo[email]   --==>   bruno_becker51@hotmail.com
+BillingInfo[last_name]   --==>   Becker
+url   --==>   https://steamcommunity.com/tradeoffer/new/?partner=224420807&token=lzRZHrTK
+userLogin   --==>   brunobe17
+nome   --==>   AAAAA
+meta   --==>   150
+s   --==>   pubg
+code   --==>   NAA2V8C9PDM3EPTG
+date_of_birth   --==>   17/02/2000
+plNome   --==>   Bruno Becker
+plNick   --==>   Bruno_Becker17
+timezone   --==>   178
+identifier   --==>   brendapessi123@gmail.com
+firstName   --==>   Bruno
+hwMouse   --==>   Hyperx FPS PRO
+hwMousepad   --==>   REDRAGON 
+hwFone   --==>   Hyperx Cloud Stinger
+hwTeclado   --==>   C3 Tech mecânico rgb
+hwMonitor   --==>   AOC SNIPER 24
+dfResolucao   --==>   1280X1024
+cep   --==>   95930-000
+street   --==>   Rua Frederico Germano H.
+complement   --==>   Casa apto 02
+neighborhood   --==>   Vila Célia
+plNick   --==>   brun0be
+cep_destino   --==>   95930-000
+input-freight-product   --==>   95930-000
+challenge-link   --==>   https://gamersclub.com.br/1x1/FHAK1Jpj
+challenge-link   --==>   https://gamersclub.com.br/1x1/9odDKiWG
+input_1   --==>   brunobe17
+input_2   --==>   bruno_becker51@hotmail.com
+hwMousepad   --==>   HyperX S Fury
+hwTeclado   --==>   HyperX Alloy FPS Pro
+dfOpcaoArranque   --==>   1000
+copy-code   --==>   <iframe src="https://audioglobo.globo.com/widget/widget.html?podcast=758&amp;color=06AA48" width="648" height="253" frameborder="0" scrolling="no"></iframe>
+AuthEmail   --==>   bruno_becker51@hotmail.com
+phoneNumber   --==>   51989500061
+code   --==>   NAA6UQMR4MNJKCMR
+username   --==>   brunobe1724
+q   --==>   https://steamcommunity.com/id/brunobe17
+checkout[full_name]   --==>   Bruno Matheus Becker
+checkout[vat_number]   --==>   04546503024
+checkout[shipping_phone_number]   --==>   51989500061
+checkout[street_name]   --==>   Rua Santa Catarina
+checkout[building_number]   --==>   292
+checkout[street_compliment]   --==>   Casa apto 02
+checkout[shipping_zip_code]   --==>   959300000
+checkout[shipping_city]   --==>   Cruzeiro do Sul
+expiry-date   --==>   01 / 29
+pwAcess   --==>   yurifps
+login   --==>   699.299.710-68
+cpf   --==>   650.191.990-87
+name   --==>   Leonardo Luis Pessi
+birthDate   --==>   02/05/1972
+email   --==>   brunogremio8372@gmail.com
+login   --==>   650.191.990-87

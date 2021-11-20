@@ -1,0 +1,6 @@
+﻿.facebook.com	TRUE	/	FALSE	1830365600	c_user	100001449589821
+.facebook.com	TRUE	/	FALSE	1830365600	datr	Mo_SWFUaDPSuHRODNRKu4lcg
+.facebook.com	TRUE	/	FALSE	1830365600	sb	1fwjWnaofwkyxVM-2k4DamkQ
+.facebook.com	TRUE	/	FALSE	1830365600	xs	14%3A3SUTiAcG2HzjOg%3A2%3A1572414764%3A14036%3A3426
+.facebook.com	TRUE	/	FALSE	1830365600	fr	0Tl0YxCI6q0IW8ZKw.AWUNcYGrrULdwfqsbsHfiOC_0sk.BaI61e.r-.F3u.0.0.Bd7h7l.
+.facebook.com	TRUE	/	FALSE	1830365600	spin	r.1002790228_b.trunk_t.1602165593_s.1_v.2_

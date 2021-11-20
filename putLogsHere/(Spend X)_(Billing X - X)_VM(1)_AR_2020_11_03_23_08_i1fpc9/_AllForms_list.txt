@@ -1,0 +1,95 @@
+fr_vueltas   --==>   1
+fr_minutos   --==>   2
+fr_marca   --==>   3
+searchMod   --==>   argentina
+searchMod   --==>   sudamerica
+s   --==>   argrntins
+s   --==>   argrntina
+s   --==>   argentina
+patente   --==>   AB161OF
+anio   --==>   2017
+modelo   --==>   NVA RANGER DC 4X4 LTD AT 3.2L
+numeromotor   --==>   SA2QHJ429269
+rut   --==>   21566302
+nombres   --==>   OCTAVIO OSIRIS
+apellidop   --==>   OVIEDO
+apellidom   --==>   ----
+emailPoliza   --==>   osi255@hotmail.com
+emailPolizaConfirma   --==>   osi255@hotmail.com
+Email   --==>   oviedoctavio5@Gmail.com
+Email   --==>   oviedooctavio5@gmail.com
+username   --==>   octavio
+dob_day   --==>   5
+dob_year   --==>   1970
+login   --==>   octavio
+login   --==>   osi255@hotmail.com
+captcha_question_answer   --==>   e
+username   --==>   felipeoviedo5
+authcode   --==>   ndtjx
+video_url   --==>   https://www.youtube.com/watch?v=DmJPG9GKOu4
+search   --==>   osi255@hotmail.com
+code   --==>   PDHMJ
+username   --==>   osirisoviedo
+username   --==>   FRANOVIEDO13
+authcode   --==>   C9XDY
+email   --==>   ford_river99@hotmail.com.ar
+username   --==>   octaviosiris
+login-username   --==>   franoviedo13
+username   --==>   franoviedo13
+login   --==>   felimanuoviedo1@gmail.com
+keywords   --==>   lancer evolution vii
+keywords   --==>   lancer vii 1999
+keywords   --==>   lancer evolution vii dirt rally 2.0
+keywords   --==>   escort cosworth
+login-username   --==>   feliicarp01
+q   --==>   pedalera
+q   --==>    pedal board
+input   --==>   marinero mario luis
+fr_vueltas   --==>   1
+fr_minutos   --==>   2
+fr_marca   --==>   3
+searchMod   --==>   argentina
+searchMod   --==>   sudamerica
+s   --==>   argrntins
+s   --==>   argrntina
+s   --==>   argentina
+patente   --==>   AB161OF
+anio   --==>   2017
+modelo   --==>   NVA RANGER DC 4X4 LTD AT 3.2L
+numeromotor   --==>   SA2QHJ429269
+rut   --==>   21566302
+nombres   --==>   OCTAVIO OSIRIS
+apellidop   --==>   OVIEDO
+apellidom   --==>   ----
+emailPoliza   --==>   osi255@hotmail.com
+emailPolizaConfirma   --==>   osi255@hotmail.com
+Email   --==>   oviedoctavio5@Gmail.com
+Email   --==>   oviedooctavio5@gmail.com
+username   --==>   octavio
+dob_day   --==>   5
+dob_year   --==>   1970
+login   --==>   octavio
+login   --==>   osi255@hotmail.com
+captcha_question_answer   --==>   e
+username   --==>   felipeoviedo5
+authcode   --==>   ndtjx
+video_url   --==>   https://www.youtube.com/watch?v=DmJPG9GKOu4
+search   --==>   osi255@hotmail.com
+code   --==>   PDHMJ
+username   --==>   osirisoviedo
+username   --==>   FRANOVIEDO13
+authcode   --==>   C9XDY
+email   --==>   ford_river99@hotmail.com.ar
+username   --==>   octaviosiris
+login-username   --==>   franoviedo13
+username   --==>   franoviedo13
+login   --==>   felimanuoviedo1@gmail.com
+keywords   --==>   lancer evolution vii
+keywords   --==>   lancer vii 1999
+keywords   --==>   lancer evolution vii dirt rally 2.0
+keywords   --==>   escort cosworth
+login-username   --==>   feliicarp01
+q   --==>   pedalera
+q   --==>    pedal board
+input   --==>   marinero mario luis
+searchbar-history   --==>   twitch

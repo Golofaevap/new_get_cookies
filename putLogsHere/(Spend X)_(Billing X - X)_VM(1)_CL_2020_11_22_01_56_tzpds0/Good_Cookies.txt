@@ -1,0 +1,9 @@
+﻿.facebook.com	TRUE	/	FALSE	1830365600	datr	fX2uXygDucay1JOt1WA-lamR
+.facebook.com	TRUE	/	FALSE	1830365600	sb	fX2uX0KgLHJmNhGGOqpntSoE
+.facebook.com	TRUE	/	FALSE	1830365600	c_user	1382646151
+.facebook.com	TRUE	/	FALSE	1830365600	xs	11%3ALjjLJhvuNU4a0A%3A2%3A1605270990%3A4891%3A1208
+.facebook.com	TRUE	/	FALSE	1830365600	fr	1xNVz57cQEc7w8xdj.AWV2aDlBmCWgYsi5aQRn9R1ArwA.Bfrn19.A7.AAA.0.0.Bfrn3M.AWV1JvWNtY4
+.facebook.com	TRUE	/	FALSE	1830365600	spin	r.1003022767_b.trunk_t.1606127556_s.1_v.2_
+.facebook.com	TRUE	/	FALSE	1830365600	presence	EDvF3EtimeF1605271069EuserFA21382646151A2EstateFDutF0CEchF_7bCC
+.facebook.com	TRUE	/	FALSE	1830365600	wd	1920x966
+.facebook.com	TRUE	/	FALSE	1830365600	x-src	%2Fcheckpoint%2Fflow%7Cpagelet_bluebar

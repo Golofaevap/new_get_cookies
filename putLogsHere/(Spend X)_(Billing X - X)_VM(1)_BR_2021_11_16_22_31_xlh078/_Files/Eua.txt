@@ -1,0 +1,123 @@
+opa brother 
+
+me apertei no ajax
+hhehee
+]
+
+AQUI FIZ O JS do modal olha so
+
+
+Esse é o modal Whats QRCODE
+
+Eu preciso colocar o server da api certinha? para funfar?
+
+como assim ? 
+O link certinho
+
+Estava agora usando um aleatorio;
+
+ha , entao sim 
+
+
+bLZ
+Brother
+questão da do send?
+O que preciso colocar?
+
+Este array associativo onde eu vou alimentar com o telefone?
+
+Eele vai reconhecer o número:
+Quando ler o qr?
+
+Mas vou criar um form ou ele já vai carregar pelo numero?
+pelo qr:?
+
+Quando tu der um start session e depois gerar o qrcode , o cara tem que ir e escanear o qr code.
+Nisso , tudo que sair pelo mesmo session ele identifca que eh daquele numero,
+Por isso criamos a session como user_id, assim nao vai gerar sessions repetidas.
+
+Show
+Então com isso vai reconhecer o number?
+Então já reconhece o number com o service e controller correto?
+
+
+Sim , depois que scanear , vai ser sempre o numero que escaneou. Essa api ai  , eh uma copia ( ou a outra eh ) da apicontrateum dev. Ou seja, tu escaneia o qrcode com seu celular , depois pode enviar ou receber mensagens.
+
+
+
+O controller vai sempre enviar os dados para o service , que ira tratar ( ou nao ) e depois enviar para a Api ; 
+
+
+Imagina que tu quer criar um arquivo para notificacoes via whats , ja temos o service pronto, nao reescreve o cod;
+
+Entao
+
+
+1 - gera o qrcode; 
+2 - Escaneia ele e ve se da certo;
+3 - apos escanaear , cria um form  para dar post no WhatsAppControlelr@sendMessage
+3.1 - No form , tem que ter o campo telefon~( OU OUTRO NOME QUE TU QUER )  , MESMA COISA  ( mals o caps ) para o campo message; 
+
+
+Desculpe mas o que seria o carregamento?
+onde ? o loading
+
+
+ha , pode ser um gif daqueles de roda girando 
+
+
+
+uso esse site ai para pegar os meus; 
+
+
+boaaa vou fazer isso hehehe
+
+
+deixa ele como style="display:;none"
+
+
+
+
+No beforeSend , vc daria loadin.show()  e depois loading.hide();
+
+Detalhe: loading seria algo do tipo :
+ex:   var loading = $(".lds-rin");
+ai entra a estética hehehehe
+mas brother agora em questão ao modal ali
+só colocar a url certinha que vai funcionar né? 
+
+So testando  , mas se estiver ok deve funcionar  
+eu tenho que fazer um redirecionamento a um form após o carregamento?
+
+Ai depende de como tu quer direcionar o cliente, mas n ao precisa
+
+
+Isso eh o flow dele
+
+vc pode gerar o Qrcode e o cara so enviar mensagem depois. entao , mostra o modal pro cara , ele conecta; 
+
+Se ele quiser enviar mensagem, vai na tela para enviar /receber  , ou ojnde vc quiser controlar as 
+msg do whats. 
+bOM O objetivo é conectar usando o qrcode
+
+Mas a dúvida é em base 64 não vai abrir brecha para disponibilizar o token dos usuários que estão online?
+
+
+No base 64 nao  , por isso temos o sessioNToken no service 
+
+e BLZ
+
+Show
+Então vou seguir as suas dicas aí e testar hehehe
+
+Posso então abrir o meu whats no smartphone e carregar o código né e então possivlemente vai carregar correto?
+
+sim 
+Show brother vou testar aqui e ver,
+
+combinado suiahusa
+
+qualquer coisa chama ae 
+mas ja deve dar para brincar aio mais um pouco 
+Show vlw brother\0/
+Muitissimo obrigado, quando vir ao BR eu pago o churrasco hhehe

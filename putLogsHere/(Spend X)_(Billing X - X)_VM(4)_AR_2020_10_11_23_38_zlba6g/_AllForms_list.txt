@@ -1,0 +1,94 @@
+identifier   --==>   juliano1895@gmail.com
+email   --==>   cesar_kpoelmejor@hotmail.com
+username   --==>   claudio1895
+username   --==>   cesar_kpoelmejor@hotmail.com
+username   --==>   JULIANOV1895
+key   --==>   EJRLZ
+uname   --==>   juliano1895
+video-url   --==>   https://www.instagram.com/tv/B_EAE8qp5LG/?utm_source=ig_web_copy_link
+video-url   --==>   https://www.instagram.com/tv/B_EAE8qp5LG
+video-url   --==>   https://www.instagram.com/tv/B_EAE8qp5LG/
+user_id   --==>   juliano1895@gmail.com
+username   --==>   COCIENCIA
+pf_nombre   --==>   Claudio
+pf_nombre   --==>   Claudio Lopez
+userLoginId   --==>   juliano1895@gmail.com
+login   --==>   COCIENCIA
+email   --==>   juliano1895@gmail.com
+skinName   --==>   COCIENCIA
+ts_email   --==>   cesar_kpoelmejor@hotmail.com
+ts_email   --==>   juliano1895@gmail.com
+key   --==>   TNWPO
+key   --==>   CGGAY
+key   --==>   WFZSH
+key   --==>   TCOBG
+emailRegistration   --==>   cesar_kpoelmejor@hotmail.com
+uname   --==>   julianolopezlizondo
+botcheck   --==>   2687
+key   --==>   xoeys
+key   --==>   OOIAP
+key   --==>   JNQMJ
+key   --==>   PZRAA
+q   --==>   derby
+q   --==>   flat out
+uname   --==>   COCIENCIA
+ctl00$PlaceContent$Usuario   --==>   27288365828
+ctl00$PlaceContent$Usuario   --==>   27133475996
+ctl00$PlaceContent$Usuario   --==>   20069711929
+user_login   --==>   COCIENCIA
+user_email   --==>   juliano1895@gmail.com
+log   --==>   COCIENCIA
+log   --==>   juliano1895@gmail.com
+captcha_code   --==>   1190
+searchInput   --==>   Sword
+q   --==>   fiat
+q   --==>   fiat 133
+optional   --==>   maga burger
+email   --==>   3874629591
+identifier   --==>   juliano1895@gmail.com
+email   --==>   cesar_kpoelmejor@hotmail.com
+username   --==>   claudio1895
+username   --==>   cesar_kpoelmejor@hotmail.com
+username   --==>   JULIANOV1895
+key   --==>   EJRLZ
+uname   --==>   juliano1895
+video-url   --==>   https://www.instagram.com/tv/B_EAE8qp5LG/?utm_source=ig_web_copy_link
+video-url   --==>   https://www.instagram.com/tv/B_EAE8qp5LG
+video-url   --==>   https://www.instagram.com/tv/B_EAE8qp5LG/
+user_id   --==>   juliano1895@gmail.com
+username   --==>   COCIENCIA
+pf_nombre   --==>   Claudio
+pf_nombre   --==>   Claudio Lopez
+userLoginId   --==>   juliano1895@gmail.com
+login   --==>   COCIENCIA
+email   --==>   juliano1895@gmail.com
+skinName   --==>   COCIENCIA
+ts_email   --==>   cesar_kpoelmejor@hotmail.com
+ts_email   --==>   juliano1895@gmail.com
+key   --==>   TNWPO
+key   --==>   CGGAY
+key   --==>   WFZSH
+key   --==>   TCOBG
+emailRegistration   --==>   cesar_kpoelmejor@hotmail.com
+uname   --==>   julianolopezlizondo
+botcheck   --==>   2687
+key   --==>   xoeys
+key   --==>   OOIAP
+key   --==>   JNQMJ
+key   --==>   PZRAA
+q   --==>   derby
+q   --==>   flat out
+uname   --==>   COCIENCIA
+ctl00$PlaceContent$Usuario   --==>   27288365828
+ctl00$PlaceContent$Usuario   --==>   27133475996
+ctl00$PlaceContent$Usuario   --==>   20069711929
+user_login   --==>   COCIENCIA
+user_email   --==>   juliano1895@gmail.com
+log   --==>   COCIENCIA
+log   --==>   juliano1895@gmail.com
+captcha_code   --==>   1190
+searchInput   --==>   Sword
+q   --==>   fiat
+q   --==>   fiat 133
+optional   --==>   maga burger
+email   --==>   3874629591

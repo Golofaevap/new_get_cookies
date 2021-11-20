@@ -1,0 +1,326 @@
+email   --==>   aril.mufc@gmail.com
+identifier   --==>   aril.mufc@gmail.com
+Username   --==>   fullmetalalchemistempire
+phoneNumberId   --==>   01119500315
+family_name   --==>   alchemistempire
+display_phone_number   --==>   01119500315
+verification_code   --==>   483093
+verification_code   --==>   193062
+s   --==>   office 2010
+s   --==>   office 2010 free setup
+s   --==>   office 2010 free setup iso
+s   --==>   office 365
+s   --==>   office 365 free setup
+videoURL   --==>   https://www.youtube.com/watch?v=OJhqsUnKUWw
+NamaPemohon   --==>   NUR FAZIRA BINTI YAYAH
+TarikhLahir   --==>   28/12/1993
+TempatLahir   --==>   HOSPITAL KOTA BELUD SABAH
+NoKp   --==>   931228125762
+BangsaL   --==>   DUSUN
+NamaBapa   --==>   YAYAH BIN YABAS
+TarikhLBapa   --==>   06/03/1969
+TempatBapa   --==>   HOSPITAL KOTA BELUD
+BangsaLB   --==>   DUSUN
+KPBapa   --==>   690306125545
+NamaIbu   --==>   SAILIN BINTI YABIN
+TarikhLIbu   --==>   16/09/1975
+TempatLIbu   --==>   HOSPITAL KOTA BELUD
+BangsaLI   --==>   DUSUN
+KpIbu   --==>   750916125368
+BahasaLain   --==>   DUSUN
+Address1   --==>   LOT 5659 R1 JALAN HAJI ABDUL AZIZ
+Address2   --==>   LORONG ZAINAL ABIDIN KAMPUNG 
+Address3   --==>   PERIGI NENAS 42920 PULAU INDAH SELANGOR
+EmailAddress   --==>   dayufaziraa@gmail.com
+NoTel   --==>   0145578475
+TahunTing5   --==>   2010
+ExpNJawSkg   --==>   OPERATOR QUALITY CHECK 
+NamaAddMajSkg   --==>   COMSALE MALAYSIA SDN BHD
+TrkMLantikSkg   --==>   04/12/2018
+TrkALantikSkg   --==>   05/11/2019
+ExpNJawDulu1   --==>   PENDIDIK TASKA
+NamaAddMajDulu1   --==>   TASKA UMMI BESTARI SDN BHD
+TrkMLantikDulu1   --==>   20/07/2017
+TrkALantikDulu1   --==>   15/11/2018
+SijilTaip   --==>   SIJIL PERTANIAN SABAH TIMBANG MENGGARIS KOTA BELUD SABAH.
+TahunTing3   --==>   2008
+txtICNo   --==>   931228125762
+txtNoMohon   --==>   310858
+j_username   --==>   931228125762
+identifier   --==>   dayufaziraa@gmail.com
+jpCityOther   --==>   puchong
+erName   --==>   mr yugash
+erDesignation   --==>   human resources management comsale malaysia
+erContactNo1   --==>   0164472231
+erName   --==>   jepirin pinsin
+erDesignation   --==>   pensyarah
+erContactNo1   --==>   01114854515
+dateOfActivity   --==>   13/02/2020
+employerCode   --==>   B3401000382P
+addrLine1   --==>   NO.41A, TINGKAT 1
+addrLine2   --==>   LORONG SENTOSA 4A, TAMAN BAYU TINGGI
+email   --==>   tky7473@outlook.com
+email   --==>   xavindik8@gmail.com
+name   --==>   NUR FAZIRA BINTI YAYAH
+ic   --==>   931228125762
+email   --==>   dayufaziraa@gmail.com
+name   --==>   ANDIKA BIN AMZAH
+ic   --==>   920212125051
+username   --==>   21903450
+username   --==>   61803256
+username   --==>   920212125051
+identifier   --==>   fullmetalalchemistempire@gmail.com
+noKPB   --==>   931228125762
+textNama   --==>   NUR FAZIRA BINTI YAYAH
+tarikh_lahir   --==>   28-12-1993
+textUmur   --==>   27
+textKPBaru   --==>   931228125762
+textSijilLahir   --==>   399047
+jawatan_pasangan   --==>   QA QUALITY ASSISTEN
+alamat_tkpasangan   --==>   MEWAH DAIRIES SDN BHD KLANG SELANGOR
+textAlamat1   --==>   kg ginapas rosok jalan kompleks sukan
+textAlamat2   --==>    p/s216 89158 kota belud sabah.
+textBandar   --==>   kota belud
+username   --==>   931228125762
+acdSchoolName   --==>   spm
+acdMajor   --==>   pendidikan seni visual
+acdScoreTaken   --==>   3.93
+acdFullScore   --==>   4.00
+weSalary   --==>   600
+weStartDate   --==>   1/6/2017
+weEndDate   --==>   1/11/2018
+weCompanyName   --==>   Taska ummi bestari sdn bhd
+mascoCode   --==>   2342-04
+weJobDesc1   --==>   Berkomunikasi dengan ibu bapa mengenai program-program, masalah, pelajaran, dan kemajuan pelajar.
+weJobDesc2   --==>   Mengekalkan kemudahan yang selamat, bersih dan mengajar kanak-kanak peraturan kelakuan selamat.
+weJobDesc3   --==>   Merancang dan memimpin aktiviti pendidikan dan pelajaran seperti masa cerita, membuat muzik, atau kraf.
+weSalary   --==>   920
+jpMascoCode   --==>   2133-04
+jpExpectedSalary   --==>   1200
+dateOfActivity   --==>   16/03/2020
+employerCode   --==>   B3200082933B
+addrLine1   --==>   NO 27-2 SUITE 7 JALAN PUTERI 1/4
+addrLine2   --==>   BANDAR PUTERI PUCHONG
+salaryOffered   --==>   1200
+salaryOffered   --==>   1300
+ctl00$MainContent$CarianText   --==>   990630125875
+ctl00$MainContent$txtIC   --==>   990630125875
+ctl00$MainContent$txtAlamat1   --==>   BORNEO SAMUDERA SDN BHD LADANG KAMPUNG
+ctl00$MainContent$txtAlamat2   --==>   PINAWANTAI KUDAT KOTA MARUDU
+ctl00$MainContent$txtAlamat3   --==>   89050 KUDAT SABAH
+ctl00$MainContent$txtPoskod   --==>   89050
+ctl00$MainContent$txtNegeri   --==>   SABAH
+ctl00$MainContent$txtBandar   --==>   KUDAT
+ctl00$MainContent$txtEmel   --==>   xavindik8@gmail.com
+ctl00$MainContent$txtNoTelBimbit   --==>   01119500315
+identifier   --==>   fazleeyayah9@gmail.com
+display_phone_number   --==>   0145578475
+verification_code   --==>   740975
+Username   --==>   fazleeeyayah9
+phoneNumberId   --==>   01121834253
+identifier   --==>   fazleeeyayah9@gmail.com
+display_phone_number   --==>   01121834253
+verification_code   --==>   778670
+nama   --==>   andika bin amzah
+nohp   --==>   01119500315
+username   --==>   1395198
+username   --==>   1304186
+nick_name   --==>   SITI HANISAH BINTI KHULIM
+cvf_captcha_input   --==>   f67xan
+cvf_captcha_input   --==>   3c4w
+cvf_captcha_input   --==>   xc733x
+code   --==>   601410
+cvf_phone_num   --==>   01119500315
+cvf_captcha_input   --==>   n3bx57
+code   --==>   120282
+email   --==>   fullmetalalchemistempire@gmail.com
+searchstring   --==>   maybank
+name   --==>   maybank
+wire_transfer.bank_name   --==>   MALAYAN BANKING BERHAD (MAYBANK)
+wire_transfer.account_number   --==>   160269143112
+wire_transfer.swift_code   --==>   MBBEMYKLKIN
+wire_transfer.iban_code   --==>   N/A
+wire_transfer.ifsc_code   --==>   MBBEMYKL
+wire_transfer.branch_code   --==>   KIN
+wire_transfer.bank_address   --==>   KOTA KINABALU SABAH
+identifier   --==>   sitihanisah161@gmail.com
+nick_name   --==>   UMMU HANISAH BINTI MUSILI
+boss_id   --==>   961007-12-6240
+username   --==>   1399218
+jsc_c_25   --==>   https://www.youtube.com/channel/UCM7gveI2ujgWt9kqT3GJYQw
+jsc_c_2x   --==>   https://www.youtube.com/channel/UC1HhQVz89KqKDyv8Iwg4sUg
+username   --==>   1396564
+identifier   --==>   xavindik8@gmail.com
+key   --==>   aghnia
+key   --==>   khalisa
+key   --==>   khalishah
+key   --==>   arisha
+key   --==>   arishah
+key   --==>   aiza
+key   --==>   athar
+key   --==>   izzan
+keyword   --==>   backst
+loginKey   --==>   sayafazira
+email   --==>   aril.mufc@gmail.com
+identifier   --==>   aril.mufc@gmail.com
+Username   --==>   fullmetalalchemistempire
+phoneNumberId   --==>   01119500315
+family_name   --==>   alchemistempire
+display_phone_number   --==>   01119500315
+verification_code   --==>   483093
+verification_code   --==>   193062
+s   --==>   office 2010
+s   --==>   office 2010 free setup
+s   --==>   office 2010 free setup iso
+s   --==>   office 365
+s   --==>   office 365 free setup
+videoURL   --==>   https://www.youtube.com/watch?v=OJhqsUnKUWw
+NamaPemohon   --==>   NUR FAZIRA BINTI YAYAH
+TarikhLahir   --==>   28/12/1993
+TempatLahir   --==>   HOSPITAL KOTA BELUD SABAH
+NoKp   --==>   931228125762
+BangsaL   --==>   DUSUN
+NamaBapa   --==>   YAYAH BIN YABAS
+TarikhLBapa   --==>   06/03/1969
+TempatBapa   --==>   HOSPITAL KOTA BELUD
+BangsaLB   --==>   DUSUN
+KPBapa   --==>   690306125545
+NamaIbu   --==>   SAILIN BINTI YABIN
+TarikhLIbu   --==>   16/09/1975
+TempatLIbu   --==>   HOSPITAL KOTA BELUD
+BangsaLI   --==>   DUSUN
+KpIbu   --==>   750916125368
+BahasaLain   --==>   DUSUN
+Address1   --==>   LOT 5659 R1 JALAN HAJI ABDUL AZIZ
+Address2   --==>   LORONG ZAINAL ABIDIN KAMPUNG 
+Address3   --==>   PERIGI NENAS 42920 PULAU INDAH SELANGOR
+EmailAddress   --==>   dayufaziraa@gmail.com
+NoTel   --==>   0145578475
+TahunTing5   --==>   2010
+ExpNJawSkg   --==>   OPERATOR QUALITY CHECK 
+NamaAddMajSkg   --==>   COMSALE MALAYSIA SDN BHD
+TrkMLantikSkg   --==>   04/12/2018
+TrkALantikSkg   --==>   05/11/2019
+ExpNJawDulu1   --==>   PENDIDIK TASKA
+NamaAddMajDulu1   --==>   TASKA UMMI BESTARI SDN BHD
+TrkMLantikDulu1   --==>   20/07/2017
+TrkALantikDulu1   --==>   15/11/2018
+SijilTaip   --==>   SIJIL PERTANIAN SABAH TIMBANG MENGGARIS KOTA BELUD SABAH.
+TahunTing3   --==>   2008
+txtICNo   --==>   931228125762
+txtNoMohon   --==>   310858
+j_username   --==>   931228125762
+identifier   --==>   dayufaziraa@gmail.com
+jpCityOther   --==>   puchong
+erName   --==>   mr yugash
+erDesignation   --==>   human resources management comsale malaysia
+erContactNo1   --==>   0164472231
+erName   --==>   jepirin pinsin
+erDesignation   --==>   pensyarah
+erContactNo1   --==>   01114854515
+dateOfActivity   --==>   13/02/2020
+employerCode   --==>   B3401000382P
+addrLine1   --==>   NO.41A, TINGKAT 1
+addrLine2   --==>   LORONG SENTOSA 4A, TAMAN BAYU TINGGI
+email   --==>   tky7473@outlook.com
+email   --==>   xavindik8@gmail.com
+name   --==>   NUR FAZIRA BINTI YAYAH
+ic   --==>   931228125762
+email   --==>   dayufaziraa@gmail.com
+name   --==>   ANDIKA BIN AMZAH
+ic   --==>   920212125051
+username   --==>   21903450
+username   --==>   61803256
+username   --==>   920212125051
+identifier   --==>   fullmetalalchemistempire@gmail.com
+noKPB   --==>   931228125762
+textNama   --==>   NUR FAZIRA BINTI YAYAH
+tarikh_lahir   --==>   28-12-1993
+textUmur   --==>   27
+textKPBaru   --==>   931228125762
+textSijilLahir   --==>   399047
+jawatan_pasangan   --==>   QA QUALITY ASSISTEN
+alamat_tkpasangan   --==>   MEWAH DAIRIES SDN BHD KLANG SELANGOR
+textAlamat1   --==>   kg ginapas rosok jalan kompleks sukan
+textAlamat2   --==>    p/s216 89158 kota belud sabah.
+textBandar   --==>   kota belud
+username   --==>   931228125762
+acdSchoolName   --==>   spm
+acdMajor   --==>   pendidikan seni visual
+acdScoreTaken   --==>   3.93
+acdFullScore   --==>   4.00
+weSalary   --==>   600
+weStartDate   --==>   1/6/2017
+weEndDate   --==>   1/11/2018
+weCompanyName   --==>   Taska ummi bestari sdn bhd
+mascoCode   --==>   2342-04
+weJobDesc1   --==>   Berkomunikasi dengan ibu bapa mengenai program-program, masalah, pelajaran, dan kemajuan pelajar.
+weJobDesc2   --==>   Mengekalkan kemudahan yang selamat, bersih dan mengajar kanak-kanak peraturan kelakuan selamat.
+weJobDesc3   --==>   Merancang dan memimpin aktiviti pendidikan dan pelajaran seperti masa cerita, membuat muzik, atau kraf.
+weSalary   --==>   920
+jpMascoCode   --==>   2133-04
+jpExpectedSalary   --==>   1200
+dateOfActivity   --==>   16/03/2020
+employerCode   --==>   B3200082933B
+addrLine1   --==>   NO 27-2 SUITE 7 JALAN PUTERI 1/4
+addrLine2   --==>   BANDAR PUTERI PUCHONG
+salaryOffered   --==>   1200
+salaryOffered   --==>   1300
+ctl00$MainContent$CarianText   --==>   990630125875
+ctl00$MainContent$txtIC   --==>   990630125875
+ctl00$MainContent$txtAlamat1   --==>   BORNEO SAMUDERA SDN BHD LADANG KAMPUNG
+ctl00$MainContent$txtAlamat2   --==>   PINAWANTAI KUDAT KOTA MARUDU
+ctl00$MainContent$txtAlamat3   --==>   89050 KUDAT SABAH
+ctl00$MainContent$txtPoskod   --==>   89050
+ctl00$MainContent$txtNegeri   --==>   SABAH
+ctl00$MainContent$txtBandar   --==>   KUDAT
+ctl00$MainContent$txtEmel   --==>   xavindik8@gmail.com
+ctl00$MainContent$txtNoTelBimbit   --==>   01119500315
+identifier   --==>   fazleeyayah9@gmail.com
+display_phone_number   --==>   0145578475
+verification_code   --==>   740975
+Username   --==>   fazleeeyayah9
+phoneNumberId   --==>   01121834253
+identifier   --==>   fazleeeyayah9@gmail.com
+display_phone_number   --==>   01121834253
+verification_code   --==>   778670
+nama   --==>   andika bin amzah
+nohp   --==>   01119500315
+username   --==>   1395198
+username   --==>   1304186
+nick_name   --==>   SITI HANISAH BINTI KHULIM
+cvf_captcha_input   --==>   f67xan
+cvf_captcha_input   --==>   3c4w
+cvf_captcha_input   --==>   xc733x
+code   --==>   601410
+cvf_phone_num   --==>   01119500315
+cvf_captcha_input   --==>   n3bx57
+code   --==>   120282
+email   --==>   fullmetalalchemistempire@gmail.com
+searchstring   --==>   maybank
+name   --==>   maybank
+wire_transfer.bank_name   --==>   MALAYAN BANKING BERHAD (MAYBANK)
+wire_transfer.account_number   --==>   160269143112
+wire_transfer.swift_code   --==>   MBBEMYKLKIN
+wire_transfer.iban_code   --==>   N/A
+wire_transfer.ifsc_code   --==>   MBBEMYKL
+wire_transfer.branch_code   --==>   KIN
+wire_transfer.bank_address   --==>   KOTA KINABALU SABAH
+identifier   --==>   sitihanisah161@gmail.com
+nick_name   --==>   UMMU HANISAH BINTI MUSILI
+boss_id   --==>   961007-12-6240
+username   --==>   1399218
+jsc_c_25   --==>   https://www.youtube.com/channel/UCM7gveI2ujgWt9kqT3GJYQw
+jsc_c_2x   --==>   https://www.youtube.com/channel/UC1HhQVz89KqKDyv8Iwg4sUg
+username   --==>   1396564
+identifier   --==>   xavindik8@gmail.com
+key   --==>   aghnia
+key   --==>   khalisa
+key   --==>   khalishah
+key   --==>   arisha
+key   --==>   arishah
+key   --==>   aiza
+key   --==>   athar
+key   --==>   izzan
+keyword   --==>   backst
+loginKey   --==>   sayafazira

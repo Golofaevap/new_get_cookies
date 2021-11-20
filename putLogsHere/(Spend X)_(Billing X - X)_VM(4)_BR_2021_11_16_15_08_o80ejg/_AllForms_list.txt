@@ -1,0 +1,94 @@
+Email   --==>   leandro.alsberg@gmail.com
+email   --==>   leandro.alsberg@gmail.com
+q   --==>   woman
+q   --==>   game
+q   --==>   resident evil 3
+q   --==>   resident evil 3 pc
+q   --==>   resident evil 3 remake
+q   --==>   hades
+userLoginId   --==>   leandro.alsberg@gmail.com
+q   --==>   it takes two
+calc_cep   --==>   04271-060
+Name   --==>   Facebook Pay (Whatsapp Pay)
+as_q   --==>   valorant atualizacao val 39
+q   --==>   valorant
+session[username_or_email]   --==>   leandro.alsberg@gmail.com
+IDCSubscribeEmail0   --==>   Endereço de Email
+Name   --==>   Aimlab
+qtdEncadernacoes   --==>   2
+cep   --==>   04.271-060
+paginas_preto_branco   --==>   259
+login-username   --==>   lealsberg
+Name   --==>   Mihoyo - Genshin Impact
+Name   --==>   Zoom
+pt1:nome   --==>   luiz
+pt1:nome   --==>   luis
+name   --==>   ss
+identifier   --==>   lucas.alsberg@gmail.com
+authcode   --==>   JPWFG
+friendlyname   --==>   PC windows
+inputcep   --==>   04271-060
+anagram   --==>   alsberg
+Name   --==>   GunBound gitzwc
+login   --==>   bergz
+cemail   --==>   leandro.alsberg@gmail.com
+whatsapp   --==>   +5511997605174
+codigo   --==>   qydbb
+login   --==>   albergz
+codigo   --==>   bzxxx
+login   --==>   AllBergz
+codigo   --==>   gtt8f
+codigo   --==>   g5r6w
+iOttText   --==>   8485672
+blend_paymentInstrument_accountHolderName   --==>   leandro a m pereira
+blend_paymentInstrument_address_line1   --==>   rua arcipreste ezequias 683
+blend_paymentInstrument_city   --==>   Sao Paulo
+blend_paymentInstrument_postal_code   --==>   04271-060
+Name   --==>   iPhone XR
+Email   --==>   leandro.alsberg@gmail.com
+email   --==>   leandro.alsberg@gmail.com
+q   --==>   woman
+q   --==>   game
+q   --==>   resident evil 3
+q   --==>   resident evil 3 pc
+q   --==>   resident evil 3 remake
+q   --==>   hades
+userLoginId   --==>   leandro.alsberg@gmail.com
+q   --==>   it takes two
+calc_cep   --==>   04271-060
+Name   --==>   Facebook Pay (Whatsapp Pay)
+as_q   --==>   valorant atualizacao val 39
+q   --==>   valorant
+session[username_or_email]   --==>   leandro.alsberg@gmail.com
+IDCSubscribeEmail0   --==>   Endereço de Email
+Name   --==>   Aimlab
+qtdEncadernacoes   --==>   2
+cep   --==>   04.271-060
+paginas_preto_branco   --==>   259
+login-username   --==>   lealsberg
+Name   --==>   Mihoyo - Genshin Impact
+Name   --==>   Zoom
+pt1:nome   --==>   luiz
+pt1:nome   --==>   luis
+name   --==>   ss
+identifier   --==>   lucas.alsberg@gmail.com
+authcode   --==>   JPWFG
+friendlyname   --==>   PC windows
+inputcep   --==>   04271-060
+anagram   --==>   alsberg
+Name   --==>   GunBound gitzwc
+login   --==>   bergz
+cemail   --==>   leandro.alsberg@gmail.com
+whatsapp   --==>   +5511997605174
+codigo   --==>   qydbb
+login   --==>   albergz
+codigo   --==>   bzxxx
+login   --==>   AllBergz
+codigo   --==>   gtt8f
+codigo   --==>   g5r6w
+iOttText   --==>   8485672
+blend_paymentInstrument_accountHolderName   --==>   leandro a m pereira
+blend_paymentInstrument_address_line1   --==>   rua arcipreste ezequias 683
+blend_paymentInstrument_city   --==>   Sao Paulo
+blend_paymentInstrument_postal_code   --==>   04271-060
+Name   --==>   iPhone XR

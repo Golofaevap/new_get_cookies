@@ -1,0 +1,64 @@
+identifier   --==>   contato.tomodashi
+value   --==>   083905
+value   --==>   320636
+value   --==>   343439
+email   --==>   juninhowmulek
+email   --==>   juninhowmuleke@hotmail.com
+identifier   --==>   fab33moraes
+identifier   --==>   antonioniltonr777@gmail.com
+email   --==>   antonioniltonr777@gmail.com
+title   --==>   Noite de Chefe
+label   --==>   Eojunior
+copyright_release   --==>   2020 Eojunior
+copyright_recording   --==>   2020 Eojunior
+artists[0]   --==>   Eojunior
+mix   --==>   trap
+artists[1]   --==>   Eojunior
+username   --==>   eojuniorx
+cppEmailOrUsername   --==>   eojunior
+cppEmailOrUsername   --==>   eojuniorx
+name   --==>   Rubenilson Da Silva Barros 
+email   --==>   barros.rubenilson@gmail.com
+emailConfirmation   --==>   barros.rubenilson@gmail.com
+institutionName1   --==>   escola etadual amélia bittencut cardinale
+startEducation1   --==>   2008
+experienceCompanyName1   --==>   rental car
+experienceOccupation1   --==>   agente de locaçaõ
+value   --==>   485337
+mat-input-3   --==>   Baby Shawty 
+mat-input-20   --==>   Baby Shawty
+mat-input-37   --==>   Baby Shawty
+productkey   --==>   e35d-2010-0509-____-____
+linkbox   --==>   https://www.youtube.com/watch?v=rDXfDjku5zQ
+identifier   --==>   contato.tomodashi
+value   --==>   083905
+value   --==>   320636
+value   --==>   343439
+email   --==>   juninhowmulek
+email   --==>   juninhowmuleke@hotmail.com
+identifier   --==>   fab33moraes
+identifier   --==>   antonioniltonr777@gmail.com
+email   --==>   antonioniltonr777@gmail.com
+title   --==>   Noite de Chefe
+label   --==>   Eojunior
+copyright_release   --==>   2020 Eojunior
+copyright_recording   --==>   2020 Eojunior
+artists[0]   --==>   Eojunior
+mix   --==>   trap
+artists[1]   --==>   Eojunior
+username   --==>   eojuniorx
+cppEmailOrUsername   --==>   eojunior
+cppEmailOrUsername   --==>   eojuniorx
+name   --==>   Rubenilson Da Silva Barros 
+email   --==>   barros.rubenilson@gmail.com
+emailConfirmation   --==>   barros.rubenilson@gmail.com
+institutionName1   --==>   escola etadual amélia bittencut cardinale
+startEducation1   --==>   2008
+experienceCompanyName1   --==>   rental car
+experienceOccupation1   --==>   agente de locaçaõ
+value   --==>   485337
+mat-input-3   --==>   Baby Shawty 
+mat-input-20   --==>   Baby Shawty
+mat-input-37   --==>   Baby Shawty
+productkey   --==>   e35d-2010-0509-____-____
+linkbox   --==>   https://www.youtube.com/watch?v=rDXfDjku5zQ

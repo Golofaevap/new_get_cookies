@@ -1,0 +1,1018 @@
+username   --==>   FishermanKoi
+term   --==>   lalamu
+term   --==>   shionne
+term   --==>   darken
+rl   --==>   https://www.googleapis.com/auth/chrome-content-suggestions
+cd[OpenGraph]   --==>   {"og:locale":"en_GB","og:type":"article","og:title":"PSA: TM reduces upload speed for 500Mbps Unifi plan by 50%","og:description":"TM's new 800Mbps and 500Mbps Unifi plans were initially introduced with 200Mbps upload speed. It appears that TM has made a mistake for the 500Mbps plan.","og:url":"https://www.soyacincau.com/2020/09/18/tm-unifi-fibre-broadband-500mbps-upload-speed-not-200mbps/","og:site_name":"SoyaCincau.com","article:publisher":"http://www.facebook.com/mysoyacincau","article:author":"https://www.facebook.com/alexwnl","article:published_time":"2020-09-18T02:39:13+00:00","article:modified_time":"2020-09-18T11:57:17+00:00","og:image":"https://www.soyacincau.com/storage/2018/07/180702-tm-malaysia-new-announcement-telekom-unifi-broadband-fb-hero.jpg","og:image:width":"1200","og:image:height":"630"}
+it   --==>   1600454881598
+fbp   --==>   fb.1.1600454885558.375625750
+cd[Meta]   --==>   {"title":"PSA: TM reduces upload speed for 500Mbps Unifi plan by 50%","meta:description":"TM's new 800Mbps and 500Mbps Unifi plans were initially introduced with 200Mbps upload speed. It appears that TM has made a mistake for the 500Mbps plan."}
+cd[Schema.org]   --==>   [{"dimensions":{"h":1425,"w":340},"properties":{},"subscopes":[],"type":"https://schema.org/SiteNavigationElement"}]
+id   --==>   375681346490800
+dl   --==>   https://www.soyacincau.com/2020/09/18/tm-unifi-fibre-broadband-500mbps-upload-speed-not-200mbps/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.soyacincau.com/#organization","name":"Soya Cincau","url":"https://www.soyacincau.com/","sameAs":["http://www.facebook.com/mysoyacincau","https://www.instagram.com/mysoyacincau/","http://www.youtube.com/soyacincautv","https://twitter.com/soya_cincau"],"logo":{"@type":"ImageObject","@id":"https://www.soyacincau.com/#logo","inLanguage":"en-GB","url":"https://www.soyacincau.com/storage/2018/11/SoyaCincau-New-Logo-OL.png","width":1307,"height":419,"caption":"Soya Cincau"},"image":{"@id":"https://www.soyacincau.com/#logo"}},{"@type":"WebSite","@id":"https://www.soyacincau.com/#website","url":"https://www.soyacincau.com/","name":"SoyaCincau.com","description":"For everything that matters in tech","publisher":{"@id":"https://www.soyacincau.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.soyacincau.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB
+a   --==>   dvpixelyoursite
+ts   --==>   1600454886803
+ec   --==>   2
+term   --==>   elementrix
+term   --==>   haru kaze
+term   --==>   thot coff
+ts   --==>   1600828889244
+cd[Meta]   --==>   {"title":"【グラブル】SSRキャラ評価一覧【グランブルーファンタジー】 - ゲームウィズ(GameWith)","meta:description":"グラブルのSSRキャラ一覧ページです。全キャラに評価点数を付けているため、どのSSRが強い/最強クラスなのかをまとめて確認できます。属性や種族、得意武器もあわせて確認可能です。気になるSSRキャラを探す際にお使いください。"}
+cd[OpenGraph]   --==>   {"article:modified_time":"2020-09-22T20:05:30+09:00","article:publisher":"グラブル攻略班","og:locale":"ja_JP","og:site_name":"GameWith","og:description":"グラブルのSSRキャラ一覧ページです。全キャラに評価点数を付けているため、どのSSRが強い/最強クラスなのかをまとめて確認できます。属性や種族、得意武器もあわせて確認可能です。気になるSSRキャラを探す際にお使いください。","og:title":"【グラブル】SSRキャラ評価一覧【グランブルーファンタジー】 - ゲームウィズ(GameWith)","og:type":"article","og:url":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722","og:image":"https://img.gamewith.jp/article/thumbnail/rectangle/20722.png"}
+ts   --==>   1600828840982
+it   --==>   1600828882428
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://gamewith.jp/","name":"GameWith"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/","name":"グラブル攻略 | グランブルーファンタジー徹底解説"}}]}]
+ts   --==>   1600828840954
+dl   --==>   https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722
+it   --==>   1600828809001
+ts   --==>   1600828889214
+configPoeFilter_filter_name   --==>   a
+ts   --==>   1600836933648
+ts   --==>   1600836933670
+it   --==>   1600836920882
+sockets_min   --==>   3
+link_min   --==>   1
+sockets_g   --==>   g
+linked_r   --==>   r
+ts   --==>   1600886258175
+it   --==>   1600886247487
+ts   --==>   1600886258152
+it   --==>   1600886525507
+ts   --==>   1600886532142
+ts   --==>   1600886532112
+dl   --==>   https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/144747
+id   --==>   268601257740948
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://gamewith.jp/","name":"GameWith"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/","name":"グラブル攻略 | グランブルーファンタジー徹底解説"}},{"@type":"ListItem","position":3,"item":{"@id":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722","name":"SSRキャラ評価一覧"}}]}]
+it   --==>   1600887066225
+v   --==>   2.9.24
+cd[Meta]   --==>   {"title":"【グラブル】ニーア(恋人)の評価/性能検証まとめ｜十賢者【グランブルーファンタジー】 - ゲームウィズ(GameWith)","meta:description":"グラブルの十賢者「ニーア(恋人)」の評価/性能を掲載。ステータスや奥義/アビリティ、加入方法などをまとめています。アーカルムの10賢者、デスの契約者「ニーア」を運用する際にご活用ください。"}
+cd[OpenGraph]   --==>   {"article:modified_time":"2020-08-09T22:43:21+09:00","article:publisher":"グラブル攻略班","og:locale":"ja_JP","og:site_name":"GameWith","og:description":"グラブルの十賢者「ニーア(恋人)」の評価/性能を掲載。ステータスや奥義/アビリティ、加入方法などをまとめています。アーカルムの10賢者、デスの契約者「ニーア」を運用する際にご活用ください。","og:title":"【グラブル】ニーア(恋人)の評価/性能検証まとめ｜十賢者【グランブルーファンタジー】 - ゲームウィズ(GameWith)","og:type":"article","og:url":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/144747","og:image":"https://img.gamewith.jp/article/thumbnail/rectangle/144747.png"}
+rl   --==>   https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722
+fbp   --==>   fb.1.1580543225999.1415540971
+ts   --==>   1600887071783
+id   --==>   487629805469685
+ts   --==>   1600887071764
+term   --==>   shionn
+cmgr-title-input   --==>   Soillll
+cmgr-title-input   --==>   Heavensfall Tower
+cdkey__character   --==>   Koi
+cmgr-title-input   --==>   wtf drg
+term   --==>   miss dior
+term   --==>   dior
+term   --==>   lady d
+term   --==>   claire' farron
+term   --==>   xava
+cmgr-title-input   --==>   ten
+cmgr-title-input   --==>   normal octet 
+ts   --==>   1601582066672
+cd[Schema.org]   --==>   [{"dimensions":{"h":4547,"w":360},"properties":{"image":"","description":"Eager to know why her best friend’s boyfriend dumped her for a man, the headstrong Eiya Arakawa suggests a meeting with them. Gathered together at a café, Yuuga Oota agrees to answer Eiya’s questions only if she can correctly ascertain the relationship of a couple sitting across from them, which she does on her first attempt. Amazed by her astounding intellect and intuition, he invites her to a private meeting where he introduces her to the concept of Slave Control Method, or SCM, a retainer-lik","name":"Dorei-ku The Animation","genre":"Psychological"},"subscopes":[{"dimensions":{"h":26,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Dorei-ku The Animation","og:type":"video.tv_show","og:image":"https://cdn.myanimelist.net/img/sp/icon/twitter-card.png","og:url":"https://myanimelist.net/anime/36525/Dorei-ku_The_Animation","og:description":"Eager to know why her best friend’s boyfriend dumped her for a man, the headstrong Eiya Arakawa suggests a meeting with them. Gathered together at a café, Yuuga Oota agrees to answer Eiya’s questions only if she can correctly ascertain the relationship of a couple sitting across from them, which she does on her first attempt. Amazed by her astounding intellect and intuition, he invites her to a private meeting where he introduces her to the concept of Slave Control Method, or SCM, a retainer-lik"}
+it   --==>   1601582064302
+cd[Meta]   --==>   {"title":"\nDorei-ku The Animation - MyAnimeList.net\n","meta:description":"Looking for information on the anime Dorei-ku The Animation? Find out more with MyAnimeList, the world's most active online anime and manga community and database. Eager to know why her best friend’s boyfriend dumped her for a man, the headstrong Eiya Arakawa suggests a meeting with them. Gathered together at a café, Yuuga Oota agrees to answer Eiya’s questions only if she can correctly ascertain the relationship of a couple sitting across from them, which she does on her first attempt. Ama...","meta:keywords":"anime, myanimelist, anime news, manga"}
+dl   --==>   https://myanimelist.net/anime/36525/Dorei-ku_The_Animation
+it   --==>   1601665708835
+ts   --==>   1601665710101
+cd[Meta]   --==>   {"title":"Food and grocery delivery in Malaysia | Order online on foodpanda","meta:description":"Order food and grocery delivery ✔ The best restaurants and shops near you ✔ Large variety of dishes and products ✔ Safe & easy payment options"}
+fbp   --==>   fb.1.1601665708995.188585694
+id   --==>   1805620656356644
+cd[Schema.org]   --==>   [{"dimensions":{"h":560,"w":360},"properties":{},"subscopes":[{"dimensions":{"h":202,"w":360},"properties":{"name":"How can I get foodpanda delivery?"},"subscopes":[{"dimensions":{"h":150,"w":360},"properties":{"text":"In order to get foodpanda delivery, you simply need to find the restaurants that deliver near you by using your address, browse through the menu, form your order, afterward, just proceed to checkout and payment. Your meal will be delivered to you in no time!\n\n"},"subscopes":[],"type":"https://schema.org/Answer"}],"type":"https://schema.org/Question"},{"dimensions":{"h":518,"w":360},"properties":{"name":"How can I order food in Malaysia?"},"subscopes":[{"dimensions":{"h":466,"w":360},"properties":{"text":"To order food delivery in Malaysia, follow these simple steps:\n\nFind a restaurant. Enter your delivery address in the location form to see all the places that deliver to your location. It can be your home, office, a hotel or even parks!\nChoose your dishes. Browse the menu of the chosen res
+dl   --==>   https://www.foodpanda.my/?source=ig102364444e0a81465979f6267d605etql3t4b--000KM0gA
+cd[OpenGraph]   --==>   {}
+term   --==>   skye dr
+s   --==>   phantasm
+cmgr-title-input   --==>   bookslap
+loginKey   --==>   (+60) 163769289
+email   --==>   kkh1999@hotmail.com
+dob-date   --==>   18
+dob-year   --==>   1998
+s   --==>   h
+s   --==>   zeus
+s   --==>   hades
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"ItemList","numberOfItems":22,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://www.glassdoor.com/job-listing/software-engineer-internship-available-xybase-JV_IC3002296_KO0,38_KE39,45.htm?jl=3656627164"},{"@type":"ListItem","position":2,"url":"https://www.glassdoor.com/job-listing/software-engineer-intern-fusionex-JV_IC3002296_KO0,24_KE25,33.htm?jl=3656681644"},{"@type":"ListItem","position":3,"url":"https://www.glassdoor.com/job-listing/software-engineering-intern-tigerlab-JV_IC2986682_KO0,27_KE28,36.htm?jl=3576010586"},{"@type":"ListItem","position":4,"url":"https://www.glassdoor.com/job-listing/internship-software-engineer-coingecko-JV_IC3002296_KO0,28_KE29,38.htm?jl=3700643337"},{"@type":"ListItem","position":5,"url":"https://www.glassdoor.com/job-listing/associate-software-engineer-intern-sitecore-JV_IC2986682_KO0,34_KE35,43.htm?jl=3595227384"},{"@type":"ListItem","position":6,"url":"https://www.glassdoor.com/job-listing/internship-software-develo
+ts   --==>   1602156976060
+id   --==>   1499075380345177
+it   --==>   1602156971935
+cd[OpenGraph]   --==>   {"og:title":"Software engineer internship Jobs in Malaysia","og:type":"website","og:site_name":"Glassdoor","og:url":"https://www.glassdoor.com/Job/malaysia-software-engineer-internship-jobs-SRCH_IL.0,8_IN170_KO9,37.htm","og:image":"https://www.glassdoor.com/jobs-ux-app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl"}
+cd[Meta]   --==>   {"title":"Software engineer internship Jobs in Malaysia | Glassdoor","meta:description":"Search Software engineer internship jobs in Malaysia with company ratings & salaries. 22 open jobs for Software engineer internship in Malaysia."}
+dl   --==>   https://www.glassdoor.com/Job/malaysia-software-engineer-internship-jobs-SRCH_IL.0,8_IN170_KO9,37.htm
+fbp   --==>   fb.1.1602156972567.1518127097
+cd[OpenGraph]   --==>   {"og:title":"Software Development Intern for WOBB | WOBB","og:image":"https://resources.wobbjobs.com/resized/uploads/jobs-malaysia/job_images/8b31ad65-30e9-4328-af3a-a755e39ca83b/jobs-malaysia-tech-intern-wobb-15064188_sharing.jpeg","og:description":"Be part of the team building a modern, intuitive website and mobile app for both iOS and Android at WOBB!","og:url":"https://my.wobbjobs.com/jobs/jobs-malaysia-wobb-job-software-development-intern"}
+rl   --==>   https://www.google.com/
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org/","@type":"JobPosting","title":"Software Development Intern","description":"<div>Work on some amazing projects with us as we continue to build our website and mobile app, taking them to the next level.&nbsp;<br>Here are the experiences you will learn and develop here:&nbsp;</div><ul><li>Help make our website look awesome!</li><li>UI / UX development</li><li>Testing and de-bugging to make sure our platform runs smoothly</li><li>Data processing and analysis</li><li>Exposure to cloud technologies</li></ul>","datePosted":"2020-08-28","hiringOrganization":{"@type":"Organization","name":"WOBB","sameAs":"my.wobbjobs.com","logo":"https://s3-ap-southeast-1.amazonaws.com/resources.wobbjobs.com/uploads/company-logo/company_logo_image/44ea6c51-c84d-423f-8649-96cb592ea995/wobb-1557823400.png"},"validThrough":"2020-10-28T20:30:25+08:00","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","streetAddress":"90, Pinggir Zaaba","addressLocality":"Kuala Lumpur","addressRegion":"Wilay
+it   --==>   1602157039030
+id   --==>   695842063839797
+cd[Meta]   --==>   {"title":"Software Development Intern for WOBB | WOBB"}
+id   --==>   251827335694619
+dl   --==>   https://my.wobbjobs.com/jobs/jobs-malaysia-wobb-job-software-development-intern
+ts   --==>   1602157040370
+fbp   --==>   fb.1.1602157039739.966430367
+ts   --==>   1602157040303
+cdkey__character   --==>   Ebi
+q   --==>   sadge
+q   --==>   sadeg
+q   --==>   catjam
+q   --==>   pepeHands
+q   --==>   monkaW
+q   --==>   feelsokayman
+q   --==>   feelsdeadman
+q   --==>   feels
+q   --==>   ayaya
+q   --==>   kkomrade
+q   --==>   haltchamp
+q   --==>   pogu
+q   --==>   pausechamp
+editable-widget-name-input-2   --==>   Now Playing
+songUrl   --==>   https://open.spotify.com/playlist/0RhHFsLhCCzVEUNMvf3Lnr?si=UN4UVR8kSk6meBlU4UuYsg
+cmgr-title-input   --==>   lul
+subject_id   --==>   koizumikoi98@gmail.com
+key   --==>   higurashi
+ts   --==>   1602529933536
+it   --==>   1602529932416
+ts   --==>   1602530058543
+dl   --==>   https://myanimelist.net/forum/?topicid=1868686
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"It's not a remake","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1868686","og:description":"Recently the name of this anime and the first arc got leaked (kinda) from amazon jp: https://www.amazon.co.jp/%E7%AC%AC1%E8%A9%B1-%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/dp/B08KGSJ92K/ The series title is listed as \"Higurashi no Naku Koro ni Gou\", potentially meaning karma, and the arc name is listed as \"Onidamashi-hen\" which means \"Demon Deception Arc\" or something similar. Source for translation: https://twitter.com/FurudeJinja/status/13137167108520509"}
+cd[Schema.org]   --==>   [{"dimensions":{"h":44,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou","name":"Higurashi no Naku Koro ni Gou","position":"3"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":88},"properties":{"item":"https://myanimelist.net/forum/?topicid=1868686","name":"It's not a remake","position":"4"},"subscopes":[],"type":"http://schema.org/ListItem"}],"type":"http://schema.org/BreadcrumbList"}]
+cd[Meta]   --==>   {"title":"\nIt's not a remake - Forums - MyAnimeList.net\n","meta:description":"Read the topic about It's not a remake on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1868686)","meta:keywords":"anime, myanimelist, anime news, manga"}
+it   --==>   1602530057831
+it   --==>   1602530071764
+cd[Meta]   --==>   {"title":"\nHigurashi no Naku Koro ni (2020) Episode 2 Discussion - Forums - MyAnimeList.net\n","meta:description":"Read more about this topic on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1868876)","meta:keywords":"anime, myanimelist, anime news, manga"}
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Higurashi no Naku Koro ni (2020) Episode 2 Discussion","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1868876","og:description":"THIS IS AN ANIME ONLY DISCUSSION POST. DO NOT DISCUSS THE MANGA BEYOND THIS EPISODE. ---------------------------------------- Oh wow, it's Hanyuu. That brings back alot memories especially between her and Rika. Too bad they didn't use the original theme song from season 1 for the OP but I think the new one is alright. Not going to lie, the first half of this episode was priceless especially with Rena teasing Kenichi and the others tickling him. An entertaining episode imo, mainly focused on the "}
+dl   --==>   https://myanimelist.net/forum/?topicid=1868876
+ts   --==>   1602530072663
+cd[Schema.org]   --==>   [{"dimensions":{"h":44,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou","name":"Higurashi no Naku Koro ni Gou","position":"3"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":175},"properties":{"item":"https://myanimelist.net/forum/?topicid=1868876","name":"Higurashi no Naku Koro ni (202...","position":"4"},"subscopes":[],"type":"http://schema.org/ListItem"}],"type":"http://schema.org/BreadcrumbList"}]
+rl   --==>   https://myanimelist.net/forum/?topicid=1868876
+dl   --==>   https://myanimelist.net/forum/?topicid=1868876&show=30
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Higurashi no Naku Koro ni (2020) Episode 2 Discussion","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1868876&show=30","og:description":" If this happens I'm going to freak out so hard!! Umineko chads, REJOICE!"}
+cd[Meta]   --==>   {"title":"\nHigurashi no Naku Koro ni (2020) Episode 2 Discussion (30 - ) - Forums - MyAnimeList.net\n","meta:description":"Read more about this topic on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1868876) (30 - )","meta:keywords":"anime, myanimelist, anime news, manga"}
+it   --==>   1602530206134
+ts   --==>   1602530215007
+rl   --==>   https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou?q=Higura&cat=anime
+dl   --==>   https://myanimelist.net/forum/?topicid=1869458
+cd[Schema.org]   --==>   [{"dimensions":{"h":44,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou","name":"Higurashi no Naku Koro ni Gou","position":"3"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":164},"properties":{"item":"https://myanimelist.net/forum/?topicid=1869458","name":"The new art style isn’t so bad...","position":"4"},"subscopes":[],"type":"http://schema.org/ListItem"}],"type":"http://schema.org/BreadcrumbList"}]
+cd[Meta]   --==>   {"title":"\nThe new art style isn’t so bad - Forums - MyAnimeList.net\n","meta:description":"Read the topic about The new art style isn’t so bad on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1869458)","meta:keywords":"anime, myanimelist, anime news, manga"}
+it   --==>   1602530213518
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"The new art style isn’t so bad","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1869458","og:description":"When I initially saw the trailer/poster, I was kinda disgusted by the greasy look of all the characters. I’ve finally got round to watching the first ep and you know what, it isn’t so bad! I kinda like it tbh Of course nothing can beat the original, but at the same time, I feel more welcoming to this new art style now. Anyone else changed their mind about the art?"}
+dl   --==>   https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou?q=Higura&cat=anime
+ts   --==>   1602530250860
+rl   --==>   https://myanimelist.net/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Higurashi no Naku Koro ni Gou","og:type":"video.tv_show","og:image":"https://cdn.myanimelist.net/img/sp/icon/twitter-card.png","og:url":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou?cat=anime","og:description":"New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year. But something about this isolated town seems \"off,\" and his feelings of dread continue to grow. With a gnawing fear that he’s right, what dark secrets could this small community be hiding? (Source: Funimation)"}
+it   --==>   1602530245859
+cd[Schema.org]   --==>   [{"dimensions":{"h":4239,"w":360},"properties":{"image":"","description":"New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year.\n\nBut something about this isolated town seems \"off,\" and his feelings of dread continue to grow. With a gnawing fear that he’s right, what dark secrets could this small community be hiding?\n\n(Source: Funimation)","name":"Higurashi no Naku Koro ni Gou","genre":"Thriller"},"subscopes":[{"dimensions":{"h":26,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net
+id   --==>   403179503706622
+cd[Meta]   --==>   {"title":"\nHigurashi no Naku Koro ni Gou (Higurashi: When They Cry – Gou) - MyAnimeList.net\n","meta:description":"Looking for information on the anime Higurashi no Naku Koro ni Gou (Higurashi: When They Cry – Gou)? Find out more with MyAnimeList, the world's most active online anime and manga community and database. New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year. But something about this isolated town seems \"off,\" and his feelings of dread continue to grow. Wi...","meta:keywords":"anime, myanimelist, anime news, manga"}
+fbp   --==>   fb.1.1601582066136.1678198004
+username   --==>   Kneegals
+rl   --==>   https://g-client-proxy.pixiv.net/GS/GSLogin.aspx?state=yc463l70n4055151h7.np.tk1..AcbHbMTInw.VriGh29w_cwo1rQEiNqGUcXKqBAF8vEqid-KMcAekHU.44cq6IqjdkSt85b4TGl0qFqNNWuIVDYUsbaYn2uXaIEiOj6rvzsOj6MbuxuWtcyXADph6H3YX0zYE9HKCqi4Uw.sc3&code=4%2F5QFcViPLHPvyA8A4hDh1lRvbBJdAdnTamL5CrZcRTscD5TKKKL4K5C_SKfzbvd8GCovWCc175tPW3SOZr3YP_Fg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+it   --==>   1602962592226
+ts   --==>   1602962593593
+ts   --==>   1602962622542
+it   --==>   1602962621402
+dl   --==>   https://www.pixiv.net/en/artworks/85071577
+cd[Meta]   --==>   {"title":"Genshin Impact, Fischl / Fischl / October 17th, 2020 - pixiv","meta:description":"この作品 「Fischl」 は 「R-18」「原神」 等のタグがつけられた「anon」さんのイラストです。"}
+it   --==>   1602962676853
+cd[OpenGraph]   --==>   {"twitter:card":"summary","twitter:site":"@pixiv","twitter:url":"https://www.pixiv.net/en/artworks/85071577?ref=twitter_summary_card","twitter:title":"[R-18]Fischl","twitter:description":"Fischl by anon","twitter:app:name:iphone":"pixiv","twitter:app:id:iphone":"337248563","twitter:app:url:iphone":"pixiv://illusts/85071577","twitter:app:name:ipad":"pixiv","twitter:app:id:ipad":"337248563","twitter:app:url:ipad":"pixiv://illusts/85071577","twitter:app:name:googleplay":"pixiv","twitter:app:id:googleplay":"jp.pxv.android","twitter:app:url:googleplay":"pixiv://illusts/85071577","twitter:image":"https://s.pximg.net/www/images/pixiv_logo.gif?2","og:title":"Genshin Impact, Fischl / Fischl / October 17th, 2020 - pixiv","og:type":"article","og:image":"https://s.pximg.net/www/images/pixiv_logo.gif?2","og:description":""}
+ts   --==>   1602962677853
+AuthEmail   --==>   koizumikoi98@gmail.com
+fbp   --==>   fb.1.1602964067108.1365479918
+id   --==>   357284151509651
+it   --==>   1602964065034
+cd[JSON-LD]   --==>   [{"keywords":["fried chicken","fast-food","cmco","eight spots"],"headline":"Pecking order: Eight fast-food spots to get your fried chicken fix this CMCO","description":"PETALING JAYA, Oct 15 — With the conditional movement control order (CMCO) forcing many people back into the safety of their homes, there’s no better time to stay in and treat yourself to food delivery. Fried chicken is a classic comfort food and it might be just what we need to soothe our...","articleSection":"Eat/Drink","@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.malaymail.com/news/eat-drink/2020/10/15/pecking-order-eight-fast-food-spots-to-get-your-fried-chicken-fix-this-cmco/1912927"},"image":{"@type":"ImageObject","url":"https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-10/fafoda1510-seo.jpg","width":1200,"height":630},"datePublished":"2020-10-15T15:47:01+08:00","dateModified":"2020-10-15T23:47:01+08:00","author":{"@type":"Person","name":"Melanie Chalil,
+dl   --==>   https://www.malaymail.com/news/eat-drink/2020/10/15/pecking-order-eight-fast-food-spots-to-get-your-fried-chicken-fix-this-cmco/1912927
+ts   --==>   1602964069603
+cd[Meta]   --==>   {"title":"Pecking order: Eight fast-food spots to get your fried chicken fix this CMCO | Eat/Drink | Malay Mail","meta:keywords":"fried chicken, fast-food, cmco, eight spots","meta:description":"PETALING JAYA, Oct 15 — With the conditional movement control order (CMCO) forcing many people back into the safety of their homes, there’s no better time to stay in and treat yourself to food delivery. Fried chicken is a classic comfort food and it might be just what we need to soothe our..."}
+cd[OpenGraph]   --==>   {"og:title":"Pecking order: Eight fast-food spots to get your fried chicken fix this CMCO | Malay Mail","og:type":"article","og:url":"https://www.malaymail.com/news/eat-drink/2020/10/15/pecking-order-eight-fast-food-spots-to-get-your-fried-chicken-fix-this-cmco/1912927","og:description":"PETALING JAYA, Oct 15 — With the conditional movement control order (CMCO) forcing many people back into the safety of their homes, there’s no better time to stay in and treat yourself to food delivery. Fried chicken is a classic comfort food and it might be just what we need to soothe our...","og:image":"https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-10/fafoda1510-seo.jpg"}
+term   --==>   flare
+ts   --==>   1603175548223
+cd[Meta]   --==>   {"title":"leg hold pose, stockings, black stockings / i字バランス - pixiv","meta:description":"この作品 「i字バランス」 は 「I字バランス」「ストッキング」 等のタグがつけられた「Duto」さんのイラストです。"}
+dl   --==>   https://www.pixiv.net/en/artworks/85101899
+cd[OpenGraph]   --==>   {"twitter:card":"summary_large_image","twitter:site":"@pixiv","twitter:url":"https://www.pixiv.net/en/artworks/85101899?ref=twitter_photo_card","twitter:title":"i字バランス","twitter:description":"i字バランス by Duto","twitter:image":"https://embed.pixiv.net/decorate.php?illust_id=85101899","twitter:app:name:iphone":"pixiv","twitter:app:id:iphone":"337248563","twitter:app:url:iphone":"pixiv://illusts/85101899","twitter:app:name:ipad":"pixiv","twitter:app:id:ipad":"337248563","twitter:app:url:ipad":"pixiv://illusts/85101899","twitter:app:name:googleplay":"pixiv","twitter:app:id:googleplay":"jp.pxv.android","twitter:app:url:googleplay":"pixiv://illusts/85101899","og:title":"leg hold pose, stockings, black stockings / i字バランス - pixiv","og:type":"article","og:image":"https://embed.pixiv.net/decorate.php?illust_id=85101899","og:description":""}
+it   --==>   1603175546885
+key   --==>   vinland
+key   --==>   fate
+term   --==>   xas
+cmgr-title-input   --==>   nyaro beware
+it   --==>   1603711586923
+rl   --==>   https://l.facebook.com/
+dl   --==>   https://www.pixiv.net/en/artworks/85242023
+ts   --==>   1603711588086
+cd[JSON-LD]   --==>   []
+cd[OpenGraph]   --==>   {"twitter:card":"summary_large_image","twitter:site":"@pixiv","twitter:url":"https://www.pixiv.net/en/artworks/85242023?ref=twitter_photo_card","twitter:title":"香菱(原神)","twitter:description":"香菱(原神) by 升天","twitter:image":"https://embed.pixiv.net/decorate.php?illust_id=85242023","twitter:app:name:iphone":"pixiv","twitter:app:id:iphone":"337248563","twitter:app:url:iphone":"pixiv://illusts/85242023","twitter:app:name:ipad":"pixiv","twitter:app:id:ipad":"337248563","twitter:app:url:ipad":"pixiv://illusts/85242023","twitter:app:name:googleplay":"pixiv","twitter:app:id:googleplay":"jp.pxv.android","twitter:app:url:googleplay":"pixiv://illusts/85242023","og:title":"Genshin Impact, bondage / 香菱(原神) / October 25th, 2020 - pixiv","og:type":"article","og:image":"https://embed.pixiv.net/decorate.php?illust_id=85242023","og:description":""}
+cd[Meta]   --==>   {"title":"Genshin Impact, bondage / 香菱(原神) / October 25th, 2020 - pixiv","meta:description":"この作品 「香菱(原神)」 は 「原神」「香菱(原神)」 等のタグがつけられた「升天」さんのイラストです。"}
+id   --==>   650437612170322
+fbp   --==>   fb.1.1592195102366.1257239793
+dl   --==>   https://axxis-consulting.com/
+ts   --==>   1603777178212
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"website","og:title":"Axxis Consulting - Leading SAP Software Partner in Singapore & Malaysia","og:description":"Axxis Consulting is an SAP Platinum partner that provides strategy, implementation, and IT support for companies across Singapore, Malaysia and Germany.","og:url":"https://axxis-consulting.com/","og:site_name":"Axxis Consulting"}
+cd[Meta]   --==>   {"title":"Axxis Consulting - Leading SAP Software Partner in Singapore & Malaysia","meta:description":"Axxis Consulting is an SAP Platinum partner that provides strategy, implementation, and IT support for companies across Singapore, Malaysia and Germany."}
+it   --==>   1603777177079
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/#webpage","url":"https://axxis-consulting.com/","name":"Axxis Consulting - Leading SAP Software Partner in Singapore &amp; Malaysia","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2019-12-10T12:48:46+00:00","dateModified":"2020-06-28T06:24:35+00:00","description":"Axxis Consulting is an SAP Platinum partner that provides strategy, implementation, and IT support for companies across Singapore, Malaysia and Germany.","potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/"]}]}]}]
+cd[Meta]   --==>   {"title":"About us - Axxis Consulting"}
+dl   --==>   https://axxis-consulting.com/about-us/
+rl   --==>   https://axxis-consulting.com/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/about-us/#webpage","url":"https://axxis-consulting.com/about-us/","name":"About us - Axxis Consulting","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2019-12-17T13:48:30+00:00","dateModified":"2020-03-04T02:45:39+00:00","breadcrumb":{"@id":"https://axxis-consulting.com/about-us/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/about-us/"]}]},{"@type":"BreadcrumbList","@id":"https://axxis-consulting.com/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position"
+ts   --==>   1603777239117
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"About us - Axxis Consulting","og:url":"https://axxis-consulting.com/about-us/","og:site_name":"Axxis Consulting"}
+it   --==>   1603777313233
+ts   --==>   1603777313906
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/%d1%81areers-settings/#webpage","url":"https://axxis-consulting.com/%d1%81areers-settings/","name":"Сareers Settings - Axxis Consulting","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2020-01-18T15:27:26+00:00","dateModified":"2020-03-04T12:01:13+00:00","breadcrumb":{"@id":"https://axxis-consulting.com/%d1%81areers-settings/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/%d1%81areers-settings/"]}]},{"@type":"BreadcrumbList","@id":"https://axxis-consulting.com/%d1%81areer
+dl   --==>   https://axxis-consulting.com/%d1%81areers-settings/
+rl   --==>   https://axxis-consulting.com/about-us/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Сareers Settings - Axxis Consulting","og:url":"https://axxis-consulting.com/сareers-settings/","og:site_name":"Axxis Consulting"}
+cd[Meta]   --==>   {"title":"Сareers Settings - Axxis Consulting"}
+it   --==>   1603777328041
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/#webpage","url":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/","name":"SAP Trainee / Internship (CRM / C/4HANA) - Axxis Consulting","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2020-01-22T10:50:55+00:00","dateModified":"2020-03-04T11:51:58+00:00","breadcrumb":{"@id":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/careers/sap-tr
+cd[Meta]   --==>   {"title":"SAP Trainee / Internship (CRM / C/4HANA) - Axxis Consulting"}
+id   --==>   360580094368309
+fbp   --==>   fb.1.1603777177660.1838656984
+v   --==>   2.9.27
+dl   --==>   https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/
+ts   --==>   1603777328658
+rl   --==>   https://axxis-consulting.com/%d1%81areers-settings/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"SAP Trainee / Internship (CRM / C/4HANA) - Axxis Consulting","og:description":"Job Description: Together with our SAP C/4HANA experts you will develop solutions for our international customers. Development of interfaces between SAP ERP and C/4HANA, using latest cloud technologies. Analysis of customer requirements and development of solutions. Support existing customers and create presentations to support the pre-sales team to acquire new customers. Understand and learn all aspects of C/4HANA, and productively support the implementation of a global rollout project in EMEA.","og:url":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/","og:site_name":"Axxis Consulting"}
+term   --==>   popola chan
+term   --==>   exava
+term   --==>   e'x
+q   --==>   painschamp
+term   --==>   e'xa
+q   --==>   pepew
+q   --==>   monkacross
+q   --==>   pepecross
+q   --==>   peepocross
+q   --==>   keepo
+q   --==>   peepoarrive
+q   --==>   concern
+q   --==>   concer
+q   --==>   peepoleave
+login-username   --==>   prawnsashimi
+username   --==>   kkh1999@hotmail.com
+term   --==>   luna ve
+username   --==>   1909756
+CandidateAnswer   --==>   Sam
+CandidateAnswer   --==>   3621
+CandidateAnswer   --==>   37553
+CandidateAnswer   --==>   20
+CandidateAnswer   --==>   MNPST
+ctl00$MainContent$CarianText   --==>   980118565071
+ctl00$MainContent$txtAlamat1   --==>   NO2 LORONG KABUS 6
+ctl00$MainContent$txtAlamat2   --==>   KUALA AMPANG
+ctl00$MainContent$txtEmel   --==>   kkh1999@hotmail.com
+ctl00$MainContent$txtNoTelRumah   --==>   0342563426
+ctl00$MainContent$txtICWaris   --==>   590209106336
+ctl00$MainContent$txtNamaWaris   --==>   YAM LAI KUEN
+ctl00$MainContent$txtNoTelWaris   --==>   0163902813
+ctl00$MainContent$FrasaKeselamatan   --==>   wxyzabc987
+ctl00$MainContent$txtPertama   --==>   kuning
+ctl00$MainContent$NamaPengguna   --==>   980118565071
+term   --==>   seii
+mat-input-0   --==>   Default Images
+mat-input-3   --==>   Default Images
+term   --==>   seiin
+term   --==>   nori
+term   --==>   noriri
+fbp   --==>   fb.1.1605572334825.2005746959
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"The Muse","og:type":"website","og:url":"https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples","og:title":"Your Guide to Answering “Tell Me About Yourself” in an Interview","og:description":"You know a lot about you, but how do you give a succinct, successful answer that’ll help get you the job?","og:image":"https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/2af5656e-26b6-4334-b984-01976576baee.png?mtime=1568824359","og:image:width":"1200","og:image:height":"630","og:see_also":"https://www.twitter.com/dailymuse"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"Article","publisher":{"@type":"Organization","name":"The Muse","logo":{"@type":"ImageObject","url":"https://www.themuse.com/static/images/muse-amp-logo.jpg?v=212881e6fc388b7a61e11bb9d8ab8d0a879e4dc1a4f5ac328c41df8b0f6ee5ab","width":290,"height":60},"url":"https://www.themuse.com","sameAs":["https://www.facebook.com/thedailymuse","https://www.linkedin.com/company/the-daily-muse","https://twitter.com/TheMuse","https://pinterest.com/thedailymuse/","https://instagram.com/themuse/"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples"},"headline":"A Complete Guide to Answering “Tell Me About Yourself” in an Interview (Plus Examples!)","datePublished":"2019-07-30T16:15:10-04:00","dateModified":"2020-06-18T23:38:52-04:00","author":{"@type":"Person","name":"Stav Ziv"},"description":"You know a lot about you, but when the interviewer says, “So tell me about yourself,” it can be pretty stressful.
+cd[Meta]   --==>   {"title":"How to Answer “Tell Me About Yourself” in an Interview | The Muse","meta:description":"You know a lot about you, but when the interviewer says, “So tell me about yourself,” it can be pretty stressful. We’ve got a guide with tips and examples to help you prepare."}
+it   --==>   1605572334215
+ts   --==>   1605572336188
+cd[Schema.org]   --==>   []
+id   --==>   531604090333347
+search[name]   --==>   Omesti
+ts   --==>   1605575562305
+v   --==>   2.9.28
+o   --==>   30
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Top 7 Common Internship Interview Questions | Career Karma","og:description":"Do you have an internship interview coming up? On Career Karma, discover seven questions you can use to prepare for your internship interview.","og:url":"https://careerkarma.com/blog/internship-interview-questions/","og:site_name":"Career Karma","article:publisher":"http://facebook.com/careerkarmaapp","article:section":"Career Advice","article:published_time":"2020-09-26T08:25:30+00:00","article:modified_time":"2020-09-26T17:48:17+00:00","og:updated_time":"2020-09-26T17:48:17+00:00","og:image":"https://careerkarma.com/blog/wp-content/uploads/2020/06/mimi-thian-VHQ0cw2euA-unsplash-1.jpg","og:image:secure_url":"https://careerkarma.com/blog/wp-content/uploads/2020/06/mimi-thian-VHQ0cw2euA-unsplash-1.jpg","og:image:width":"1020","og:image:height":"765"}
+if   --==>   false
+cd[DataLayer]   --==>   []
+cd[Meta]   --==>   {"title":"Top 7 Common Internship Interview Questions | Career Karma","meta:description":"Do you have an internship interview coming up? On Career Karma, discover seven questions you can use to prepare for your internship interview."}
+ec   --==>   1
+es   --==>   automatic
+sw   --==>   360
+fbp   --==>   fb.1.1605575561455.1969347570
+sh   --==>   640
+cd[Schema.org]   --==>   [{"dimensions":{"h":16089,"w":320},"properties":{"headline name":"Top 7 Common Internship Interview Questions (with Answers)","author":"JAMES GALLAGHER","datePublished":"2020-09-26T01:25:30-08:00","dateModified":"2020-09-26T10:48:17-08:00"},"subscopes":[{"dimensions":{"h":12,"w":47},"properties":{"item":"https://careerkarma.com/blog/","name":"Home"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":12,"w":72},"properties":{"item":"https://careerkarma.com/blog/interviews-category/","name":"Interviews"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":24,"w":320},"properties":{"item":"Top 7 Common Internship Interview Questions (with Answers)","name":"Top 7 Common Internship Interview Questions (with Answers)"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":0,"w":0},"properties":{"name":"James Gallagher"},"subscopes":[],"type":"https://schema.org/Person"},{"dimensions":{"h":0,"w":0},"properties":{"name":"Career Karma","url":"https://careerkarma.
+ev   --==>   Microdata
+id   --==>   726791754150577
+rqm   --==>   formPOST
+it   --==>   1605575560772
+r   --==>   stable
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://careerkarma.com/blog/#organization","name":"Career Karma","url":"https://careerkarma.com/blog/","sameAs":["http://facebook.com/careerkarmaapp","https://instagram.com/careerkarma","https://www.linkedin.com/company/career-karma-app","https://youtube.com/careerkarma","https://twitter.com/career_karma"],"logo":{"@type":"ImageObject","@id":"https://careerkarma.com/blog/#logo","inLanguage":"en-US","url":"https://careerkarma.com/blog/wp-content/uploads/2019/05/CK-logo-512x512-e1579122956968.png","width":150,"height":150,"caption":"Career Karma"},"image":{"@id":"https://careerkarma.com/blog/#logo"}},{"@type":"WebSite","@id":"https://careerkarma.com/blog/#website","url":"https://careerkarma.com/blog/","name":"Career Karma","inLanguage":"en-US","description":"Latest Coding Bootcamp News &amp; Career Hacks from Industry Insiders","publisher":{"@id":"https://careerkarma.com/blog/#organization"},"potentialAction":[{"@type":"SearchAction","t
+coo   --==>   false
+a   --==>   tmgoogletagmanager
+tm   --==>   3
+identifier   --==>   kongkh-wp16@student.tarc.edu.my
+loginPage:siteLogin:loginComponent:loginForm:username   --==>   kongkh-wp16@student.tarc.edu.my
+cl-table-filter-text-input   --==>   Filter clusters ...
+username   --==>   jovyan
+username   --==>   kongkh-wp16@student.tarc.edu.my
+colour-picker   --==>   #0C0EAF
+answer_QUIZ_bay-goop-hbv_LLEamGNlE   --==>   japan
+answer_QUIZ_bay-goop-hbv_el6NWEmeY   --==>   naruto
+autociteUrl   --==>   http://adfm-imu.com/alzheimers-in-malaysia/#:~:text=According%20to%20Alzheimer's%20disease%20International,to%20590%2C000%20people%20in%202050.
+sqexid   --==>   112976
+sqexid   --==>   fishermankoi
+uid_4   --==>   https://discord.gg/jKAfmN4
+pollAnswer2   --==>   no but actually yes
+pollAnswer3   --==>   obviously
+uid_864   --==>   w7WS6Un
+uid_4   --==>   https://discord.com/invite/ZvCSHM2
+uid_1077   --==>   https://discord.gg/wQt8yzE
+uid_2238   --==>   https://discord.com/invite/UeZmpq4
+uid_10543   --==>   https://discord.com/invite/SJF2Eef
+autociteUrl   --==>   https://medium.com/symsoft/five-usability-factors-that-make-products-usable-573657edc9f2
+jrQry   --==>   (Five usability factors that make products usable, 2020)
+title   --==>   Writting Assignment 1
+autociteUrl   --==>   https://www.geeksforgeeks.org/software-engineering-software-maintenance/
+autociteUrl   --==>   http://swebokwiki.org/Chapter_5:_Software_Maintenance#Techniques_for_Maintenance
+uid_5604   --==>   https://discord.gg/ZJvZmRF
+user   --==>   1909756
+searchValue   --==>   parallel programming
+cdmsg   --==>   50a124a39a45a33a116a57a53a58a45a105a120a102a104a49a38a32a35a102a62a53a62a37a104a60a116a55a55a49a54a44a59a56a35a36a110a63a51a54a52a48a61a110a34a127a45a60a121a60a56a45a41a56a104a114a115a116a103a98a110a113a127a111a124a125a112a99a99a102a98a114a122a96a
+femsg   --==>   1
+bhvmsg   --==>   32a37a38a117a37a38a45a32a96a99a105a37a50a54a114a44a
+jsdk   --==>   DlwEKCZtrW
+glv   --==>   124a41a50a32a45a34a56a48a127a50a117a126a97a104a127a122a98a101a127a54a117a45a49a104a40a34a107a97a101a53a115a125a103a118a123a117a116a56a61a52a37a32a123a38a41a37a106a50a55a98a114a97a51a124a127a123a119a96a49a97a38a97a53a118a125a39a119a98a102a51a38a45a100a39a120a37a57a50a99a121a40a35a52a36a39a
+lext   --==>   31a124a123a117a22a
+sdrv   --==>   0
+gprid   --==>   GT
+cdmsg   --==>   57a103a38a35a36a97a47a46a63a44a102a122a103a97a53a50a44a60a122a63a61a61a37a123a60a121a59a47a44a54a62a60a33a48a35a98a50a49a47a45a34a61a118a48a98a37a40a123a34a32a62a51a36a99a111a124a97a100a102a114a123a101a116a118a97a101a114a121a98a121a121a97a97a
+bhvmsg   --==>   43a62a39a123a32a51a59a59a101a98a102a39a51a63a118a56a
+jsdk   --==>   OWVkNvl
+glv   --==>   119a50a51a46a40a55a46a43a122a51a122a124a96a97a123a110a110a122a99a55a125a46a49a123a40a47a103a121a120a53a97a122a126a101a124a121a121a58a36a45a55a32a99a52a52a45a126a48a41a122a97a123a47a119a98a116a98a99a53a125a44a123a46a124a97a50a102a120a98a40a45a54a101a41a125a48a47a41a102a120a39a33a53a45a35a
+lext   --==>   20a103a122a123a19a
+login_id   --==>   koizumi98@hotmail.com
+username   --==>   1909756
+uid_13596   --==>   https://discord.gg/EJMk5Jm
+term   --==>   latte
+term   --==>   ica
+new_db   --==>   stock
+qty[]   --==>   1
+group_name   --==>   Front Desk
+autociteUrl   --==>   https://www.indiatoday.in/technology/news/story/facebook-data-of-267-million-users-exposed-online-1630084-2019-12-20
+jrQry   --==>   (Facebook faces another data breach, data of 267 million users exposed, 2020)
+jrQry   --==>   https://www.indiatoday.in/technology/news/story/facebook-data-of-267-million-users-exposed-online-1630084-2019-12-20
+email   --==>   koizumikoi@gmail.com
+displayname   --==>   Koi
+phone   --==>   0163769289
+otp   --==>   41433
+uid_2623   --==>   https://discord.gg/a2NzVg
+term   --==>   mitsuh
+x-input   --==>   24.5
+y-input   --==>   17.5
+width-input   --==>   141
+height-input   --==>   48
+Opacity   --==>   100
+Font size   --==>   40
+Line   --==>   16
+asset-search   --==>   login
+x-input   --==>   0
+y-input   --==>   0
+width-input   --==>   1080
+height-input   --==>   1920
+asset-search   --==>   tex
+y-input   --==>   680
+width-input   --==>   264
+height-input   --==>   230
+Radius   --==>   6
+Color Opacity   --==>   100
+borderWidth   --==>   0
+x-input   --==>   70
+y-input   --==>   798
+height-input   --==>   109
+Font size   --==>   42
+x-input   --==>   143
+y-input   --==>   874
+width-input   --==>   794
+height-input   --==>   306
+Font size   --==>   48
+y-input   --==>   688
+height-input   --==>   144
+rotation-input   --==>   0
+y-input   --==>   86
+width-input   --==>   912
+height-input   --==>   1690
+x-input   --==>   410
+y-input   --==>   670
+width-input   --==>   260
+height-input   --==>   180
+Radius   --==>   0
+y-input   --==>   752
+x-input   --==>   180
+y-input   --==>   382
+width-input   --==>   135
+height-input   --==>   32
+x-input   --==>   118
+y-input   --==>   579
+width-input   --==>   487
+height-input   --==>   106
+Font size   --==>   50
+y-input   --==>   542
+x-input   --==>   84
+y-input   --==>   416
+x-input   --==>   52
+y-input   --==>   314
+width-input   --==>   976
+height-input   --==>   328
+asset-search   --==>   butt
+x-input   --==>   99
+y-input   --==>   1562
+width-input   --==>   137
+x-input   --==>   432
+y-input   --==>   754
+width-input   --==>   236
+x-input   --==>   812
+y-input   --==>   1271
+width-input   --==>   16
+height-input   --==>   312
+Opacity   --==>   0
+Color Opacity   --==>   0
+asset-search   --==>   profile
+x-input   --==>   408
+y-input   --==>   299
+height-input   --==>   51
+asset-search   --==>   chat
+x-input   --==>   508
+y-input   --==>   728
+width-input   --==>   64
+height-input   --==>   64
+asset-search   --==>   button
+uid_5381   --==>   https://discord.com/invite/Ygh6FJG
+code   --==>   3887
+term   --==>   koi ro
+term   --==>   apocalyptic
+first_name   --==>   Kok Hoe
+last_name   --==>   Kong
+user_email   --==>   kongkh-wp16@student.tarc.edu.my
+email   --==>   kkh1999@hotmail.com
+institute_name   --==>   Tunku Abdul Rahman University College
+graduation_year   --==>   2021
+handphone_no   --==>   0163769289
+cgpa0   --==>   3.225
+cgpa_base0   --==>   4.000
+major1   --==>   Software Engineering
+login_id   --==>   kkh1999@hotmail.com
+key   --==>   petra
+expected_salary   --==>   800
+cxsrec__First_name__c   --==>   Kok Hoe
+cxsrec__Last_name__c   --==>   Kong
+cxsrec__mobilePhone__c   --==>   0163769289
+cxsrec__E_mail_address__c   --==>   kkh1999@hotmail.com
+cxsrec__Town_city__c   --==>   Ampang
+cxsrec__Country__c   --==>   Malaysia
+timespent   --==>   0:06
+timespent   --==>   0:10
+timespent   --==>   0:18
+timespent   --==>   0:27
+timespent   --==>   0:34
+timespent   --==>   0:52
+timespent   --==>   1:00
+timespent   --==>   1:05
+timespent   --==>   1:10
+timespent   --==>   1:16
+timespent   --==>   1:28
+timespent   --==>   1:35
+timespent   --==>   1:40
+timespent   --==>   1:45
+timespent   --==>   1:53
+timespent   --==>   2:12
+timespent   --==>   2:16
+timespent   --==>   2:18
+timespent   --==>   2:24
+timespent   --==>   2:25
+timespent   --==>   2:33
+timespent   --==>   2:43
+timespent   --==>   3:07
+timespent   --==>   3:10
+timespent   --==>   3:14
+timespent   --==>   0:14
+timespent   --==>   0:23
+timespent   --==>   0:45
+timespent   --==>   0:55
+timespent   --==>   1:03
+timespent   --==>   1:18
+timespent   --==>   1:34
+timespent   --==>   3:15
+timespent   --==>   3:17
+timespent   --==>   3:21
+timespent   --==>   3:27
+timespent   --==>   3:32
+timespent   --==>   3:34
+timespent   --==>   4:03
+timespent   --==>   4:06
+timespent   --==>   4:13
+timespent   --==>   4:16
+timespent   --==>   4:18
+timespent   --==>   4:28
+timespent   --==>   4:33
+timespent   --==>   4:34
+timespent   --==>   4:37
+username   --==>   FishermanKoi
+term   --==>   lalamu
+term   --==>   shionne
+term   --==>   darken
+rl   --==>   https://www.googleapis.com/auth/chrome-content-suggestions
+cd[OpenGraph]   --==>   {"og:locale":"en_GB","og:type":"article","og:title":"PSA: TM reduces upload speed for 500Mbps Unifi plan by 50%","og:description":"TM's new 800Mbps and 500Mbps Unifi plans were initially introduced with 200Mbps upload speed. It appears that TM has made a mistake for the 500Mbps plan.","og:url":"https://www.soyacincau.com/2020/09/18/tm-unifi-fibre-broadband-500mbps-upload-speed-not-200mbps/","og:site_name":"SoyaCincau.com","article:publisher":"http://www.facebook.com/mysoyacincau","article:author":"https://www.facebook.com/alexwnl","article:published_time":"2020-09-18T02:39:13+00:00","article:modified_time":"2020-09-18T11:57:17+00:00","og:image":"https://www.soyacincau.com/storage/2018/07/180702-tm-malaysia-new-announcement-telekom-unifi-broadband-fb-hero.jpg","og:image:width":"1200","og:image:height":"630"}
+it   --==>   1600454881598
+fbp   --==>   fb.1.1600454885558.375625750
+cd[Meta]   --==>   {"title":"PSA: TM reduces upload speed for 500Mbps Unifi plan by 50%","meta:description":"TM's new 800Mbps and 500Mbps Unifi plans were initially introduced with 200Mbps upload speed. It appears that TM has made a mistake for the 500Mbps plan."}
+cd[Schema.org]   --==>   [{"dimensions":{"h":1425,"w":340},"properties":{},"subscopes":[],"type":"https://schema.org/SiteNavigationElement"}]
+id   --==>   375681346490800
+dl   --==>   https://www.soyacincau.com/2020/09/18/tm-unifi-fibre-broadband-500mbps-upload-speed-not-200mbps/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.soyacincau.com/#organization","name":"Soya Cincau","url":"https://www.soyacincau.com/","sameAs":["http://www.facebook.com/mysoyacincau","https://www.instagram.com/mysoyacincau/","http://www.youtube.com/soyacincautv","https://twitter.com/soya_cincau"],"logo":{"@type":"ImageObject","@id":"https://www.soyacincau.com/#logo","inLanguage":"en-GB","url":"https://www.soyacincau.com/storage/2018/11/SoyaCincau-New-Logo-OL.png","width":1307,"height":419,"caption":"Soya Cincau"},"image":{"@id":"https://www.soyacincau.com/#logo"}},{"@type":"WebSite","@id":"https://www.soyacincau.com/#website","url":"https://www.soyacincau.com/","name":"SoyaCincau.com","description":"For everything that matters in tech","publisher":{"@id":"https://www.soyacincau.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.soyacincau.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB
+a   --==>   dvpixelyoursite
+ts   --==>   1600454886803
+ec   --==>   2
+term   --==>   elementrix
+term   --==>   haru kaze
+term   --==>   thot coff
+ts   --==>   1600828889244
+cd[Meta]   --==>   {"title":"【グラブル】SSRキャラ評価一覧【グランブルーファンタジー】 - ゲームウィズ(GameWith)","meta:description":"グラブルのSSRキャラ一覧ページです。全キャラに評価点数を付けているため、どのSSRが強い/最強クラスなのかをまとめて確認できます。属性や種族、得意武器もあわせて確認可能です。気になるSSRキャラを探す際にお使いください。"}
+cd[OpenGraph]   --==>   {"article:modified_time":"2020-09-22T20:05:30+09:00","article:publisher":"グラブル攻略班","og:locale":"ja_JP","og:site_name":"GameWith","og:description":"グラブルのSSRキャラ一覧ページです。全キャラに評価点数を付けているため、どのSSRが強い/最強クラスなのかをまとめて確認できます。属性や種族、得意武器もあわせて確認可能です。気になるSSRキャラを探す際にお使いください。","og:title":"【グラブル】SSRキャラ評価一覧【グランブルーファンタジー】 - ゲームウィズ(GameWith)","og:type":"article","og:url":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722","og:image":"https://img.gamewith.jp/article/thumbnail/rectangle/20722.png"}
+ts   --==>   1600828840982
+it   --==>   1600828882428
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://gamewith.jp/","name":"GameWith"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/","name":"グラブル攻略 | グランブルーファンタジー徹底解説"}}]}]
+ts   --==>   1600828840954
+dl   --==>   https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722
+it   --==>   1600828809001
+ts   --==>   1600828889214
+configPoeFilter_filter_name   --==>   a
+ts   --==>   1600836933648
+ts   --==>   1600836933670
+it   --==>   1600836920882
+sockets_min   --==>   3
+link_min   --==>   1
+sockets_g   --==>   g
+linked_r   --==>   r
+ts   --==>   1600886258175
+it   --==>   1600886247487
+ts   --==>   1600886258152
+it   --==>   1600886525507
+ts   --==>   1600886532142
+ts   --==>   1600886532112
+dl   --==>   https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/144747
+id   --==>   268601257740948
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://gamewith.jp/","name":"GameWith"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/","name":"グラブル攻略 | グランブルーファンタジー徹底解説"}},{"@type":"ListItem","position":3,"item":{"@id":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722","name":"SSRキャラ評価一覧"}}]}]
+it   --==>   1600887066225
+v   --==>   2.9.24
+cd[Meta]   --==>   {"title":"【グラブル】ニーア(恋人)の評価/性能検証まとめ｜十賢者【グランブルーファンタジー】 - ゲームウィズ(GameWith)","meta:description":"グラブルの十賢者「ニーア(恋人)」の評価/性能を掲載。ステータスや奥義/アビリティ、加入方法などをまとめています。アーカルムの10賢者、デスの契約者「ニーア」を運用する際にご活用ください。"}
+cd[OpenGraph]   --==>   {"article:modified_time":"2020-08-09T22:43:21+09:00","article:publisher":"グラブル攻略班","og:locale":"ja_JP","og:site_name":"GameWith","og:description":"グラブルの十賢者「ニーア(恋人)」の評価/性能を掲載。ステータスや奥義/アビリティ、加入方法などをまとめています。アーカルムの10賢者、デスの契約者「ニーア」を運用する際にご活用ください。","og:title":"【グラブル】ニーア(恋人)の評価/性能検証まとめ｜十賢者【グランブルーファンタジー】 - ゲームウィズ(GameWith)","og:type":"article","og:url":"https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/144747","og:image":"https://img.gamewith.jp/article/thumbnail/rectangle/144747.png"}
+rl   --==>   https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/20722
+fbp   --==>   fb.1.1580543225999.1415540971
+ts   --==>   1600887071783
+id   --==>   487629805469685
+ts   --==>   1600887071764
+term   --==>   shionn
+cmgr-title-input   --==>   Soillll
+cmgr-title-input   --==>   Heavensfall Tower
+cdkey__character   --==>   Koi
+cmgr-title-input   --==>   wtf drg
+term   --==>   miss dior
+term   --==>   dior
+term   --==>   lady d
+term   --==>   claire' farron
+term   --==>   xava
+cmgr-title-input   --==>   ten
+cmgr-title-input   --==>   normal octet 
+ts   --==>   1601582066672
+cd[Schema.org]   --==>   [{"dimensions":{"h":4547,"w":360},"properties":{"image":"","description":"Eager to know why her best friend’s boyfriend dumped her for a man, the headstrong Eiya Arakawa suggests a meeting with them. Gathered together at a café, Yuuga Oota agrees to answer Eiya’s questions only if she can correctly ascertain the relationship of a couple sitting across from them, which she does on her first attempt. Amazed by her astounding intellect and intuition, he invites her to a private meeting where he introduces her to the concept of Slave Control Method, or SCM, a retainer-lik","name":"Dorei-ku The Animation","genre":"Psychological"},"subscopes":[{"dimensions":{"h":26,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Dorei-ku The Animation","og:type":"video.tv_show","og:image":"https://cdn.myanimelist.net/img/sp/icon/twitter-card.png","og:url":"https://myanimelist.net/anime/36525/Dorei-ku_The_Animation","og:description":"Eager to know why her best friend’s boyfriend dumped her for a man, the headstrong Eiya Arakawa suggests a meeting with them. Gathered together at a café, Yuuga Oota agrees to answer Eiya’s questions only if she can correctly ascertain the relationship of a couple sitting across from them, which she does on her first attempt. Amazed by her astounding intellect and intuition, he invites her to a private meeting where he introduces her to the concept of Slave Control Method, or SCM, a retainer-lik"}
+it   --==>   1601582064302
+cd[Meta]   --==>   {"title":"\nDorei-ku The Animation - MyAnimeList.net\n","meta:description":"Looking for information on the anime Dorei-ku The Animation? Find out more with MyAnimeList, the world's most active online anime and manga community and database. Eager to know why her best friend’s boyfriend dumped her for a man, the headstrong Eiya Arakawa suggests a meeting with them. Gathered together at a café, Yuuga Oota agrees to answer Eiya’s questions only if she can correctly ascertain the relationship of a couple sitting across from them, which she does on her first attempt. Ama...","meta:keywords":"anime, myanimelist, anime news, manga"}
+dl   --==>   https://myanimelist.net/anime/36525/Dorei-ku_The_Animation
+it   --==>   1601665708835
+ts   --==>   1601665710101
+cd[Meta]   --==>   {"title":"Food and grocery delivery in Malaysia | Order online on foodpanda","meta:description":"Order food and grocery delivery ✔ The best restaurants and shops near you ✔ Large variety of dishes and products ✔ Safe & easy payment options"}
+fbp   --==>   fb.1.1601665708995.188585694
+id   --==>   1805620656356644
+cd[Schema.org]   --==>   [{"dimensions":{"h":560,"w":360},"properties":{},"subscopes":[{"dimensions":{"h":202,"w":360},"properties":{"name":"How can I get foodpanda delivery?"},"subscopes":[{"dimensions":{"h":150,"w":360},"properties":{"text":"In order to get foodpanda delivery, you simply need to find the restaurants that deliver near you by using your address, browse through the menu, form your order, afterward, just proceed to checkout and payment. Your meal will be delivered to you in no time!\n\n"},"subscopes":[],"type":"https://schema.org/Answer"}],"type":"https://schema.org/Question"},{"dimensions":{"h":518,"w":360},"properties":{"name":"How can I order food in Malaysia?"},"subscopes":[{"dimensions":{"h":466,"w":360},"properties":{"text":"To order food delivery in Malaysia, follow these simple steps:\n\nFind a restaurant. Enter your delivery address in the location form to see all the places that deliver to your location. It can be your home, office, a hotel or even parks!\nChoose your dishes. Browse the menu of the chosen res
+dl   --==>   https://www.foodpanda.my/?source=ig102364444e0a81465979f6267d605etql3t4b--000KM0gA
+cd[OpenGraph]   --==>   {}
+term   --==>   skye dr
+s   --==>   phantasm
+cmgr-title-input   --==>   bookslap
+loginKey   --==>   (+60) 163769289
+email   --==>   kkh1999@hotmail.com
+dob-date   --==>   18
+dob-year   --==>   1998
+s   --==>   h
+s   --==>   zeus
+s   --==>   hades
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"ItemList","numberOfItems":22,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://www.glassdoor.com/job-listing/software-engineer-internship-available-xybase-JV_IC3002296_KO0,38_KE39,45.htm?jl=3656627164"},{"@type":"ListItem","position":2,"url":"https://www.glassdoor.com/job-listing/software-engineer-intern-fusionex-JV_IC3002296_KO0,24_KE25,33.htm?jl=3656681644"},{"@type":"ListItem","position":3,"url":"https://www.glassdoor.com/job-listing/software-engineering-intern-tigerlab-JV_IC2986682_KO0,27_KE28,36.htm?jl=3576010586"},{"@type":"ListItem","position":4,"url":"https://www.glassdoor.com/job-listing/internship-software-engineer-coingecko-JV_IC3002296_KO0,28_KE29,38.htm?jl=3700643337"},{"@type":"ListItem","position":5,"url":"https://www.glassdoor.com/job-listing/associate-software-engineer-intern-sitecore-JV_IC2986682_KO0,34_KE35,43.htm?jl=3595227384"},{"@type":"ListItem","position":6,"url":"https://www.glassdoor.com/job-listing/internship-software-develo
+ts   --==>   1602156976060
+id   --==>   1499075380345177
+it   --==>   1602156971935
+cd[OpenGraph]   --==>   {"og:title":"Software engineer internship Jobs in Malaysia","og:type":"website","og:site_name":"Glassdoor","og:url":"https://www.glassdoor.com/Job/malaysia-software-engineer-internship-jobs-SRCH_IL.0,8_IN170_KO9,37.htm","og:image":"https://www.glassdoor.com/jobs-ux-app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl"}
+cd[Meta]   --==>   {"title":"Software engineer internship Jobs in Malaysia | Glassdoor","meta:description":"Search Software engineer internship jobs in Malaysia with company ratings & salaries. 22 open jobs for Software engineer internship in Malaysia."}
+dl   --==>   https://www.glassdoor.com/Job/malaysia-software-engineer-internship-jobs-SRCH_IL.0,8_IN170_KO9,37.htm
+fbp   --==>   fb.1.1602156972567.1518127097
+cd[OpenGraph]   --==>   {"og:title":"Software Development Intern for WOBB | WOBB","og:image":"https://resources.wobbjobs.com/resized/uploads/jobs-malaysia/job_images/8b31ad65-30e9-4328-af3a-a755e39ca83b/jobs-malaysia-tech-intern-wobb-15064188_sharing.jpeg","og:description":"Be part of the team building a modern, intuitive website and mobile app for both iOS and Android at WOBB!","og:url":"https://my.wobbjobs.com/jobs/jobs-malaysia-wobb-job-software-development-intern"}
+rl   --==>   https://www.google.com/
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org/","@type":"JobPosting","title":"Software Development Intern","description":"<div>Work on some amazing projects with us as we continue to build our website and mobile app, taking them to the next level.&nbsp;<br>Here are the experiences you will learn and develop here:&nbsp;</div><ul><li>Help make our website look awesome!</li><li>UI / UX development</li><li>Testing and de-bugging to make sure our platform runs smoothly</li><li>Data processing and analysis</li><li>Exposure to cloud technologies</li></ul>","datePosted":"2020-08-28","hiringOrganization":{"@type":"Organization","name":"WOBB","sameAs":"my.wobbjobs.com","logo":"https://s3-ap-southeast-1.amazonaws.com/resources.wobbjobs.com/uploads/company-logo/company_logo_image/44ea6c51-c84d-423f-8649-96cb592ea995/wobb-1557823400.png"},"validThrough":"2020-10-28T20:30:25+08:00","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","streetAddress":"90, Pinggir Zaaba","addressLocality":"Kuala Lumpur","addressRegion":"Wilay
+it   --==>   1602157039030
+id   --==>   695842063839797
+cd[Meta]   --==>   {"title":"Software Development Intern for WOBB | WOBB"}
+id   --==>   251827335694619
+dl   --==>   https://my.wobbjobs.com/jobs/jobs-malaysia-wobb-job-software-development-intern
+ts   --==>   1602157040370
+fbp   --==>   fb.1.1602157039739.966430367
+ts   --==>   1602157040303
+cdkey__character   --==>   Ebi
+q   --==>   sadge
+q   --==>   sadeg
+q   --==>   catjam
+q   --==>   pepeHands
+q   --==>   monkaW
+q   --==>   feelsokayman
+q   --==>   feelsdeadman
+q   --==>   feels
+q   --==>   ayaya
+q   --==>   kkomrade
+q   --==>   haltchamp
+q   --==>   pogu
+q   --==>   pausechamp
+editable-widget-name-input-2   --==>   Now Playing
+songUrl   --==>   https://open.spotify.com/playlist/0RhHFsLhCCzVEUNMvf3Lnr?si=UN4UVR8kSk6meBlU4UuYsg
+cmgr-title-input   --==>   lul
+subject_id   --==>   koizumikoi98@gmail.com
+key   --==>   higurashi
+ts   --==>   1602529933536
+it   --==>   1602529932416
+ts   --==>   1602530058543
+dl   --==>   https://myanimelist.net/forum/?topicid=1868686
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"It's not a remake","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1868686","og:description":"Recently the name of this anime and the first arc got leaked (kinda) from amazon jp: https://www.amazon.co.jp/%E7%AC%AC1%E8%A9%B1-%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB/dp/B08KGSJ92K/ The series title is listed as \"Higurashi no Naku Koro ni Gou\", potentially meaning karma, and the arc name is listed as \"Onidamashi-hen\" which means \"Demon Deception Arc\" or something similar. Source for translation: https://twitter.com/FurudeJinja/status/13137167108520509"}
+cd[Schema.org]   --==>   [{"dimensions":{"h":44,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou","name":"Higurashi no Naku Koro ni Gou","position":"3"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":88},"properties":{"item":"https://myanimelist.net/forum/?topicid=1868686","name":"It's not a remake","position":"4"},"subscopes":[],"type":"http://schema.org/ListItem"}],"type":"http://schema.org/BreadcrumbList"}]
+cd[Meta]   --==>   {"title":"\nIt's not a remake - Forums - MyAnimeList.net\n","meta:description":"Read the topic about It's not a remake on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1868686)","meta:keywords":"anime, myanimelist, anime news, manga"}
+it   --==>   1602530057831
+it   --==>   1602530071764
+cd[Meta]   --==>   {"title":"\nHigurashi no Naku Koro ni (2020) Episode 2 Discussion - Forums - MyAnimeList.net\n","meta:description":"Read more about this topic on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1868876)","meta:keywords":"anime, myanimelist, anime news, manga"}
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Higurashi no Naku Koro ni (2020) Episode 2 Discussion","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1868876","og:description":"THIS IS AN ANIME ONLY DISCUSSION POST. DO NOT DISCUSS THE MANGA BEYOND THIS EPISODE. ---------------------------------------- Oh wow, it's Hanyuu. That brings back alot memories especially between her and Rika. Too bad they didn't use the original theme song from season 1 for the OP but I think the new one is alright. Not going to lie, the first half of this episode was priceless especially with Rena teasing Kenichi and the others tickling him. An entertaining episode imo, mainly focused on the "}
+dl   --==>   https://myanimelist.net/forum/?topicid=1868876
+ts   --==>   1602530072663
+cd[Schema.org]   --==>   [{"dimensions":{"h":44,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou","name":"Higurashi no Naku Koro ni Gou","position":"3"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":175},"properties":{"item":"https://myanimelist.net/forum/?topicid=1868876","name":"Higurashi no Naku Koro ni (202...","position":"4"},"subscopes":[],"type":"http://schema.org/ListItem"}],"type":"http://schema.org/BreadcrumbList"}]
+rl   --==>   https://myanimelist.net/forum/?topicid=1868876
+dl   --==>   https://myanimelist.net/forum/?topicid=1868876&show=30
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Higurashi no Naku Koro ni (2020) Episode 2 Discussion","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1868876&show=30","og:description":" If this happens I'm going to freak out so hard!! Umineko chads, REJOICE!"}
+cd[Meta]   --==>   {"title":"\nHigurashi no Naku Koro ni (2020) Episode 2 Discussion (30 - ) - Forums - MyAnimeList.net\n","meta:description":"Read more about this topic on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1868876) (30 - )","meta:keywords":"anime, myanimelist, anime news, manga"}
+it   --==>   1602530206134
+ts   --==>   1602530215007
+rl   --==>   https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou?q=Higura&cat=anime
+dl   --==>   https://myanimelist.net/forum/?topicid=1869458
+cd[Schema.org]   --==>   [{"dimensions":{"h":44,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou","name":"Higurashi no Naku Koro ni Gou","position":"3"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":164},"properties":{"item":"https://myanimelist.net/forum/?topicid=1869458","name":"The new art style isn’t so bad...","position":"4"},"subscopes":[],"type":"http://schema.org/ListItem"}],"type":"http://schema.org/BreadcrumbList"}]
+cd[Meta]   --==>   {"title":"\nThe new art style isn’t so bad - Forums - MyAnimeList.net\n","meta:description":"Read the topic about The new art style isn’t so bad on MyAnimeList, and join in the discussion on the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more! (Topic ID: 1869458)","meta:keywords":"anime, myanimelist, anime news, manga"}
+it   --==>   1602530213518
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"The new art style isn’t so bad","og:type":"article","article:publisher":"https://www.facebook.com/OfficialMyAnimeList","og:image":"https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png","og:url":"https://myanimelist.net/forum/?topicid=1869458","og:description":"When I initially saw the trailer/poster, I was kinda disgusted by the greasy look of all the characters. I’ve finally got round to watching the first ep and you know what, it isn’t so bad! I kinda like it tbh Of course nothing can beat the original, but at the same time, I feel more welcoming to this new art style now. Anyone else changed their mind about the art?"}
+dl   --==>   https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou?q=Higura&cat=anime
+ts   --==>   1602530250860
+rl   --==>   https://myanimelist.net/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"MyAnimeList.net","og:title":"Higurashi no Naku Koro ni Gou","og:type":"video.tv_show","og:image":"https://cdn.myanimelist.net/img/sp/icon/twitter-card.png","og:url":"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_Gou?cat=anime","og:description":"New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year. But something about this isolated town seems \"off,\" and his feelings of dread continue to grow. With a gnawing fear that he’s right, what dark secrets could this small community be hiding? (Source: Funimation)"}
+it   --==>   1602530245859
+cd[Schema.org]   --==>   [{"dimensions":{"h":4239,"w":360},"properties":{"image":"","description":"New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year.\n\nBut something about this isolated town seems \"off,\" and his feelings of dread continue to grow. With a gnawing fear that he’s right, what dark secrets could this small community be hiding?\n\n(Source: Funimation)","name":"Higurashi no Naku Koro ni Gou","genre":"Thriller"},"subscopes":[{"dimensions":{"h":26,"w":344},"properties":{},"subscopes":[{"dimensions":{"h":18,"w":20},"properties":{"item":"https://myanimelist.net/","name":"Top","position":"1"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":34},"properties":{"item":"https://myanimelist.net/anime.php","name":"Anime","position":"2"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":18,"w":163},"properties":{"item":"https://myanimelist.net
+id   --==>   403179503706622
+cd[Meta]   --==>   {"title":"\nHigurashi no Naku Koro ni Gou (Higurashi: When They Cry – Gou) - MyAnimeList.net\n","meta:description":"Looking for information on the anime Higurashi no Naku Koro ni Gou (Higurashi: When They Cry – Gou)? Find out more with MyAnimeList, the world's most active online anime and manga community and database. New kid Keiichi Maebara is settling into his new home of peaceful Hinamizawa village. Making quick friends with the girls from his school, he’s arrived in time for the big festival of the year. But something about this isolated town seems \"off,\" and his feelings of dread continue to grow. Wi...","meta:keywords":"anime, myanimelist, anime news, manga"}
+fbp   --==>   fb.1.1601582066136.1678198004
+username   --==>   Kneegals
+rl   --==>   https://g-client-proxy.pixiv.net/GS/GSLogin.aspx?state=yc463l70n4055151h7.np.tk1..AcbHbMTInw.VriGh29w_cwo1rQEiNqGUcXKqBAF8vEqid-KMcAekHU.44cq6IqjdkSt85b4TGl0qFqNNWuIVDYUsbaYn2uXaIEiOj6rvzsOj6MbuxuWtcyXADph6H3YX0zYE9HKCqi4Uw.sc3&code=4%2F5QFcViPLHPvyA8A4hDh1lRvbBJdAdnTamL5CrZcRTscD5TKKKL4K5C_SKfzbvd8GCovWCc175tPW3SOZr3YP_Fg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none
+it   --==>   1602962592226
+ts   --==>   1602962593593
+ts   --==>   1602962622542
+it   --==>   1602962621402
+dl   --==>   https://www.pixiv.net/en/artworks/85071577
+cd[Meta]   --==>   {"title":"Genshin Impact, Fischl / Fischl / October 17th, 2020 - pixiv","meta:description":"この作品 「Fischl」 は 「R-18」「原神」 等のタグがつけられた「anon」さんのイラストです。"}
+it   --==>   1602962676853
+cd[OpenGraph]   --==>   {"twitter:card":"summary","twitter:site":"@pixiv","twitter:url":"https://www.pixiv.net/en/artworks/85071577?ref=twitter_summary_card","twitter:title":"[R-18]Fischl","twitter:description":"Fischl by anon","twitter:app:name:iphone":"pixiv","twitter:app:id:iphone":"337248563","twitter:app:url:iphone":"pixiv://illusts/85071577","twitter:app:name:ipad":"pixiv","twitter:app:id:ipad":"337248563","twitter:app:url:ipad":"pixiv://illusts/85071577","twitter:app:name:googleplay":"pixiv","twitter:app:id:googleplay":"jp.pxv.android","twitter:app:url:googleplay":"pixiv://illusts/85071577","twitter:image":"https://s.pximg.net/www/images/pixiv_logo.gif?2","og:title":"Genshin Impact, Fischl / Fischl / October 17th, 2020 - pixiv","og:type":"article","og:image":"https://s.pximg.net/www/images/pixiv_logo.gif?2","og:description":""}
+ts   --==>   1602962677853
+AuthEmail   --==>   koizumikoi98@gmail.com
+fbp   --==>   fb.1.1602964067108.1365479918
+id   --==>   357284151509651
+it   --==>   1602964065034
+cd[JSON-LD]   --==>   [{"keywords":["fried chicken","fast-food","cmco","eight spots"],"headline":"Pecking order: Eight fast-food spots to get your fried chicken fix this CMCO","description":"PETALING JAYA, Oct 15 — With the conditional movement control order (CMCO) forcing many people back into the safety of their homes, there’s no better time to stay in and treat yourself to food delivery. Fried chicken is a classic comfort food and it might be just what we need to soothe our...","articleSection":"Eat/Drink","@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.malaymail.com/news/eat-drink/2020/10/15/pecking-order-eight-fast-food-spots-to-get-your-fried-chicken-fix-this-cmco/1912927"},"image":{"@type":"ImageObject","url":"https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-10/fafoda1510-seo.jpg","width":1200,"height":630},"datePublished":"2020-10-15T15:47:01+08:00","dateModified":"2020-10-15T23:47:01+08:00","author":{"@type":"Person","name":"Melanie Chalil,
+dl   --==>   https://www.malaymail.com/news/eat-drink/2020/10/15/pecking-order-eight-fast-food-spots-to-get-your-fried-chicken-fix-this-cmco/1912927
+ts   --==>   1602964069603
+cd[Meta]   --==>   {"title":"Pecking order: Eight fast-food spots to get your fried chicken fix this CMCO | Eat/Drink | Malay Mail","meta:keywords":"fried chicken, fast-food, cmco, eight spots","meta:description":"PETALING JAYA, Oct 15 — With the conditional movement control order (CMCO) forcing many people back into the safety of their homes, there’s no better time to stay in and treat yourself to food delivery. Fried chicken is a classic comfort food and it might be just what we need to soothe our..."}
+cd[OpenGraph]   --==>   {"og:title":"Pecking order: Eight fast-food spots to get your fried chicken fix this CMCO | Malay Mail","og:type":"article","og:url":"https://www.malaymail.com/news/eat-drink/2020/10/15/pecking-order-eight-fast-food-spots-to-get-your-fried-chicken-fix-this-cmco/1912927","og:description":"PETALING JAYA, Oct 15 — With the conditional movement control order (CMCO) forcing many people back into the safety of their homes, there’s no better time to stay in and treat yourself to food delivery. Fried chicken is a classic comfort food and it might be just what we need to soothe our...","og:image":"https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-10/fafoda1510-seo.jpg"}
+term   --==>   flare
+ts   --==>   1603175548223
+cd[Meta]   --==>   {"title":"leg hold pose, stockings, black stockings / i字バランス - pixiv","meta:description":"この作品 「i字バランス」 は 「I字バランス」「ストッキング」 等のタグがつけられた「Duto」さんのイラストです。"}
+dl   --==>   https://www.pixiv.net/en/artworks/85101899
+cd[OpenGraph]   --==>   {"twitter:card":"summary_large_image","twitter:site":"@pixiv","twitter:url":"https://www.pixiv.net/en/artworks/85101899?ref=twitter_photo_card","twitter:title":"i字バランス","twitter:description":"i字バランス by Duto","twitter:image":"https://embed.pixiv.net/decorate.php?illust_id=85101899","twitter:app:name:iphone":"pixiv","twitter:app:id:iphone":"337248563","twitter:app:url:iphone":"pixiv://illusts/85101899","twitter:app:name:ipad":"pixiv","twitter:app:id:ipad":"337248563","twitter:app:url:ipad":"pixiv://illusts/85101899","twitter:app:name:googleplay":"pixiv","twitter:app:id:googleplay":"jp.pxv.android","twitter:app:url:googleplay":"pixiv://illusts/85101899","og:title":"leg hold pose, stockings, black stockings / i字バランス - pixiv","og:type":"article","og:image":"https://embed.pixiv.net/decorate.php?illust_id=85101899","og:description":""}
+it   --==>   1603175546885
+key   --==>   vinland
+key   --==>   fate
+term   --==>   xas
+cmgr-title-input   --==>   nyaro beware
+it   --==>   1603711586923
+rl   --==>   https://l.facebook.com/
+dl   --==>   https://www.pixiv.net/en/artworks/85242023
+ts   --==>   1603711588086
+cd[JSON-LD]   --==>   []
+cd[OpenGraph]   --==>   {"twitter:card":"summary_large_image","twitter:site":"@pixiv","twitter:url":"https://www.pixiv.net/en/artworks/85242023?ref=twitter_photo_card","twitter:title":"香菱(原神)","twitter:description":"香菱(原神) by 升天","twitter:image":"https://embed.pixiv.net/decorate.php?illust_id=85242023","twitter:app:name:iphone":"pixiv","twitter:app:id:iphone":"337248563","twitter:app:url:iphone":"pixiv://illusts/85242023","twitter:app:name:ipad":"pixiv","twitter:app:id:ipad":"337248563","twitter:app:url:ipad":"pixiv://illusts/85242023","twitter:app:name:googleplay":"pixiv","twitter:app:id:googleplay":"jp.pxv.android","twitter:app:url:googleplay":"pixiv://illusts/85242023","og:title":"Genshin Impact, bondage / 香菱(原神) / October 25th, 2020 - pixiv","og:type":"article","og:image":"https://embed.pixiv.net/decorate.php?illust_id=85242023","og:description":""}
+cd[Meta]   --==>   {"title":"Genshin Impact, bondage / 香菱(原神) / October 25th, 2020 - pixiv","meta:description":"この作品 「香菱(原神)」 は 「原神」「香菱(原神)」 等のタグがつけられた「升天」さんのイラストです。"}
+id   --==>   650437612170322
+fbp   --==>   fb.1.1592195102366.1257239793
+dl   --==>   https://axxis-consulting.com/
+ts   --==>   1603777178212
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"website","og:title":"Axxis Consulting - Leading SAP Software Partner in Singapore & Malaysia","og:description":"Axxis Consulting is an SAP Platinum partner that provides strategy, implementation, and IT support for companies across Singapore, Malaysia and Germany.","og:url":"https://axxis-consulting.com/","og:site_name":"Axxis Consulting"}
+cd[Meta]   --==>   {"title":"Axxis Consulting - Leading SAP Software Partner in Singapore & Malaysia","meta:description":"Axxis Consulting is an SAP Platinum partner that provides strategy, implementation, and IT support for companies across Singapore, Malaysia and Germany."}
+it   --==>   1603777177079
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/#webpage","url":"https://axxis-consulting.com/","name":"Axxis Consulting - Leading SAP Software Partner in Singapore &amp; Malaysia","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2019-12-10T12:48:46+00:00","dateModified":"2020-06-28T06:24:35+00:00","description":"Axxis Consulting is an SAP Platinum partner that provides strategy, implementation, and IT support for companies across Singapore, Malaysia and Germany.","potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/"]}]}]}]
+cd[Meta]   --==>   {"title":"About us - Axxis Consulting"}
+dl   --==>   https://axxis-consulting.com/about-us/
+rl   --==>   https://axxis-consulting.com/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/about-us/#webpage","url":"https://axxis-consulting.com/about-us/","name":"About us - Axxis Consulting","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2019-12-17T13:48:30+00:00","dateModified":"2020-03-04T02:45:39+00:00","breadcrumb":{"@id":"https://axxis-consulting.com/about-us/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/about-us/"]}]},{"@type":"BreadcrumbList","@id":"https://axxis-consulting.com/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position"
+ts   --==>   1603777239117
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"About us - Axxis Consulting","og:url":"https://axxis-consulting.com/about-us/","og:site_name":"Axxis Consulting"}
+it   --==>   1603777313233
+ts   --==>   1603777313906
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/%d1%81areers-settings/#webpage","url":"https://axxis-consulting.com/%d1%81areers-settings/","name":"Сareers Settings - Axxis Consulting","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2020-01-18T15:27:26+00:00","dateModified":"2020-03-04T12:01:13+00:00","breadcrumb":{"@id":"https://axxis-consulting.com/%d1%81areers-settings/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/%d1%81areers-settings/"]}]},{"@type":"BreadcrumbList","@id":"https://axxis-consulting.com/%d1%81areer
+dl   --==>   https://axxis-consulting.com/%d1%81areers-settings/
+rl   --==>   https://axxis-consulting.com/about-us/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Сareers Settings - Axxis Consulting","og:url":"https://axxis-consulting.com/сareers-settings/","og:site_name":"Axxis Consulting"}
+cd[Meta]   --==>   {"title":"Сareers Settings - Axxis Consulting"}
+it   --==>   1603777328041
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://axxis-consulting.com/#website","url":"https://axxis-consulting.com/","name":"Axxis Consulting","inLanguage":"en-US","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":"https://axxis-consulting.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/#webpage","url":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/","name":"SAP Trainee / Internship (CRM / C/4HANA) - Axxis Consulting","isPartOf":{"@id":"https://axxis-consulting.com/#website"},"inLanguage":"en-US","datePublished":"2020-01-22T10:50:55+00:00","dateModified":"2020-03-04T11:51:58+00:00","breadcrumb":{"@id":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://axxis-consulting.com/careers/sap-tr
+cd[Meta]   --==>   {"title":"SAP Trainee / Internship (CRM / C/4HANA) - Axxis Consulting"}
+id   --==>   360580094368309
+fbp   --==>   fb.1.1603777177660.1838656984
+v   --==>   2.9.27
+dl   --==>   https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/
+ts   --==>   1603777328658
+rl   --==>   https://axxis-consulting.com/%d1%81areers-settings/
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"SAP Trainee / Internship (CRM / C/4HANA) - Axxis Consulting","og:description":"Job Description: Together with our SAP C/4HANA experts you will develop solutions for our international customers. Development of interfaces between SAP ERP and C/4HANA, using latest cloud technologies. Analysis of customer requirements and development of solutions. Support existing customers and create presentations to support the pre-sales team to acquire new customers. Understand and learn all aspects of C/4HANA, and productively support the implementation of a global rollout project in EMEA.","og:url":"https://axxis-consulting.com/careers/sap-trainee-internship-crm-c-4hana/","og:site_name":"Axxis Consulting"}
+term   --==>   popola chan
+term   --==>   exava
+term   --==>   e'x
+q   --==>   painschamp
+term   --==>   e'xa
+q   --==>   pepew
+q   --==>   monkacross
+q   --==>   pepecross
+q   --==>   peepocross
+q   --==>   keepo
+q   --==>   peepoarrive
+q   --==>   concern
+q   --==>   concer
+q   --==>   peepoleave
+login-username   --==>   prawnsashimi
+username   --==>   kkh1999@hotmail.com
+term   --==>   luna ve
+username   --==>   1909756
+CandidateAnswer   --==>   Sam
+CandidateAnswer   --==>   3621
+CandidateAnswer   --==>   37553
+CandidateAnswer   --==>   20
+CandidateAnswer   --==>   MNPST
+ctl00$MainContent$CarianText   --==>   980118565071
+ctl00$MainContent$txtAlamat1   --==>   NO2 LORONG KABUS 6
+ctl00$MainContent$txtAlamat2   --==>   KUALA AMPANG
+ctl00$MainContent$txtEmel   --==>   kkh1999@hotmail.com
+ctl00$MainContent$txtNoTelRumah   --==>   0342563426
+ctl00$MainContent$txtICWaris   --==>   590209106336
+ctl00$MainContent$txtNamaWaris   --==>   YAM LAI KUEN
+ctl00$MainContent$txtNoTelWaris   --==>   0163902813
+ctl00$MainContent$FrasaKeselamatan   --==>   wxyzabc987
+ctl00$MainContent$txtPertama   --==>   kuning
+ctl00$MainContent$NamaPengguna   --==>   980118565071
+term   --==>   seii
+mat-input-0   --==>   Default Images
+mat-input-3   --==>   Default Images
+term   --==>   seiin
+term   --==>   nori
+term   --==>   noriri
+fbp   --==>   fb.1.1605572334825.2005746959
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:site_name":"The Muse","og:type":"website","og:url":"https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples","og:title":"Your Guide to Answering “Tell Me About Yourself” in an Interview","og:description":"You know a lot about you, but how do you give a succinct, successful answer that’ll help get you the job?","og:image":"https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/2af5656e-26b6-4334-b984-01976576baee.png?mtime=1568824359","og:image:width":"1200","og:image:height":"630","og:see_also":"https://www.twitter.com/dailymuse"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"Article","publisher":{"@type":"Organization","name":"The Muse","logo":{"@type":"ImageObject","url":"https://www.themuse.com/static/images/muse-amp-logo.jpg?v=212881e6fc388b7a61e11bb9d8ab8d0a879e4dc1a4f5ac328c41df8b0f6ee5ab","width":290,"height":60},"url":"https://www.themuse.com","sameAs":["https://www.facebook.com/thedailymuse","https://www.linkedin.com/company/the-daily-muse","https://twitter.com/TheMuse","https://pinterest.com/thedailymuse/","https://instagram.com/themuse/"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples"},"headline":"A Complete Guide to Answering “Tell Me About Yourself” in an Interview (Plus Examples!)","datePublished":"2019-07-30T16:15:10-04:00","dateModified":"2020-06-18T23:38:52-04:00","author":{"@type":"Person","name":"Stav Ziv"},"description":"You know a lot about you, but when the interviewer says, “So tell me about yourself,” it can be pretty stressful.
+cd[Meta]   --==>   {"title":"How to Answer “Tell Me About Yourself” in an Interview | The Muse","meta:description":"You know a lot about you, but when the interviewer says, “So tell me about yourself,” it can be pretty stressful. We’ve got a guide with tips and examples to help you prepare."}
+it   --==>   1605572334215
+ts   --==>   1605572336188
+cd[Schema.org]   --==>   []
+id   --==>   531604090333347
+search[name]   --==>   Omesti
+ts   --==>   1605575562305
+v   --==>   2.9.28
+o   --==>   30
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Top 7 Common Internship Interview Questions | Career Karma","og:description":"Do you have an internship interview coming up? On Career Karma, discover seven questions you can use to prepare for your internship interview.","og:url":"https://careerkarma.com/blog/internship-interview-questions/","og:site_name":"Career Karma","article:publisher":"http://facebook.com/careerkarmaapp","article:section":"Career Advice","article:published_time":"2020-09-26T08:25:30+00:00","article:modified_time":"2020-09-26T17:48:17+00:00","og:updated_time":"2020-09-26T17:48:17+00:00","og:image":"https://careerkarma.com/blog/wp-content/uploads/2020/06/mimi-thian-VHQ0cw2euA-unsplash-1.jpg","og:image:secure_url":"https://careerkarma.com/blog/wp-content/uploads/2020/06/mimi-thian-VHQ0cw2euA-unsplash-1.jpg","og:image:width":"1020","og:image:height":"765"}
+if   --==>   false
+cd[DataLayer]   --==>   []
+cd[Meta]   --==>   {"title":"Top 7 Common Internship Interview Questions | Career Karma","meta:description":"Do you have an internship interview coming up? On Career Karma, discover seven questions you can use to prepare for your internship interview."}
+ec   --==>   1
+es   --==>   automatic
+sw   --==>   360
+fbp   --==>   fb.1.1605575561455.1969347570
+sh   --==>   640
+cd[Schema.org]   --==>   [{"dimensions":{"h":16089,"w":320},"properties":{"headline name":"Top 7 Common Internship Interview Questions (with Answers)","author":"JAMES GALLAGHER","datePublished":"2020-09-26T01:25:30-08:00","dateModified":"2020-09-26T10:48:17-08:00"},"subscopes":[{"dimensions":{"h":12,"w":47},"properties":{"item":"https://careerkarma.com/blog/","name":"Home"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":12,"w":72},"properties":{"item":"https://careerkarma.com/blog/interviews-category/","name":"Interviews"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":24,"w":320},"properties":{"item":"Top 7 Common Internship Interview Questions (with Answers)","name":"Top 7 Common Internship Interview Questions (with Answers)"},"subscopes":[],"type":"http://schema.org/ListItem"},{"dimensions":{"h":0,"w":0},"properties":{"name":"James Gallagher"},"subscopes":[],"type":"https://schema.org/Person"},{"dimensions":{"h":0,"w":0},"properties":{"name":"Career Karma","url":"https://careerkarma.
+ev   --==>   Microdata
+id   --==>   726791754150577
+rqm   --==>   formPOST
+it   --==>   1605575560772
+r   --==>   stable
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://careerkarma.com/blog/#organization","name":"Career Karma","url":"https://careerkarma.com/blog/","sameAs":["http://facebook.com/careerkarmaapp","https://instagram.com/careerkarma","https://www.linkedin.com/company/career-karma-app","https://youtube.com/careerkarma","https://twitter.com/career_karma"],"logo":{"@type":"ImageObject","@id":"https://careerkarma.com/blog/#logo","inLanguage":"en-US","url":"https://careerkarma.com/blog/wp-content/uploads/2019/05/CK-logo-512x512-e1579122956968.png","width":150,"height":150,"caption":"Career Karma"},"image":{"@id":"https://careerkarma.com/blog/#logo"}},{"@type":"WebSite","@id":"https://careerkarma.com/blog/#website","url":"https://careerkarma.com/blog/","name":"Career Karma","inLanguage":"en-US","description":"Latest Coding Bootcamp News &amp; Career Hacks from Industry Insiders","publisher":{"@id":"https://careerkarma.com/blog/#organization"},"potentialAction":[{"@type":"SearchAction","t
+coo   --==>   false
+a   --==>   tmgoogletagmanager
+tm   --==>   3
+identifier   --==>   kongkh-wp16@student.tarc.edu.my
+loginPage:siteLogin:loginComponent:loginForm:username   --==>   kongkh-wp16@student.tarc.edu.my
+cl-table-filter-text-input   --==>   Filter clusters ...
+username   --==>   jovyan
+username   --==>   kongkh-wp16@student.tarc.edu.my
+colour-picker   --==>   #0C0EAF
+answer_QUIZ_bay-goop-hbv_LLEamGNlE   --==>   japan
+answer_QUIZ_bay-goop-hbv_el6NWEmeY   --==>   naruto
+autociteUrl   --==>   http://adfm-imu.com/alzheimers-in-malaysia/#:~:text=According%20to%20Alzheimer's%20disease%20International,to%20590%2C000%20people%20in%202050.
+sqexid   --==>   112976
+sqexid   --==>   fishermankoi
+uid_4   --==>   https://discord.gg/jKAfmN4
+pollAnswer2   --==>   no but actually yes
+pollAnswer3   --==>   obviously
+uid_864   --==>   w7WS6Un
+uid_4   --==>   https://discord.com/invite/ZvCSHM2
+uid_1077   --==>   https://discord.gg/wQt8yzE
+uid_2238   --==>   https://discord.com/invite/UeZmpq4
+uid_10543   --==>   https://discord.com/invite/SJF2Eef
+autociteUrl   --==>   https://medium.com/symsoft/five-usability-factors-that-make-products-usable-573657edc9f2
+jrQry   --==>   (Five usability factors that make products usable, 2020)
+title   --==>   Writting Assignment 1
+autociteUrl   --==>   https://www.geeksforgeeks.org/software-engineering-software-maintenance/
+autociteUrl   --==>   http://swebokwiki.org/Chapter_5:_Software_Maintenance#Techniques_for_Maintenance
+uid_5604   --==>   https://discord.gg/ZJvZmRF
+user   --==>   1909756
+searchValue   --==>   parallel programming
+cdmsg   --==>   50a124a39a45a33a116a57a53a58a45a105a120a102a104a49a38a32a35a102a62a53a62a37a104a60a116a55a55a49a54a44a59a56a35a36a110a63a51a54a52a48a61a110a34a127a45a60a121a60a56a45a41a56a104a114a115a116a103a98a110a113a127a111a124a125a112a99a99a102a98a114a122a96a
+femsg   --==>   1
+bhvmsg   --==>   32a37a38a117a37a38a45a32a96a99a105a37a50a54a114a44a
+jsdk   --==>   DlwEKCZtrW
+glv   --==>   124a41a50a32a45a34a56a48a127a50a117a126a97a104a127a122a98a101a127a54a117a45a49a104a40a34a107a97a101a53a115a125a103a118a123a117a116a56a61a52a37a32a123a38a41a37a106a50a55a98a114a97a51a124a127a123a119a96a49a97a38a97a53a118a125a39a119a98a102a51a38a45a100a39a120a37a57a50a99a121a40a35a52a36a39a
+lext   --==>   31a124a123a117a22a
+sdrv   --==>   0
+gprid   --==>   GT
+cdmsg   --==>   57a103a38a35a36a97a47a46a63a44a102a122a103a97a53a50a44a60a122a63a61a61a37a123a60a121a59a47a44a54a62a60a33a48a35a98a50a49a47a45a34a61a118a48a98a37a40a123a34a32a62a51a36a99a111a124a97a100a102a114a123a101a116a118a97a101a114a121a98a121a121a97a97a
+bhvmsg   --==>   43a62a39a123a32a51a59a59a101a98a102a39a51a63a118a56a
+jsdk   --==>   OWVkNvl
+glv   --==>   119a50a51a46a40a55a46a43a122a51a122a124a96a97a123a110a110a122a99a55a125a46a49a123a40a47a103a121a120a53a97a122a126a101a124a121a121a58a36a45a55a32a99a52a52a45a126a48a41a122a97a123a47a119a98a116a98a99a53a125a44a123a46a124a97a50a102a120a98a40a45a54a101a41a125a48a47a41a102a120a39a33a53a45a35a
+lext   --==>   20a103a122a123a19a
+login_id   --==>   koizumi98@hotmail.com
+username   --==>   1909756
+uid_13596   --==>   https://discord.gg/EJMk5Jm
+term   --==>   latte
+term   --==>   ica
+new_db   --==>   stock
+qty[]   --==>   1
+group_name   --==>   Front Desk
+autociteUrl   --==>   https://www.indiatoday.in/technology/news/story/facebook-data-of-267-million-users-exposed-online-1630084-2019-12-20
+jrQry   --==>   (Facebook faces another data breach, data of 267 million users exposed, 2020)
+jrQry   --==>   https://www.indiatoday.in/technology/news/story/facebook-data-of-267-million-users-exposed-online-1630084-2019-12-20
+email   --==>   koizumikoi@gmail.com
+displayname   --==>   Koi
+phone   --==>   0163769289
+otp   --==>   41433
+uid_2623   --==>   https://discord.gg/a2NzVg
+term   --==>   mitsuh
+x-input   --==>   24.5
+y-input   --==>   17.5
+width-input   --==>   141
+height-input   --==>   48
+Opacity   --==>   100
+Font size   --==>   40
+Line   --==>   16
+asset-search   --==>   login
+x-input   --==>   0
+y-input   --==>   0
+width-input   --==>   1080
+height-input   --==>   1920
+asset-search   --==>   tex
+y-input   --==>   680
+width-input   --==>   264
+height-input   --==>   230
+Radius   --==>   6
+Color Opacity   --==>   100
+borderWidth   --==>   0
+x-input   --==>   70
+y-input   --==>   798
+height-input   --==>   109
+Font size   --==>   42
+x-input   --==>   143
+y-input   --==>   874
+width-input   --==>   794
+height-input   --==>   306
+Font size   --==>   48
+y-input   --==>   688
+height-input   --==>   144
+rotation-input   --==>   0
+y-input   --==>   86
+width-input   --==>   912
+height-input   --==>   1690
+x-input   --==>   410
+y-input   --==>   670
+width-input   --==>   260
+height-input   --==>   180
+Radius   --==>   0
+y-input   --==>   752
+x-input   --==>   180
+y-input   --==>   382
+width-input   --==>   135
+height-input   --==>   32
+x-input   --==>   118
+y-input   --==>   579
+width-input   --==>   487
+height-input   --==>   106
+Font size   --==>   50
+y-input   --==>   542
+x-input   --==>   84
+y-input   --==>   416
+x-input   --==>   52
+y-input   --==>   314
+width-input   --==>   976
+height-input   --==>   328
+asset-search   --==>   butt
+x-input   --==>   99
+y-input   --==>   1562
+width-input   --==>   137
+x-input   --==>   432
+y-input   --==>   754
+width-input   --==>   236
+x-input   --==>   812
+y-input   --==>   1271
+width-input   --==>   16
+height-input   --==>   312
+Opacity   --==>   0
+Color Opacity   --==>   0
+asset-search   --==>   profile
+x-input   --==>   408
+y-input   --==>   299
+height-input   --==>   51
+asset-search   --==>   chat
+x-input   --==>   508
+y-input   --==>   728
+width-input   --==>   64
+height-input   --==>   64
+asset-search   --==>   button
+uid_5381   --==>   https://discord.com/invite/Ygh6FJG
+code   --==>   3887
+term   --==>   koi ro
+term   --==>   apocalyptic
+first_name   --==>   Kok Hoe
+last_name   --==>   Kong
+user_email   --==>   kongkh-wp16@student.tarc.edu.my
+email   --==>   kkh1999@hotmail.com
+institute_name   --==>   Tunku Abdul Rahman University College
+graduation_year   --==>   2021
+handphone_no   --==>   0163769289
+cgpa0   --==>   3.225
+cgpa_base0   --==>   4.000
+major1   --==>   Software Engineering
+login_id   --==>   kkh1999@hotmail.com
+key   --==>   petra
+expected_salary   --==>   800
+cxsrec__First_name__c   --==>   Kok Hoe
+cxsrec__Last_name__c   --==>   Kong
+cxsrec__mobilePhone__c   --==>   0163769289
+cxsrec__E_mail_address__c   --==>   kkh1999@hotmail.com
+cxsrec__Town_city__c   --==>   Ampang
+cxsrec__Country__c   --==>   Malaysia
+timespent   --==>   0:06
+timespent   --==>   0:10
+timespent   --==>   0:18
+timespent   --==>   0:27
+timespent   --==>   0:34
+timespent   --==>   0:52
+timespent   --==>   1:00
+timespent   --==>   1:05
+timespent   --==>   1:10
+timespent   --==>   1:16
+timespent   --==>   1:28
+timespent   --==>   1:35
+timespent   --==>   1:40
+timespent   --==>   1:45
+timespent   --==>   1:53
+timespent   --==>   2:12
+timespent   --==>   2:16
+timespent   --==>   2:18
+timespent   --==>   2:24
+timespent   --==>   2:25
+timespent   --==>   2:33
+timespent   --==>   2:43
+timespent   --==>   3:07
+timespent   --==>   3:10
+timespent   --==>   3:14
+timespent   --==>   0:14
+timespent   --==>   0:23
+timespent   --==>   0:45
+timespent   --==>   0:55
+timespent   --==>   1:03
+timespent   --==>   1:18
+timespent   --==>   1:34
+timespent   --==>   3:15
+timespent   --==>   3:17
+timespent   --==>   3:21
+timespent   --==>   3:27
+timespent   --==>   3:32
+timespent   --==>   3:34
+timespent   --==>   4:03
+timespent   --==>   4:06
+timespent   --==>   4:13
+timespent   --==>   4:16
+timespent   --==>   4:18
+timespent   --==>   4:28
+timespent   --==>   4:33
+timespent   --==>   4:34
+timespent   --==>   4:37

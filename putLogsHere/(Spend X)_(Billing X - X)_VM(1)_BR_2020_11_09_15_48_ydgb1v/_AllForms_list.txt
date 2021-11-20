@@ -1,0 +1,118 @@
+determine_email   --==>   rebeccazerbog@gmail.com
+user[email]   --==>   rebeccazerbog@gmail.com
+session[username_or_email]   --==>   sunggiepark
+email   --==>   rebeccazerbog@gmail.com
+username   --==>   pxrkjiswng
+Usuario   --==>   sungiepark
+Usuario   --==>   sunggiepark
+identifier   --==>   blossmphotography@gmail.com
+Username   --==>   blossmphotography
+username   --==>   INF190019
+freight-field   --==>   02310-010
+username   --==>   cellper
+emailAddress   --==>   rebeccazerbog@gmail.com
+name   --==>   zion
+id   --==>   rebeccaz@terra.com.br
+formAcessoAcademico:edtLogin   --==>   190019
+themeAdd   --==>   Animal
+subject_id   --==>   rebeccazerbog@gmail.com
+login   --==>   anonymous
+login   --==>   rebeccazerbog@gmail.com
+email   --==>   rebeccazerbog@gamil.com
+coupon_code   --==>   DEARLAISSV
+n   --==>   258068
+email   --==>   zionart
+username   --==>   ChoBoRam1
+name   --==>   Cho BoRam
+to   --==>   02553-050
+from   --==>   02310-010
+invoice_total   --==>   R$ 50
+volumes.0.quantity   --==>   1
+volumes.0.height   --==>   0,1 cm
+volumes.0.length   --==>   15 cm
+username   --==>   zionartt
+username   --==>   zionart
+username   --==>   rebeccazerbog@gmail.com
+username   --==>   mochipjs
+username   --==>   POEMINGI
+ctl00$ctl00$cphConteudo$cphConteudo$txtUsuarioUsuario   --==>   mingipoetic
+ctl00$ctl00$cphConteudo$cphConteudo$txtUsuarioNome   --==>   zaio
+ctl00$ctl00$cphConteudo$cphConteudo$txtUsuarioDenominacao   --==>   elu/delu
+ctl00$ctl00$cphConteudo$cphConteudo$txtConteudoTags   --==>   nct, lee jeno, huang renjun, noren, boyxboy, nct dream, jeno, renjun, fanfic, automutilação, kpop, idols,
+ctl00$ctl00$cphConteudo$cphConteudo$txtConteudoSubtitulo   --==>   capítulo único.
+session[username_or_email]   --==>   youngmingki
+email   --==>   szerlenga@gmail.com
+login_id   --==>   yasmin.yakin@gmail.com
+login_id   --==>   rebeccazerbog@gmail.com
+Usuario   --==>   zionartt
+Usuario   --==>   mingipoetic
+react-spectrum-984   --==>   brown
+identifier   --==>   rzbogado@gmail.com
+username   --==>   kingjunmyeon
+authcode   --==>   KF4WR
+Gaturros[username]   --==>   m1ngi4me
+UserLoginForm[username]   --==>   m1ngi4me
+personaName   --==>   zionart
+real_name   --==>   Zion Zerlenga Bogado
+customURL   --==>   zionart
+login-username   --==>   zionartt
+user_id   --==>   zerlenga1@gmail.com
+determine_email   --==>   rebeccazerbog@gmail.com
+user[email]   --==>   rebeccazerbog@gmail.com
+session[username_or_email]   --==>   sunggiepark
+email   --==>   rebeccazerbog@gmail.com
+username   --==>   pxrkjiswng
+Usuario   --==>   sungiepark
+Usuario   --==>   sunggiepark
+identifier   --==>   blossmphotography@gmail.com
+Username   --==>   blossmphotography
+username   --==>   INF190019
+freight-field   --==>   02310-010
+username   --==>   cellper
+emailAddress   --==>   rebeccazerbog@gmail.com
+name   --==>   zion
+id   --==>   rebeccaz@terra.com.br
+formAcessoAcademico:edtLogin   --==>   190019
+themeAdd   --==>   Animal
+subject_id   --==>   rebeccazerbog@gmail.com
+login   --==>   anonymous
+login   --==>   rebeccazerbog@gmail.com
+email   --==>   rebeccazerbog@gamil.com
+coupon_code   --==>   DEARLAISSV
+n   --==>   258068
+email   --==>   zionart
+username   --==>   ChoBoRam1
+name   --==>   Cho BoRam
+to   --==>   02553-050
+from   --==>   02310-010
+invoice_total   --==>   R$ 50
+volumes.0.quantity   --==>   1
+volumes.0.height   --==>   0,1 cm
+volumes.0.length   --==>   15 cm
+username   --==>   zionartt
+username   --==>   zionart
+username   --==>   rebeccazerbog@gmail.com
+username   --==>   mochipjs
+username   --==>   POEMINGI
+ctl00$ctl00$cphConteudo$cphConteudo$txtUsuarioUsuario   --==>   mingipoetic
+ctl00$ctl00$cphConteudo$cphConteudo$txtUsuarioNome   --==>   zaio
+ctl00$ctl00$cphConteudo$cphConteudo$txtUsuarioDenominacao   --==>   elu/delu
+ctl00$ctl00$cphConteudo$cphConteudo$txtConteudoTags   --==>   nct, lee jeno, huang renjun, noren, boyxboy, nct dream, jeno, renjun, fanfic, automutilação, kpop, idols,
+ctl00$ctl00$cphConteudo$cphConteudo$txtConteudoSubtitulo   --==>   capítulo único.
+session[username_or_email]   --==>   youngmingki
+email   --==>   szerlenga@gmail.com
+login_id   --==>   yasmin.yakin@gmail.com
+login_id   --==>   rebeccazerbog@gmail.com
+Usuario   --==>   zionartt
+Usuario   --==>   mingipoetic
+react-spectrum-984   --==>   brown
+identifier   --==>   rzbogado@gmail.com
+username   --==>   kingjunmyeon
+authcode   --==>   KF4WR
+Gaturros[username]   --==>   m1ngi4me
+UserLoginForm[username]   --==>   m1ngi4me
+personaName   --==>   zionart
+real_name   --==>   Zion Zerlenga Bogado
+customURL   --==>   zionart
+login-username   --==>   zionartt
+user_id   --==>   zerlenga1@gmail.com

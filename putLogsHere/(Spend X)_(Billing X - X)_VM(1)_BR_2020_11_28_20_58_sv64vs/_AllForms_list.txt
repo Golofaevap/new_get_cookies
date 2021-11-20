@@ -1,0 +1,1992 @@
+identifier   --==>   barbelawitte@hotmail.com
+verificationCode   --==>   6570
+vIESCANDIDATOEMAILINS   --==>   barbelawitte@hotmail.com
+txtCodigoCaptcha   --==>   kg7ys
+login   --==>   caio.lesniowski
+ds_logradouro   --==>   Rua do Comercio
+NomeFantasia   --==>   teste
+login   --==>   6437370
+user[username]   --==>   Gabriel_Witte
+login   --==>   9437370
+ds_bairro   --==>   Centro
+vIESMATRICULAALUNO   --==>   1717030
+vIESCANDIDATOCEPINS   --==>   88337480
+login_username   --==>   gabriel@selecticorp.com.br
+verificationCode   --==>   1163
+_user   --==>   Gabriel@selecticorp.com.br
+ctl00$ctl38$g_8ad601ee_9055_4ae4_b8f5_b287130aa0f3$ctl01   --==>   semana cientifica
+182042753   --==>   Uber
+Endereco   --==>   111111111111
+s   --==>   painel de controle
+_subject   --==>   Planilhas 
+RazaoSocial   --==>   teste
+182042759   --==>   Melhor app de transporte, alem de ser muito seguro e pratico.
+user[last_name]   --==>   Witte
+identifier   --==>   barbelawitte
+accountIdentifier   --==>   barbelawitte@hotmail.com
+user[last_name]   --==>   de Oliveira
+user[email]   --==>   barbelawitte@hotmail.com
+username   --==>   barbelawitte@hotmail.com
+user[first_name]   --==>   Gabriel
+nu_cpf   --==>   092.555.549-56
+session[username_or_email]   --==>   barbelawitte@hotmail.com
+_subject   --==>   Orçamento Escadas
+_subject   --==>   Orçamento Escada e cinto
+trackingnumber   --==>   789145184100
+trackingnumber   --==>   afq12490
+trackingnumber   --==>   oh378849115br
+objetos   --==>   OH378849115BR
+barCode   --==>   afq12490
+barCode   --==>   5067962041
+barCode   --==>   dy282346194br
+objetos   --==>   DY282346194BR
+_subject   --==>   Produtos
+s   --==>   The History Channel Civil War: A Nation Divided
+s   --==>   The History Channel: Civil War
+s   --==>   cod ww2
+s   --==>   Call of Duty: WWII
+s   --==>   Call of Duty 14 WWII Deluxe Edition
+customer[documentNumber]   --==>   092.555.549-56
+credit-card-date-expiration   --==>   03/20
+payment[cardholderName]   --==>   Gabriel Witte de Oliveira
+payment[documentNumber]   --==>   09255554956
+s   --==>   assassins creead
+s   --==>   assassin's creed odyssey
+ctl00$ctl00$BodyContent$InnerContent$BigSearchBox   --==>   viking
+ctl00$ctl00$BodyContent$InnerContent$MainSearchText2   --==>   viking
+ctl00$ctl00$BodyContent$InnerContent$PriceFrom   --==>   3,55
+ctl00$ctl00$BodyContent$InnerContent$PriceFrom   --==>   3.55
+ctl00$ctl00$BodyContent$InnerContent$DeliveryEmailAddress   --==>   barbelawitte@hotmail.com
+ctl00$BodyContent$WCclSD   --==>   GabrielWitte27
+ctl00$BodyContent$FP_Username   --==>   GabrielWitte
+ctl00$BodyContent$FP_Email   --==>   barbelawitte@hotmail.com
+ctl00$BodyContent$UNF_Email   --==>   barbelawitte@hotmail.com
+txtCodigoCaptcha   --==>   kRTp2
+txtCodigoCaptcha   --==>   6rRvK
+txt_CPFCNPJ   --==>   20816046000190
+txt_CPFCNPJ   --==>   27216869001449
+ctl00$BodyContent$Username   --==>   GabrielWitte
+ctl00$ctl00$BodyContent$InnerContent$Chunk2   --==>   g5cb
+ctl00$ctl00$BodyContent$InnerContent$Chunk4   --==>   sqyz
+initials   --==>   GW
+username   --==>   gabriel witte de oliveira
+ctl00$ctl00$BodyContent$StoreMenu$SearchQuery   --==>   unity
+ChooseScreenGamertagInput   --==>   Lich
+ChooseScreenGamertagInput   --==>   GabrieW
+user   --==>   selecti
+FE_Nome   --==>   hs ou
+user[born_at_year]   --==>   1999
+id   --==>   barbelawitte@hotmail.com
+age   --==>   20
+cnpj   --==>   vo1097
+username   --==>   adminhs
+FE_Nome   --==>   hs outlet
+j_username   --==>   01.09200009000110
+j_cnpj   --==>   09.200.009/0001-10
+username   --==>    admin_base
+log   --==>   GabrielWitte
+q   --==>   passos
+q   --==>   pas terra
+q   --==>   terra
+q   --==>   dirt
+q   --==>   walk dirt
+q   --==>   walk wood
+txtCPFEmissao   --==>   09255554956
+q   --==>   Construct 2  r275
+q   --==>   Construct 2 
+login   --==>   gabrielwitte
+url   --==>   https://yadi.sk/d/c2nE16VKdSDvTQ
+user   --==>   barbelawitte@hotmail.com
+pesquisa   --==>   shappo
+pesquisa   --==>   jaime
+cep   --==>   88330-480
+objetos   --==>   09255554956
+login-username   --==>   gabrielwittedeoliveira
+objetos   --==>   PX932027287BR
+dtaNascimentoDoc   --==>   27/01/1999
+username   --==>   caixa
+Usuario   --==>   gabriel witte
+txtCodigoCaptcha   --==>   neply
+txtCodigoCaptcha   --==>   ttehi
+txtCodigoCaptcha   --==>   l3ycc
+txtCodigoCaptcha   --==>   qlnzr
+txtCodigoCaptcha   --==>   qctz9
+Gerente1_s   --==>   Caio Lesniowski
+WebSite   --==>   WWW
+Cidade   --==>   FLORIANÓPOLIS
+Complemento   --==>   8
+Bairro   --==>   BARRA DA LAGOA
+Email1   --==>   rodrigoacorrea@hotmail.com	
+Nome   --==>   RODRIGO
+Telefone   --==>   98411-1077
+SobreNome   --==>   RODRIGO
+first_name   --==>   Gabriel
+last_name   --==>   de Oliveira
+user   --==>   FSB 334
+Email   --==>   gabriel.witte@varejonline.com.br
+user   --==>   gabriel@selecticorp.com.br
+Destinatario_s   --==>   FERNANDA SONNEMANN (fernanda-varejonline)
+P_Nome   --==>   servilar
+txtCodigoCaptcha   --==>   xvfae
+txtCodigoCaptcha   --==>   9fd8r
+txt_CPFCNPJ   --==>   4112076000113
+txtCodigoCaptcha   --==>   cze8b
+txtCodigoCaptcha   --==>   pa7as
+UltimoResp_s   --==>   Caio Lesniowski
+DeptoAtual_s   --==>   Comercial
+UltimoDepto_s   --==>   Comercial
+RespAtual_s   --==>   Caio Lesniowski
+DataateAAAA   --==>   2020
+DataMM   --==>   02
+DataDD   --==>   26
+Codigo   --==>   32145
+DataateDD   --==>   28
+Cliente_s   --==>   RODRIGO ANTUNES CORREA 62110993049
+CtoEmp_s   --==>   RODRIGO RODRIGO
+DatadeMM   --==>   02
+Protocolo   --==>   0742 0226 1020 15
+HorarioateHH_s   --==>   10
+HorarioateMM_s   --==>   00
+Prioridade_s   --==>   Baixa
+Origem_s   --==>   Interna
+Titulo   --==>   Abertura de Base RODRIGO - Franquia SERVILAR
+HorariodeHH_s   --==>   10
+Autor_s   --==>   Gabriel Witte
+HorariodeMM_s   --==>   35
+DatadeDD   --==>   26
+DataateMM   --==>   02
+txtCodigoCaptcha   --==>   ennu2
+telefone   --==>   (48) 33387295
+campodinamico[22086]   --==>   RODRIGO ANTUNES CORREA 62110993049
+txtCodigoCaptcha   --==>   9cdzn
+email   --==>   rodrigoacorrea@hotmail.com
+titulo   --==>   Servilar
+nome   --==>   Servilar Rio Vermelho
+telefone   --==>   (48) 32697750
+txtCodigoCaptcha   --==>   bhp2x
+campodinamico[22079]   --==>   RODOVIA: JOAO GUALBERTO SOARES - SAO JOAO DO RIO VERMELHO - Nº8351
+campodinamico[22084]   --==>   FLORIANÓPOLIS
+txtCodigoCaptcha   --==>   qa83A
+campodinamico[22089]   --==>   Rodrigo
+campodinamico[22086]   --==>   CORREA & CORREA COMERCIO VAREJISTA LTDA
+vIESCANDIDATORGINS   --==>   6312666
+vIESCANDIDATONOMEINS   --==>   GABRIEL WITTE DE OLIVEIRA
+vIESCANDIDATODATNASCINS   --==>   27/01/1999
+vIESCANDIDATOPAISCODNAT   --==>   BRA
+vIESCANDIDATOESTCODNAT   --==>   SC
+vIESCANDIDATOMAEINS   --==>   HILDEGARD WITTE
+vIESCANDIDATOPAIINS   --==>   JOAO CARLOS DIAS DE OLIVEIRA
+vIESCANDIDATOENDINS   --==>   RUA ARAQUARI
+vIESCANDIDATOBAIINS   --==>   MUNICIPOS
+vIESCANDIDATODDDCOMINS   --==>   49
+vIESCANDIDATOTELCOMINS   --==>   991573106
+vIESCANDIDATODDDCELINS   --==>   49
+vIESCANDIDATOTELCELINS   --==>   91232722
+vIESCANDIDATORENDAINS   --==>   0,00
+vIESCANDIDATOCPFINS   --==>   092.555.549-56
+vIESCANDIDATODEPNOMENEW   --==>   JOAO CARLOS DIAS DE OLIVEIRA
+vIESCANDIDATODEPIDADENEW   --==>   51
+txt_CPFCNPJ   --==>   80.718.984/0001-80
+txt_CPFCNPJ   --==>   80718984000180
+txtCodigoCaptcha   --==>   du28c
+txtCodigoCaptcha   --==>   jvjny
+input-text-arquivo   --==>   terceiros.xls
+email   --==>   barbelawitte@gmail.com
+txt_CPFCNPJ   --==>   97544553000147
+txtCodigoCaptcha   --==>   zv4tb
+txtCodigoCaptcha   --==>   uanzj
+lastName   --==>   de Oliveira
+firstName   --==>   Gabriel
+cnpj   --==>   vo120
+username   --==>   ADM
+cnpj   --==>   10221104000180
+cnpj   --==>   09579356000104
+cnpj   --==>   vo1030
+cnpj   --==>   VO648
+cnpj   --==>   VO690
+itens[0].margem   --==>   0,6231
+itens[0].precoNovo   --==>   65,0000
+itens[2].precoNovo   --==>   41,5000
+itens[0].margem   --==>   0,7294
+itens[0].precoAnterior   --==>   79,9000
+itens[0].precoNovo   --==>   150,0000
+itens[0].margem   --==>   0,6200
+itens[0].precoAnterior   --==>   129,9000
+itens[2].margem   --==>   0,5370
+itens[1].margem   --==>   0,4444
+itens[0].margem   --==>   0,7176
+itens[2].precoNovo   --==>   53,9900
+itens[1].precoNovo   --==>   45,0000
+itens[0].precoNovo   --==>   85,0000
+itens[0].margem   --==>   0,5572
+itens[1].precoNovo   --==>   136,0713
+itens[0].precoNovo   --==>   135,5000
+itens[0].precoNovo   --==>   28,9900
+itens[0].margem   --==>   0,4829
+itens[2].precoNovo   --==>   23,5000
+itens[0].margem   --==>   0,4000
+itens[1].precoNovo   --==>   20,0000
+itens[2].margem   --==>   0,5745
+itens[1].margem   --==>   0,3500
+itens[0].precoNovo   --==>   25,0000
+s   --==>   Call of Duty
+s   --==>   Call of Duty:Modern Warfer
+s   --==>   Call of Duty: Modern Warfare 2019
+gem-signup-textbox   --==>   barbelawitte@hotmail.com
+ds_email   --==>   barbelawitte@hotmail.com
+nu_cep   --==>   89550-000
+ds_numero   --==>   000
+nu_telefone_celular   --==>   (49) 99157-3106
+descontoMaximo   --==>   10,00
+NI_Procurador_CNPJ   --==>   29.294.334/0001-05
+email   --==>   PESSOAL@KARRER.COM.BR
+dataVigenciaFinal   --==>   15/04/2021
+id_cliente   --==>   97544553000147
+contato_cliente   --==>   ELIANE, VINICIUS, DEBORA
+bairro_cliente   --==>   CENTRO
+nome_cliente   --==>   RESTAURANTE SAN MIGUEL LTDA
+logradouro_cliente   --==>   AV BRASIL
+cep_cliente   --==>   88.330-063
+numero_logradouro_cliente   --==>   3322
+telefone_cliente   --==>   (47) 3367-1438
+nome_fantasia_cliente   --==>   ARMAZEM SAN MIGUEL
+filtro   --==>   armazem
+pesquisa   --==>   666
+pesquisa   --==>   605
+pesquisa   --==>   668
+pesquisa   --==>   670
+pesquisa   --==>   498
+txt_CPFCNPJ   --==>   18137714000101
+txtCodigoCaptcha   --==>   gttrf
+pesquisa   --==>   campano
+CaptchaInputText   --==>   vzsum
+ctl00$ContentPlaceHolder1$txt_Data_Emissao   --==>   04/05/2020
+ctl00$ContentPlaceHolder1$txt_Numero   --==>   350
+ctl00$ContentPlaceHolder1$txt_Bairro   --==>   CENTRO
+ctl00$ContentPlaceHolder1$txt_Endereco   --==>   RUA 3300
+ctl00$ContentPlaceHolder1$txt_Complemento   --==>   SALA 01 EDIF VILLA DI MARE
+ctl00$ContentPlaceHolder1$txt_Email   --==>   interativabcpessoal@hotmail.com
+ctl00$ContentPlaceHolder1$txt_Apelido   --==>   F. ABE PANIFICACAO EIRELI
+ctl00$ContentPlaceHolder1$txt_Telefone   --==>   (47)3264-9565
+ctl00$ContentPlaceHolder1$txt_Cnpj   --==>   33.476.238/0001-47
+ctl00$ContentPlaceHolder1$txt_Razao_Social   --==>   F. ABE PANIFICACAO EIRELI
+ctl00$ContentPlaceHolder1$txt_Cep   --==>   88330-272
+ctl00$ContentPlaceHolder1$txt_Insc_Municipal   --==>   172794
+dataInicio_0   --==>   04/04/2020
+dataFim_0   --==>   04/05/2020
+sigla   --==>   GL
+nome   --==>   LITROS
+nome   --==>   METROS
+sigla   --==>   MT
+cnpj   --==>   vo616
+pesquisa   --==>   dom cordoni
+username   --==>   GabrielWitte
+pesquisa   --==>   jadson
+pesquisa   --==>   BRAVACINAS
+pesquisa   --==>   695
+pesquisa   --==>   estaçaõ
+pesquisa   --==>   presente
+txt_CPFCNPJ   --==>   07063073000171
+txtCodigoCaptcha   --==>   lxvuv
+campodinamico[22086]   --==>   IRACEMA PRESENTES LTDA ME
+campodinamico[22089]   --==>   WELLINGTON
+campodinamico[22320]   --==>   88330-043
+campodinamico[22092]   --==>   (47) 99909-7591
+campodinamico[22079]   --==>   AV BRASIL N 530 - LOJA 03 CENTRO COMERCIAL EVEREST
+campodinamico[22084]   --==>   BALNEARIO  CAMBORIU
+campodinamico[22083]   --==>   000.000.000-00
+nome   --==>   Estação dos Presentes
+campodinamico[22078]   --==>   07.063.073/0001-71
+campodinamico[22088]   --==>   (47) 99909-7591
+ctl00$ContentPlaceHolder1$txt_Data_Emissao   --==>   06/05/2020
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   horas serviço
+pesquisa   --==>   estação
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   hora serviço
+titulo   --==>   MANUAL - ENVIO MANUAL BLOCO X
+pesquisa   --==>   muzzarella
+pesquisa   --==>   muazzarela
+q   --==>   viking
+q   --==>   viking sound
+q   --==>   musica nordica
+q   --==>   nordic sound
+q   --==>   music tribal
+q   --==>   nordic
+q   --==>   tambor e flauta
+q   --==>   flauta
+q   --==>   vikig
+pesquisa   --==>   pizzaria
+code   --==>   GIFT_WVATC212ZXP4KEF7
+j_username   --==>   092.555.549-56
+campodinamico[]   --==>   Luis
+AUTOR   --==>   Tony Mott
+TITULO   --==>   1001 videogames para jogar antes de morrer
+NUMEDI   --==>   1
+EDITORA   --==>   Sextante
+DATA   --==>   2013
+NUMPAG   --==>   960
+LOCAL   --==>   [S.I.]
+AUTOR1   --==>   Débora Ribeiro
+TITULO   --==>   Significado de Clássico
+ANO   --==>   2019
+END1   --==>   https://www.dicio.com.br/classico/
+DIA   --==>   19
+MES   --==>   05
+DATA2   --==>   2020
+_subject   --==>   Rela
+_subject   --==>   Relatório Diário
+_subject   --==>   Relatório Mensal - Gabriel - 20/05
+_subject   --==>   Re: RES: ENC: Tabela de Importação de Produtos para Cloud
+s   --==>   Tony Hawk's Pro Skater 2
+_subject   --==>   Relatório Mensal - Gabriel - 22/05
+pesquisa   --==>   selecti
+username   --==>   gabriel.witte
+txtCodigoCaptcha   --==>   7223e
+pesquisa   --==>   799
+_subject   --==>   Relatório Mensal - Gabriel - 26/05
+_subject   --==>   Relatório Mensal - Gabriel - 27/05
+_subject   --==>   Relatório Mensal - Gabriel - 28/05
+titulo   --==>   MANUAL INTERNO - PESQUISA DE NOTA FISCAL
+pesquisa   --==>   baoba
+pesquisa   --==>   armazem
+pesquisa   --==>   padaria
+pesquisa   --==>   carbono
+CaptchaInputText   --==>   pctjg
+ctl00$ContentPlaceHolder1$txt_Cnpj   --==>   12.781.615/0001-81
+ctl00$ContentPlaceHolder1$txt_Email   --==>   financeiro@muzzarella.com.br
+ctl00$ContentPlaceHolder1$txt_Telefone   --==>   (49)3222-3942
+ctl00$ContentPlaceHolder1$txt_Razao_Social   --==>   RESTAURANTE MUZZARELLA LTDA EPP
+ctl00$ContentPlaceHolder1$txt_Apelido   --==>   RESTAURANTE MUZZARELLA
+mat-input-0   --==>   092.555.549-56
+_subject   --==>   Relatório Mensal - Gabriel - 01/06
+_subject   --==>   Relatório Mensal - Gabriel - 03/06
+pesquisa   --==>   all blur
+pesquisa   --==>   all blue
+pesquisa   --==>   life
+txtCodigoCaptcha   --==>   zpaiv
+mat-input-1   --==>   gabriel witte de oliveira
+txtCodigoCaptcha   --==>   gergz
+txt_IE   --==>   scj8y
+_subject   --==>   Relatório Mensal - Gabriel - 05/06
+_subject   --==>   Relatório Mensal - Gabriel - 08/06
+_subject   --==>   Relatório Mensal - Gabriel - 09/06
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   Formatação de computador
+chaveEnvioAluno   --==>   13105
+login   --==>   gabriel
+login   --==>   gabriel.witte@varejonline.com.br
+data[Sintegra1][CodImage]   --==>   5eexd
+data[Sintegra1][CodImage]   --==>   63d6v7
+txtCodigoCaptcha   --==>   p8qcq
+data[Sintegra1][CodImage]   --==>   eezx69
+data[Sintegra1][CodImage]   --==>   8zccx
+Inscricao   --==>   90293759-57
+Endereco   --==>   R MANOEL PRUDENCIO DE BRITO
+Cidade   --==>   MARINGA
+Complemento   --==>   474
+Bairro   --==>   PARQUE INDUSTRIAL BANDEIRANTES
+Telefone   --==>   3041-7450
+CodTelefone   --==>   44
+sf_url   --==>   https://www.youtube.com/watch?v=xT8HIiFQ8Y0
+titulo   --==>   Erro no Sincronismo da Classificação fiscal e do Download de Preços
+campodinamico[22177]   --==>   Rodrigo
+campodinamico[25188]   --==>   72003
+pesquisa   --==>   vivence
+ctl00$ContentPlaceHolder1$txt_Valor   --==>   100,0000
+pesquisa   --==>   813
+mat-input-2   --==>   27/01/1999
+mat-input-1   --==>   092.555.549-56
+mat-input-3   --==>   hildegard witte
+_subject   --==>   Relatório Mensal - Gabriel - 16/06
+F_EMP_Localidade   --==>   joenvi
+Cidade   --==>   Joinville
+_subject   --==>   Relatório Mensal - Gabriel - 17/06
+cnpj   --==>   vo1022
+c-10-128   --==>   LIGHT HOUSE
+c-15-123   --==>   0000000000
+c-15-123   --==>   4799787-4644
+c-42-41   --==>   ***
+c-33-65   --==>   ***
+c-22-90   --==>   de Oliveira
+c-30-66   --==>   ***
+c-39-42   --==>   ***
+c-44-39   --==>   ***
+c-5-135   --==>   1086
+c-31-66   --==>   ***
+c-35-63   --==>   ***
+c-9-129   --==>   LIFE IMPORT S TELEFONIA E INFORMATICA EIRELI
+c-12-124   --==>   LUIS
+c-13-124   --==>   FELIPE
+c-28-85   --==>   gabriel.witte@varejonline.com.br
+c-24-89   --==>   09255554956
+c-26-87   --==>   49991573106
+c-21-90   --==>   Gabriel Witte
+group45   --==>   ***
+group21   --==>   ***
+c-40-42   --==>   ***
+c-0-140   --==>   Life Imports
+c-11-127   --==>   29189044000193
+c-43-40   --==>   ***
+c-15-123   --==>   47996181003
+c-10-128   --==>   ALL BLUE
+c-25-88   --==>   Consultor
+c-36-62   --==>   ***
+c-16-122   --==>   47996181003
+c-34-64   --==>   ***
+c-45-38   --==>   ***
+c-27-86   --==>   49991573106
+_subject   --==>   Re: RES: #887 - DOCUMENTAÇÃO PARA RMA REDENÇÃO
+_subject   --==>   Relatório Mensal - Gabriel - 18/06
+c-12-124   --==>   Evelise
+c-43-40   --==>   Técnico de manutenção
+c-7-133   --==>   varejobcadmin5505f
+c-21-90   --==>   Evelise
+c-40-42   --==>   Buss
+c-42-41   --==>   08604241973
+c-46-37   --==>   gerencia@lighthouseluminarias.com.br
+c-26-87   --==>   47 999278094
+c-22-90   --==>   Macedo
+c-35-63   --==>   47 997109643
+c-24-89   --==>   75126834991
+c-31-66   --==>   Simao da Silva
+c-9-129   --==>   LIGHT HOUSE COMERCIO DE MATERIAIS ELETRICOS EIRELI
+c-5-135   --==>   1091
+c-0-140   --==>   LIGHT HOUSE
+c-15-123   --==>   47 999278094
+c-28-85   --==>   gerencia@lighthouseluminarias.com.br
+c-37-61   --==>   gerencia@lighthouseluminarias.com.br
+c-11-127   --==>   31528734000171
+c-44-39   --==>   47 988063323
+c-30-66   --==>   Francisca Jayele
+c-39-42   --==>   Tiago
+c-13-124   --==>   Macedo
+c-33-65   --==>   60425632385
+username   --==>   varejo
+pesquisa   --==>   914
+chaveEnvioAluno   --==>   93240
+_subject   --==>   Relatório Mensal - Gabriel - 22/06
+txt_CPFCNPJ   --==>   17009933000142
+txtCodigoCaptcha   --==>   epnug
+c-37-61   --==>   servilarbarradalagoa@hotmail.com
+c-22-90   --==>   Correa
+c-24-89   --==>   62110993049
+c-31-66   --==>   Pereira Correa
+c-25-88   --==>   Proprietário
+c-13-124   --==>   Correa
+c-33-65   --==>   78499054900
+c-12-124   --==>   Rodrigo Antunes
+c-44-39   --==>   1111111111111
+c-9-129   --==>   CORREA & CORREA COMERCIO VAREJISTA LTDA
+c-26-87   --==>   48 984111077
+c-30-66   --==>   Mariane Petermann
+c-15-123   --==>   48 984111077
+c-0-140   --==>   SERVILAR RIO VERMELHO
+c-35-63   --==>   48 984111786
+c-21-90   --==>   Rodrigo Antunes
+c-42-41   --==>   111111111111111111111111111111
+c-52-9   --==>   1
+c-28-85   --==>   racfloripa72@gmail.com
+c-7-133   --==>   varejo
+c-11-127   --==>   17009933000142
+c-5-135   --==>   1201
+txtCodigoCaptcha   --==>   YUAGI
+data[Sintegra1][CodImage]   --==>   6x2ezc
+txtCodigoCaptcha   --==>   dxjgz
+c-43-40   --==>   Vendedor
+c-36-62   --==>   47 999224655
+c-45-38   --==>   47 999224655
+c-4-136   --==>   29189044000193
+c-51-10   --==>   1
+c-10-128   --==>   LIFE IMPORTS
+c-16-122   --==>   47 999946174
+c-27-86   --==>   47 999946174
+c-25-88   --==>   Empresária
+c-34-64   --==>   Vendedor
+c-6-134   --==>   base
+_subject   --==>   Relatório Mensal - Gabriel - 24/06
+cnpj   --==>   42553774000190
+pesquisa   --==>   917
+cnpj   --==>   05817169000152
+totalProdutos[0]   --==>   R$ 200.00
+totalEstimadoGeral[0]   --==>   R$ 200.00
+totalProdutos[1]   --==>   R$ 618.00
+totalEstimadoGeral[1]   --==>   R$ 618.00
+totalProdutos[0]   --==>   R$ 618.00
+totalEstimadoGeral[0]   --==>   R$ 618.00
+cnpj   --==>   Vo1244
+mat-input-0   --==>   gabriel witte de oliveira
+_subject   --==>   Relatório Mensal - Gabriel - 25/06
+cpf_cnpj   --==>   09255554956
+cep_01   --==>   88330
+cep_02   --==>   480
+nome_primeiro   --==>   Gabriel
+nome_sobrenome   --==>   Witte
+rg_ie   --==>   6312666
+telefone_ddd   --==>   49
+telefone   --==>   9157-3106
+endereco_numero   --==>   130
+endereco_complemento   --==>   Sala 01
+calc_cep   --==>   88330-480
+totalProdutos[0]   --==>   R$ 138.00
+totalEstimadoGeral[0]   --==>   R$ 138.00
+pedidos[0].nrParcelasCartao   --==>   1
+pedidos[0].valorOutros   --==>   0.00
+totalEstimadoGeral[0]   --==>   R$ 71.00
+pedidos[0].valorFrete   --==>   0.00
+pedidos[0].valorSeguro   --==>   0.00
+totalProdutos[0]   --==>   R$ 71.00
+cnpj   --==>   vo12010
+Subject   --==>   Problemas de Despesas devido ao Temporal
+surname   --==>   Witte
+surname   --==>   Burlamaqui
+surname   --==>   Verediana
+surname   --==>   Wolf
+surname   --==>   W
+surname   --==>   Oliveira
+surname   --==>   Fagundes
+user.attributes.cep   --==>   89550000
+nome   --==>   Gabriel Witte
+ctl00$ContentPlaceHolder1$txt_Data_Emissao   --==>   06/07/2020
+ctl00$ContentPlaceHolder1$txt_Quantidade   --==>   1,00
+username   --==>   CHEFFODS
+_subject   --==>   Relatório Mensal - Gabriel - 06/07
+descricao   --==>   cerveja
+username   --==>   gabrielwitte
+cnpj   --==>   vo1422
+username   --==>   matheus
+_subject   --==>   Relatório Mensal - Gabriel - 08/07
+guestName   --==>   Gabriel Witte
+cnpj   --==>   vo1091
+j_username   --==>   base
+j_cnpj   --==>   vo1091
+j_username   --==>   admin
+j_cnpj   --==>   31528734000171
+q   --==>   carta de correção
+pesquisa   --==>   too much
+_subject   --==>   Mensal dos Clientes - Franquis 
+_subject   --==>   Mensal dos Clientes - Franquia de Balneário Camboriú. 
+txt_CPFCNPJ   --==>   22720954000101
+txtCodigoCaptcha   --==>   akjcs
+txt_CPFCNPJ   --==>   22720954000292
+txtCodigoCaptcha   --==>   spppj
+txt_CPFCNPJ   --==>   37598247000161
+txtCodigoCaptcha   --==>   rjvqa
+txtCodigoCaptcha   --==>   x2nc7
+txtCodigoCaptcha   --==>   r4rbc
+txt_CPFCNPJ   --==>   28462337000130
+txtCodigoCaptcha   --==>   6rn8j
+txtCodigoCaptcha   --==>   enueq
+_subject   --==>   Re: Novo Painel de Licenças
+txt_CPFCNPJ   --==>   22320051000189
+txtCodigoCaptcha   --==>   BXJRQ
+txtCodigoCaptcha   --==>   csp9c
+login   --==>   gabriel.witte
+Cliente_s   --==>   EMPORIOO DISTRIBUIDORA DE ALIMENTOS
+DatadeAAAA   --==>   2020
+DataMM   --==>   07
+DatadeMM   --==>   07
+UltimoDepto_s   --==>   Administrador
+CtoEmp_s   --==>   Luiz Augusto Vieira Hoffman
+DataDD   --==>   16
+Protocolo   --==>   1055 2071 6161 43
+DatadeDD   --==>   16
+SubModulo_s   --==>   Nova base
+Categoria_s   --==>   Solicitação ao Financeiro
+Autor_s   --==>   Caio Lesniowski
+DataAAAA   --==>   2020
+RespAtual_s   --==>   Gabriel Witte
+Codigo   --==>   32342
+EmpAutora_s   --==>   FRANQUIA VAREJONLINE BALNEARIO CAMBORIU
+Titulo   --==>   Abertura de base
+Origem_s   --==>   Acesso Remoto
+HorariodeMM_s   --==>   20
+Funcionalidade_s   --==>   Padrão
+Status_s   --==>   Aberto
+UltimoResp_s   --==>   Gabriel Witte
+HorariodeHH_s   --==>   16
+DeptoAtual_s   --==>   Administrador
+Modulo_s   --==>   Abertura de Base
+Prioridade_s   --==>   Alta
+txtCodigoCaptcha   --==>   kehnh
+txtCodigoCaptcha   --==>   v9uxk
+q   --==>   kit de produto
+txtCodigoCaptcha   --==>   ccgck
+txtCodigoCaptcha   --==>   4rbdu
+cnpj   --==>   25476148000128
+pesquisa   --==>   1050
+username   --==>   gabriel
+cnpj   --==>   22320510000189
+username   --==>   anita
+q   --==>   nfe
+q   --==>   cuom fiscal
+q   --==>   cupom fiscal
+pesquisa   --==>   mercaldo
+username   --==>   092.555.549-56
+pesquisa   --==>   1072
+pesquisa   --==>   #1099
+txtCodigoCaptcha   --==>   tzkch
+txtCodigoCaptcha   --==>   4qigg
+data[Sintegra1][CodImage]   --==>   5b5c5
+data[Sintegra1][CodImage]   --==>   2pu7p
+data[Sintegra1][Cnpj]   --==>   05.817.169/0001-52
+txt_CPFCNPJ   --==>   05817169000152
+pesquisa   --==>   villa
+pesquisa   --==>   vila
+pesquisa   --==>   1094
+cnpj   --==>   vo1244
+FE_Nome   --==>   rodrigo
+ctl00$ContentPlaceHolder1$txtChaveAcessoResumo   --==>   42200711315435000141550050001749891003904685
+c-18-99   --==>   08253930941
+c-20-97   --==>   caiovinicius@diverkidsmaringa.com.br
+c-23-76   --==>   ***
+c-10-137   --==>   05817169000152
+c-4-145   --==>   05817169000152
+group57   --==>   ***
+c-5-144   --==>   1244
+titulo   --==>   Erro emissão de nota fiscal
+campodinamico[22177]   --==>   Mariane
+pesquisa   --==>   1070
+pesquisa   --==>   1071
+pesquisa   --==>   972
+pesquisa   --==>   890
+pesquisa   --==>   967
+pesquisa   --==>   995
+query_text   --==>   TM-T81F
+ds_numero   --==>   969
+cnpj   --==>   vo165
+cnpj   --==>   vo1615
+username   --==>   caio
+pesquisa   --==>   bambinela
+pesquisa   --==>   1036
+Login.UserName   --==>   22.320.510/0001-89
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   Manutenção sistema all food
+ctl00$ContentPlaceHolder1$txt_Valor   --==>   1150,0000
+c-12-133   --==>   (048) 984111077
+c-18-99   --==>   62110993049
+c-25-74   --==>   servilarbarradalagoa@hotmail.com
+c-46-10   --==>   7
+c-10-137   --==>   17.009.933/0001-42
+c-6-143   --==>   admin
+c-20-97   --==>   racfloripa72@gmail.com
+c-23-76   --==>   78499054900
+pesquisa   --==>   945
+pesquisa   --==>   932
+q   --==>   vendedor
+pesquisa   --==>   juistreet
+pesquisa   --==>   bambinella
+pesquisa   --==>   mercald
+pesquisa   --==>   ampezzo
+comissaoSobreVenda   --==>   0,00
+valorCreditoExcedente   --==>   0,00
+apelido   --==>   Mariane
+descontoMaximo   --==>   0,00
+q   --==>   terminal cliente
+name   --==>   Gabriel Witte de Oliveira
+login-name2   --==>   contato@selecticorp.com.br
+dialog-new-folder   --==>   ae3gBkWy5dglNVpfIEgpxURwNzT1jyvIiDQvVegOuvY
+dialog-new-folder   --==>   YoSlV4VVX4aqW7pxwk5o99LWGlB60FKW4g24-EafWMo"
+dialog-new-folder   --==>   YoSlV4VVX4aqW7pxwk5o99LWGlB60FKW4g24-EafWMo
+cnpj   --==>   vo1253
+s   --==>   mega 
+pesquisa   --==>   servilar
+pesquisa   --==>   chef foods
+txtCodigoCaptcha   --==>   FFCGR
+txt_CPFCNPJ   --==>   08316268000149
+q   --==>   halloween
+campodinamico[]   --==>   Rafael
+cnpj   --==>   v01221
+campodinamico[]   --==>   Leila
+username   --==>   admin_base
+name   --==>   PRONTO
+name   --==>   EM PRODUÇÃO
+name   --==>   NÃO INICIADO 
+id-checklist   --==>   A Fazer
+cnpj   --==>   v0615
+cnpj   --==>   v01201
+ncm   --==>   0001
+q   --==>   sintegra
+negotiationItemPrice0   --==>   45,00
+cliente.pessoaEnderecos[0].numero   --==>   2015
+cliente.dtNascimento   --==>   25/07/2017
+negotiationItemPrice0   --==>   120,00
+email   --==>   barbelawitte@hotmail.com
+pesquisa   --==>   fg
+pesquisa   --==>   SKYLINE EMPREENDIMENTOS SPE LTDA
+pesquisa   --==>   FGP CONSTRUCOES LTDA
+txtCodigoCaptcha   --==>   bzhkx
+txt_IE   --==>   rdiuv
+cnpj   --==>   vo1201
+username   --==>   servilar
+workOrderNumber   --==>   58
+nome   --==>   Gabriel Witte de Oliveira
+q   --==>   expandables
+q   --==>   broforce
+txtCodigoCaptcha   --==>   yj6nu
+txtCodigoCaptcha   --==>   cpvbp
+txt_CPFCNPJ   --==>   16733726000173
+txt_CPFCNPJ   --==>   16.733.726/0001-73
+scPfU$8umG2Z   --==>   mundo doce
+inp_calc_2   --==>   50000
+inp_calc_2   --==>   10000
+username   --==>   co
+AKk_hxcpXIg5   --==>   mundo
+workOrderNumber   --==>   60
+VhPxmc9QzThq   --==>   mundo
+workOrderNumber   --==>   62
+workOrderNumber   --==>   63
+r7nC9QBzmtzP   --==>   mund
+txtCodigoCaptcha   --==>   y8qzg
+tdTT5ItS4caw   --==>   mundo
+workOrderNumber   --==>   77
+sl_list-search-box   --==>   a
+search   --==>   dog pound
+search   --==>   o canil
+txtCodigoCaptcha   --==>   ladee
+txtCodigoCaptcha   --==>   gjxpy
+txtCodigoCaptcha   --==>   t2gq7
+txtCodigoCaptcha   --==>   cak9s
+txtCodigoCaptcha   --==>   fach
+txt_CPFCNPJ   --==>   21134753000160
+txtCodigoCaptcha   --==>   t2kdu
+txt_CPFCNPJ   --==>   16921010000108
+txtCodigoCaptcha   --==>   78vvj
+txt_CPFCNPJ   --==>   38003402000112
+passengers[0][name]   --==>   Gabriel Witte de Oliveira
+passengers[0][documentNumber]   --==>   092.555.549-56
+customer[email]   --==>   barbelawitte@hotmail.com
+debit-card-date-expiration   --==>   05/26
+payment[debitCard][cardholderName]   --==>   Gabriel Witte de Oliveira
+q   --==>   papirus
+txt_CPFCNPJ   --==>   31.655.815/0001-32
+txtCodigoCaptcha   --==>   yfrnk
+txtCodigoCaptcha   --==>   9ukr7
+txt_CPFCNPJ   --==>   12781615000181
+txtCodigoCaptcha   --==>   rauzd
+txtCodigoCaptcha   --==>   j34g2
+txtCodigoCaptcha   --==>   84kkv
+txtCodigoCaptcha   --==>   tnare
+txtCodigoCaptcha   --==>   esiry
+q   --==>   cadastro de vendedor
+txtCodigoCaptcha   --==>   veegl
+txt_CPFCNPJ   --==>   14921227000184
+txtCodigoCaptcha   --==>   vclkz
+txtCodigoCaptcha   --==>   x2rrh
+txt_CPFCNPJ   --==>   29189044000193
+txtCodigoCaptcha   --==>   s9jau
+iRNpK8Bnbvg3   --==>   life
+workOrderNumber   --==>   88
+purchaseItemPrice0   --==>   5,99
+VmeRRXsJbPU7   --==>   kio
+purchaseNumber   --==>   00233
+workOrderReceivedEquipment   --==>   NOTEBOOK
+workOrderNumber   --==>   91
+workOrderMark   --==>   DELL
+id-checklist   --==>   1001 Video Games
+username   --==>   base
+txtCodigoCaptcha   --==>   YCP3A
+txtCodigoCaptcha   --==>   br6bl
+txt_CPFCNPJ   --==>   19317750000209
+txtCodigoCaptcha   --==>   7szkr
+txt_CPFCNPJ   --==>   23006875000104
+purchaseNumber   --==>   00298
+cmeX49wM3rqI   --==>   ki
+search   --==>   eleganza
+nFtT$sBGxlgZ   --==>   LUCAS
+workOrderNumber   --==>   92
+workOrderReceivedEquipment   --==>   COMPUTADOR GAMER
+workOrderResponsible   --==>   FELIPE - formatação
+negotiationItemQuantity0   --==>   2,00
+identifier   --==>   barbelawitte@gmail.com
+q   --==>   blasfemus
+q   --==>   blasphemous
+workOrderNumber   --==>   95
+txtCodigoCaptcha   --==>   srjvl
+txtCodigoCaptcha   --==>   r4an6
+purchaseNumber   --==>   00386
+purchaseItemPrice1   --==>   4,49
+txtCodigoCaptcha   --==>   gx9nd
+negotiationItemPrice12   --==>   56,75
+negotiationItemQuantity5   --==>   2,00
+negotiationItemQuantity12   --==>   3,00
+negotiationItemQuantity1   --==>   5,00
+negotiationItemQuantity2   --==>   20,00
+negotiationItemPrice20   --==>   10,00
+negotiationItemPrice3   --==>   140,00
+negotiationItemPrice17   --==>   530,00
+negotiationItemPrice2   --==>   70,00
+negotiationItemPrice1   --==>   300,00
+negotiationItemPrice9   --==>   15,00
+negotiationItemQuantity8   --==>   3,00
+negotiationItemPrice21   --==>   1.080,00
+negotiationItemQuantity14   --==>   5,00
+negotiationItemPrice14   --==>   10,00
+negotiationItemPrice0   --==>   1.680,00
+negotiationItemPrice6   --==>   1.300,00
+negotiationItemQuantity11   --==>   2,00
+negotiationItemPrice7   --==>   430,00
+negotiationItemPrice18   --==>   15,00
+Xv6qquO9Wm3L   --==>   REI
+negotiationItemQuantity20   --==>   40,00
+negotiationItemPrice13   --==>   1,20
+negotiationItemQuantity19   --==>   20,00
+negotiationItemPrice16   --==>   70,00
+negotiationItemPrice15   --==>   32,00
+negotiationItemQuantity13   --==>   40,00
+negotiationItemPrice11   --==>   180,00
+negotiationItemPrice5   --==>   650,00
+negotiationItemQuantity9   --==>   45,00
+negotiationItemPrice19   --==>   8,00
+negotiationItemPrice8   --==>   98,75
+negotiationItemPrice4   --==>   700,00
+negotiationItemQuantity4   --==>   4,00
+negotiationItemPrice10   --==>   885,00
+cnpj   --==>   vo1086
+username   --==>   MARCIA
+cnpj   --==>   29189044000193
+share-link-input   --==>   https://glo.bo/2RKHjjR
+txt_CPFCNPJ   --==>   04734907000135
+txt_CPFCNPJ   --==>   83096123000367
+txtCodigoCaptcha   --==>   guvn
+txtCodigoCaptcha   --==>   6pkqc
+txtCodigoCaptcha   --==>   cdeiv
+txt_CPFCNPJ   --==>   83096123
+txtCodigoCaptcha   --==>   c884g
+txtCodigoCaptcha   --==>   acefu
+txt_CPFCNPJ   --==>   11619140000169
+txtCodigoCaptcha   --==>   z78c6
+txtCodigoCaptcha   --==>   ufjc4
+txtCodigoCaptcha   --==>   pgdnu
+purchaseItemPrice4   --==>   2,49
+negotiationDiscountRate   --==>   1,99
+purchaseNumber   --==>   456296
+purchaseItemQuantity0   --==>   3,00
+purchaseNumber   --==>   0043938
+purchaseItemPrice0   --==>   8,49
+gLeI71Z3fQxk   --==>   POST
+Nh6LQ$yJ8U6K   --==>   FABIO
+pwO6xlA_BbSM   --==>   FABIO
+purchaseItemPrice0   --==>   50,00
+whois-field   --==>   construtorateixeira.com.br
+workOrderNumber   --==>   102
+negotiationDiscountRate   --==>   60,00
+q   --==>   marge
+q   --==>   merge
+txtCodigoCaptcha   --==>   anurt
+txtCodigoCaptcha   --==>   njgun
+q   --==>   tributação
+q   --==>   Classificação Fiscal
+q   --==>   Modalidade Tributação
+nome   --==>   SUBSTITUIÇÃO TRIBUTARIA
+search   --==>   170
+negotiationDiscountRate   --==>   130,00
+workOrderNumber   --==>   104
+workOrderModel   --==>   MOTION PLUS Q464B
+workOrderResponsible   --==>   FELIPE
+workOrderSerie   --==>   4A840WD9M
+workOrderMark   --==>   POSITIVO
+identifier   --==>   gandra2202@gmail.com
+txtCodigoCaptcha   --==>   nh2zc
+txt_CPFCNPJ   --==>   28496789000132
+Cdlnkm3gbsK5   --==>   esse
+q   --==>   contas a pgar
+txtCodigoCaptcha   --==>   qevxn
+txtCodigoCaptcha   --==>   zx6aj
+txt_CPFCNPJ   --==>   22444394000100
+cnpj   --==>   vo557
+txt_CPFCNPJ   --==>   22320510000189
+txtCodigoCaptcha   --==>   d49x4
+captcha_code   --==>   8092
+txtCodigoCaptcha   --==>   pxear
+txt_CPFCNPJ   --==>   37177999000159
+ebVIyBKZMVC8   --==>   cam
+workOrderResponsible   --==>   Gabriel Witte
+workOrderNumber   --==>   107
+txt_CPFCNPJ   --==>   04038409000158
+txtCodigoCaptcha   --==>   rskgp
+txtCodigoCaptcha   --==>   g7trv
+txtCodigoCaptcha   --==>   wvrzd
+itemDescricao   --==>   BOBINA DE PAPEL TERMICO 80MM X 20M
+txtCodigoCaptcha   --==>   kaigi
+email_1   --==>   barbelawitte@hotmail.com
+txt_CPFCNPJ   --==>   35222732000100
+txtCodigoCaptcha   --==>   mqlz2
+TextField598   --==>   7 Semestre
+TextField1169   --==>   Build
+id-checklist   --==>   Tarefas
+ChooseScreenGamertagInput   --==>   GabrielWitte
+txtCodigoCaptcha   --==>   peyaa
+P_Nome   --==>   mundo doce
+Cidade   --==>   BALNEARIO CAMBORIU
+Bairro   --==>   CENTRO
+Complemento   --==>   SALA 03 ANEXO 01
+IntTelefone   --==>   55
+Endereco   --==>   AVENIDA: CENTRAL
+Telefone   --==>   3367-6744
+EmailNF   --==>   sandra_mara0@hotmail.com
+131251134650ABA46466   --==>   1022
+Codigo   --==>   S000247
+Telefone   --==>   99618-1003
+CodTelefone   --==>   47
+CodCelular   --==>   47
+Celular   --==>   99618-1003
+SobreNome   --==>   MARA DE ARAUJO
+13112716261215AAP376   --==>   2
+passengers[0][name]   --==>   GABRIEL WITTE DE OLIVEIRA
+customer[email]   --==>   barbelawitte@gmail.com
+credit-card-date-expiration   --==>   03/23
+payment[cardholderName]   --==>   GABRIEL WITTE DE OLIVEIRA
+payment[postalCode]   --==>   88337-480
+_user   --==>   gabriel@selecticorp.com.br
+txtCodigoCaptcha   --==>   7f4df
+txtCodigoCaptcha   --==>   zfakf
+txtCodigoCaptcha   --==>   XGLVE
+txt_CPFCNPJ   --==>   38070605000121
+cnpj   --==>   vo615
+username   --==>   witte
+cnpj   --==>   64437167000105
+sl_list-search-box   --==>   in
+negotiationItemPrice0   --==>   235,00
+negotiationItemPrice2   --==>   490,00
+negotiationItemPrice1   --==>   150,00
+vTPfmDoMbNi8   --==>   fg
+q   --==>   Windows XP Professional SP3 - ativado
+nome   --==>   FARDO
+sigla   --==>   FD
+TextField474   --==>   Thiago Marchand Orçamento Câmeras Itajaí
+TextField490   --==>   ORCAMENTO LEONARDO JAIME
+TextField527   --==>   Falar com a pamela dia exato dos moveis
+TextField679   --==>   MONTAR ORÇAMENTO VINICIUS FRIAMBRERIA
+TextField821   --==>   CHAMADOS CENTRAL DE ALIMENTOS
+TextField1034   --==>   AJUDAR GUILHERME COM IMPRESSORA E SERVIDOR CENTRAL DE ALIMENTOS
+TextField1050   --==>   OBRA PHOENIX CAIU
+TextField1246   --==>   ORÇAMENTO CLÍNICA VIVER BEM
+TextField1308   --==>   ORÇAMENTO CONJEL
+cnpj   --==>   85280285000114
+apelido   --==>   CAIXA
+descontoMaximo   --==>   99,99
+UserName   --==>   gabriel.witte
+nome   --==>   tabela 5 avenida e camboriu
+itens[4].precoNovo   --==>   63,5064
+itens[3].precoNovo   --==>   61,1840
+itens[1].precoNovo   --==>   1,2000
+itens[0].margem   --==>   0,5250
+itens[2].precoNovo   --==>   0,7990
+itens[0].precoNovo   --==>   1,2000
+username   --==>   consultor
+cnpj   --==>   vo648
+txtCodigoCaptcha   --==>   cx7yz
+txtCodigoCaptcha   --==>   ennze
+txtCodigoCaptcha   --==>   tne4z
+txt_CPFCNPJ   --==>   39815516000120
+busca   --==>   witte
+ca_usuario   --==>   6437370
+busca   --==>   sped
+vPESQUISACEP   --==>   88337-000
+vPESQUISACEP   --==>   88337480
+placa   --==>   mic8102
+txtPlaca   --==>   mic8102
+placa   --==>   MIC-9102
+placa   --==>   MIC-8192
+placa   --==>   MIC-8102
+placa   --==>   MIC-8190
+placa   --==>   MIC-8181
+placa   --==>   MIC
+placa   --==>   MIC81
+txtCodigoCaptcha   --==>   dhvpf
+txt_CPFCNPJ   --==>   39368181000149
+cnpj   --==>   31528734000171
+username   --==>   admin
+identifier   --==>   barbelawitte@hotmail.com
+verificationCode   --==>   6570
+vIESCANDIDATOEMAILINS   --==>   barbelawitte@hotmail.com
+txtCodigoCaptcha   --==>   kg7ys
+login   --==>   caio.lesniowski
+ds_logradouro   --==>   Rua do Comercio
+NomeFantasia   --==>   teste
+login   --==>   6437370
+user[username]   --==>   Gabriel_Witte
+login   --==>   9437370
+ds_bairro   --==>   Centro
+vIESMATRICULAALUNO   --==>   1717030
+vIESCANDIDATOCEPINS   --==>   88337480
+login_username   --==>   gabriel@selecticorp.com.br
+verificationCode   --==>   1163
+_user   --==>   Gabriel@selecticorp.com.br
+ctl00$ctl38$g_8ad601ee_9055_4ae4_b8f5_b287130aa0f3$ctl01   --==>   semana cientifica
+182042753   --==>   Uber
+Endereco   --==>   111111111111
+s   --==>   painel de controle
+_subject   --==>   Planilhas 
+RazaoSocial   --==>   teste
+182042759   --==>   Melhor app de transporte, alem de ser muito seguro e pratico.
+user[last_name]   --==>   Witte
+identifier   --==>   barbelawitte
+accountIdentifier   --==>   barbelawitte@hotmail.com
+user[last_name]   --==>   de Oliveira
+user[email]   --==>   barbelawitte@hotmail.com
+username   --==>   barbelawitte@hotmail.com
+user[first_name]   --==>   Gabriel
+nu_cpf   --==>   092.555.549-56
+session[username_or_email]   --==>   barbelawitte@hotmail.com
+_subject   --==>   Orçamento Escadas
+_subject   --==>   Orçamento Escada e cinto
+trackingnumber   --==>   789145184100
+trackingnumber   --==>   afq12490
+trackingnumber   --==>   oh378849115br
+objetos   --==>   OH378849115BR
+barCode   --==>   afq12490
+barCode   --==>   5067962041
+barCode   --==>   dy282346194br
+objetos   --==>   DY282346194BR
+_subject   --==>   Produtos
+s   --==>   The History Channel Civil War: A Nation Divided
+s   --==>   The History Channel: Civil War
+s   --==>   cod ww2
+s   --==>   Call of Duty: WWII
+s   --==>   Call of Duty 14 WWII Deluxe Edition
+customer[documentNumber]   --==>   092.555.549-56
+credit-card-date-expiration   --==>   03/20
+payment[cardholderName]   --==>   Gabriel Witte de Oliveira
+payment[documentNumber]   --==>   09255554956
+s   --==>   assassins creead
+s   --==>   assassin's creed odyssey
+ctl00$ctl00$BodyContent$InnerContent$BigSearchBox   --==>   viking
+ctl00$ctl00$BodyContent$InnerContent$MainSearchText2   --==>   viking
+ctl00$ctl00$BodyContent$InnerContent$PriceFrom   --==>   3,55
+ctl00$ctl00$BodyContent$InnerContent$PriceFrom   --==>   3.55
+ctl00$ctl00$BodyContent$InnerContent$DeliveryEmailAddress   --==>   barbelawitte@hotmail.com
+ctl00$BodyContent$WCclSD   --==>   GabrielWitte27
+ctl00$BodyContent$FP_Username   --==>   GabrielWitte
+ctl00$BodyContent$FP_Email   --==>   barbelawitte@hotmail.com
+ctl00$BodyContent$UNF_Email   --==>   barbelawitte@hotmail.com
+txtCodigoCaptcha   --==>   kRTp2
+txtCodigoCaptcha   --==>   6rRvK
+txt_CPFCNPJ   --==>   20816046000190
+txt_CPFCNPJ   --==>   27216869001449
+ctl00$BodyContent$Username   --==>   GabrielWitte
+ctl00$ctl00$BodyContent$InnerContent$Chunk2   --==>   g5cb
+ctl00$ctl00$BodyContent$InnerContent$Chunk4   --==>   sqyz
+initials   --==>   GW
+username   --==>   gabriel witte de oliveira
+ctl00$ctl00$BodyContent$StoreMenu$SearchQuery   --==>   unity
+ChooseScreenGamertagInput   --==>   Lich
+ChooseScreenGamertagInput   --==>   GabrieW
+user   --==>   selecti
+FE_Nome   --==>   hs ou
+user[born_at_year]   --==>   1999
+id   --==>   barbelawitte@hotmail.com
+age   --==>   20
+cnpj   --==>   vo1097
+username   --==>   adminhs
+FE_Nome   --==>   hs outlet
+j_username   --==>   01.09200009000110
+j_cnpj   --==>   09.200.009/0001-10
+username   --==>    admin_base
+log   --==>   GabrielWitte
+q   --==>   passos
+q   --==>   pas terra
+q   --==>   terra
+q   --==>   dirt
+q   --==>   walk dirt
+q   --==>   walk wood
+txtCPFEmissao   --==>   09255554956
+q   --==>   Construct 2  r275
+q   --==>   Construct 2 
+login   --==>   gabrielwitte
+url   --==>   https://yadi.sk/d/c2nE16VKdSDvTQ
+user   --==>   barbelawitte@hotmail.com
+pesquisa   --==>   shappo
+pesquisa   --==>   jaime
+cep   --==>   88330-480
+objetos   --==>   09255554956
+login-username   --==>   gabrielwittedeoliveira
+objetos   --==>   PX932027287BR
+dtaNascimentoDoc   --==>   27/01/1999
+username   --==>   caixa
+Usuario   --==>   gabriel witte
+txtCodigoCaptcha   --==>   neply
+txtCodigoCaptcha   --==>   ttehi
+txtCodigoCaptcha   --==>   l3ycc
+txtCodigoCaptcha   --==>   qlnzr
+txtCodigoCaptcha   --==>   qctz9
+Gerente1_s   --==>   Caio Lesniowski
+WebSite   --==>   WWW
+Cidade   --==>   FLORIANÓPOLIS
+Complemento   --==>   8
+Bairro   --==>   BARRA DA LAGOA
+Email1   --==>   rodrigoacorrea@hotmail.com	
+Nome   --==>   RODRIGO
+Telefone   --==>   98411-1077
+SobreNome   --==>   RODRIGO
+first_name   --==>   Gabriel
+last_name   --==>   de Oliveira
+user   --==>   FSB 334
+Email   --==>   gabriel.witte@varejonline.com.br
+user   --==>   gabriel@selecticorp.com.br
+Destinatario_s   --==>   FERNANDA SONNEMANN (fernanda-varejonline)
+P_Nome   --==>   servilar
+txtCodigoCaptcha   --==>   xvfae
+txtCodigoCaptcha   --==>   9fd8r
+txt_CPFCNPJ   --==>   4112076000113
+txtCodigoCaptcha   --==>   cze8b
+txtCodigoCaptcha   --==>   pa7as
+UltimoResp_s   --==>   Caio Lesniowski
+DeptoAtual_s   --==>   Comercial
+UltimoDepto_s   --==>   Comercial
+RespAtual_s   --==>   Caio Lesniowski
+DataateAAAA   --==>   2020
+DataMM   --==>   02
+DataDD   --==>   26
+Codigo   --==>   32145
+DataateDD   --==>   28
+Cliente_s   --==>   RODRIGO ANTUNES CORREA 62110993049
+CtoEmp_s   --==>   RODRIGO RODRIGO
+DatadeMM   --==>   02
+Protocolo   --==>   0742 0226 1020 15
+HorarioateHH_s   --==>   10
+HorarioateMM_s   --==>   00
+Prioridade_s   --==>   Baixa
+Origem_s   --==>   Interna
+Titulo   --==>   Abertura de Base RODRIGO - Franquia SERVILAR
+HorariodeHH_s   --==>   10
+Autor_s   --==>   Gabriel Witte
+HorariodeMM_s   --==>   35
+DatadeDD   --==>   26
+DataateMM   --==>   02
+txtCodigoCaptcha   --==>   ennu2
+telefone   --==>   (48) 33387295
+campodinamico[22086]   --==>   RODRIGO ANTUNES CORREA 62110993049
+txtCodigoCaptcha   --==>   9cdzn
+email   --==>   rodrigoacorrea@hotmail.com
+titulo   --==>   Servilar
+nome   --==>   Servilar Rio Vermelho
+telefone   --==>   (48) 32697750
+txtCodigoCaptcha   --==>   bhp2x
+campodinamico[22079]   --==>   RODOVIA: JOAO GUALBERTO SOARES - SAO JOAO DO RIO VERMELHO - Nº8351
+campodinamico[22084]   --==>   FLORIANÓPOLIS
+txtCodigoCaptcha   --==>   qa83A
+campodinamico[22089]   --==>   Rodrigo
+campodinamico[22086]   --==>   CORREA & CORREA COMERCIO VAREJISTA LTDA
+vIESCANDIDATORGINS   --==>   6312666
+vIESCANDIDATONOMEINS   --==>   GABRIEL WITTE DE OLIVEIRA
+vIESCANDIDATODATNASCINS   --==>   27/01/1999
+vIESCANDIDATOPAISCODNAT   --==>   BRA
+vIESCANDIDATOESTCODNAT   --==>   SC
+vIESCANDIDATOMAEINS   --==>   HILDEGARD WITTE
+vIESCANDIDATOPAIINS   --==>   JOAO CARLOS DIAS DE OLIVEIRA
+vIESCANDIDATOENDINS   --==>   RUA ARAQUARI
+vIESCANDIDATOBAIINS   --==>   MUNICIPOS
+vIESCANDIDATODDDCOMINS   --==>   49
+vIESCANDIDATOTELCOMINS   --==>   991573106
+vIESCANDIDATODDDCELINS   --==>   49
+vIESCANDIDATOTELCELINS   --==>   91232722
+vIESCANDIDATORENDAINS   --==>   0,00
+vIESCANDIDATOCPFINS   --==>   092.555.549-56
+vIESCANDIDATODEPNOMENEW   --==>   JOAO CARLOS DIAS DE OLIVEIRA
+vIESCANDIDATODEPIDADENEW   --==>   51
+txt_CPFCNPJ   --==>   80.718.984/0001-80
+txt_CPFCNPJ   --==>   80718984000180
+txtCodigoCaptcha   --==>   du28c
+txtCodigoCaptcha   --==>   jvjny
+input-text-arquivo   --==>   terceiros.xls
+email   --==>   barbelawitte@gmail.com
+txt_CPFCNPJ   --==>   97544553000147
+txtCodigoCaptcha   --==>   zv4tb
+txtCodigoCaptcha   --==>   uanzj
+lastName   --==>   de Oliveira
+firstName   --==>   Gabriel
+cnpj   --==>   vo120
+username   --==>   ADM
+cnpj   --==>   10221104000180
+cnpj   --==>   09579356000104
+cnpj   --==>   vo1030
+cnpj   --==>   VO648
+cnpj   --==>   VO690
+itens[0].margem   --==>   0,6231
+itens[0].precoNovo   --==>   65,0000
+itens[2].precoNovo   --==>   41,5000
+itens[0].margem   --==>   0,7294
+itens[0].precoAnterior   --==>   79,9000
+itens[0].precoNovo   --==>   150,0000
+itens[0].margem   --==>   0,6200
+itens[0].precoAnterior   --==>   129,9000
+itens[2].margem   --==>   0,5370
+itens[1].margem   --==>   0,4444
+itens[0].margem   --==>   0,7176
+itens[2].precoNovo   --==>   53,9900
+itens[1].precoNovo   --==>   45,0000
+itens[0].precoNovo   --==>   85,0000
+itens[0].margem   --==>   0,5572
+itens[1].precoNovo   --==>   136,0713
+itens[0].precoNovo   --==>   135,5000
+itens[0].precoNovo   --==>   28,9900
+itens[0].margem   --==>   0,4829
+itens[2].precoNovo   --==>   23,5000
+itens[0].margem   --==>   0,4000
+itens[1].precoNovo   --==>   20,0000
+itens[2].margem   --==>   0,5745
+itens[1].margem   --==>   0,3500
+itens[0].precoNovo   --==>   25,0000
+s   --==>   Call of Duty
+s   --==>   Call of Duty:Modern Warfer
+s   --==>   Call of Duty: Modern Warfare 2019
+gem-signup-textbox   --==>   barbelawitte@hotmail.com
+ds_email   --==>   barbelawitte@hotmail.com
+nu_cep   --==>   89550-000
+ds_numero   --==>   000
+nu_telefone_celular   --==>   (49) 99157-3106
+descontoMaximo   --==>   10,00
+NI_Procurador_CNPJ   --==>   29.294.334/0001-05
+email   --==>   PESSOAL@KARRER.COM.BR
+dataVigenciaFinal   --==>   15/04/2021
+id_cliente   --==>   97544553000147
+contato_cliente   --==>   ELIANE, VINICIUS, DEBORA
+bairro_cliente   --==>   CENTRO
+nome_cliente   --==>   RESTAURANTE SAN MIGUEL LTDA
+logradouro_cliente   --==>   AV BRASIL
+cep_cliente   --==>   88.330-063
+numero_logradouro_cliente   --==>   3322
+telefone_cliente   --==>   (47) 3367-1438
+nome_fantasia_cliente   --==>   ARMAZEM SAN MIGUEL
+filtro   --==>   armazem
+pesquisa   --==>   666
+pesquisa   --==>   605
+pesquisa   --==>   668
+pesquisa   --==>   670
+pesquisa   --==>   498
+txt_CPFCNPJ   --==>   18137714000101
+txtCodigoCaptcha   --==>   gttrf
+pesquisa   --==>   campano
+CaptchaInputText   --==>   vzsum
+ctl00$ContentPlaceHolder1$txt_Data_Emissao   --==>   04/05/2020
+ctl00$ContentPlaceHolder1$txt_Numero   --==>   350
+ctl00$ContentPlaceHolder1$txt_Bairro   --==>   CENTRO
+ctl00$ContentPlaceHolder1$txt_Endereco   --==>   RUA 3300
+ctl00$ContentPlaceHolder1$txt_Complemento   --==>   SALA 01 EDIF VILLA DI MARE
+ctl00$ContentPlaceHolder1$txt_Email   --==>   interativabcpessoal@hotmail.com
+ctl00$ContentPlaceHolder1$txt_Apelido   --==>   F. ABE PANIFICACAO EIRELI
+ctl00$ContentPlaceHolder1$txt_Telefone   --==>   (47)3264-9565
+ctl00$ContentPlaceHolder1$txt_Cnpj   --==>   33.476.238/0001-47
+ctl00$ContentPlaceHolder1$txt_Razao_Social   --==>   F. ABE PANIFICACAO EIRELI
+ctl00$ContentPlaceHolder1$txt_Cep   --==>   88330-272
+ctl00$ContentPlaceHolder1$txt_Insc_Municipal   --==>   172794
+dataInicio_0   --==>   04/04/2020
+dataFim_0   --==>   04/05/2020
+sigla   --==>   GL
+nome   --==>   LITROS
+nome   --==>   METROS
+sigla   --==>   MT
+cnpj   --==>   vo616
+pesquisa   --==>   dom cordoni
+username   --==>   GabrielWitte
+pesquisa   --==>   jadson
+pesquisa   --==>   BRAVACINAS
+pesquisa   --==>   695
+pesquisa   --==>   estaçaõ
+pesquisa   --==>   presente
+txt_CPFCNPJ   --==>   07063073000171
+txtCodigoCaptcha   --==>   lxvuv
+campodinamico[22086]   --==>   IRACEMA PRESENTES LTDA ME
+campodinamico[22089]   --==>   WELLINGTON
+campodinamico[22320]   --==>   88330-043
+campodinamico[22092]   --==>   (47) 99909-7591
+campodinamico[22079]   --==>   AV BRASIL N 530 - LOJA 03 CENTRO COMERCIAL EVEREST
+campodinamico[22084]   --==>   BALNEARIO  CAMBORIU
+campodinamico[22083]   --==>   000.000.000-00
+nome   --==>   Estação dos Presentes
+campodinamico[22078]   --==>   07.063.073/0001-71
+campodinamico[22088]   --==>   (47) 99909-7591
+ctl00$ContentPlaceHolder1$txt_Data_Emissao   --==>   06/05/2020
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   horas serviço
+pesquisa   --==>   estação
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   hora serviço
+titulo   --==>   MANUAL - ENVIO MANUAL BLOCO X
+pesquisa   --==>   muzzarella
+pesquisa   --==>   muazzarela
+q   --==>   viking
+q   --==>   viking sound
+q   --==>   musica nordica
+q   --==>   nordic sound
+q   --==>   music tribal
+q   --==>   nordic
+q   --==>   tambor e flauta
+q   --==>   flauta
+q   --==>   vikig
+pesquisa   --==>   pizzaria
+code   --==>   GIFT_WVATC212ZXP4KEF7
+j_username   --==>   092.555.549-56
+campodinamico[]   --==>   Luis
+AUTOR   --==>   Tony Mott
+TITULO   --==>   1001 videogames para jogar antes de morrer
+NUMEDI   --==>   1
+EDITORA   --==>   Sextante
+DATA   --==>   2013
+NUMPAG   --==>   960
+LOCAL   --==>   [S.I.]
+AUTOR1   --==>   Débora Ribeiro
+TITULO   --==>   Significado de Clássico
+ANO   --==>   2019
+END1   --==>   https://www.dicio.com.br/classico/
+DIA   --==>   19
+MES   --==>   05
+DATA2   --==>   2020
+_subject   --==>   Rela
+_subject   --==>   Relatório Diário
+_subject   --==>   Relatório Mensal - Gabriel - 20/05
+_subject   --==>   Re: RES: ENC: Tabela de Importação de Produtos para Cloud
+s   --==>   Tony Hawk's Pro Skater 2
+_subject   --==>   Relatório Mensal - Gabriel - 22/05
+pesquisa   --==>   selecti
+username   --==>   gabriel.witte
+txtCodigoCaptcha   --==>   7223e
+pesquisa   --==>   799
+_subject   --==>   Relatório Mensal - Gabriel - 26/05
+_subject   --==>   Relatório Mensal - Gabriel - 27/05
+_subject   --==>   Relatório Mensal - Gabriel - 28/05
+titulo   --==>   MANUAL INTERNO - PESQUISA DE NOTA FISCAL
+pesquisa   --==>   baoba
+pesquisa   --==>   armazem
+pesquisa   --==>   padaria
+pesquisa   --==>   carbono
+CaptchaInputText   --==>   pctjg
+ctl00$ContentPlaceHolder1$txt_Cnpj   --==>   12.781.615/0001-81
+ctl00$ContentPlaceHolder1$txt_Email   --==>   financeiro@muzzarella.com.br
+ctl00$ContentPlaceHolder1$txt_Telefone   --==>   (49)3222-3942
+ctl00$ContentPlaceHolder1$txt_Razao_Social   --==>   RESTAURANTE MUZZARELLA LTDA EPP
+ctl00$ContentPlaceHolder1$txt_Apelido   --==>   RESTAURANTE MUZZARELLA
+mat-input-0   --==>   092.555.549-56
+_subject   --==>   Relatório Mensal - Gabriel - 01/06
+_subject   --==>   Relatório Mensal - Gabriel - 03/06
+pesquisa   --==>   all blur
+pesquisa   --==>   all blue
+pesquisa   --==>   life
+txtCodigoCaptcha   --==>   zpaiv
+mat-input-1   --==>   gabriel witte de oliveira
+txtCodigoCaptcha   --==>   gergz
+txt_IE   --==>   scj8y
+_subject   --==>   Relatório Mensal - Gabriel - 05/06
+_subject   --==>   Relatório Mensal - Gabriel - 08/06
+_subject   --==>   Relatório Mensal - Gabriel - 09/06
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   Formatação de computador
+chaveEnvioAluno   --==>   13105
+login   --==>   gabriel
+login   --==>   gabriel.witte@varejonline.com.br
+data[Sintegra1][CodImage]   --==>   5eexd
+data[Sintegra1][CodImage]   --==>   63d6v7
+txtCodigoCaptcha   --==>   p8qcq
+data[Sintegra1][CodImage]   --==>   eezx69
+data[Sintegra1][CodImage]   --==>   8zccx
+Inscricao   --==>   90293759-57
+Endereco   --==>   R MANOEL PRUDENCIO DE BRITO
+Cidade   --==>   MARINGA
+Complemento   --==>   474
+Bairro   --==>   PARQUE INDUSTRIAL BANDEIRANTES
+Telefone   --==>   3041-7450
+CodTelefone   --==>   44
+sf_url   --==>   https://www.youtube.com/watch?v=xT8HIiFQ8Y0
+titulo   --==>   Erro no Sincronismo da Classificação fiscal e do Download de Preços
+campodinamico[22177]   --==>   Rodrigo
+campodinamico[25188]   --==>   72003
+pesquisa   --==>   vivence
+ctl00$ContentPlaceHolder1$txt_Valor   --==>   100,0000
+pesquisa   --==>   813
+mat-input-2   --==>   27/01/1999
+mat-input-1   --==>   092.555.549-56
+mat-input-3   --==>   hildegard witte
+_subject   --==>   Relatório Mensal - Gabriel - 16/06
+F_EMP_Localidade   --==>   joenvi
+Cidade   --==>   Joinville
+_subject   --==>   Relatório Mensal - Gabriel - 17/06
+cnpj   --==>   vo1022
+c-10-128   --==>   LIGHT HOUSE
+c-15-123   --==>   0000000000
+c-15-123   --==>   4799787-4644
+c-42-41   --==>   ***
+c-33-65   --==>   ***
+c-22-90   --==>   de Oliveira
+c-30-66   --==>   ***
+c-39-42   --==>   ***
+c-44-39   --==>   ***
+c-5-135   --==>   1086
+c-31-66   --==>   ***
+c-35-63   --==>   ***
+c-9-129   --==>   LIFE IMPORT S TELEFONIA E INFORMATICA EIRELI
+c-12-124   --==>   LUIS
+c-13-124   --==>   FELIPE
+c-28-85   --==>   gabriel.witte@varejonline.com.br
+c-24-89   --==>   09255554956
+c-26-87   --==>   49991573106
+c-21-90   --==>   Gabriel Witte
+group45   --==>   ***
+group21   --==>   ***
+c-40-42   --==>   ***
+c-0-140   --==>   Life Imports
+c-11-127   --==>   29189044000193
+c-43-40   --==>   ***
+c-15-123   --==>   47996181003
+c-10-128   --==>   ALL BLUE
+c-25-88   --==>   Consultor
+c-36-62   --==>   ***
+c-16-122   --==>   47996181003
+c-34-64   --==>   ***
+c-45-38   --==>   ***
+c-27-86   --==>   49991573106
+_subject   --==>   Re: RES: #887 - DOCUMENTAÇÃO PARA RMA REDENÇÃO
+_subject   --==>   Relatório Mensal - Gabriel - 18/06
+c-12-124   --==>   Evelise
+c-43-40   --==>   Técnico de manutenção
+c-7-133   --==>   varejobcadmin5505f
+c-21-90   --==>   Evelise
+c-40-42   --==>   Buss
+c-42-41   --==>   08604241973
+c-46-37   --==>   gerencia@lighthouseluminarias.com.br
+c-26-87   --==>   47 999278094
+c-22-90   --==>   Macedo
+c-35-63   --==>   47 997109643
+c-24-89   --==>   75126834991
+c-31-66   --==>   Simao da Silva
+c-9-129   --==>   LIGHT HOUSE COMERCIO DE MATERIAIS ELETRICOS EIRELI
+c-5-135   --==>   1091
+c-0-140   --==>   LIGHT HOUSE
+c-15-123   --==>   47 999278094
+c-28-85   --==>   gerencia@lighthouseluminarias.com.br
+c-37-61   --==>   gerencia@lighthouseluminarias.com.br
+c-11-127   --==>   31528734000171
+c-44-39   --==>   47 988063323
+c-30-66   --==>   Francisca Jayele
+c-39-42   --==>   Tiago
+c-13-124   --==>   Macedo
+c-33-65   --==>   60425632385
+username   --==>   varejo
+pesquisa   --==>   914
+chaveEnvioAluno   --==>   93240
+_subject   --==>   Relatório Mensal - Gabriel - 22/06
+txt_CPFCNPJ   --==>   17009933000142
+txtCodigoCaptcha   --==>   epnug
+c-37-61   --==>   servilarbarradalagoa@hotmail.com
+c-22-90   --==>   Correa
+c-24-89   --==>   62110993049
+c-31-66   --==>   Pereira Correa
+c-25-88   --==>   Proprietário
+c-13-124   --==>   Correa
+c-33-65   --==>   78499054900
+c-12-124   --==>   Rodrigo Antunes
+c-44-39   --==>   1111111111111
+c-9-129   --==>   CORREA & CORREA COMERCIO VAREJISTA LTDA
+c-26-87   --==>   48 984111077
+c-30-66   --==>   Mariane Petermann
+c-15-123   --==>   48 984111077
+c-0-140   --==>   SERVILAR RIO VERMELHO
+c-35-63   --==>   48 984111786
+c-21-90   --==>   Rodrigo Antunes
+c-42-41   --==>   111111111111111111111111111111
+c-52-9   --==>   1
+c-28-85   --==>   racfloripa72@gmail.com
+c-7-133   --==>   varejo
+c-11-127   --==>   17009933000142
+c-5-135   --==>   1201
+txtCodigoCaptcha   --==>   YUAGI
+data[Sintegra1][CodImage]   --==>   6x2ezc
+txtCodigoCaptcha   --==>   dxjgz
+c-43-40   --==>   Vendedor
+c-36-62   --==>   47 999224655
+c-45-38   --==>   47 999224655
+c-4-136   --==>   29189044000193
+c-51-10   --==>   1
+c-10-128   --==>   LIFE IMPORTS
+c-16-122   --==>   47 999946174
+c-27-86   --==>   47 999946174
+c-25-88   --==>   Empresária
+c-34-64   --==>   Vendedor
+c-6-134   --==>   base
+_subject   --==>   Relatório Mensal - Gabriel - 24/06
+cnpj   --==>   42553774000190
+pesquisa   --==>   917
+cnpj   --==>   05817169000152
+totalProdutos[0]   --==>   R$ 200.00
+totalEstimadoGeral[0]   --==>   R$ 200.00
+totalProdutos[1]   --==>   R$ 618.00
+totalEstimadoGeral[1]   --==>   R$ 618.00
+totalProdutos[0]   --==>   R$ 618.00
+totalEstimadoGeral[0]   --==>   R$ 618.00
+cnpj   --==>   Vo1244
+mat-input-0   --==>   gabriel witte de oliveira
+_subject   --==>   Relatório Mensal - Gabriel - 25/06
+cpf_cnpj   --==>   09255554956
+cep_01   --==>   88330
+cep_02   --==>   480
+nome_primeiro   --==>   Gabriel
+nome_sobrenome   --==>   Witte
+rg_ie   --==>   6312666
+telefone_ddd   --==>   49
+telefone   --==>   9157-3106
+endereco_numero   --==>   130
+endereco_complemento   --==>   Sala 01
+calc_cep   --==>   88330-480
+totalProdutos[0]   --==>   R$ 138.00
+totalEstimadoGeral[0]   --==>   R$ 138.00
+pedidos[0].nrParcelasCartao   --==>   1
+pedidos[0].valorOutros   --==>   0.00
+totalEstimadoGeral[0]   --==>   R$ 71.00
+pedidos[0].valorFrete   --==>   0.00
+pedidos[0].valorSeguro   --==>   0.00
+totalProdutos[0]   --==>   R$ 71.00
+cnpj   --==>   vo12010
+Subject   --==>   Problemas de Despesas devido ao Temporal
+surname   --==>   Witte
+surname   --==>   Burlamaqui
+surname   --==>   Verediana
+surname   --==>   Wolf
+surname   --==>   W
+surname   --==>   Oliveira
+surname   --==>   Fagundes
+user.attributes.cep   --==>   89550000
+nome   --==>   Gabriel Witte
+ctl00$ContentPlaceHolder1$txt_Data_Emissao   --==>   06/07/2020
+ctl00$ContentPlaceHolder1$txt_Quantidade   --==>   1,00
+username   --==>   CHEFFODS
+_subject   --==>   Relatório Mensal - Gabriel - 06/07
+descricao   --==>   cerveja
+username   --==>   gabrielwitte
+cnpj   --==>   vo1422
+username   --==>   matheus
+_subject   --==>   Relatório Mensal - Gabriel - 08/07
+guestName   --==>   Gabriel Witte
+cnpj   --==>   vo1091
+j_username   --==>   base
+j_cnpj   --==>   vo1091
+j_username   --==>   admin
+j_cnpj   --==>   31528734000171
+q   --==>   carta de correção
+pesquisa   --==>   too much
+_subject   --==>   Mensal dos Clientes - Franquis 
+_subject   --==>   Mensal dos Clientes - Franquia de Balneário Camboriú. 
+txt_CPFCNPJ   --==>   22720954000101
+txtCodigoCaptcha   --==>   akjcs
+txt_CPFCNPJ   --==>   22720954000292
+txtCodigoCaptcha   --==>   spppj
+txt_CPFCNPJ   --==>   37598247000161
+txtCodigoCaptcha   --==>   rjvqa
+txtCodigoCaptcha   --==>   x2nc7
+txtCodigoCaptcha   --==>   r4rbc
+txt_CPFCNPJ   --==>   28462337000130
+txtCodigoCaptcha   --==>   6rn8j
+txtCodigoCaptcha   --==>   enueq
+_subject   --==>   Re: Novo Painel de Licenças
+txt_CPFCNPJ   --==>   22320051000189
+txtCodigoCaptcha   --==>   BXJRQ
+txtCodigoCaptcha   --==>   csp9c
+login   --==>   gabriel.witte
+Cliente_s   --==>   EMPORIOO DISTRIBUIDORA DE ALIMENTOS
+DatadeAAAA   --==>   2020
+DataMM   --==>   07
+DatadeMM   --==>   07
+UltimoDepto_s   --==>   Administrador
+CtoEmp_s   --==>   Luiz Augusto Vieira Hoffman
+DataDD   --==>   16
+Protocolo   --==>   1055 2071 6161 43
+DatadeDD   --==>   16
+SubModulo_s   --==>   Nova base
+Categoria_s   --==>   Solicitação ao Financeiro
+Autor_s   --==>   Caio Lesniowski
+DataAAAA   --==>   2020
+RespAtual_s   --==>   Gabriel Witte
+Codigo   --==>   32342
+EmpAutora_s   --==>   FRANQUIA VAREJONLINE BALNEARIO CAMBORIU
+Titulo   --==>   Abertura de base
+Origem_s   --==>   Acesso Remoto
+HorariodeMM_s   --==>   20
+Funcionalidade_s   --==>   Padrão
+Status_s   --==>   Aberto
+UltimoResp_s   --==>   Gabriel Witte
+HorariodeHH_s   --==>   16
+DeptoAtual_s   --==>   Administrador
+Modulo_s   --==>   Abertura de Base
+Prioridade_s   --==>   Alta
+txtCodigoCaptcha   --==>   kehnh
+txtCodigoCaptcha   --==>   v9uxk
+q   --==>   kit de produto
+txtCodigoCaptcha   --==>   ccgck
+txtCodigoCaptcha   --==>   4rbdu
+cnpj   --==>   25476148000128
+pesquisa   --==>   1050
+username   --==>   gabriel
+cnpj   --==>   22320510000189
+username   --==>   anita
+q   --==>   nfe
+q   --==>   cuom fiscal
+q   --==>   cupom fiscal
+pesquisa   --==>   mercaldo
+username   --==>   092.555.549-56
+pesquisa   --==>   1072
+pesquisa   --==>   #1099
+txtCodigoCaptcha   --==>   tzkch
+txtCodigoCaptcha   --==>   4qigg
+data[Sintegra1][CodImage]   --==>   5b5c5
+data[Sintegra1][CodImage]   --==>   2pu7p
+data[Sintegra1][Cnpj]   --==>   05.817.169/0001-52
+txt_CPFCNPJ   --==>   05817169000152
+pesquisa   --==>   villa
+pesquisa   --==>   vila
+pesquisa   --==>   1094
+cnpj   --==>   vo1244
+FE_Nome   --==>   rodrigo
+ctl00$ContentPlaceHolder1$txtChaveAcessoResumo   --==>   42200711315435000141550050001749891003904685
+c-18-99   --==>   08253930941
+c-20-97   --==>   caiovinicius@diverkidsmaringa.com.br
+c-23-76   --==>   ***
+c-10-137   --==>   05817169000152
+c-4-145   --==>   05817169000152
+group57   --==>   ***
+c-5-144   --==>   1244
+titulo   --==>   Erro emissão de nota fiscal
+campodinamico[22177]   --==>   Mariane
+pesquisa   --==>   1070
+pesquisa   --==>   1071
+pesquisa   --==>   972
+pesquisa   --==>   890
+pesquisa   --==>   967
+pesquisa   --==>   995
+query_text   --==>   TM-T81F
+ds_numero   --==>   969
+cnpj   --==>   vo165
+cnpj   --==>   vo1615
+username   --==>   caio
+pesquisa   --==>   bambinela
+pesquisa   --==>   1036
+Login.UserName   --==>   22.320.510/0001-89
+ctl00$ContentPlaceHolder1$txt_Descricao   --==>   Manutenção sistema all food
+ctl00$ContentPlaceHolder1$txt_Valor   --==>   1150,0000
+c-12-133   --==>   (048) 984111077
+c-18-99   --==>   62110993049
+c-25-74   --==>   servilarbarradalagoa@hotmail.com
+c-46-10   --==>   7
+c-10-137   --==>   17.009.933/0001-42
+c-6-143   --==>   admin
+c-20-97   --==>   racfloripa72@gmail.com
+c-23-76   --==>   78499054900
+pesquisa   --==>   945
+pesquisa   --==>   932
+q   --==>   vendedor
+pesquisa   --==>   juistreet
+pesquisa   --==>   bambinella
+pesquisa   --==>   mercald
+pesquisa   --==>   ampezzo
+comissaoSobreVenda   --==>   0,00
+valorCreditoExcedente   --==>   0,00
+apelido   --==>   Mariane
+descontoMaximo   --==>   0,00
+q   --==>   terminal cliente
+name   --==>   Gabriel Witte de Oliveira
+login-name2   --==>   contato@selecticorp.com.br
+dialog-new-folder   --==>   ae3gBkWy5dglNVpfIEgpxURwNzT1jyvIiDQvVegOuvY
+dialog-new-folder   --==>   YoSlV4VVX4aqW7pxwk5o99LWGlB60FKW4g24-EafWMo"
+dialog-new-folder   --==>   YoSlV4VVX4aqW7pxwk5o99LWGlB60FKW4g24-EafWMo
+cnpj   --==>   vo1253
+s   --==>   mega 
+pesquisa   --==>   servilar
+pesquisa   --==>   chef foods
+txtCodigoCaptcha   --==>   FFCGR
+txt_CPFCNPJ   --==>   08316268000149
+q   --==>   halloween
+campodinamico[]   --==>   Rafael
+cnpj   --==>   v01221
+campodinamico[]   --==>   Leila
+username   --==>   admin_base
+name   --==>   PRONTO
+name   --==>   EM PRODUÇÃO
+name   --==>   NÃO INICIADO 
+id-checklist   --==>   A Fazer
+cnpj   --==>   v0615
+cnpj   --==>   v01201
+ncm   --==>   0001
+q   --==>   sintegra
+negotiationItemPrice0   --==>   45,00
+cliente.pessoaEnderecos[0].numero   --==>   2015
+cliente.dtNascimento   --==>   25/07/2017
+negotiationItemPrice0   --==>   120,00
+email   --==>   barbelawitte@hotmail.com
+pesquisa   --==>   fg
+pesquisa   --==>   SKYLINE EMPREENDIMENTOS SPE LTDA
+pesquisa   --==>   FGP CONSTRUCOES LTDA
+txtCodigoCaptcha   --==>   bzhkx
+txt_IE   --==>   rdiuv
+cnpj   --==>   vo1201
+username   --==>   servilar
+workOrderNumber   --==>   58
+nome   --==>   Gabriel Witte de Oliveira
+q   --==>   expandables
+q   --==>   broforce
+txtCodigoCaptcha   --==>   yj6nu
+txtCodigoCaptcha   --==>   cpvbp
+txt_CPFCNPJ   --==>   16733726000173
+txt_CPFCNPJ   --==>   16.733.726/0001-73
+scPfU$8umG2Z   --==>   mundo doce
+inp_calc_2   --==>   50000
+inp_calc_2   --==>   10000
+username   --==>   co
+AKk_hxcpXIg5   --==>   mundo
+workOrderNumber   --==>   60
+VhPxmc9QzThq   --==>   mundo
+workOrderNumber   --==>   62
+workOrderNumber   --==>   63
+r7nC9QBzmtzP   --==>   mund
+txtCodigoCaptcha   --==>   y8qzg
+tdTT5ItS4caw   --==>   mundo
+workOrderNumber   --==>   77
+sl_list-search-box   --==>   a
+search   --==>   dog pound
+search   --==>   o canil
+txtCodigoCaptcha   --==>   ladee
+txtCodigoCaptcha   --==>   gjxpy
+txtCodigoCaptcha   --==>   t2gq7
+txtCodigoCaptcha   --==>   cak9s
+txtCodigoCaptcha   --==>   fach
+txt_CPFCNPJ   --==>   21134753000160
+txtCodigoCaptcha   --==>   t2kdu
+txt_CPFCNPJ   --==>   16921010000108
+txtCodigoCaptcha   --==>   78vvj
+txt_CPFCNPJ   --==>   38003402000112
+passengers[0][name]   --==>   Gabriel Witte de Oliveira
+passengers[0][documentNumber]   --==>   092.555.549-56
+customer[email]   --==>   barbelawitte@hotmail.com
+debit-card-date-expiration   --==>   05/26
+payment[debitCard][cardholderName]   --==>   Gabriel Witte de Oliveira
+q   --==>   papirus
+txt_CPFCNPJ   --==>   31.655.815/0001-32
+txtCodigoCaptcha   --==>   yfrnk
+txtCodigoCaptcha   --==>   9ukr7
+txt_CPFCNPJ   --==>   12781615000181
+txtCodigoCaptcha   --==>   rauzd
+txtCodigoCaptcha   --==>   j34g2
+txtCodigoCaptcha   --==>   84kkv
+txtCodigoCaptcha   --==>   tnare
+txtCodigoCaptcha   --==>   esiry
+q   --==>   cadastro de vendedor
+txtCodigoCaptcha   --==>   veegl
+txt_CPFCNPJ   --==>   14921227000184
+txtCodigoCaptcha   --==>   vclkz
+txtCodigoCaptcha   --==>   x2rrh
+txt_CPFCNPJ   --==>   29189044000193
+txtCodigoCaptcha   --==>   s9jau
+iRNpK8Bnbvg3   --==>   life
+workOrderNumber   --==>   88
+purchaseItemPrice0   --==>   5,99
+VmeRRXsJbPU7   --==>   kio
+purchaseNumber   --==>   00233
+workOrderReceivedEquipment   --==>   NOTEBOOK
+workOrderNumber   --==>   91
+workOrderMark   --==>   DELL
+id-checklist   --==>   1001 Video Games
+username   --==>   base
+txtCodigoCaptcha   --==>   YCP3A
+txtCodigoCaptcha   --==>   br6bl
+txt_CPFCNPJ   --==>   19317750000209
+txtCodigoCaptcha   --==>   7szkr
+txt_CPFCNPJ   --==>   23006875000104
+purchaseNumber   --==>   00298
+cmeX49wM3rqI   --==>   ki
+search   --==>   eleganza
+nFtT$sBGxlgZ   --==>   LUCAS
+workOrderNumber   --==>   92
+workOrderReceivedEquipment   --==>   COMPUTADOR GAMER
+workOrderResponsible   --==>   FELIPE - formatação
+negotiationItemQuantity0   --==>   2,00
+identifier   --==>   barbelawitte@gmail.com
+q   --==>   blasfemus
+q   --==>   blasphemous
+workOrderNumber   --==>   95
+txtCodigoCaptcha   --==>   srjvl
+txtCodigoCaptcha   --==>   r4an6
+purchaseNumber   --==>   00386
+purchaseItemPrice1   --==>   4,49
+txtCodigoCaptcha   --==>   gx9nd
+negotiationItemPrice12   --==>   56,75
+negotiationItemQuantity5   --==>   2,00
+negotiationItemQuantity12   --==>   3,00
+negotiationItemQuantity1   --==>   5,00
+negotiationItemQuantity2   --==>   20,00
+negotiationItemPrice20   --==>   10,00
+negotiationItemPrice3   --==>   140,00
+negotiationItemPrice17   --==>   530,00
+negotiationItemPrice2   --==>   70,00
+negotiationItemPrice1   --==>   300,00
+negotiationItemPrice9   --==>   15,00
+negotiationItemQuantity8   --==>   3,00
+negotiationItemPrice21   --==>   1.080,00
+negotiationItemQuantity14   --==>   5,00
+negotiationItemPrice14   --==>   10,00
+negotiationItemPrice0   --==>   1.680,00
+negotiationItemPrice6   --==>   1.300,00
+negotiationItemQuantity11   --==>   2,00
+negotiationItemPrice7   --==>   430,00
+negotiationItemPrice18   --==>   15,00
+Xv6qquO9Wm3L   --==>   REI
+negotiationItemQuantity20   --==>   40,00
+negotiationItemPrice13   --==>   1,20
+negotiationItemQuantity19   --==>   20,00
+negotiationItemPrice16   --==>   70,00
+negotiationItemPrice15   --==>   32,00
+negotiationItemQuantity13   --==>   40,00
+negotiationItemPrice11   --==>   180,00
+negotiationItemPrice5   --==>   650,00
+negotiationItemQuantity9   --==>   45,00
+negotiationItemPrice19   --==>   8,00
+negotiationItemPrice8   --==>   98,75
+negotiationItemPrice4   --==>   700,00
+negotiationItemQuantity4   --==>   4,00
+negotiationItemPrice10   --==>   885,00
+cnpj   --==>   vo1086
+username   --==>   MARCIA
+cnpj   --==>   29189044000193
+share-link-input   --==>   https://glo.bo/2RKHjjR
+txt_CPFCNPJ   --==>   04734907000135
+txt_CPFCNPJ   --==>   83096123000367
+txtCodigoCaptcha   --==>   guvn
+txtCodigoCaptcha   --==>   6pkqc
+txtCodigoCaptcha   --==>   cdeiv
+txt_CPFCNPJ   --==>   83096123
+txtCodigoCaptcha   --==>   c884g
+txtCodigoCaptcha   --==>   acefu
+txt_CPFCNPJ   --==>   11619140000169
+txtCodigoCaptcha   --==>   z78c6
+txtCodigoCaptcha   --==>   ufjc4
+txtCodigoCaptcha   --==>   pgdnu
+purchaseItemPrice4   --==>   2,49
+negotiationDiscountRate   --==>   1,99
+purchaseNumber   --==>   456296
+purchaseItemQuantity0   --==>   3,00
+purchaseNumber   --==>   0043938
+purchaseItemPrice0   --==>   8,49
+gLeI71Z3fQxk   --==>   POST
+Nh6LQ$yJ8U6K   --==>   FABIO
+pwO6xlA_BbSM   --==>   FABIO
+purchaseItemPrice0   --==>   50,00
+whois-field   --==>   construtorateixeira.com.br
+workOrderNumber   --==>   102
+negotiationDiscountRate   --==>   60,00
+q   --==>   marge
+q   --==>   merge
+txtCodigoCaptcha   --==>   anurt
+txtCodigoCaptcha   --==>   njgun
+q   --==>   tributação
+q   --==>   Classificação Fiscal
+q   --==>   Modalidade Tributação
+nome   --==>   SUBSTITUIÇÃO TRIBUTARIA
+search   --==>   170
+negotiationDiscountRate   --==>   130,00
+workOrderNumber   --==>   104
+workOrderModel   --==>   MOTION PLUS Q464B
+workOrderResponsible   --==>   FELIPE
+workOrderSerie   --==>   4A840WD9M
+workOrderMark   --==>   POSITIVO
+identifier   --==>   gandra2202@gmail.com
+txtCodigoCaptcha   --==>   nh2zc
+txt_CPFCNPJ   --==>   28496789000132
+Cdlnkm3gbsK5   --==>   esse
+q   --==>   contas a pgar
+txtCodigoCaptcha   --==>   qevxn
+txtCodigoCaptcha   --==>   zx6aj
+txt_CPFCNPJ   --==>   22444394000100
+cnpj   --==>   vo557
+txt_CPFCNPJ   --==>   22320510000189
+txtCodigoCaptcha   --==>   d49x4
+captcha_code   --==>   8092
+txtCodigoCaptcha   --==>   pxear
+txt_CPFCNPJ   --==>   37177999000159
+ebVIyBKZMVC8   --==>   cam
+workOrderResponsible   --==>   Gabriel Witte
+workOrderNumber   --==>   107
+txt_CPFCNPJ   --==>   04038409000158
+txtCodigoCaptcha   --==>   rskgp
+txtCodigoCaptcha   --==>   g7trv
+txtCodigoCaptcha   --==>   wvrzd
+itemDescricao   --==>   BOBINA DE PAPEL TERMICO 80MM X 20M
+txtCodigoCaptcha   --==>   kaigi
+email_1   --==>   barbelawitte@hotmail.com
+txt_CPFCNPJ   --==>   35222732000100
+txtCodigoCaptcha   --==>   mqlz2
+TextField598   --==>   7 Semestre
+TextField1169   --==>   Build
+id-checklist   --==>   Tarefas
+ChooseScreenGamertagInput   --==>   GabrielWitte
+txtCodigoCaptcha   --==>   peyaa
+P_Nome   --==>   mundo doce
+Cidade   --==>   BALNEARIO CAMBORIU
+Bairro   --==>   CENTRO
+Complemento   --==>   SALA 03 ANEXO 01
+IntTelefone   --==>   55
+Endereco   --==>   AVENIDA: CENTRAL
+Telefone   --==>   3367-6744
+EmailNF   --==>   sandra_mara0@hotmail.com
+131251134650ABA46466   --==>   1022
+Codigo   --==>   S000247
+Telefone   --==>   99618-1003
+CodTelefone   --==>   47
+CodCelular   --==>   47
+Celular   --==>   99618-1003
+SobreNome   --==>   MARA DE ARAUJO
+13112716261215AAP376   --==>   2
+passengers[0][name]   --==>   GABRIEL WITTE DE OLIVEIRA
+customer[email]   --==>   barbelawitte@gmail.com
+credit-card-date-expiration   --==>   03/23
+payment[cardholderName]   --==>   GABRIEL WITTE DE OLIVEIRA
+payment[postalCode]   --==>   88337-480
+_user   --==>   gabriel@selecticorp.com.br
+txtCodigoCaptcha   --==>   7f4df
+txtCodigoCaptcha   --==>   zfakf
+txtCodigoCaptcha   --==>   XGLVE
+txt_CPFCNPJ   --==>   38070605000121
+cnpj   --==>   vo615
+username   --==>   witte
+cnpj   --==>   64437167000105
+sl_list-search-box   --==>   in
+negotiationItemPrice0   --==>   235,00
+negotiationItemPrice2   --==>   490,00
+negotiationItemPrice1   --==>   150,00
+vTPfmDoMbNi8   --==>   fg
+q   --==>   Windows XP Professional SP3 - ativado
+nome   --==>   FARDO
+sigla   --==>   FD
+TextField474   --==>   Thiago Marchand Orçamento Câmeras Itajaí
+TextField490   --==>   ORCAMENTO LEONARDO JAIME
+TextField527   --==>   Falar com a pamela dia exato dos moveis
+TextField679   --==>   MONTAR ORÇAMENTO VINICIUS FRIAMBRERIA
+TextField821   --==>   CHAMADOS CENTRAL DE ALIMENTOS
+TextField1034   --==>   AJUDAR GUILHERME COM IMPRESSORA E SERVIDOR CENTRAL DE ALIMENTOS
+TextField1050   --==>   OBRA PHOENIX CAIU
+TextField1246   --==>   ORÇAMENTO CLÍNICA VIVER BEM
+TextField1308   --==>   ORÇAMENTO CONJEL
+cnpj   --==>   85280285000114
+apelido   --==>   CAIXA
+descontoMaximo   --==>   99,99
+UserName   --==>   gabriel.witte
+nome   --==>   tabela 5 avenida e camboriu
+itens[4].precoNovo   --==>   63,5064
+itens[3].precoNovo   --==>   61,1840
+itens[1].precoNovo   --==>   1,2000
+itens[0].margem   --==>   0,5250
+itens[2].precoNovo   --==>   0,7990
+itens[0].precoNovo   --==>   1,2000
+username   --==>   consultor
+cnpj   --==>   vo648
+txtCodigoCaptcha   --==>   cx7yz
+txtCodigoCaptcha   --==>   ennze
+txtCodigoCaptcha   --==>   tne4z
+txt_CPFCNPJ   --==>   39815516000120
+busca   --==>   witte
+ca_usuario   --==>   6437370
+busca   --==>   sped
+vPESQUISACEP   --==>   88337-000
+vPESQUISACEP   --==>   88337480
+placa   --==>   mic8102
+txtPlaca   --==>   mic8102
+placa   --==>   MIC-9102
+placa   --==>   MIC-8192
+placa   --==>   MIC-8102
+placa   --==>   MIC-8190
+placa   --==>   MIC-8181
+placa   --==>   MIC
+placa   --==>   MIC81
+txtCodigoCaptcha   --==>   dhvpf
+txt_CPFCNPJ   --==>   39368181000149
+cnpj   --==>   31528734000171
+username   --==>   admin

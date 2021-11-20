@@ -1,0 +1,8 @@
+﻿.facebook.com	TRUE	/	FALSE	1830365600	datr	geRcXzKtDJP7fYcQGq0H1aGl
+.facebook.com	TRUE	/	FALSE	1830365600	sb	f-RcX905IFtrdiO5wNyUqPfz
+.facebook.com	TRUE	/	FALSE	1830365600	wd	1519x703
+.facebook.com	TRUE	/	FALSE	1830365600	c_user	100001610562960
+.facebook.com	TRUE	/	FALSE	1830365600	spin	r.1003759431_b.trunk_t.1620553413_s.1_v.2_
+.facebook.com	TRUE	/	FALSE	1830365600	xs	29%3Ac-hSLZd_94U-Mg%3A2%3A1599923369%3A-1%3A898%3A%3AAcXB6bXvrdvOxDhetfmj4Z715if1r03Vsd_lO2SlvR-D
+.facebook.com	TRUE	/	FALSE	1830365600	dpr	1.25
+.facebook.com	TRUE	/	FALSE	1830365600	fr	1NfNfusUuLZb5A48f.AWUNqoVQyKVwbX5CEZCroNMSvIs.Bglp74.ni.GCW.0.0.Bglp74.

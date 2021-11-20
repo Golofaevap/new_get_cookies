@@ -1,0 +1,1767 @@
+id   --==>   335401813750447
+dl   --==>   https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/
+ts   --==>   1582414457667
+cd[Meta]   --==>   {"title":"How to Stop Windows 10 From Using So Much Data ","meta:description":"Windows 10 is designed to be an always-connected, always-up-to-date operating system. It’s the most data-hungry version of Windows yet, but you can restrain it from going all-out on your home network with a few tricks."}
+cd[OpenGraph]   --==>   {"og:site_name":"How-To Geek","og:title":"How to Stop Windows 10 From Using So Much Data","og:type":"article","og:description":"Windows 10 is designed to be an always-connected, always-up-to-date operating system. It’s the most data-hungry version of Windows yet, but you can restrain it from going all-out on your home network with a few tricks.","og:image":"https://www.howtogeek.com/thumbcache/2/200/3b8e1d7424abd053db40161004878d6b/wp-content/uploads/2016/04/img_57044f5b6b43b.png","og:url":"https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","id":"https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/"},"publisher":{"@type":"Organization","name":"How-To Geek","logo":{"@type":"ImageObject","url":"https://www.howtogeek.com/public/images/htgamp.png","height":60,"width":233}},"headline":"How to Stop Windows 10 From Using So Much Data","name":"How to Stop Windows 10 From Using So Much Data","datePublished":"2016-07-14T10:14:15-04:00","dateModified":"2017-07-03T21:56:08-04:00","author":{"@type":"Person","name":"Chris Hoffman"},"description":"Windows 10 is designed to be an always-connected, always-up-to-date operating system. It&#8217;s the most data-hungry version of Windows yet, but you can restrain it from going all-out on your home network with a few tricks.","image":["https://www.howtogeek.com/thumbcache/2/200/3b8e1d7424abd053db40161004878d6b/wp-content/uploads/2016/04/img_57044f5b6b43b.png"]}]
+sw   --==>   1920
+sh   --==>   1080
+v   --==>   2.9.15
+fbp   --==>   fb.1.1582414457126.5146476
+it   --==>   1582414454919
+id   --==>   1110217022342858
+dl   --==>   https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html?utm_campaign=aw-ded-dynamicsearch-en-ww-s-1-dynamic&gclid=Cj0KCQiAv8PyBRDMARIsAFo4wK3JXIKWdQLfZVM2b08g3q_j15O4V_3KU6tXw6SQ_p9CGZZ52MxfXOkaAjipEALw_wcB
+ts   --==>   1582415626946
+cd[Meta]   --==>   {"title":"How to Install BlueStacks on Windows 10, 8.1, 8 & 7","meta:description":"Read this quick guide to know how to Install BlueStacks on Windows 10, 8.1, 8 & 7 and start playing your favorite mobile games on PC."}
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"How to Install BlueStacks on Windows 10, 8.1, 8 & 7","og:description":"Read this quick guide to know how to Install BlueStacks on Windows 10, 8.1, 8 & 7 and start playing your favorite mobile games on PC.","og:url":"https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html","og:site_name":"Bluestacks - The Best Android Emulator on PC as Rated by You","article:publisher":"https://www.facebook.com/BlueStacksInc/","article:published_time":"2016-04-13T21:10:54+00:00","article:modified_time":"2020-02-04T11:09:19+00:00","og:updated_time":"2020-02-04T11:09:19+00:00","og:image":"https://cdn-www.bluestacks.com/bs-images/BS4-Launch_1200x628_31.jpg","og:image:secure_url":"https://cdn-www.bluestacks.com/bs-images/BS4-Launch_1200x628_31.jpg","og:image:width":"1200","og:image:height":"628","og:image:alt":"bluestacks","og:image:type":"image/jpeg"}
+cd[JSON-LD]   --==>   [[{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.bluestacks.com/#website","url":"https://www.bluestacks.com","name":"BlueStacks","potentialAction":{"@type":"SearchAction","target":"https://www.bluestacks.com/search/{search_term_string}/en/","query-input":"required name=search_term_string"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Install BlueStacks on Windows 10, 8.1, 8 &amp; 7","description":"Read this quick guide to know how to Install BlueStacks on Windows 10, 8.1, 8 & 7 and start playing your favorite mobile games on PC.","datePublished":"2016-04-13T21:10:54+00:00","dateModified":"2020-02-04T11:09:19+00:00","publisher":{"@type":"Organization","name":"BlueStacks","logo":{"@type":"ImageObject","url":"https://cdn-www.bluestacks.com/bs-images/new-logo-white.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html"},"author":{"@type":"Person","name":"Yuriy"},"image
+fbp   --==>   fb.1.1582415623833.1660563944
+it   --==>   1582415616265
+id   --==>   1092190414193229
+ts   --==>   1582415626953
+id   --==>   236758727337739
+ts   --==>   1582415627447
+id   --==>   448368701978882
+dl   --==>   https://en.softonic.com/downloads/youtube
+ts   --==>   1582415721804
+cd[Meta]   --==>   {"title":"Download Youtube - Best Software & Apps ","meta:description":"Download Youtube . Free and safe download. Download the latest version of the top software, games, programs and apps in 2020. "}
+cd[OpenGraph]   --==>   {"og:ttl":"2419200"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"ItemList","itemListElement":[{"@type":"SiteNavigationElement","position":1,"@id":"https://en.softonic.com/windows","name":"Apps","url":"https://en.softonic.com/windows"},{"@type":"SiteNavigationElement","position":2,"@id":"https://en.softonic.com/windows/games","name":"Games","url":"https://en.softonic.com/windows/games"},{"@type":"SiteNavigationElement","position":3,"@id":"https://en.softonic.com/articles","name":"Articles","url":"https://en.softonic.com/articles"},{"@type":"SiteNavigationElement","position":4,"@id":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US","name":"Solutions","url":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US"},{"@type":"SiteNavigationElement","position":5,"@id":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header","name":"Movies","url":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header"}]}]
+fbp   --==>   fb.1.1582415721288.1241724732
+it   --==>   1582415719069
+dl   --==>   https://youtube.en.softonic.com/web-apps/download
+rl   --==>   https://en.softonic.com/downloads/youtube
+ts   --==>   1582415782536
+cd[Meta]   --==>   {"title":"Download YouTube for Web Apps - free - latest version","meta:description":"Download YouTube for Web Apps now from Softonic: 100% safe and virus free. More than 2228 downloads this month. Download YouTube latest version 2020"}
+cd[OpenGraph]   --==>   {"og:title":"Download YouTube for Web Apps - free - latest version","og:description":"The web's largest video sharing and broadcasting site","og:image":"https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/d1f4e4c8-96d5-11e6-8a13-00163ed833e7/224760753/youtube-logo.png","og:url":"https://youtube.en.softonic.com/web-apps","og:site_name":"Softonic","og:type":"softonic_action:app","og:ttl":"2419200"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"ItemList","itemListElement":[{"@type":"SiteNavigationElement","position":1,"@id":"https://en.softonic.com/web-apps","name":"Apps","url":"https://en.softonic.com/web-apps"},{"@type":"SiteNavigationElement","position":2,"@id":"https://en.softonic.com/web-apps/games","name":"Games","url":"https://en.softonic.com/web-apps/games"},{"@type":"SiteNavigationElement","position":3,"@id":"https://en.softonic.com/articles","name":"Articles","url":"https://en.softonic.com/articles"},{"@type":"SiteNavigationElement","position":4,"@id":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US","name":"Solutions","url":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US"},{"@type":"SiteNavigationElement","position":5,"@id":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header","name":"Movies","url":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header"}]},{"@conte
+it   --==>   1582415781607
+dl   --==>   https://youtube-music.en.softonic.com/web-apps
+rl   --==>   https://youtube.en.softonic.com/web-apps/download
+ts   --==>   1582415797743
+cd[Meta]   --==>   {"title":"YouTube Music Online","meta:description":"YouTube Music, free and safe. YouTube Music latest version: All the music you want, in a tube. Providing unending hours of music, YouTube Music offers access to it vast catalog of melodies for..."}
+cd[OpenGraph]   --==>   {"og:title":"YouTube Music","og:description":"All the music you want, in a tube","og:image":"https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/1d590928-4741-4b14-9e74-157f2d125429/4054914362/youtube-music-youtube music icon.png","og:url":"https://youtube-music.en.softonic.com/web-apps","og:site_name":"Softonic","og:type":"article","article:publisher":"https://www.facebook.com/softonic","og:ttl":"2419200"}
+it   --==>   1582415796871
+cd[buttonFeatures]   --==>   {"classList":"big-blue-button download-button android-popup activated","destination":"https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&client_uuid=75ed7a4b-9c83-48b5-a2e4-2dbc68495ea2&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252047.0.2526.106%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F47.0.2526.106%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252247.0.2526.106%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=undefined&utm_source=&utm_medium=&gaCookie=GA1.2.935783422.1582415616&gc
+cd[buttonText]   --==>   Download BlueStacks
+cd[formFeatures]   --==>   []
+cd[pageFeatures]   --==>   {"title":"How to Install BlueStacks on Windows 10, 8.1, 8 & 7"}
+ts   --==>   1582415821961
+ts   --==>   1582415821974
+dl   --==>   https://www.bluestacks.com/download.html?utm_source=bluestacks&utm_medium=blog&utm_content=english&utm_campaign=bluestacks-blog-us
+rl   --==>   https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html?utm_campaign=aw-ded-dynamicsearch-en-ww-s-1-dynamic&gclid=Cj0KCQiAv8PyBRDMARIsAFo4wK3JXIKWdQLfZVM2b08g3q_j15O4V_3KU6tXw6SQ_p9CGZZ52MxfXOkaAjipEALw_wcB
+ts   --==>   1582415839486
+cd[Meta]   --==>   {"title":"Download BlueStacks Offline Installer","meta:description":"Thanks for downloading BlueStacks. This is the Offline Installer for BlueStacks. Play Bigger."}
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Download BlueStacks Offline Installer","og:description":"Thanks for downloading BlueStacks. This is the Offline Installer for BlueStacks. Play Bigger.","og:url":"https://www.bluestacks.com/download.html","og:site_name":"Bluestacks - The Best Android Emulator on PC as Rated by You","article:publisher":"https://www.facebook.com/BlueStacksInc/","article:published_time":"2017-01-21T20:41:31+00:00","article:modified_time":"2019-10-15T08:06:00+00:00","og:updated_time":"2019-10-15T08:06:00+00:00","og:image":"https://cdn-www.bluestacks.com/bs-images/bluestacks4_EN8.jpg","og:image:secure_url":"https://cdn-www.bluestacks.com/bs-images/bluestacks4_EN8.jpg","og:image:width":"1920","og:image:height":"900","og:image:alt":"download","og:image:type":"image/jpeg"}
+cd[JSON-LD]   --==>   [[{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.bluestacks.com/#website","url":"https://www.bluestacks.com","name":"BlueStacks","potentialAction":{"@type":"SearchAction","target":"https://www.bluestacks.com/search/{search_term_string}/en/","query-input":"required name=search_term_string"}},{"@context":"https://schema.org","@type":"Article","headline":"Download BlueStacks Offline Installer","description":"Thanks for downloading BlueStacks. This is the Offline Installer for BlueStacks. Play Bigger.","datePublished":"2017-01-21T20:41:31+00:00","dateModified":"2019-10-15T08:06:00+00:00","publisher":{"@type":"Organization","name":"BlueStacks","logo":{"@type":"ImageObject","url":"https://cdn-www.bluestacks.com/bs-images/new-logo-white.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.bluestacks.com/download.html"},"author":{"@type":"Person","name":"Diego"},"image":{"@type":"ImageObject","url":"https://cdn-www.bluestacks.com/bs-images/bluestacks4_EN8.jpg","width":1920,"height":9
+ts   --==>   1582415839987
+ts   --==>   1582415888767
+cd[buttonFeatures]   --==>   {"classList":"download-bs avocado-green bigger download-button activated","destination":"https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&client_uuid=e9586953-9bf7-4d5d-9cc1-60124d5e7a9b&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252047.0.2526.106%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F47.0.2526.106%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252247.0.2526.106%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.2.935783422.1582415616&gclid=
+cd[pageFeatures]   --==>   {"title":"Download BlueStacks Offline Installer"}
+ts   --==>   1582415888773
+ts   --==>   1582415888782
+identifier   --==>   taiwosalisu3510@gmail.com
+cd[Meta]   --==>   {"title":"DOWNLOAD: Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3 • illuminaija"}
+id   --==>   1711223325874187
+ts   --==>   1574452902822
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"DOWNLOAD: Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3 • illuminaija","og:description":"Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3 song audio Download Music Post Malone joins Swae Lee for this banging record titled “Sunflower” (Spider-Man: Into the Spider-Verse). Listen Up! https://illuminaija.com/wp-content/uploads/2019/09/Post-Malone--Swae-Lee-Sunflower-Spider-Man--Into-the-Spider-Verse-01.mp3 DOWNLOAD MP3: Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) Related posts: DOWNLOAD: Post Malone Ft. Young Thug …","og:url":"https://illuminaija.com/download-mp3-songs/download-post-malone-swae-lee-sunflower-spider-man-into-the-spider-verse-mp3/","og:site_name":"illuminaija","article:publisher":"https://facebook.com/illuminaija","article:tag":"Swae Lee","article:section":"New Music","article:published_time":"2019-09-07T14:26:59+00:00","article:modified_time":"2019-09-09T00:33:06+0
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"Person","url":"https://illuminaija.com/","sameAs":["https://facebook.com/illuminaija","https://instagram.com/illuminaija","https://twitter.com/illuminaija"],"@id":"#person","name":"Oshin Adebowale Amos"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://illuminaija.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://illuminaija.com/category/download-mp3-songs/","name":"New Music"}},{"@type":"ListItem","position":3,"item":{"@id":"https://illuminaija.com/download-mp3-songs/download-post-malone-swae-lee-sunflower-spider-man-into-the-spider-verse-mp3/","name":"DOWNLOAD: Post Malone &#038; Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3"}}]}]
+dl   --==>   https://illuminaija.com/download-mp3-songs/download-post-malone-swae-lee-sunflower-spider-man-into-the-spider-verse-mp3/
+fbp   --==>   fb.1.1574452901277.1323297114
+it   --==>   1574452895240
+it   --==>   1574673820011
+cd[OpenGraph]   --==>   {"og:site_name":"Qokoz","og:url":"https://qokoz.com/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl","og:title":"Men Black Washed Jean Denim Jackets Men'S Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl","og:type":"product","og:description":"Buy Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl. Product Description: Product Description: Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl Sold by Qokoz Available in Default Title Free Shipping to 85+ countries Returns & Exchanges accepted for 1 year. Get Free Shipping. Not satisfied? Returns & Exchanges Accepted 365 Days Later. Shop at Qokoz.com for sim","og:price:amount":"21.95","og:price:currency":"USD","og:image":["http://cdn.shopify.com/s/files/1/0030/5253/5857/products/men-black-washed-jean-denim-jackets-mens-spring-autu
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"Organization","url":"https://qokoz.com","logo":"https://cdn.shopify.com/s/files/1/0030/5253/5857/files/qokoZ_15_180x.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-833-987-1148","contactType":"customer service"}]}]
+fbp   --==>   fb.1.1574673822776.12120631
+v   --==>   2.9.13
+dl   --==>   https://qokoz.com/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl?utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&utm_campaign=gs-2018-08-03&utm_source=google&utm_medium=smart_campaign&gclid=CjwKCAiAlO7uBRANEiwA_vXQ--OqNCu4w7-RGLRgc58mW29sc0DpHQ7ge2bq1dqeWT8YuQng2pv3PBoCjJEQAvD_BwE
+a   --==>   plshopify1.2
+cd[Meta]   --==>   {"title":"\n       \n   Buy Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl - Qokoz.com \n    \n  \n  "}
+cd[Schema.org]   --==>   [{"dimensions":{"h":59,"w":356},"properties":{"url":"/"},"subscopes":[],"type":"http://schema.org/Organization"},{"dimensions":{"h":2641,"w":356},"properties":{"name":"Men Black Washed Jean Denim Jackets Men'S Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl","description":"Product Description:\n\n Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl\nSold by Qokoz\nAvailable in Default Title\nFree Shipping to 85+ countries\nReturns & Exchanges accepted for 1 year\n ","sku":"","itemCondition":"NewCondition","url":"https://qokoz.com/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl","image":"https://cdn.shopify.com/s/files/1/0030/5253/5857/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl.jpg?v=1573016195","mpn":"","brand":"Qokoz"},"subscopes":[{"dimensions":{"h":597,"w"
+id   --==>   251846509074177
+cd[Meta]   --==>   {"title":"Old mobile Bet9ja registration, login, coupon check, mobile app, shop ▷ Nigeria news | Legit.ng","meta:description":"Legit.ng News ★ Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet."}
+fbp   --==>   fb.1.1574790368540.234855550
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","isPartOf":"#article","author":{"@type":"Person","name":"Julie Kwach"},"name":"How to use old mobile Bet9ja - registration, login, coupon check, mobile app, shop","headline":"Old mobile Bet9ja registration, login, coupon check, mobile app, shop","description":"Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet.","datePublished":"2019-11-26T18:44:41+01:00","dateCreated":"2019-09-23T00:00:29+01:00","dateModified":"2019-11-26T18:44:41+01:00","articleBody":"Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet.","thumbnailUrl":"https://netstorage-legit.akamaized.net/images/c3b16299b019e7d9.png?&imwidth=1200","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.leg
+ts   --==>   1574790369461
+cd[OpenGraph]   --==>   {"og:title":"Old mobile Bet9ja registration, login, coupon check, mobile app, shop","og:type":"article","og:updated_time":"2019-11-26T18:44:41+01:00","og:image":"https://netstorage-legit.akamaized.net/images/c3b16299b019e7d9.png","article:published_time":"2019-11-26T18:44:41+01:00","article:modified_time":"2019-11-26T18:44:41+01:00","article:publisher":"https://www.facebook.com/naijcom","article:author":"https://www.facebook.com/naijcom","article:section":"Nigeria Latest News","og:description":"Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet.","twitter:account_id":"4503599628896561","og:site_name":"Legit.ng - Nigeria news.","twitter:site":"@naijcom","og:locale":"en_US","og:url":"https://www.legit.ng/1260859-old-mobile-bet9ja-registration-login-coupon-check-mobile-app-shop.html"}
+dl   --==>   https://www.legit.ng/1260859-old-mobile-bet9ja-registration-login-coupon-check-mobile-app-shop.html
+it   --==>   1574790367639
+ts   --==>   1574876942041
+it   --==>   1574876934809
+ts   --==>   1574973261243
+id   --==>   111937562824482
+it   --==>   1574973255091
+dl   --==>   https://careers.bakerhughes.com/global/en/job/1929189/Internship-Field-Engineering-2020-Nigeria
+cd[OpenGraph]   --==>   {"og:type":"website","og:image":"https://assets.phenompeople.com/CareerConnectResources/pp/BAHUGLOBAL/social/1200x630-1559130060851-1570723704557.jpg","og:site_name":"Baker Hughes","og:url":"https://careers.bakerhughes.com/global/en/job/1929189/Internship-Field-Engineering-2020-Nigeria","og:title":"Internship - Field Engineering - 2020 (Nigeria) job in Nigeria, Nigeria | University jobs at Baker Hughes","og:description":"Apply for Internship - Field Engineering - 2020 (Nigeria) job with Baker Hughes in Nigeria, Nigeria. Browse and apply for University jobs at Baker Hughes","og:image:width":"200","og:image:height":"200"}
+cd[Meta]   --==>   {"title":"Internship - Field Engineering - 2020 (Nigeria) job in Nigeria, Nigeria | University jobs at Baker Hughes","meta:description":"Apply for Internship - Field Engineering - 2020 (Nigeria) job with Baker Hughes in Nigeria, Nigeria. Browse and apply for University jobs at Baker Hughes","meta:keywords":"Internship - Field Engineering - 2020 (Nigeria) job in Nigeria, Nigeria, University jobs at Baker Hughes"}
+cd[JSON-LD]   --==>   [{"identifier":{"@type":"PropertyValue","name":"Baker Hughes","value":"1929189"},"hiringOrganization":{"@type":"Organization","name":"Baker Hughes","sameAs":"https://careers.bakerhughes.com/global/en","logo":"https://assets.phenompeople.com/CareerConnectResources/pp/BAHUGLOBAL/images/job_logo_config-1559208184238.png","url":"https://careers.bakerhughes.com/global/en/job/1929189/Internship-Field-Engineering-2020-Nigeria"},"jobLocation":{"address":{"addressCountry":"Nigeria","@type":"PostalAddress","addressRegion":"Nigeria"},"@type":"Place"},"employmentType":"Co-op/Intern","@type":"JobPosting","workHours":"40 hours per week","description":"<div><font face=\"GE Inspira Sans\">\n</font></div><p style=\"\"></p><div><a name=\"_Toc461735203\"><font face=\"Arial\">Internships at Baker Hughes are designed to enable those who recently graduated from Master-level&nbsp;degree to have hands-on work experience as the foundation to their professional life and, depending on performance, be first-in-line for an ongoing career
+fbp   --==>   fb.1.1574876939131.830506948
+ctl00$BodyContentPlaceHolder$UserTextBox   --==>   Dave3610
+lastName   --==>   Firstman
+shipState   --==>   Rivers State
+billCity   --==>   Portharcourt
+billState   --==>   Rivers State
+phone1   --==>   08161916006
+phone4   --==>   NG11346189
+billPostalCode   --==>   3
+email   --==>   evelynfirstman@gmail.com
+shipPostalCode   --==>   3
+shipAddress1   --==>   PHC
+dateOfBirth   --==>   04/24/1995
+shipCity   --==>   Portharcourt
+firstName   --==>   Evelyn
+billAddress1   --==>   PHC
+cd[Meta]   --==>   {"title":"Top 132 Best MLM companies to Join in 2019? Revenue Rankings of Network Marketing Businesses - Ippei Review"}
+cd[Schema.org]   --==>   [{"dimensions":{"h":30936,"w":360},"properties":{"description":"Take Your Internet Business to the Next Level"},"subscopes":[{"dimensions":{"h":98,"w":360},"properties":{"headline":"IPPEI REVIEW"},"subscopes":[{"dimensions":{"h":98,"w":360},"properties":{"url":"https://www.ippei.com/best/","name":"LEAD GEN COACHING"},"subscopes":[],"type":"https://schema.org/SiteNavigationElement"}],"type":"https://schema.org/WPHeader"},{"dimensions":{"h":23120,"w":324},"properties":{"headline":"Top 132 Best MLM companies to Join in 2019? Revenue Rankings of Network Marketing Businesses","dateModified":"2019-11-25T21:55:57+00:00","text":"Looking for the best MLM to join?\n\nWell we ranked the top 100 companies by revenue to show what the biggest MLM players are out there today.\n\nWe also talk about studying Google trends to join a network marketing company that's on the rise instead of one that's on the decline.\n\nIf you're trying to make money with MLM, there's no question that the people that join these companies when the
+it   --==>   1575062851840
+id   --==>   142160043110042
+dl   --==>   https://www.ippei.com/best-mlm/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.ippei.com/#/schema/person/75a6d443f2fb8f64dd1ebee21baeb7e0","name":"Ippei","image":{"@type":"ImageObject","@id":"https://www.ippei.com/#personlogo","url":"https://secure.gravatar.com/avatar/0b570d9803ae43561c9e44c58be2b4b1?s=96&d=mm&r=g","caption":"Ippei"},"logo":{"@id":"https://www.ippei.com/#personlogo"},"sameAs":[]},{"@type":"WebSite","@id":"https://www.ippei.com/#website","url":"https://www.ippei.com/","name":"Ippei Review","publisher":{"@id":"https://www.ippei.com/#/schema/person/75a6d443f2fb8f64dd1ebee21baeb7e0"},"potentialAction":{"@type":"SearchAction","target":"https://www.ippei.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.ippei.com/best-mlm/#primaryimage","url":"https://www.ippei.com/wp-content/uploads/2019/10/google-trends.jpg","width":1706,"height":680},{"@type":"WebPage","@id":"https://www.ippei.com/best-mlm/#webpage","url":
+fbp   --==>   fb.1.1575062855195.1496631087
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Top 132 Best MLM companies to Join in 2019? Revenue Rankings of Network Marketing Businesses","og:description":"Looking for the best MLM to join? Well we ranked the top 100 companies by revenue to show what the biggest MLM players are out there today. We also talk about studying Google trends to join a network marketing company that's on the rise instead of one that's on the decline. If you're trying to make money with …","og:url":"https://www.ippei.com/best-mlm/","og:site_name":"Ippei Review","article:section":"mlm","article:published_time":"2019-11-15T04:09:19+00:00","article:modified_time":"2019-11-25T21:55:57+00:00","og:updated_time":"2019-11-25T21:55:57+00:00","og:image":"https://www.ippei.com/wp-content/uploads/2019/10/google-trends.jpg","og:image:secure_url":"https://www.ippei.com/wp-content/uploads/2019/10/google-trends.jpg"}
+ts   --==>   1575062856192
+g$w$cLogin$ctrlLogin$Username   --==>   taiw3651
+fbp   --==>   fb.1.1574875124561.2016964565
+cd[formFeatures]   --==>   [{"id":"__EVENTTARGET","name":"__EVENTTARGET","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__EVENTARGUMENT","name":"__EVENTARGUMENT","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__VIEWSTATE","name":"__VIEWSTATE","tag":"input","inputType":"hidden"},{"id":"__VIEWSTATEGENERATOR","name":"__VIEWSTATEGENERATOR","tag":"input","inputType":"hidden"},{"id":"__VIEWSTATEENCRYPTED","name":"__VIEWSTATEENCRYPTED","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__PREVIOUSPAGE","name":"__PREVIOUSPAGE","tag":"input","inputType":"hidden"},{"id":"__EVENTVALIDATION","name":"__EVENTVALIDATION","tag":"input","inputType":"hidden"},{"id":"g_w_cLogin_ctrlLogin_Username","name":"g$w$cLogin$ctrlLogin$Username","tag":"input","inputType":"text"},{"id":"g_w_cLogin_ctrlLogin_Password","name":"g$w$cLogin$ctrlLogin$Password","tag":"input","inputType":"password"},{"id":"g_w_PC_oddsSearch_txtSearch","name":"g$w$PC$oddsSearch$txtSearch","tag":"input","inputType":"text"},{"id":"","name":
+rl   --==>   https://web.bet9ja2.com/pages/SportFooter_RespGaming/guest?LogoutGroupID=75&IDLingua=2
+it   --==>   1575632346630
+cd[buttonText]   --==>   Log in
+cd[buttonFeatures]   --==>   {"classList":"btnLogin","destination":"javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"g$w$cLogin$ctrlLogin$lnkBtnLogin\", \"\", true, \"Login\", \"https://web.bet9ja2.com/pages/sportfooter_respgaming/guest?LogoutGroupIDUsed=75&idlingua=2&NoSwitch\", false, true))","id":"g_w_cLogin_ctrlLogin_lnkBtnLogin","imageUrl":"linear-gradient(rgb(28, 129, 61) 0px, rgb(30, 137, 68) 100%)","innerText":"Log in","numChildButtons":0,"tag":"a","name":""}
+cd[pageFeatures]   --==>   {"title":"\n\tBet9ja Nigeria Sport Betting,Premier League Odds,Casino,Bet\n"}
+dl   --==>   https://web.bet9ja2.com/pages/sportfooter_respgaming/guest?LogoutGroupIDUsed=75&idlingua=2
+ts   --==>   1575632585202
+it   --==>   1575915585829
+cd[Schema.org]   --==>   [{"dimensions":{"h":8714,"w":360},"properties":{"url":"https://notjustok.com/tv"},"subscopes":[{"dimensions":{"h":36,"w":360},"properties":{"headline":"Latest Naija Nigerian Music, Songs & Video - Notjustok"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{"target":"https://notjustok.com/?s={s}","query-input":""},"subscopes":[],"type":"http://schema.org/SearchAction"}],"type":"http://schema.org/WPHeader"},{"dimensions":{"h":3508,"w":338},"properties":{"headline":"Kizz Daniel – Pak N Go","datePublished":"2019-10-03T15:17:31+01:00","text":"\nKizz Daniel – Pak N Go\n\nOverview of Kizz Daniel – Pak N Go\nFlyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled “Pak N Go“.\n\n‘Pak N Go‘ pronounced Pack And Go, serves as Kizz Daniel‘s third official record for the year, it comes after the release of his previous single tagged ‘Eko‘.\n\nSEE ALSO: Mayorkun ft. Kizz Daniel – True\n\nThe song was produced by highly gifted music producer, the one and only DJ Coublon.\n\nCheck it out a
+ts   --==>   1575915594370
+it   --==>   1575915625458
+dl   --==>   https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://notjustok.com/#organization","name":"","url":"https://notjustok.com/","sameAs":[]},{"@type":"WebSite","@id":"https://notjustok.com/#website","url":"https://notjustok.com/","name":"Latest Naija Nigerian Music, Songs &amp; Video - Notjustok","publisher":{"@id":"https://notjustok.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://notjustok.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/#webpage","url":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/","inLanguage":"en-US","name":"Kizz Daniel - Pak N Go | Mp3 Download « NotJustOk","isPartOf":{"@id":"https://notjustok.com/#website"},"image":{"@type":"ImageObject","@id":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/#primaryimage","url":"https://notjustok.com/wp-content/uploads/2019/09/Kizz-Daniel-4-1-e1569450
+id   --==>   575234519291095
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Kizz Daniel - Pak N Go | Mp3 Download « NotJustOk","og:description":"Kizz Daniel - Pack And Go Mp3 Download: Flyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled \"Pak N Go\".","og:url":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/","og:site_name":"Latest Naija Nigerian Music, Songs & Video - Notjustok","article:author":"www.Facebook.com/peter.okhide1","article:tag":"pak n go","article:section":"Music","article:published_time":"2019-10-03T14:17:31+00:00","article:modified_time":"2019-10-03T14:18:41+00:00","og:updated_time":"2019-10-03T14:18:41+00:00","og:image":"https://notjustok.com/wp-content/uploads/2019/09/Kizz-Daniel-4-1-e1569450425582.jpg","og:image:secure_url":"https://notjustok.com/wp-content/uploads/2019/09/Kizz-Daniel-4-1-e1569450425582.jpg","og:image:width":"640","og:image:height":"798"}
+cd[Meta]   --==>   {"title":"Kizz Daniel - Pak N Go | Mp3 Download « NotJustOk","meta:description":"Kizz Daniel - Pack And Go Mp3 Download: Flyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled \"Pak N Go\"."}
+fbp   --==>   fb.1.1575915592040.1294431938
+cd[Schema.org]   --==>   [{"dimensions":{"h":9817,"w":360},"properties":{"url":"https://notjustok.com/site-map/"},"subscopes":[{"dimensions":{"h":36,"w":360},"properties":{"headline":"Latest Naija Nigerian Music, Songs & Video - Notjustok"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{"target":"https://notjustok.com/?s={s}","query-input":""},"subscopes":[],"type":"http://schema.org/SearchAction"}],"type":"http://schema.org/WPHeader"},{"dimensions":{"h":3534,"w":338},"properties":{"headline":"Kizz Daniel – Pak N Go","datePublished":"2019-10-03T15:17:31+01:00","text":"\nKizz Daniel – Pak N Go\n\nOverview of Kizz Daniel – Pak N Go\nFlyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled “Pak N Go“.\n\n‘Pak N Go‘ pronounced Pack And Go, serves as Kizz Daniel‘s third official record for the year, it comes after the release of his previous single tagged ‘Eko‘.\n\nSEE ALSO: Mayorkun ft. Kizz Daniel – True\n\nThe song was produced by highly gifted music producer, the one and only DJ Coublon.\n\nCheck i
+username   --==>   taiwo3651
+cd[Schema.org]   --==>   [{"dimensions":{"h":7153,"w":330},"properties":{"headline":"Cardi B had a Pretty Interesting Time in Ghana | Here’s What Went Down","datePublished":"2019-12-09","dateModified":"2019-12-09","keywords":"CARDI BCARDI B IN GHANAGHANALIVESPOT X FESTIVAL"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{},"subscopes":[],"type":"https://schema.org/WebPage"},{"dimensions":{"h":12,"w":110},"properties":{"name":"BellaNaija.com"},"subscopes":[],"type":"https://schema.org/Person"},{"dimensions":{"h":0,"w":0},"properties":{"url":"https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana-542x600.jpg","width":"542","height":"600"},"subscopes":[],"type":"https://schema.org/ImageObject"},{"dimensions":{"h":0,"w":0},"properties":{"name":"BellaNaija"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{"url":"https://www.bellanaija.com/wp-content/uploads/2019/02/logo-word-black.png"},"subscopes":[],"type":"https://schema.org/ImageObject"}],"type":"https://schema.org/Organization"}],"type":"http://schema.o
+cd[OpenGraph]   --==>   {"og:type":"article","og:image":["https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana-542x600.jpg","https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana.jpg"],"og:url":"https://www.bellanaija.com/2019/12/cardi-b-ghana/","og:title":"Cardi B had a Pretty Interesting Time in Ghana | Here's What Went Down | BellaNaija","og:description":"Cardi B had a pretty interesting time in Ghana but, couldn't meet up with the meet and greet session with the celebrities on Sunday.","og:locale":"en_US","og:site_name":"BellaNaija","article:publisher":"https://www.facebook.com/bellanaija/","article:tag":"Livespot X Festival","article:section":"Scoop","article:published_time":"2019-12-09T11:42:29+00:00","og:image:secure_url":"https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana.jpg","og:image:width":"542","og:image:height":"680"}
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"Organization","url":"https://www.bellanaija.com/","sameAs":["https://www.facebook.com/bellanaija/","https://instagram.com/bellanaijaonline","https://www.linkedin.com/company-beta/16256402/","https://www.youtube.com/user/bellanaija","https://twitter.com/bellanaija"],"@id":"https://www.bellanaija.com/#organization","name":"BellaNaija","logo":"https://www.bellanaija.com/wp-content/uploads/2019/02/logo-word-black@2x.png"},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.bellanaija.com","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.bellanaija.com/scoop/","name":"Scoop"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.bellanaija.com/2019/12/cardi-b-ghana/","name":"Cardi B had a Pretty Interesting Time in Ghana | Here&#039;s What Went Down"}}]},{"@context":"http://schema.org","@type":"LocalBusiness","name":"BellaNaija","image":"https://www.bellan
+rl   --==>   https://www.bellanaija.com/
+cd[Meta]   --==>   {"title":"Cardi B had a Pretty Interesting Time in Ghana | Here's What Went Down | BellaNaija","meta:description":"Cardi B had a pretty interesting time in Ghana but, couldn't meet up with the meet and greet session with the celebrities on Sunday."}
+dl   --==>   https://www.bellanaija.com/2019/12/cardi-b-ghana/
+ts   --==>   1575978900244
+it   --==>   1575979001323
+ts   --==>   1575979010426
+dl   --==>   https://www.bellanaija.com/
+rl   --==>   https://www.google.com/
+cd[Schema.org]   --==>   []
+ts   --==>   1575979174500
+fbp   --==>   fb.1.1575978898834.1350426535
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"WebSite","@id":"#website","url":"https://www.bellanaija.com/","name":"BellaNaija","potentialAction":{"@type":"SearchAction","target":"https://www.bellanaija.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@context":"https://schema.org","@type":"Organization","url":"https://www.bellanaija.com/","sameAs":["https://www.facebook.com/bellanaija/","https://instagram.com/bellanaijaonline","https://www.linkedin.com/company-beta/16256402/","https://www.youtube.com/user/bellanaija","https://twitter.com/bellanaija"],"@id":"https://www.bellanaija.com/#organization","name":"BellaNaija","logo":"https://www.bellanaija.com/wp-content/uploads/2019/02/logo-word-black@2x.png"},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.bellanaija.com","name":"Home"}}]},{"@context":"http://schema.org","@type":"LocalBusiness","name":"BellaNaija","image":"https://www.bellanaija.co
+o   --==>   30
+ev   --==>   Microdata
+cd[OpenGraph]   --==>   {"og:description":"‘NextU’, an initiative of PAL Pensions is focused on providing knowledge and guidance for ‘Unleashing the Potential’ of young people","og:locale":"en_US","og:type":"website","og:title":"Home | BellaNaija","og:url":"https://www.bellanaija.com/","og:site_name":"BellaNaija","og:image":"https://www.bellanaija.com/android-chrome-512x512.png","og:image:secure_url":"https://www.bellanaija.com/android-chrome-512x512.png"}
+cd[DataLayer]   --==>   []
+ec   --==>   1
+id   --==>   627147804403071
+cd[Meta]   --==>   {"title":"Home | BellaNaija","meta:description":"‘NextU’, an initiative of PAL Pensions is focused on providing knowledge and guidance for ‘Unleashing the Potential’ of young people"}
+if   --==>   false
+it   --==>   1575979167396
+v   --==>   2.9.14
+id   --==>   1905516222795124
+ec   --==>   5
+ec   --==>   4
+sh   --==>   640
+ev   --==>   SubscribedButtonClick
+r   --==>   stable
+cd[pageFeatures]   --==>   {"title":"\n\tBet9jaMobile\n"}
+sw   --==>   360
+dl   --==>   https://old-mobile.bet9ja.com/Account/CouponCheckDetails.aspx
+cd[buttonFeatures]   --==>   {"classList":"linkPls","destination":"https://old-mobile.bet9ja.com/Account/CouponCheckDetails.aspx","id":"ctl00_w_ContentMain_ContentMain_DettCoupon_lnkCheckCoupon","imageUrl":"","innerText":"","numChildButtons":0,"tag":"input","name":"ctl00$w$ContentMain$ContentMain$DettCoupon$lnkCheckCoupon","value":"Check"}
+rl   --==>   https://old-mobile.bet9ja.com/Home.aspx
+cd[parameters]   --==>   []
+ts   --==>   1576130194701
+o   --==>   1054
+ec   --==>   3
+cd[buttonText]   --==>   Check
+rqm   --==>   formPOST
+ctl00$w$ContentMain$ContentMain$DettCoupon$txtCodiceCoupon   --==>   B921azsperqcrw-2569588
+ts   --==>   1576130207643
+es   --==>   automatic
+ts   --==>   1576130215189
+ts   --==>   1576130199855
+it   --==>   1576130068269
+fbp   --==>   fb.1.1573829066209.1161213414
+rl   --==>   https://old-mobile.bet9ja.com/Account/CouponCheckDetails.aspx
+cd[formFeatures]   --==>   [{"id":"__EVENTTARGET","name":"__EVENTTARGET","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__EVENTARGUMENT","name":"__EVENTARGUMENT","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__VIEWSTATE","name":"__VIEWSTATE","tag":"input","inputType":"hidden"},{"id":"__VIEWSTATEGENERATOR","name":"__VIEWSTATEGENERATOR","tag":"input","inputType":"hidden"},{"id":"__EVENTVALIDATION","name":"__EVENTVALIDATION","tag":"input","inputType":"hidden"},{"id":"BetSlipOddList","name":"","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"ctl00_w_ContentMain_ContentMain_DettCoupon_txtCodiceCoupon","name":"ctl00$w$ContentMain$ContentMain$DettCoupon$txtCodiceCoupon","tag":"input","inputType":"text"}]
+ec   --==>   2
+it   --==>   1576130015028
+coo   --==>   false
+if   --==>   true
+ts   --==>   1576130059933
+tm   --==>   3
+Username   --==>   NG11346189
+ctl00$BodyContentPlaceHolder$UserTextBox   --==>   NG11346189
+email   --==>   08100327820
+nickname   --==>   SIR_TEE
+first_name   --==>   TAIWO
+last_name   --==>   DAVID
+q   --==>   thinkpas t60
+q   --==>   thinkpad t60
+strCaptcha   --==>   4g32y
+Email   --==>   ocollinsemek
+log   --==>   Dan
+searchbox   --==>   robots.txt
+txtusername   --==>   20151017733
+userid   --==>   taiwosalisu3510@gmail.comoluwataiwo
+r-lname   --==>   Salisu
+q   --==>   kyrpton
+q   --==>   krypton
+s   --==>   krypton
+emailAddress   --==>   taiwosalisu3510@gmail.com
+user_login   --==>   20151017733
+txtusername   --==>   20151011284
+user[name]   --==>   Taiwo David 
+request[anonymous_requester_email]   --==>   taiwosalisu3510@gmail.com
+request[subject]   --==>   Registration Of a Nigerian Number
+ctl00$ContentPlaceHolder1$wmeMobileno   --==>   07012570946
+username   --==>   davies_clothier
+Email   --==>   ebubebizmails@gmail.com
+user_login   --==>   nelsonnnmadiigwe@gmail.com
+username   --==>   20141899583
+identifier   --==>   nelsonnnamdiigwe@gmail.com
+s   --==>   pet 513
+emailAddress   --==>   nelsonnnamdiigwe@gmail.com
+txtusername   --==>   2016994273
+txtusername   --==>   20161994273
+txtusername   --==>   20151014366
+user[name]   --==>   Taiwo David Salisu
+phoneNumberId   --==>   +2347012570946
+Email   --==>   taiwosalisu3510@gmail.com
+bloggerDisplayName   --==>   DAVIES CLOTHIER 
+identifier   --==>   kaykaykobani@gmail.com
+q   --==>   Text to Search...
+Email   --==>   kaykaykobani@gmail.com
+user_name   --==>   SIR_TEE
+phone_number   --==>   07012570946
+account_name   --==>   TAIWO DAVID SALISU
+account_number   --==>   2270187575
+form[input]   --==>   taiwosalisu3510@gmail.com
+email   --==>   davies_clothier
+s   --==>   meter tamper solution
+jform[contact_name]   --==>   Taiwo David
+jform[com_fields][mobile-phone-number]   --==>   07012570946
+jform[contact_email]   --==>   taiwosalisu3510@gmail.com
+jform[contact_subject]   --==>   Meter Tamper
+email_field_one   --==>   taiwosalisu3510@gmail.com
+fullName   --==>   Taiwo David
+login-name2   --==>   taiwosalisu3510@gmail.com
+userEmailId   --==>   taiwosalisu3510@gmail.com
+fullname   --==>   Taiwo Salisu
+name   --==>   Taiwo David  Salisu
+search-term   --==>   https://skills.shawacademy.com/en/recordings/5eb4a8e580a745061c1d9c2f?regId=5eb4ab01753339061c85b560
+q   --==>   https://www.domestika.org/en/courses/387-introduction-to-adobe-photoshop
+fname   --==>   Taiwo David Salisu
+fname   --==>   Taiwo Salisu
+code   --==>   7AE315
+username   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   COMPLETE DESIGNER MASTERCLASSCOMPLETE DESIGNER MASTERCLASS
+sf_url   --==>   https://youtu.be/LlfJVCve_Vs
+sf_url   --==>   How to make PHOTO REALISTIC t shirt mockups in Photoshop | Tutorial
+sf_url   --==>   https://www.youtube.com/watch?v=KsxqoeiOsKc
+sf_url   --==>   https://www.youtube.com/watch?v=mceZfU5lxcI
+sf_url   --==>   https://www.youtube.com/watch?v=0ausiScLJT8
+sf_url   --==>   https://www.youtube.com/watch?v=97gwDbXalBI
+sf_url   --==>   https://www.youtube.com/watch?v=M02QVTxhOM0
+sf_url   --==>   https://www.youtube.com/watch?v=Yce2ZvGeanY
+user_login   --==>   Sir_Tee
+user_email   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=MX_PTNjtEq0
+sf_url   --==>   https://www.youtube.com/watch?v=tDEvJRK6omM
+log   --==>   taiwosalisu3510@gmail.com
+log   --==>   Sir_Tee
+sf_url   --==>   https://youtu.be/JE3QJ-1muOY
+sf_url   --==>   https://youtu.be/5fd7j-ZTs4I
+sf_url   --==>   https://www.youtube.com/watch?v=x-uGN5P8TRM
+sf_url   --==>   https://www.youtube.com/watch?v=iOYz669WNpU
+sf_url   --==>   https://www.youtube.com/watch?v=DVEE84T9vh0
+sf_url   --==>   https://www.youtube.com/watch?v=uyaV_EWWRmo
+sf_url   --==>   https://youtu.be/hBgwhhYblEw
+sf_url   --==>   https://www.youtube.com/watch?v=GRGrbfvNQGs
+sf_url   --==>   https://www.youtube.com/watch?v=hzyMh6fMeHk
+sf_url   --==>   https://www.youtube.com/watch?v=ubukgJgm_58
+sf_url   --==>   https://www.youtube.com/watch?v=EbfoQUV26mM
+sf_url   --==>   https://www.youtube.com/watch?v=hALYqCD3HvQ
+sf_url   --==>   https://www.youtube.com/watch?v=ZGzfK6fapmA
+sf_url   --==>   https://www.youtube.com/watch?v=i8oxoJz43Eg
+sf_url   --==>   https://www.youtube.com/watch?v=9mLZHGSp42k
+sf_url   --==>   https://www.youtube.com/watch?v=--4iZuqETwk
+sf_url   --==>   https://www.youtube.com/watch?v=PA6n_KNoXHQ
+sf_url   --==>   https://www.youtube.com/watch?v=ipImCE6R9kA
+sf_url   --==>   https://www.youtube.com/watch?v=I_KfwTmcAN4
+sf_url   --==>   https://www.youtube.com/watch?v=Rl3LZMgTQCY
+sf_url   --==>   https://www.youtube.com/watch?v=U9hfVZyq690
+sf_url   --==>   https://www.youtube.com/watch?v=pH5Ab8ARixU
+sf_url   --==>   https://www.youtube.com/watch?v=U7Wzh1fT_hE
+sf_url   --==>   https://www.freeject.net/2020/03/how-to-create-retro-cover-art-design.html
+sf_url   --==>   http://www.youtube.com/embed/rvkDiwLzMU4
+sf_url   --==>   https://www.freeject.net/2020/02/how-to-create-neon-portrait-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/bCYmFz-X1Yg
+sf_url   --==>   https://1.bp.blogspot.com/-3gtAjdeErzE/XpBQONBfi0I/AAAAAAAAO9Q/aD2QdDJ8DrIaUiSSHXBl7DdYIO4h9yFogCLcBGAsYHQ/s1600/COVER%2BBLOG.jpg
+sf_url   --==>   https://www.youtube.com/watch?v=oefrLaLxevI
+sf_url   --==>   https://www.youtube.com/watch?v=dk9LN1uWx44
+sf_url   --==>   https://www.youtube.com/watch?v=qMCo-1QTHbA
+sf_url   --==>   https://www.youtube.com/watch?v=77xg_tW_d50
+sf_url   --==>   https://www.youtube.com/watch?v=GFr0b-K-fYI
+sf_url   --==>   https://www.youtube.com/watch?v=GLpB6RIC1Gk
+sf_url   --==>   https://www.youtube.com/watch?v=KZl68VJ4raU
+sf_url   --==>   https://www.youtube.com/watch?v=68w2VwalD5w
+sf_url   --==>   https://www.youtube.com/watch?v=FCyOmcvOBFA
+sf_url   --==>   https://www.youtube.com/watch?v=Ct-XgMWp4AI
+sf_url   --==>   https://www.youtube.com/watch?v=VpAQbA6Qyxs
+sf_url   --==>   https://www.youtube.com/watch?v=TAl_-UbHTZA
+sf_url   --==>   https://www.youtube.com/watch?v=zHfHT_u4kwQ
+sf_url   --==>   https://www.youtube.com/watch?v=57GQ1rS0yU0
+sf_url   --==>   https://www.youtube.com/watch?v=046enyNNwzs
+sf_url   --==>   https://www.youtube.com/watch?v=yl8f_siVU0k
+sf_url   --==>   https://www.youtube.com/watch?v=3LUCnxXoi1g
+q   --==>   Search and hit enswirlter
+q   --==>   swirl
+q   --==>   Grass and tables
+createEmail   --==>   taiwosalisu3510@gmail.com
+q   --==>   ALIEN
+sf_url   --==>   https://www.instagram.com/p/CAf0D-FJw-6/?utm_source=ig_web_copy_link
+png   --==>   CROWN
+sf_url   --==>   https://www.youtube.com/watch?v=xkeICA9eF6g
+sf_url   --==>   https://www.youtube.com/watch?v=A_25g6tKAvg
+sf_url   --==>   https://www.youtube.com/watch?v=CTNliX7J7_U
+sf_url   --==>   https://www.youtube.com/watch?v=KferWzhMvhI
+sf_url   --==>   https://www.youtube.com/watch?v=_PAvtT0oRxA
+sf_url   --==>   https://www.youtube.com/watch?v=pP4jcYAYB0I
+sf_url   --==>   https://www.youtube.com/watch?v=iKx1PH2nMOM
+sf_url   --==>   https://www.youtube.com/watch?v=LpvMR4Wx35E
+sf_url   --==>   https://www.youtube.com/watch?v=4nWRm2kLyLQ
+sf_url   --==>   https://www.youtube.com/watch?v=fj_iwNgv8aQ
+sf_url   --==>   https://www.youtube.com/watch?v=phl48dTE1KI
+sf_url   --==>   https://www.youtube.com/watch?v=f7d0yeMDhoM
+sf_url   --==>   https://www.youtube.com/watch?v=aetuS8O_6Tg
+sf_url   --==>   https://www.youtube.com/watch?v=hBDsFVcIFqw
+user[login]   --==>   specialdc
+sf_url   --==>   https://www.youtube.com/watch?v=OdsZrdqyYzo
+sf_url   --==>   https://www.youtube.com/watch?v=EaCeWAro4IE
+sf_url   --==>   https://www.youtube.com/watch?v=wZHoAPnfKTk
+bank_account_name   --==>   Taiwo David Salisu
+lastname   --==>   Taiwo
+email   --==>   benwcisse@gmail.com
+state   --==>   Rivers
+first-name   --==>   Taiwo
+sf_url   --==>   https://twitter.com/badboyakin/status/1260375603150282756?s=19
+firstname   --==>   Salisu
+username   --==>   UncleTee
+last-name   --==>   David
+expiry   --==>   07 / 22
+user[name]   --==>   Taiwo
+wc_name   --==>   _Special dc
+wc_email   --==>   taiwosalisu3510@gmail.com
+ig_handle   --==>   @gabrielnzekwe
+amount   --==>   5000
+payoutamount   --==>   Davetee
+subject   --==>   Longer Merging Issues
+png   --==>   Crown
+sf_url   --==>   https://www.instagram.com/p/CBlmIEflMYy/?igshid=zua365yqoihs
+mobile   --==>   07044662433
+verCode   --==>   586354
+card_num_startime   --==>   02146107854
+bank_account_number   --==>   2270187575
+username   --==>   Davetee
+username   --==>   SirTee
+username   --==>   Sirtee
+user[email]   --==>   taiwosalisu3510@gmail.com
+transamount   --==>   400
+receiver_phonenumber   --==>   07012570946
+9d9f36261bb4a2e48e8c184b18d7865c   --==>   taiwosalisu3510@gmail.com
+phone   --==>   08102447485
+number   --==>   70295783372
+number   --==>   7029578372
+search   --==>   mattoa
+search   --==>   lato
+phone_no   --==>   07012570946
+last_name   --==>   Salisu
+bank_name   --==>   Access
+bank_user_token   --==>   3510
+initiator   --==>   Taiwo David Salisu
+png   --==>   Leaf
+q   --==>   leaf
+q   --==>   rccg
+q   --==>   black people
+q   --==>   happy people
+q   --==>   airtel
+q   --==>   dstv
+q   --==>   Construction building
+username   --==>   DaveTee
+png   --==>   Building logo
+png   --==>   Phone
+png   --==>   Startimes
+png   --==>   Phed
+png   --==>   Prepaid meter
+png   --==>   naira
+sf_url   --==>   https://www.youtube.com/redirect?event=video_description&v=rX6MXXWWIKg&redir_token=QUFFLUhqbE05WVozcE5iYjJ5NTZwTXM0bzdLNVRWOFBjd3xBQ3Jtc0tsVG9YMEdoUlRaYXdzVURaSzVpSmt6el9uNjliUkNDTFBHNUw2UzlKLWFlQUVmelM1YUMxTGRkVnQydnVZQW5Sd0RtS3o3Q2FyV3ZkSEV5WXlQQTJ0QVlyQVd5cjEtekJjUERPVWF3S1h1R2dQdjZQbw%3D%3D&q=https%3A%2F%2Fsmashworks.co%2FPremiereProAnimationBuilder
+sf_url   --==>   https://www.youtube.com/watch?v=rX6MXXWWIKg
+sf_url   --==>   https://www.youtube.com/watch?v=uUV34Dr2kGQ
+sf_url   --==>   https://www.youtube.com/watch?v=CxDsNJarbBY
+sf_url   --==>   https://www.youtube.com/watch?v=PW6Q4vxe8NY
+sf_url   --==>   https://www.youtube.com/watch?v=T7oaOL61JOQ
+sf_url   --==>   https://www.youtube.com/watch?v=TeKepjnntWM
+sf_url   --==>   https://www.youtube.com/watch?v=J2fy_iNFhFo
+sf_url   --==>   https://www.youtube.com/watch?v=yDMA4yvpYF8
+sf_url   --==>   https://www.youtube.com/watch?v=yhh-PY-2u-U
+sf_url   --==>   https://www.youtube.com/watch?v=vmk3vt_152Q
+sf_url   --==>   https://www.youtube.com/watch?v=UXOpXLmLMv8
+sf_url   --==>   https://www.youtube.com/watch?v=ucVRpsHZhs0
+sf_url   --==>   https://www.youtube.com/watch?v=w8ZAgMoM2YU
+sf_url   --==>   https://www.youtube.com/watch?v=pibZIwwfiTo
+sf_url   --==>   https://www.youtube.com/watch?v=XnzGFtUevts
+sf_url   --==>   https://www.youtube.com/watch?v=f3JS-9X6U5I
+sf_url   --==>   https://www.youtube.com/watch?v=-s8Sqp7QFBc
+sf_url   --==>   https://www.youtube.com/watch?v=pTduGXxwuwE
+sf_url   --==>   https://www.youtube.com/watch?v=DGVIDsRtKUU
+sf_url   --==>   https://www.youtube.com/watch?v=9_R-vkcNAzA
+sf_url   --==>   https://www.youtube.com/user/NewWorldOps
+sf_url   --==>   https://www.youtube.com/watch?v=rNoXLPaoJQE
+sf_url   --==>   https://www.youtube.com/watch?v=Xm2FnXYQuTQ
+sf_url   --==>   https://www.youtube.com/watch?v=2h3aNiouJSU
+sf_url   --==>   https://www.youtube.com/user/DhruvalModi
+sf_url   --==>   https://www.youtube.com/watch?v=aHwQn5sgUYc
+sf_url   --==>   https://www.youtube.com/watch?v=PSKBWls9Xsk
+sf_url   --==>   https://www.youtube.com/watch?v=BofznXj_0IA
+sf_url   --==>   https://www.youtube.com/watch?v=99DmDsyC3u0
+sf_url   --==>   https://www.youtube.com/watch?v=9bnOVV3EBC8
+sf_url   --==>   https://www.youtube.com/watch?v=iZaRs-Mgl2A
+sf_url   --==>   https://www.youtube.com/watch?v=TsiaFa4gRTc
+sf_url   --==>   https://www.youtube.com/watch?v=uTrgNwUtIJk
+sf_url   --==>   https://www.youtube.com/watch?v=Pq7BEhiHcKU
+sf_url   --==>   https://www.youtube.com/watch?v=-fREcPB6a3A
+sf_url   --==>   https://www.youtube.com/watch?v=14vw1PZo8dY&list=PLZehoqVzoa-B-MJUr4FLiTNy1xUAXBkvb
+sf_url   --==>   https://www.youtube.com/watch?v=5WnaT1oFjt8
+sf_url   --==>   https://www.youtube.com/watch?v=UnK5lGmadSs
+sf_url   --==>   https://www.youtube.com/watch?v=exqyZcI4OcY
+sf_url   --==>   https://www.youtube.com/watch?v=Zxy75f4qljA
+sf_url   --==>   https://www.youtube.com/watch?v=JXZ-1cwz_sk
+sf_url   --==>   https://www.youtube.com/watch?v=vSndrIBTDUw
+sf_url   --==>   https://www.youtube.com/watch?v=Y3UP09MsNzc
+sf_url   --==>   https://www.youtube.com/watch?v=-dnZ-iJiIAk
+sf_url   --==>   https://www.youtube.com/watch?v=lQnm2AHT8_w
+sf_url   --==>   https://www.youtube.com/watch?v=du1rqAZGSiA
+sf_url   --==>   https://www.youtube.com/watch?v=xF8XJf3hUFc
+sf_url   --==>   https://www.youtube.com/watch?v=TKzmGIA4CmE
+sf_url   --==>   https://www.youtube.com/watch?v=iGgw6HHyKkI
+sf_url   --==>   https://www.youtube.com/watch?v=bLhvbuJxIRE
+sf_url   --==>   https://www.youtube.com/watch?v=AxwX1EyMfpE
+sf_url   --==>   https://www.youtube.com/watch?v=aub2YsoPfJ4
+sf_url   --==>   https://www.youtube.com/watch?v=CihQYPIHBiU
+sf_url   --==>   https://www.youtube.com/watch?v=AxtjgdsvyLk
+sf_url   --==>   https://www.youtube.com/watch?v=nBnaYNWmTWo
+sf_url   --==>   https://www.youtube.com/watch?v=zSlXOIsfjLY
+sf_url   --==>   https://www.youtube.com/watch?v=uEO_nLnytp0
+sf_url   --==>   https://www.youtube.com/watch?v=Lfa4lt3cxnk
+sf_url   --==>   https://www.youtube.com/watch?v=joLaKW8o2ng
+sf_url   --==>   https://www.youtube.com/watch?v=SEWZH9PwNe0
+sf_url   --==>   https://www.youtube.com/watch?v=XP6VNvoDWd0
+sf_url   --==>   https://www.youtube.com/watch?v=Tdakfn2h8v8
+sf_url   --==>   https://www.youtube.com/watch?v=McASqbIan_8
+sf_url   --==>   https://www.youtube.com/watch?v=0xudPGVP2KE
+sf_url   --==>   https://www.youtube.com/watch?v=sFCyIConHvA
+sf_url   --==>   https://www.youtube.com/watch?v=NlseW5s-w-s
+sf_url   --==>   https://www.youtube.com/watch?v=WG0QZTTk7WA
+first_name   --==>   Taiwo
+email   --==>   taiwosalisu3510@gmail.com
+w6-response   --==>   taiwosalisu3510@gmail.com
+w5-response   --==>   Taiwo
+w7-response   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=z4vxc04RYa0
+sf_url   --==>   https://thepcgo.com/maxon-cinema-4d-r21-x64-free-download/
+sf_url   --==>   https://www.youtube.com/watch?v=Ty5xNS2XUKE
+tx_kesearch_pi1[sword]   --==>   offline installer
+sf_url   --==>   https://www.youtube.com/watch?v=q-_btRJ3GRA
+sf_url   --==>   https://www.youtube.com/watch?v=_XWTSDmcWBc
+sf_url   --==>   LANRE YUSUF 
+sf_url   --==>   https://www.youtube.com/watch?v=IQ68KMbu-YQ
+sf_url   --==>   https://www.youtube.com/watch?v=fl8aBdRl4Tw
+sf_url   --==>   https://www.youtube.com/watch?v=qXXsoSYaO9s
+sf_url   --==>   https://www.youtube.com/watch?v=KQr_9RwPOlw
+sf_url   --==>   https://www.youtube.com/watch?v=zLzeT5TYyFs
+sf_url   --==>   https://www.youtube.com/watch?v=wVziOYEj8kI
+sf_url   --==>   https://www.youtube.com/watch?v=d7ijo_Gj52Y
+sf_url   --==>   https://youtu.be/j1QIuFOnh7A
+sf_url   --==>   https://www.youtube.com/watch?v=Wr5tXeUyxqk
+sf_url   --==>   https://www.youtube.com/watch?v=jL2fsQB9J-g
+sf_url   --==>   https://www.youtube.com/watch?v=0mDXcS5dz_4
+email   --==>   support@miforexhub.com
+email   --==>   support@nexustradinghub.com
+fullname   --==>   Evelyn Firstman
+username   --==>   support@nexustradinghub.com
+amount   --==>   3000
+amount   --==>   20000
+amount   --==>   30000
+s   --==>   cinema 4d
+sf_url   --==>   https://www.youtube.com/watch?v=Mg5yRmhdf8Y
+png   --==>   loveworld
+png   --==>   christ embassy logo
+amount   --==>   40000
+username   --==>   firstveteranservice@gmail.com
+username   --==>   akaraIgbo@gmail.com	
+fullname   --==>   Michael Freeman
+username   --==>   support@nexus.com
+username   --==>   support@miforexhub.com	
+username   --==>   	support@miforexhub.com
+username   --==>   obeddansoobeng@gmail.com	
+amountn   --==>   0
+amountn   --==>   100
+amount   --==>   7500
+fullname   --==>   Adeola Samson
+email   --==>   support@nexustrading.com
+username   --==>   support@nexustrading.com
+amount   --==>   500
+amount   --==>   6000
+amount   --==>   10000
+amountn   --==>   5000
+fullname   --==>   Adeola Samuel
+fullname   --==>   Adeola Michael
+wallet   --==>   dshsdjdn2jnssdwwew
+fullname   --==>   Akintola  Michael
+fullname   --==>   Akintola Samuel
+username   --==>   nexus@gmail.com
+username   --==>   nexus@gmail.com	
+amount   --==>   450
+sf_url   --==>   https://www.youtube.com/watch?v=lR4GHA5_J5Q
+sf_url   --==>   https://www.youtube.com/watch?v=MX21FRuL24s
+sf_url   --==>   https://www.youtube.com/watch?v=r4yDN3gEVlQ
+sf_url   --==>   https://www.youtube.com/watch?v=uR9hAS5lFKY
+png   --==>   Nigeria
+png   --==>   Nigerian flag
+png   --==>   Diamond
+mo_oauth_registration_first_name   --==>   Taiwo
+mo_oauth_registration_last_name   --==>   David
+mo_oauth_registration_email   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=IzL_oPDSukE
+sf_url   --==>   https://www.youtube.com/watch?v=2Qd9NkZBT2s
+sf_url   --==>   https://www.youtube.com/watch?v=S9Gh9Bn3m_4
+sf_url   --==>   https://www.youtube.com/watch?v=q85hui5DSqI
+sf_url   --==>   https://www.youtube.com/watch?v=x2KRFfNIVpQ
+sf_url   --==>   https://www.youtube.com/watch?v=QTh2CWXzOH4
+sf_url   --==>   https://www.youtube.com/watch?v=VA2yvv_JLIE
+sf_url   --==>   https://www.youtube.com/watch?v=F7-z4DdGJlM
+sf_url   --==>   https://www.youtube.com/watch?v=JFLBJH2aMpU
+sf_url   --==>   https://www.youtube.com/watch?v=WjOBKVstyt0
+name   --==>   Taiwo
+png   --==>   time
+png   --==>   green screen
+png   --==>   news background
+png   --==>   news
+png   --==>   rccg
+sf_url   --==>   https://www.youtube.com/watch?v=apt2yfdbCS0
+sf_url   --==>   https://www.youtube.com/watch?v=sXZiOk-1VRs
+sf_url   --==>   https://www.youtube.com/watch?v=B18YPY-ocfE
+sf_url   --==>   https://www.youtube.com/watch?v=MyNbHPS_7QY
+sf_url   --==>   https://www.youtube.com/watch?v=jKgM18lOsr4
+sf_url   --==>   https://www.youtube.com/user/NickNimmin
+sf_url   --==>   https://www.youtube.com/watch?v=hk7W9ECtpZE
+sf_url   --==>   https://www.youtube.com/watch?v=wAvQfjpZncY
+sf_url   --==>   https://www.youtube.com/watch?v=9TKsLQYagYA
+sf_url   --==>   https://www.youtube.com/watch?v=kc-mduaE0DA
+sf_url   --==>   https://www.youtube.com/watch?v=l1tYeEWqXwE
+sf_url   --==>   https://www.youtube.com/watch?v=wUaeTaJS4V0
+sf_url   --==>   https://www.youtube.com/results?search_query=recover+unsaved+project+after+effects&sp=eAE%253D
+sf_url   --==>   https://www.youtube.com/watch?v=aEI1g9vTUPk
+sf_url   --==>   https://www.youtube.com/watch?v=CuPr2gBxIN8
+sf_url   --==>   https://www.youtube.com/watch?v=YAt4315-uH4
+sf_url   --==>   https://www.youtube.com/watch?v=rRSgCJGeKNo
+sf_url   --==>   https://www.youtube.com/watch?v=n0tmYCYXHIA
+sf_url   --==>   https://www.youtube.com/watch?v=2hkoC37adNc
+sf_url   --==>   https://www.youtube.com/watch?v=6_B8pVoANyY
+sf_url   --==>   https://www.youtube.com/watch?v=5IrvU5zC_Jw
+sf_url   --==>   https://www.youtube.com/watch?v=gQq1BS0RWYw
+sf_url   --==>   https://www.youtube.com/watch?v=AJclKHJaCls
+sf_url   --==>   https://www.youtube.com/watch?v=DMHXslzQTtM
+sf_url   --==>   https://www.youtube.com/watch?v=kywkDPXJeC4
+amountpay   --==>   1500
+number   --==>   610124000458982
+txtname   --==>   Davetee
+sf_url   --==>   https://www.youtube.com/watch?v=0C-L3sewAhI
+sf_url   --==>   https://www.youtube.com/watch?v=ZxoBcog3HZM
+sf_url   --==>   https://www.youtube.com/watch?v=QgD1BqONNXc
+billing_address_1   --==>   3 Elekahia Porthacourt Rivers State
+billing_address_2   --==>   Uyo street
+billing_city   --==>   Porthacourt
+billing_phone   --==>   07056045994
+billing_email   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=nqE4TiDcAz4
+sf_url   --==>   https://www.youtube.com/watch?v=UBz2wJkATWU
+sf_url   --==>   https://www.youtube.com/watch?v=5-icrvLC5sQ
+sf_url   --==>   https://www.youtube.com/watch?v=RJVz4Rc2Lo0
+png   --==>   pos
+s   --==>   easy worship
+email   --==>   taiwosalisu3510@gmail.com
+q   --==>   comparative analysis of topsides choking and self lift severe slug mitigation
+username   --==>   sir-tee
+firstname   --==>   Taiwo
+sf_url   --==>   https://www.youtube.com/watch?v=MX_PTNjtEq0
+sf_url   --==>   https://youtu.be/d6cxn4n8mv8
+sf_url   --==>   https://youtu.be/1keTJC89UYA
+sf_url   --==>   https://youtu.be/Wdj4T3WGEnI
+sf_url   --==>   https://youtu.be/rB652X6836A
+sf_url   --==>   https://youtu.be/A111LI1jQ30
+sf_url   --==>   https://youtu.be/EscC9HK4PV4
+sf_url   --==>   https://youtu.be/Yd5BaBwcwfQ
+sf_url   --==>   https://youtu.be/LVlNsUZmT1c
+log   --==>   Sir_Tee
+user_login   --==>   Sir_Tee
+sf_url   --==>   1EagEwsPX45S0sTfePyfv3LWBqzCNWl4W
+sf_url   --==>   https://drive.google.com/drive/folders/1EagEwsPX45S0sTfePyfv3LWBqzCNWl4W
+name   --==>   Taiwo David Salisu
+sf_url   --==>   https://youtu.be/PuAxzT10kag
+sf_url   --==>   https://youtu.be/FxusVDI2X1Y
+sf_url   --==>   https://youtu.be/5gqlQen4BOU
+sf_url   --==>   https://youtu.be/BElQ_FarDKM
+sf_url   --==>   https://youtu.be/hknNmUId6As
+sf_url   --==>   https://www.youtube.com/watch?v=ZmbJ_unJVb4
+sf_url   --==>   https://www.youtube.com/watch?v=p-E64Env0CA&pbjreload=10
+sf_url   --==>   https://www.youtube.com/watch?v=L-JtHhlctyI
+sf_url   --==>   https://www.youtube.com/watch?v=bKvjSqvTWvs
+sf_url   --==>   https://www.youtube.com/watch?v=hfhClvrb278
+sf_url   --==>   https://www.youtube.com/watch?v=rpPZyyNDozQ
+sf_url   --==>   https://www.youtube.com/watch?v=lnWF-TumQXw
+sf_url   --==>   https://www.youtube.com/watch?v=zIA9W4jRnT8
+sf_url   --==>   https://www.youtube.com/watch?v=DEQqpqnCPBk
+sf_url   --==>   https://www.youtube.com/watch?v=GG0Hta38eKs
+sf_url   --==>   https://www.youtube.com/watch?v=mVJsm_000c0
+sf_url   --==>   https://www.youtube.com/watch?v=rqLgQYfN3JU
+sf_url   --==>   https://www.youtube.com/watch?v=9CQdBh_AOH4
+sf_url   --==>   https://www.youtube.com/watch?v=jWI4UplugSI
+sf_url   --==>   https://www.youtube.com/watch?v=3_XKUaUJp1A
+sf_url   --==>   https://www.youtube.com/watch?v=rGYyz0038i8
+sf_url   --==>   https://www.youtube.com/watch?v=xJyTaUOpz5Y
+sf_url   --==>   https://www.youtube.com/watch?v=MlprsYjZcFU
+sf_url   --==>   https://www.youtube.com/watch?v=ErDuKDNhYsI
+sf_url   --==>   https://www.youtube.com/watch?v=UwC2Z5_XEmc
+sf_url   --==>   https://www.youtube.com/watch?v=21XE799yxHo
+sf_url   --==>   https://www.youtube.com/watch?v=C98ZB-0C0_w
+sf_url   --==>   https://www.youtube.com/watch?v=cdigzqwoVwM
+sf_url   --==>   https://www.youtube.com/watch?v=Bay6FGtruvk
+sf_url   --==>   https://www.youtube.com/watch?v=J9rCkGBECvw
+sf_url   --==>   https://www.youtube.com/watch?v=AaO0D66xeYY
+sf_url   --==>   https://filmora.wondershare.com/get-creative/make-a-video-quickly.html
+sf_url   --==>   https://www.youtube.com/watch?v=BZIRUZUiTgM
+sf_url   --==>   https://www.youtube.com/watch?v=5HjbImK90xI
+sf_url   --==>   https://www.youtube.com/watch?v=d2T4JnjzJP0
+sf_url   --==>   https://www.youtube.com/watch?v=IE8fiJuwCOI
+sf_url   --==>   https://www.youtube.com/watch?v=sb6eoHAqRPQ
+sf_url   --==>   https://www.youtube.com/watch?v=pHNRzftrd_k
+sf_url   --==>   https://www.youtube.com/watch?v=akQVKpF_wpk
+sf_url   --==>   https://www.youtube.com/watch?v=YcRuzSZMyec
+sf_url   --==>   https://www.youtube.com/watch?v=VXJvEfMXqIA
+sf_url   --==>   https://www.youtube.com/watch?v=IW-iUnFOZCE
+sf_url   --==>   https://www.youtube.com/watch?v=EcwBhLtMDgQ
+sf_url   --==>   https://www.youtube.com/watch?v=DGgo7espF70
+sf_url   --==>   https://www.youtube.com/watch?v=TT4dbBwnEII
+sf_url   --==>   https://www.freeject.net/2020/05/how-to-create-glitch-overlay-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/AIm1f90lQT8
+sf_url   --==>   https://www.freeject.net/2020/04/how-to-create-portrait-angel-effect-in.html
+sf_url   --==>   http://www.youtube.com/embed/LetR8Bz0utU
+sf_url   --==>   https://www.freeject.net/2020/04/how-to-create-grunge-poster-design.html
+sf_url   --==>   http://www.youtube.com/embed/eSuahCYbI2k
+sf_url   --==>   https://www.freeject.net/2020/03/how-to-create-retro-cover-art-design.html
+sf_url   --==>   http://www.youtube.com/embed/rvkDiwLzMU4
+sf_url   --==>   https://www.freeject.net/2020/02/how-to-create-torn-paper-style-cover.html
+sf_url   --==>   http://www.youtube.com/embed/sO3NAtx5nfU
+sf_url   --==>   https://www.freeject.net/2020/02/how-to-create-neon-portrait-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/bCYmFz-X1Yg
+sf_url   --==>   https://www.freeject.net/2020/03/how-to-create-aesthetic-poster-design.html
+sf_url   --==>   http://www.youtube.com/embed/TqZM-X-T6xE
+sf_url   --==>   https://www.freeject.net/2020/04/how-to-create-dark-music-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/3Wi-XN3bZgU
+sf_url   --==>   https://www.youtube.com/watch?v=kb1lzkpJZFs
+sf_url   --==>   https://www.youtube.com/watch?v=Ct-XgMWp4AI
+sf_url   --==>   https://www.youtube.com/watch?v=8_48deyntPs
+sf_url   --==>   https://www.youtube.com/watch?v=_DdOY7_Zgp0
+sf_url   --==>   https://www.youtube.com/watch?v=d-2CGPjg2rM
+sf_url   --==>   https://www.youtube.com/watch?v=KqO_-vieFm4&feature=youtu.be
+identifier   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.instagram.com/p/B-zP5IeJFyO/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B9O_qllpxPy/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B9CbSxypo1P/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B885ODwJLQj/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B8yXwpHpcvi/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B7I6b4npSLw/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B6lAL0Bpmjz/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B5Bn6TepjPH/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B40WZmIJUjk/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B4DWepap4-T/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B3-KRlnpiHg/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B36xAv0J6Sb/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B36suXCpZi8/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B2UKAOcnQeO/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.youtube.com/watch?v=D0Ts_gf_5zE
+sf_url   --==>   https://www.youtube.com/watch?v=BFqHyCoypfM
+sf_url   --==>   https://www.youtube.com/watch?v=ONb28aPRmBI
+sf_url   --==>   https://www.youtube.com/watch?v=0gimdpCNOL8
+sf_url   --==>   https://www.youtube.com/watch?v=xPBKQapxoLQ
+sf_url   --==>   https://www.youtube.com/watch?v=g6OmgbAGTNA
+sf_url   --==>   https://www.youtube.com/watch?v=Osgt7LP0720
+sf_url   --==>   https://www.youtube.com/watch?v=YRFxm3IfrI8
+png   --==>   music
+png   --==>   dolby
+png   --==>   best price
+png   --==>   restricted
+sf_url   --==>   https://www.youtube.com/watch?v=7PrHjnBl-Dw
+sf_url   --==>   https://www.youtube.com/watch?v=Qni6ibPyDxY
+sf_url   --==>   https://www.youtube.com/watch?v=OzGJ8HzpHPo
+sf_url   --==>   https://www.youtube.com/watch?v=ruYy57whS4Y
+sf_url   --==>   https://www.youtube.com/watch?v=NVKju7nZvDI
+sf_url   --==>   https://www.youtube.com/watch?v=aC3RUqzlYEM
+sf_url   --==>   https://www.youtube.com/watch?v=CWV4l2xJSvE
+sf_url   --==>   https://www.youtube.com/watch?v=lSlNvWaftgM
+sf_url   --==>   https://www.youtube.com/watch?v=8Gk1jkbwpKY
+png   --==>   ALIEN
+sf_url   --==>   https://www.youtube.com/watch?v=4nWRm2kLyLQ
+sf_url   --==>   https://www.youtube.com/watch?v=EeL2F4cgyPs
+sf_url   --==>   https://www.youtube.com/watch?v=TM4SHUef3tQ
+sf_url   --==>   https://www.youtube.com/watch?v=0HbniNANUpo
+sf_url   --==>   https://www.youtube.com/watch?v=S9gOt0zLsoM
+sf_url   --==>   https://www.youtube.com/watch?v=cCXLS5SeAQM
+sf_url   --==>   https://www.youtube.com/watch?v=YXX4LqfLvlM
+sf_url   --==>   https://www.youtube.com/watch?v=Jpa3hQwyMC0
+sf_url   --==>   https://www.youtube.com/watch?v=WLLD7zUXh58
+sf_url   --==>   https://www.youtube.com/watch?v=XiZBv0H-gPc
+sf_url   --==>   https://www.youtube.com/watch?v=DoYmB28nNmM
+sf_url   --==>   https://www.youtube.com/watch?v=8OroiSBIMZQ
+sf_url   --==>   https://www.youtube.com/watch?v=AKY50Nqb2_M
+sf_url   --==>   https://www.youtube.com/watch?v=yuK_M4hDNL4
+sf_url   --==>   https://www.youtube.com/watch?v=KxXSTEQ4yfo
+sf_url   --==>   https://www.youtube.com/watch?v=UsB6MV56fLo
+s   --==>   after effect
+sf_url   --==>   https://www.youtube.com/watch?v=FRu9NucwZTQ
+sf_url   --==>   https://www.youtube.com/watch?v=j529ql0wBbU
+sf_url   --==>   https://www.youtube.com/watch?v=EaCeWAro4IE
+sf_url   --==>   https://www.youtube.com/watch?v=wZHoAPnfKTk
+sf_url   --==>   https://www.youtube.com/channel/UCyIPU7lKFCv4vk5SV9IHl2w
+sf_url   --==>   https://www.youtube.com/watch?v=sVfB5p2kRW4
+sf_url   --==>   https://www.youtube.com/channel/UCOmidKhHtmjH2e-e2lEM_Bg
+sf_url   --==>   https://www.youtube.com/watch?v=XRWZTQYuNvo
+sf_url   --==>   https://www.youtube.com/channel/UCpTu_Ezdsncevh4KT6EgMAw
+sf_url   --==>   https://www.youtube.com/watch?v=8NZgkYB7ejs
+sf_url   --==>   https://www.youtube.com/watch?v=3k5yuaR4CoA
+sf_url   --==>   https://www.youtube.com/watch?v=PErx5SPU9hM
+sf_url   --==>   https://www.youtube.com/results?search_query=photoshop+text+effects+3d&sp=eAE%253D
+sf_url   --==>   https://www.youtube.com/watch?v=NkRBVyNOQvM
+sf_url   --==>   https://www.youtube.com/watch?v=zsLNuvTaA34
+sf_url   --==>   https://www.youtube.com/watch?v=x8MJ8FZcMWo
+sf_url   --==>   https://www.youtube.com/watch?v=p_5ojTDVVSc
+sf_url   --==>   https://www.youtube.com/watch?v=D-8FYmmihPQ
+sf_url   --==>   https://www.youtube.com/watch?v=TglL41sFmQo
+sf_url   --==>   https://www.youtube.com/watch?v=TG98lCVM6uU
+sf_url   --==>   https://www.youtube.com/watch?v=y8D9HWzg1II
+sf_url   --==>   https://www.youtube.com/watch?v=ocEtQQZkhVE
+png   --==>   studio ether
+sf_url   --==>   https://www.youtube.com/watch?v=Ujc3yhN9E5Y
+sf_url   --==>   https://www.youtube.com/watch?v=CZTCciHE72I
+sf_url   --==>   https://www.youtube.com/watch?v=pIvrUBAqn_g
+sf_url   --==>   https://www.youtube.com/watch?v=gXkqy0b4M5g
+sf_url   --==>   https://www.youtube.com/watch?v=LOcD1evBcSA
+sf_url   --==>   https://www.youtube.com/watch?v=vMAnBpD7D-w
+sf_url   --==>   https://www.youtube.com/watch?v=OWNxUVnY3pg
+sf_url   --==>   https://www.youtube.com/watch?v=25zB8JIr71Y
+png   --==>   bubbles 
+email   --==>   franksactrccg@gmail.com
+png   --==>   mobile network
+png   --==>   mtn
+png   --==>   glo
+png   --==>   glo network
+png   --==>   dstv
+png   --==>   go tv
+sf_url   --==>   https://www.youtube.com/watch?v=UJcq629sHuU
+sf_url   --==>   https://www.youtube.com/watch?v=V8CAnuSv7Dc
+sf_url   --==>   https://www.youtube.com/watch?v=wXZBArGuDKI
+sf_url   --==>   https://www.youtube.com/watch?v=Q8ErsIj8jI4
+sf_url   --==>   https://www.youtube.com/watch?v=4vTimDpFbPo
+sf_url   --==>   https://www.youtube.com/watch?v=kEbQxrrNLDo
+sf_url   --==>   https://www.youtube.com/watch?v=sQn77-paE8o
+sf_url   --==>   https://www.youtube.com/watch?v=huDjPM8zd-A
+sf_url   --==>   https://www.youtube.com/watch?v=sUkiWPrBxYA
+sf_url   --==>   https://www.youtube.com/watch?v=qzagXYpQNks
+sf_url   --==>   https://www.youtube.com/watch?v=XzVUwiylqn4
+sf_url   --==>   https://www.youtube.com/watch?v=DGVIDsRtKUU
+sf_url   --==>   https://www.youtube.com/user/NewWorldOps
+sf_url   --==>   https://www.youtube.com/watch?v=2h3aNiouJSU
+sf_url   --==>   https://www.youtube.com/user/DhruvalModi
+sf_url   --==>   https://www.youtube.com/watch?v=nWD3nz_LtNU
+sf_url   --==>   https://www.youtube.com/watch?v=PjsclnZyHp8
+sf_url   --==>   https://www.youtube.com/watch?v=TsiaFa4gRTc
+sf_url   --==>   https://www.youtube.com/watch?v=ucFHPMfg1ZM
+sf_url   --==>   https://www.youtube.com/watch?v=fl8aBdRl4Tw
+firstName   --==>   Taiwo
+lastName   --==>   David
+sf_url   --==>   https://www.youtube.com/watch?v=ZxoBcog3HZM
+sf_url   --==>   https://www.youtube.com/watch?v=qbHaVX4K8-0
+id   --==>   335401813750447
+dl   --==>   https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/
+ts   --==>   1582414457667
+cd[Meta]   --==>   {"title":"How to Stop Windows 10 From Using So Much Data ","meta:description":"Windows 10 is designed to be an always-connected, always-up-to-date operating system. It’s the most data-hungry version of Windows yet, but you can restrain it from going all-out on your home network with a few tricks."}
+cd[OpenGraph]   --==>   {"og:site_name":"How-To Geek","og:title":"How to Stop Windows 10 From Using So Much Data","og:type":"article","og:description":"Windows 10 is designed to be an always-connected, always-up-to-date operating system. It’s the most data-hungry version of Windows yet, but you can restrain it from going all-out on your home network with a few tricks.","og:image":"https://www.howtogeek.com/thumbcache/2/200/3b8e1d7424abd053db40161004878d6b/wp-content/uploads/2016/04/img_57044f5b6b43b.png","og:url":"https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","id":"https://www.howtogeek.com/249254/how-to-stop-windows-10-from-using-so-much-data/"},"publisher":{"@type":"Organization","name":"How-To Geek","logo":{"@type":"ImageObject","url":"https://www.howtogeek.com/public/images/htgamp.png","height":60,"width":233}},"headline":"How to Stop Windows 10 From Using So Much Data","name":"How to Stop Windows 10 From Using So Much Data","datePublished":"2016-07-14T10:14:15-04:00","dateModified":"2017-07-03T21:56:08-04:00","author":{"@type":"Person","name":"Chris Hoffman"},"description":"Windows 10 is designed to be an always-connected, always-up-to-date operating system. It&#8217;s the most data-hungry version of Windows yet, but you can restrain it from going all-out on your home network with a few tricks.","image":["https://www.howtogeek.com/thumbcache/2/200/3b8e1d7424abd053db40161004878d6b/wp-content/uploads/2016/04/img_57044f5b6b43b.png"]}]
+sw   --==>   1920
+sh   --==>   1080
+v   --==>   2.9.15
+fbp   --==>   fb.1.1582414457126.5146476
+it   --==>   1582414454919
+id   --==>   1110217022342858
+dl   --==>   https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html?utm_campaign=aw-ded-dynamicsearch-en-ww-s-1-dynamic&gclid=Cj0KCQiAv8PyBRDMARIsAFo4wK3JXIKWdQLfZVM2b08g3q_j15O4V_3KU6tXw6SQ_p9CGZZ52MxfXOkaAjipEALw_wcB
+ts   --==>   1582415626946
+cd[Meta]   --==>   {"title":"How to Install BlueStacks on Windows 10, 8.1, 8 & 7","meta:description":"Read this quick guide to know how to Install BlueStacks on Windows 10, 8.1, 8 & 7 and start playing your favorite mobile games on PC."}
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"How to Install BlueStacks on Windows 10, 8.1, 8 & 7","og:description":"Read this quick guide to know how to Install BlueStacks on Windows 10, 8.1, 8 & 7 and start playing your favorite mobile games on PC.","og:url":"https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html","og:site_name":"Bluestacks - The Best Android Emulator on PC as Rated by You","article:publisher":"https://www.facebook.com/BlueStacksInc/","article:published_time":"2016-04-13T21:10:54+00:00","article:modified_time":"2020-02-04T11:09:19+00:00","og:updated_time":"2020-02-04T11:09:19+00:00","og:image":"https://cdn-www.bluestacks.com/bs-images/BS4-Launch_1200x628_31.jpg","og:image:secure_url":"https://cdn-www.bluestacks.com/bs-images/BS4-Launch_1200x628_31.jpg","og:image:width":"1200","og:image:height":"628","og:image:alt":"bluestacks","og:image:type":"image/jpeg"}
+cd[JSON-LD]   --==>   [[{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.bluestacks.com/#website","url":"https://www.bluestacks.com","name":"BlueStacks","potentialAction":{"@type":"SearchAction","target":"https://www.bluestacks.com/search/{search_term_string}/en/","query-input":"required name=search_term_string"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Install BlueStacks on Windows 10, 8.1, 8 &amp; 7","description":"Read this quick guide to know how to Install BlueStacks on Windows 10, 8.1, 8 & 7 and start playing your favorite mobile games on PC.","datePublished":"2016-04-13T21:10:54+00:00","dateModified":"2020-02-04T11:09:19+00:00","publisher":{"@type":"Organization","name":"BlueStacks","logo":{"@type":"ImageObject","url":"https://cdn-www.bluestacks.com/bs-images/new-logo-white.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html"},"author":{"@type":"Person","name":"Yuriy"},"image
+fbp   --==>   fb.1.1582415623833.1660563944
+it   --==>   1582415616265
+id   --==>   1092190414193229
+ts   --==>   1582415626953
+id   --==>   236758727337739
+ts   --==>   1582415627447
+id   --==>   448368701978882
+dl   --==>   https://en.softonic.com/downloads/youtube
+ts   --==>   1582415721804
+cd[Meta]   --==>   {"title":"Download Youtube - Best Software & Apps ","meta:description":"Download Youtube . Free and safe download. Download the latest version of the top software, games, programs and apps in 2020. "}
+cd[OpenGraph]   --==>   {"og:ttl":"2419200"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"ItemList","itemListElement":[{"@type":"SiteNavigationElement","position":1,"@id":"https://en.softonic.com/windows","name":"Apps","url":"https://en.softonic.com/windows"},{"@type":"SiteNavigationElement","position":2,"@id":"https://en.softonic.com/windows/games","name":"Games","url":"https://en.softonic.com/windows/games"},{"@type":"SiteNavigationElement","position":3,"@id":"https://en.softonic.com/articles","name":"Articles","url":"https://en.softonic.com/articles"},{"@type":"SiteNavigationElement","position":4,"@id":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US","name":"Solutions","url":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US"},{"@type":"SiteNavigationElement","position":5,"@id":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header","name":"Movies","url":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header"}]}]
+fbp   --==>   fb.1.1582415721288.1241724732
+it   --==>   1582415719069
+dl   --==>   https://youtube.en.softonic.com/web-apps/download
+rl   --==>   https://en.softonic.com/downloads/youtube
+ts   --==>   1582415782536
+cd[Meta]   --==>   {"title":"Download YouTube for Web Apps - free - latest version","meta:description":"Download YouTube for Web Apps now from Softonic: 100% safe and virus free. More than 2228 downloads this month. Download YouTube latest version 2020"}
+cd[OpenGraph]   --==>   {"og:title":"Download YouTube for Web Apps - free - latest version","og:description":"The web's largest video sharing and broadcasting site","og:image":"https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/d1f4e4c8-96d5-11e6-8a13-00163ed833e7/224760753/youtube-logo.png","og:url":"https://youtube.en.softonic.com/web-apps","og:site_name":"Softonic","og:type":"softonic_action:app","og:ttl":"2419200"}
+cd[JSON-LD]   --==>   [{"@context":"http://schema.org","@type":"ItemList","itemListElement":[{"@type":"SiteNavigationElement","position":1,"@id":"https://en.softonic.com/web-apps","name":"Apps","url":"https://en.softonic.com/web-apps"},{"@type":"SiteNavigationElement","position":2,"@id":"https://en.softonic.com/web-apps/games","name":"Games","url":"https://en.softonic.com/web-apps/games"},{"@type":"SiteNavigationElement","position":3,"@id":"https://en.softonic.com/articles","name":"Articles","url":"https://en.softonic.com/articles"},{"@type":"SiteNavigationElement","position":4,"@id":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US","name":"Solutions","url":"https://en.softonic.com/solutions?utm_source=Cross%20Promotion&utm_medium=Header&utm_term=en_US"},{"@type":"SiteNavigationElement","position":5,"@id":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header","name":"Movies","url":"https://where2watch.net/?utm_source=Cross%20Promotion&utm_medium=Header"}]},{"@conte
+it   --==>   1582415781607
+dl   --==>   https://youtube-music.en.softonic.com/web-apps
+rl   --==>   https://youtube.en.softonic.com/web-apps/download
+ts   --==>   1582415797743
+cd[Meta]   --==>   {"title":"YouTube Music Online","meta:description":"YouTube Music, free and safe. YouTube Music latest version: All the music you want, in a tube. Providing unending hours of music, YouTube Music offers access to it vast catalog of melodies for..."}
+cd[OpenGraph]   --==>   {"og:title":"YouTube Music","og:description":"All the music you want, in a tube","og:image":"https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/1d590928-4741-4b14-9e74-157f2d125429/4054914362/youtube-music-youtube music icon.png","og:url":"https://youtube-music.en.softonic.com/web-apps","og:site_name":"Softonic","og:type":"article","article:publisher":"https://www.facebook.com/softonic","og:ttl":"2419200"}
+it   --==>   1582415796871
+cd[buttonFeatures]   --==>   {"classList":"big-blue-button download-button android-popup activated","destination":"https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&client_uuid=75ed7a4b-9c83-48b5-a2e4-2dbc68495ea2&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252047.0.2526.106%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F47.0.2526.106%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252247.0.2526.106%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=undefined&utm_source=&utm_medium=&gaCookie=GA1.2.935783422.1582415616&gc
+cd[buttonText]   --==>   Download BlueStacks
+cd[formFeatures]   --==>   []
+cd[pageFeatures]   --==>   {"title":"How to Install BlueStacks on Windows 10, 8.1, 8 & 7"}
+ts   --==>   1582415821961
+ts   --==>   1582415821974
+dl   --==>   https://www.bluestacks.com/download.html?utm_source=bluestacks&utm_medium=blog&utm_content=english&utm_campaign=bluestacks-blog-us
+rl   --==>   https://www.bluestacks.com/blog/bluestacks-exclusives/how-to-install-bluestacks-windows-10.html?utm_campaign=aw-ded-dynamicsearch-en-ww-s-1-dynamic&gclid=Cj0KCQiAv8PyBRDMARIsAFo4wK3JXIKWdQLfZVM2b08g3q_j15O4V_3KU6tXw6SQ_p9CGZZ52MxfXOkaAjipEALw_wcB
+ts   --==>   1582415839486
+cd[Meta]   --==>   {"title":"Download BlueStacks Offline Installer","meta:description":"Thanks for downloading BlueStacks. This is the Offline Installer for BlueStacks. Play Bigger."}
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Download BlueStacks Offline Installer","og:description":"Thanks for downloading BlueStacks. This is the Offline Installer for BlueStacks. Play Bigger.","og:url":"https://www.bluestacks.com/download.html","og:site_name":"Bluestacks - The Best Android Emulator on PC as Rated by You","article:publisher":"https://www.facebook.com/BlueStacksInc/","article:published_time":"2017-01-21T20:41:31+00:00","article:modified_time":"2019-10-15T08:06:00+00:00","og:updated_time":"2019-10-15T08:06:00+00:00","og:image":"https://cdn-www.bluestacks.com/bs-images/bluestacks4_EN8.jpg","og:image:secure_url":"https://cdn-www.bluestacks.com/bs-images/bluestacks4_EN8.jpg","og:image:width":"1920","og:image:height":"900","og:image:alt":"download","og:image:type":"image/jpeg"}
+cd[JSON-LD]   --==>   [[{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.bluestacks.com/#website","url":"https://www.bluestacks.com","name":"BlueStacks","potentialAction":{"@type":"SearchAction","target":"https://www.bluestacks.com/search/{search_term_string}/en/","query-input":"required name=search_term_string"}},{"@context":"https://schema.org","@type":"Article","headline":"Download BlueStacks Offline Installer","description":"Thanks for downloading BlueStacks. This is the Offline Installer for BlueStacks. Play Bigger.","datePublished":"2017-01-21T20:41:31+00:00","dateModified":"2019-10-15T08:06:00+00:00","publisher":{"@type":"Organization","name":"BlueStacks","logo":{"@type":"ImageObject","url":"https://cdn-www.bluestacks.com/bs-images/new-logo-white.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.bluestacks.com/download.html"},"author":{"@type":"Person","name":"Diego"},"image":{"@type":"ImageObject","url":"https://cdn-www.bluestacks.com/bs-images/bluestacks4_EN8.jpg","width":1920,"height":9
+ts   --==>   1582415839987
+ts   --==>   1582415888767
+cd[buttonFeatures]   --==>   {"classList":"download-bs avocado-green bigger download-button activated","destination":"https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10&client_uuid=e9586953-9bf7-4d5d-9cc1-60124d5e7a9b&app_pkg=&platform_cloud=%257B%2522description%2522%253A%2522Chrome%252047.0.2526.106%2520on%2520Windows%252010%252064-bit%2522%252C%2522layout%2522%253A%2522Blink%2522%252C%2522manufacturer%2522%253Anull%252C%2522name%2522%253A%2522Chrome%2522%252C%2522prerelease%2522%253Anull%252C%2522product%2522%253Anull%252C%2522ua%2522%253A%2522Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F47.0.2526.106%2520Safari%252F537.36%2522%252C%2522version%2522%253A%252247.0.2526.106%2522%252C%2522os%2522%253A%257B%2522architecture%2522%253A64%252C%2522family%2522%253A%2522Windows%2522%252C%2522version%2522%253A%252210%2522%257D%257D&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.2.935783422.1582415616&gclid=
+cd[pageFeatures]   --==>   {"title":"Download BlueStacks Offline Installer"}
+ts   --==>   1582415888773
+ts   --==>   1582415888782
+identifier   --==>   taiwosalisu3510@gmail.com
+cd[Meta]   --==>   {"title":"DOWNLOAD: Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3 • illuminaija"}
+id   --==>   1711223325874187
+ts   --==>   1574452902822
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"DOWNLOAD: Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3 • illuminaija","og:description":"Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3 song audio Download Music Post Malone joins Swae Lee for this banging record titled “Sunflower” (Spider-Man: Into the Spider-Verse). Listen Up! https://illuminaija.com/wp-content/uploads/2019/09/Post-Malone--Swae-Lee-Sunflower-Spider-Man--Into-the-Spider-Verse-01.mp3 DOWNLOAD MP3: Post Malone & Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) Related posts: DOWNLOAD: Post Malone Ft. Young Thug …","og:url":"https://illuminaija.com/download-mp3-songs/download-post-malone-swae-lee-sunflower-spider-man-into-the-spider-verse-mp3/","og:site_name":"illuminaija","article:publisher":"https://facebook.com/illuminaija","article:tag":"Swae Lee","article:section":"New Music","article:published_time":"2019-09-07T14:26:59+00:00","article:modified_time":"2019-09-09T00:33:06+0
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"Person","url":"https://illuminaija.com/","sameAs":["https://facebook.com/illuminaija","https://instagram.com/illuminaija","https://twitter.com/illuminaija"],"@id":"#person","name":"Oshin Adebowale Amos"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://illuminaija.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://illuminaija.com/category/download-mp3-songs/","name":"New Music"}},{"@type":"ListItem","position":3,"item":{"@id":"https://illuminaija.com/download-mp3-songs/download-post-malone-swae-lee-sunflower-spider-man-into-the-spider-verse-mp3/","name":"DOWNLOAD: Post Malone &#038; Swae Lee – Sunflower (Spider-Man: Into the Spider-Verse) mp3"}}]}]
+dl   --==>   https://illuminaija.com/download-mp3-songs/download-post-malone-swae-lee-sunflower-spider-man-into-the-spider-verse-mp3/
+fbp   --==>   fb.1.1574452901277.1323297114
+it   --==>   1574452895240
+it   --==>   1574673820011
+cd[OpenGraph]   --==>   {"og:site_name":"Qokoz","og:url":"https://qokoz.com/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl","og:title":"Men Black Washed Jean Denim Jackets Men'S Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl","og:type":"product","og:description":"Buy Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl. Product Description: Product Description: Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl Sold by Qokoz Available in Default Title Free Shipping to 85+ countries Returns & Exchanges accepted for 1 year. Get Free Shipping. Not satisfied? Returns & Exchanges Accepted 365 Days Later. Shop at Qokoz.com for sim","og:price:amount":"21.95","og:price:currency":"USD","og:image":["http://cdn.shopify.com/s/files/1/0030/5253/5857/products/men-black-washed-jean-denim-jackets-mens-spring-autu
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"Organization","url":"https://qokoz.com","logo":"https://cdn.shopify.com/s/files/1/0030/5253/5857/files/qokoZ_15_180x.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-833-987-1148","contactType":"customer service"}]}]
+fbp   --==>   fb.1.1574673822776.12120631
+v   --==>   2.9.13
+dl   --==>   https://qokoz.com/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl?utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&utm_campaign=gs-2018-08-03&utm_source=google&utm_medium=smart_campaign&gclid=CjwKCAiAlO7uBRANEiwA_vXQ--OqNCu4w7-RGLRgc58mW29sc0DpHQ7ge2bq1dqeWT8YuQng2pv3PBoCjJEQAvD_BwE
+a   --==>   plshopify1.2
+cd[Meta]   --==>   {"title":"\n       \n   Buy Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl - Qokoz.com \n    \n  \n  "}
+cd[Schema.org]   --==>   [{"dimensions":{"h":59,"w":356},"properties":{"url":"/"},"subscopes":[],"type":"http://schema.org/Organization"},{"dimensions":{"h":2641,"w":356},"properties":{"name":"Men Black Washed Jean Denim Jackets Men'S Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl","description":"Product Description:\n\n Men Black Washed Jean Denim Jackets Men's Spring Autumn Cotton Coats Man Slim Fit Lapel Collar Outwear Large Size 5Xl\nSold by Qokoz\nAvailable in Default Title\nFree Shipping to 85+ countries\nReturns & Exchanges accepted for 1 year\n ","sku":"","itemCondition":"NewCondition","url":"https://qokoz.com/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl","image":"https://cdn.shopify.com/s/files/1/0030/5253/5857/products/men-black-washed-jean-denim-jackets-mens-spring-autumn-cotton-coats-man-slim-fit-lapel-collar-outwear-large-size-5xl.jpg?v=1573016195","mpn":"","brand":"Qokoz"},"subscopes":[{"dimensions":{"h":597,"w"
+id   --==>   251846509074177
+cd[Meta]   --==>   {"title":"Old mobile Bet9ja registration, login, coupon check, mobile app, shop ▷ Nigeria news | Legit.ng","meta:description":"Legit.ng News ★ Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet."}
+fbp   --==>   fb.1.1574790368540.234855550
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","isPartOf":"#article","author":{"@type":"Person","name":"Julie Kwach"},"name":"How to use old mobile Bet9ja - registration, login, coupon check, mobile app, shop","headline":"Old mobile Bet9ja registration, login, coupon check, mobile app, shop","description":"Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet.","datePublished":"2019-11-26T18:44:41+01:00","dateCreated":"2019-09-23T00:00:29+01:00","dateModified":"2019-11-26T18:44:41+01:00","articleBody":"Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet.","thumbnailUrl":"https://netstorage-legit.akamaized.net/images/c3b16299b019e7d9.png?&imwidth=1200","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.leg
+ts   --==>   1574790369461
+cd[OpenGraph]   --==>   {"og:title":"Old mobile Bet9ja registration, login, coupon check, mobile app, shop","og:type":"article","og:updated_time":"2019-11-26T18:44:41+01:00","og:image":"https://netstorage-legit.akamaized.net/images/c3b16299b019e7d9.png","article:published_time":"2019-11-26T18:44:41+01:00","article:modified_time":"2019-11-26T18:44:41+01:00","article:publisher":"https://www.facebook.com/naijcom","article:author":"https://www.facebook.com/naijcom","article:section":"Nigeria Latest News","og:description":"Wondering how to sign up on ⭐OLD MOBILE BET9JA⭐? Read on for comprehensive details on how to go about the registration process, log in, make deposits and withdrawals in addition to placing a bet.","twitter:account_id":"4503599628896561","og:site_name":"Legit.ng - Nigeria news.","twitter:site":"@naijcom","og:locale":"en_US","og:url":"https://www.legit.ng/1260859-old-mobile-bet9ja-registration-login-coupon-check-mobile-app-shop.html"}
+dl   --==>   https://www.legit.ng/1260859-old-mobile-bet9ja-registration-login-coupon-check-mobile-app-shop.html
+it   --==>   1574790367639
+ts   --==>   1574876942041
+it   --==>   1574876934809
+ts   --==>   1574973261243
+id   --==>   111937562824482
+it   --==>   1574973255091
+dl   --==>   https://careers.bakerhughes.com/global/en/job/1929189/Internship-Field-Engineering-2020-Nigeria
+cd[OpenGraph]   --==>   {"og:type":"website","og:image":"https://assets.phenompeople.com/CareerConnectResources/pp/BAHUGLOBAL/social/1200x630-1559130060851-1570723704557.jpg","og:site_name":"Baker Hughes","og:url":"https://careers.bakerhughes.com/global/en/job/1929189/Internship-Field-Engineering-2020-Nigeria","og:title":"Internship - Field Engineering - 2020 (Nigeria) job in Nigeria, Nigeria | University jobs at Baker Hughes","og:description":"Apply for Internship - Field Engineering - 2020 (Nigeria) job with Baker Hughes in Nigeria, Nigeria. Browse and apply for University jobs at Baker Hughes","og:image:width":"200","og:image:height":"200"}
+cd[Meta]   --==>   {"title":"Internship - Field Engineering - 2020 (Nigeria) job in Nigeria, Nigeria | University jobs at Baker Hughes","meta:description":"Apply for Internship - Field Engineering - 2020 (Nigeria) job with Baker Hughes in Nigeria, Nigeria. Browse and apply for University jobs at Baker Hughes","meta:keywords":"Internship - Field Engineering - 2020 (Nigeria) job in Nigeria, Nigeria, University jobs at Baker Hughes"}
+cd[JSON-LD]   --==>   [{"identifier":{"@type":"PropertyValue","name":"Baker Hughes","value":"1929189"},"hiringOrganization":{"@type":"Organization","name":"Baker Hughes","sameAs":"https://careers.bakerhughes.com/global/en","logo":"https://assets.phenompeople.com/CareerConnectResources/pp/BAHUGLOBAL/images/job_logo_config-1559208184238.png","url":"https://careers.bakerhughes.com/global/en/job/1929189/Internship-Field-Engineering-2020-Nigeria"},"jobLocation":{"address":{"addressCountry":"Nigeria","@type":"PostalAddress","addressRegion":"Nigeria"},"@type":"Place"},"employmentType":"Co-op/Intern","@type":"JobPosting","workHours":"40 hours per week","description":"<div><font face=\"GE Inspira Sans\">\n</font></div><p style=\"\"></p><div><a name=\"_Toc461735203\"><font face=\"Arial\">Internships at Baker Hughes are designed to enable those who recently graduated from Master-level&nbsp;degree to have hands-on work experience as the foundation to their professional life and, depending on performance, be first-in-line for an ongoing career
+fbp   --==>   fb.1.1574876939131.830506948
+ctl00$BodyContentPlaceHolder$UserTextBox   --==>   Dave3610
+lastName   --==>   Firstman
+shipState   --==>   Rivers State
+billCity   --==>   Portharcourt
+billState   --==>   Rivers State
+phone1   --==>   08161916006
+phone4   --==>   NG11346189
+billPostalCode   --==>   3
+email   --==>   evelynfirstman@gmail.com
+shipPostalCode   --==>   3
+shipAddress1   --==>   PHC
+dateOfBirth   --==>   04/24/1995
+shipCity   --==>   Portharcourt
+firstName   --==>   Evelyn
+billAddress1   --==>   PHC
+cd[Meta]   --==>   {"title":"Top 132 Best MLM companies to Join in 2019? Revenue Rankings of Network Marketing Businesses - Ippei Review"}
+cd[Schema.org]   --==>   [{"dimensions":{"h":30936,"w":360},"properties":{"description":"Take Your Internet Business to the Next Level"},"subscopes":[{"dimensions":{"h":98,"w":360},"properties":{"headline":"IPPEI REVIEW"},"subscopes":[{"dimensions":{"h":98,"w":360},"properties":{"url":"https://www.ippei.com/best/","name":"LEAD GEN COACHING"},"subscopes":[],"type":"https://schema.org/SiteNavigationElement"}],"type":"https://schema.org/WPHeader"},{"dimensions":{"h":23120,"w":324},"properties":{"headline":"Top 132 Best MLM companies to Join in 2019? Revenue Rankings of Network Marketing Businesses","dateModified":"2019-11-25T21:55:57+00:00","text":"Looking for the best MLM to join?\n\nWell we ranked the top 100 companies by revenue to show what the biggest MLM players are out there today.\n\nWe also talk about studying Google trends to join a network marketing company that's on the rise instead of one that's on the decline.\n\nIf you're trying to make money with MLM, there's no question that the people that join these companies when the
+it   --==>   1575062851840
+id   --==>   142160043110042
+dl   --==>   https://www.ippei.com/best-mlm/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.ippei.com/#/schema/person/75a6d443f2fb8f64dd1ebee21baeb7e0","name":"Ippei","image":{"@type":"ImageObject","@id":"https://www.ippei.com/#personlogo","url":"https://secure.gravatar.com/avatar/0b570d9803ae43561c9e44c58be2b4b1?s=96&d=mm&r=g","caption":"Ippei"},"logo":{"@id":"https://www.ippei.com/#personlogo"},"sameAs":[]},{"@type":"WebSite","@id":"https://www.ippei.com/#website","url":"https://www.ippei.com/","name":"Ippei Review","publisher":{"@id":"https://www.ippei.com/#/schema/person/75a6d443f2fb8f64dd1ebee21baeb7e0"},"potentialAction":{"@type":"SearchAction","target":"https://www.ippei.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.ippei.com/best-mlm/#primaryimage","url":"https://www.ippei.com/wp-content/uploads/2019/10/google-trends.jpg","width":1706,"height":680},{"@type":"WebPage","@id":"https://www.ippei.com/best-mlm/#webpage","url":
+fbp   --==>   fb.1.1575062855195.1496631087
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Top 132 Best MLM companies to Join in 2019? Revenue Rankings of Network Marketing Businesses","og:description":"Looking for the best MLM to join? Well we ranked the top 100 companies by revenue to show what the biggest MLM players are out there today. We also talk about studying Google trends to join a network marketing company that's on the rise instead of one that's on the decline. If you're trying to make money with …","og:url":"https://www.ippei.com/best-mlm/","og:site_name":"Ippei Review","article:section":"mlm","article:published_time":"2019-11-15T04:09:19+00:00","article:modified_time":"2019-11-25T21:55:57+00:00","og:updated_time":"2019-11-25T21:55:57+00:00","og:image":"https://www.ippei.com/wp-content/uploads/2019/10/google-trends.jpg","og:image:secure_url":"https://www.ippei.com/wp-content/uploads/2019/10/google-trends.jpg"}
+ts   --==>   1575062856192
+g$w$cLogin$ctrlLogin$Username   --==>   taiw3651
+fbp   --==>   fb.1.1574875124561.2016964565
+cd[formFeatures]   --==>   [{"id":"__EVENTTARGET","name":"__EVENTTARGET","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__EVENTARGUMENT","name":"__EVENTARGUMENT","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__VIEWSTATE","name":"__VIEWSTATE","tag":"input","inputType":"hidden"},{"id":"__VIEWSTATEGENERATOR","name":"__VIEWSTATEGENERATOR","tag":"input","inputType":"hidden"},{"id":"__VIEWSTATEENCRYPTED","name":"__VIEWSTATEENCRYPTED","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__PREVIOUSPAGE","name":"__PREVIOUSPAGE","tag":"input","inputType":"hidden"},{"id":"__EVENTVALIDATION","name":"__EVENTVALIDATION","tag":"input","inputType":"hidden"},{"id":"g_w_cLogin_ctrlLogin_Username","name":"g$w$cLogin$ctrlLogin$Username","tag":"input","inputType":"text"},{"id":"g_w_cLogin_ctrlLogin_Password","name":"g$w$cLogin$ctrlLogin$Password","tag":"input","inputType":"password"},{"id":"g_w_PC_oddsSearch_txtSearch","name":"g$w$PC$oddsSearch$txtSearch","tag":"input","inputType":"text"},{"id":"","name":
+rl   --==>   https://web.bet9ja2.com/pages/SportFooter_RespGaming/guest?LogoutGroupID=75&IDLingua=2
+it   --==>   1575632346630
+cd[buttonText]   --==>   Log in
+cd[buttonFeatures]   --==>   {"classList":"btnLogin","destination":"javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"g$w$cLogin$ctrlLogin$lnkBtnLogin\", \"\", true, \"Login\", \"https://web.bet9ja2.com/pages/sportfooter_respgaming/guest?LogoutGroupIDUsed=75&idlingua=2&NoSwitch\", false, true))","id":"g_w_cLogin_ctrlLogin_lnkBtnLogin","imageUrl":"linear-gradient(rgb(28, 129, 61) 0px, rgb(30, 137, 68) 100%)","innerText":"Log in","numChildButtons":0,"tag":"a","name":""}
+cd[pageFeatures]   --==>   {"title":"\n\tBet9ja Nigeria Sport Betting,Premier League Odds,Casino,Bet\n"}
+dl   --==>   https://web.bet9ja2.com/pages/sportfooter_respgaming/guest?LogoutGroupIDUsed=75&idlingua=2
+ts   --==>   1575632585202
+it   --==>   1575915585829
+cd[Schema.org]   --==>   [{"dimensions":{"h":8714,"w":360},"properties":{"url":"https://notjustok.com/tv"},"subscopes":[{"dimensions":{"h":36,"w":360},"properties":{"headline":"Latest Naija Nigerian Music, Songs & Video - Notjustok"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{"target":"https://notjustok.com/?s={s}","query-input":""},"subscopes":[],"type":"http://schema.org/SearchAction"}],"type":"http://schema.org/WPHeader"},{"dimensions":{"h":3508,"w":338},"properties":{"headline":"Kizz Daniel – Pak N Go","datePublished":"2019-10-03T15:17:31+01:00","text":"\nKizz Daniel – Pak N Go\n\nOverview of Kizz Daniel – Pak N Go\nFlyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled “Pak N Go“.\n\n‘Pak N Go‘ pronounced Pack And Go, serves as Kizz Daniel‘s third official record for the year, it comes after the release of his previous single tagged ‘Eko‘.\n\nSEE ALSO: Mayorkun ft. Kizz Daniel – True\n\nThe song was produced by highly gifted music producer, the one and only DJ Coublon.\n\nCheck it out a
+ts   --==>   1575915594370
+it   --==>   1575915625458
+dl   --==>   https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://notjustok.com/#organization","name":"","url":"https://notjustok.com/","sameAs":[]},{"@type":"WebSite","@id":"https://notjustok.com/#website","url":"https://notjustok.com/","name":"Latest Naija Nigerian Music, Songs &amp; Video - Notjustok","publisher":{"@id":"https://notjustok.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://notjustok.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/#webpage","url":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/","inLanguage":"en-US","name":"Kizz Daniel - Pak N Go | Mp3 Download « NotJustOk","isPartOf":{"@id":"https://notjustok.com/#website"},"image":{"@type":"ImageObject","@id":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/#primaryimage","url":"https://notjustok.com/wp-content/uploads/2019/09/Kizz-Daniel-4-1-e1569450
+id   --==>   575234519291095
+cd[OpenGraph]   --==>   {"og:locale":"en_US","og:type":"article","og:title":"Kizz Daniel - Pak N Go | Mp3 Download « NotJustOk","og:description":"Kizz Daniel - Pack And Go Mp3 Download: Flyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled \"Pak N Go\".","og:url":"https://notjustok.com/song/kizz-daniel-pak-n-go-download-mp3/","og:site_name":"Latest Naija Nigerian Music, Songs & Video - Notjustok","article:author":"www.Facebook.com/peter.okhide1","article:tag":"pak n go","article:section":"Music","article:published_time":"2019-10-03T14:17:31+00:00","article:modified_time":"2019-10-03T14:18:41+00:00","og:updated_time":"2019-10-03T14:18:41+00:00","og:image":"https://notjustok.com/wp-content/uploads/2019/09/Kizz-Daniel-4-1-e1569450425582.jpg","og:image:secure_url":"https://notjustok.com/wp-content/uploads/2019/09/Kizz-Daniel-4-1-e1569450425582.jpg","og:image:width":"640","og:image:height":"798"}
+cd[Meta]   --==>   {"title":"Kizz Daniel - Pak N Go | Mp3 Download « NotJustOk","meta:description":"Kizz Daniel - Pack And Go Mp3 Download: Flyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled \"Pak N Go\"."}
+fbp   --==>   fb.1.1575915592040.1294431938
+cd[Schema.org]   --==>   [{"dimensions":{"h":9817,"w":360},"properties":{"url":"https://notjustok.com/site-map/"},"subscopes":[{"dimensions":{"h":36,"w":360},"properties":{"headline":"Latest Naija Nigerian Music, Songs & Video - Notjustok"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{"target":"https://notjustok.com/?s={s}","query-input":""},"subscopes":[],"type":"http://schema.org/SearchAction"}],"type":"http://schema.org/WPHeader"},{"dimensions":{"h":3534,"w":338},"properties":{"headline":"Kizz Daniel – Pak N Go","datePublished":"2019-10-03T15:17:31+01:00","text":"\nKizz Daniel – Pak N Go\n\nOverview of Kizz Daniel – Pak N Go\nFlyboi Inc frontline act, Kizz Daniel returns with a brand new record which he titled “Pak N Go“.\n\n‘Pak N Go‘ pronounced Pack And Go, serves as Kizz Daniel‘s third official record for the year, it comes after the release of his previous single tagged ‘Eko‘.\n\nSEE ALSO: Mayorkun ft. Kizz Daniel – True\n\nThe song was produced by highly gifted music producer, the one and only DJ Coublon.\n\nCheck i
+username   --==>   taiwo3651
+cd[Schema.org]   --==>   [{"dimensions":{"h":7153,"w":330},"properties":{"headline":"Cardi B had a Pretty Interesting Time in Ghana | Here’s What Went Down","datePublished":"2019-12-09","dateModified":"2019-12-09","keywords":"CARDI BCARDI B IN GHANAGHANALIVESPOT X FESTIVAL"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{},"subscopes":[],"type":"https://schema.org/WebPage"},{"dimensions":{"h":12,"w":110},"properties":{"name":"BellaNaija.com"},"subscopes":[],"type":"https://schema.org/Person"},{"dimensions":{"h":0,"w":0},"properties":{"url":"https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana-542x600.jpg","width":"542","height":"600"},"subscopes":[],"type":"https://schema.org/ImageObject"},{"dimensions":{"h":0,"w":0},"properties":{"name":"BellaNaija"},"subscopes":[{"dimensions":{"h":0,"w":0},"properties":{"url":"https://www.bellanaija.com/wp-content/uploads/2019/02/logo-word-black.png"},"subscopes":[],"type":"https://schema.org/ImageObject"}],"type":"https://schema.org/Organization"}],"type":"http://schema.o
+cd[OpenGraph]   --==>   {"og:type":"article","og:image":["https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana-542x600.jpg","https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana.jpg"],"og:url":"https://www.bellanaija.com/2019/12/cardi-b-ghana/","og:title":"Cardi B had a Pretty Interesting Time in Ghana | Here's What Went Down | BellaNaija","og:description":"Cardi B had a pretty interesting time in Ghana but, couldn't meet up with the meet and greet session with the celebrities on Sunday.","og:locale":"en_US","og:site_name":"BellaNaija","article:publisher":"https://www.facebook.com/bellanaija/","article:tag":"Livespot X Festival","article:section":"Scoop","article:published_time":"2019-12-09T11:42:29+00:00","og:image:secure_url":"https://www.bellanaija.com/wp-content/uploads/2019/12/Cardi-B-in-Ghana.jpg","og:image:width":"542","og:image:height":"680"}
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"Organization","url":"https://www.bellanaija.com/","sameAs":["https://www.facebook.com/bellanaija/","https://instagram.com/bellanaijaonline","https://www.linkedin.com/company-beta/16256402/","https://www.youtube.com/user/bellanaija","https://twitter.com/bellanaija"],"@id":"https://www.bellanaija.com/#organization","name":"BellaNaija","logo":"https://www.bellanaija.com/wp-content/uploads/2019/02/logo-word-black@2x.png"},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.bellanaija.com","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.bellanaija.com/scoop/","name":"Scoop"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.bellanaija.com/2019/12/cardi-b-ghana/","name":"Cardi B had a Pretty Interesting Time in Ghana | Here&#039;s What Went Down"}}]},{"@context":"http://schema.org","@type":"LocalBusiness","name":"BellaNaija","image":"https://www.bellan
+rl   --==>   https://www.bellanaija.com/
+cd[Meta]   --==>   {"title":"Cardi B had a Pretty Interesting Time in Ghana | Here's What Went Down | BellaNaija","meta:description":"Cardi B had a pretty interesting time in Ghana but, couldn't meet up with the meet and greet session with the celebrities on Sunday."}
+dl   --==>   https://www.bellanaija.com/2019/12/cardi-b-ghana/
+ts   --==>   1575978900244
+it   --==>   1575979001323
+ts   --==>   1575979010426
+dl   --==>   https://www.bellanaija.com/
+rl   --==>   https://www.google.com/
+cd[Schema.org]   --==>   []
+ts   --==>   1575979174500
+fbp   --==>   fb.1.1575978898834.1350426535
+cd[JSON-LD]   --==>   [{"@context":"https://schema.org","@type":"WebSite","@id":"#website","url":"https://www.bellanaija.com/","name":"BellaNaija","potentialAction":{"@type":"SearchAction","target":"https://www.bellanaija.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@context":"https://schema.org","@type":"Organization","url":"https://www.bellanaija.com/","sameAs":["https://www.facebook.com/bellanaija/","https://instagram.com/bellanaijaonline","https://www.linkedin.com/company-beta/16256402/","https://www.youtube.com/user/bellanaija","https://twitter.com/bellanaija"],"@id":"https://www.bellanaija.com/#organization","name":"BellaNaija","logo":"https://www.bellanaija.com/wp-content/uploads/2019/02/logo-word-black@2x.png"},{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.bellanaija.com","name":"Home"}}]},{"@context":"http://schema.org","@type":"LocalBusiness","name":"BellaNaija","image":"https://www.bellanaija.co
+o   --==>   30
+ev   --==>   Microdata
+cd[OpenGraph]   --==>   {"og:description":"‘NextU’, an initiative of PAL Pensions is focused on providing knowledge and guidance for ‘Unleashing the Potential’ of young people","og:locale":"en_US","og:type":"website","og:title":"Home | BellaNaija","og:url":"https://www.bellanaija.com/","og:site_name":"BellaNaija","og:image":"https://www.bellanaija.com/android-chrome-512x512.png","og:image:secure_url":"https://www.bellanaija.com/android-chrome-512x512.png"}
+cd[DataLayer]   --==>   []
+ec   --==>   1
+id   --==>   627147804403071
+cd[Meta]   --==>   {"title":"Home | BellaNaija","meta:description":"‘NextU’, an initiative of PAL Pensions is focused on providing knowledge and guidance for ‘Unleashing the Potential’ of young people"}
+if   --==>   false
+it   --==>   1575979167396
+v   --==>   2.9.14
+id   --==>   1905516222795124
+ec   --==>   5
+ec   --==>   4
+sh   --==>   640
+ev   --==>   SubscribedButtonClick
+r   --==>   stable
+cd[pageFeatures]   --==>   {"title":"\n\tBet9jaMobile\n"}
+sw   --==>   360
+dl   --==>   https://old-mobile.bet9ja.com/Account/CouponCheckDetails.aspx
+cd[buttonFeatures]   --==>   {"classList":"linkPls","destination":"https://old-mobile.bet9ja.com/Account/CouponCheckDetails.aspx","id":"ctl00_w_ContentMain_ContentMain_DettCoupon_lnkCheckCoupon","imageUrl":"","innerText":"","numChildButtons":0,"tag":"input","name":"ctl00$w$ContentMain$ContentMain$DettCoupon$lnkCheckCoupon","value":"Check"}
+rl   --==>   https://old-mobile.bet9ja.com/Home.aspx
+cd[parameters]   --==>   []
+ts   --==>   1576130194701
+o   --==>   1054
+ec   --==>   3
+cd[buttonText]   --==>   Check
+rqm   --==>   formPOST
+ctl00$w$ContentMain$ContentMain$DettCoupon$txtCodiceCoupon   --==>   B921azsperqcrw-2569588
+ts   --==>   1576130207643
+es   --==>   automatic
+ts   --==>   1576130215189
+ts   --==>   1576130199855
+it   --==>   1576130068269
+fbp   --==>   fb.1.1573829066209.1161213414
+rl   --==>   https://old-mobile.bet9ja.com/Account/CouponCheckDetails.aspx
+cd[formFeatures]   --==>   [{"id":"__EVENTTARGET","name":"__EVENTTARGET","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__EVENTARGUMENT","name":"__EVENTARGUMENT","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"__VIEWSTATE","name":"__VIEWSTATE","tag":"input","inputType":"hidden"},{"id":"__VIEWSTATEGENERATOR","name":"__VIEWSTATEGENERATOR","tag":"input","inputType":"hidden"},{"id":"__EVENTVALIDATION","name":"__EVENTVALIDATION","tag":"input","inputType":"hidden"},{"id":"BetSlipOddList","name":"","tag":"input","inputType":"hidden","valueMeaning":"empty"},{"id":"ctl00_w_ContentMain_ContentMain_DettCoupon_txtCodiceCoupon","name":"ctl00$w$ContentMain$ContentMain$DettCoupon$txtCodiceCoupon","tag":"input","inputType":"text"}]
+ec   --==>   2
+it   --==>   1576130015028
+coo   --==>   false
+if   --==>   true
+ts   --==>   1576130059933
+tm   --==>   3
+Username   --==>   NG11346189
+ctl00$BodyContentPlaceHolder$UserTextBox   --==>   NG11346189
+email   --==>   08100327820
+nickname   --==>   SIR_TEE
+first_name   --==>   TAIWO
+last_name   --==>   DAVID
+q   --==>   thinkpas t60
+q   --==>   thinkpad t60
+strCaptcha   --==>   4g32y
+Email   --==>   ocollinsemek
+log   --==>   Dan
+searchbox   --==>   robots.txt
+txtusername   --==>   20151017733
+userid   --==>   taiwosalisu3510@gmail.comoluwataiwo
+r-lname   --==>   Salisu
+q   --==>   kyrpton
+q   --==>   krypton
+s   --==>   krypton
+emailAddress   --==>   taiwosalisu3510@gmail.com
+user_login   --==>   20151017733
+txtusername   --==>   20151011284
+user[name]   --==>   Taiwo David 
+request[anonymous_requester_email]   --==>   taiwosalisu3510@gmail.com
+request[subject]   --==>   Registration Of a Nigerian Number
+ctl00$ContentPlaceHolder1$wmeMobileno   --==>   07012570946
+username   --==>   davies_clothier
+Email   --==>   ebubebizmails@gmail.com
+user_login   --==>   nelsonnnmadiigwe@gmail.com
+username   --==>   20141899583
+identifier   --==>   nelsonnnamdiigwe@gmail.com
+s   --==>   pet 513
+emailAddress   --==>   nelsonnnamdiigwe@gmail.com
+txtusername   --==>   2016994273
+txtusername   --==>   20161994273
+txtusername   --==>   20151014366
+user[name]   --==>   Taiwo David Salisu
+phoneNumberId   --==>   +2347012570946
+Email   --==>   taiwosalisu3510@gmail.com
+bloggerDisplayName   --==>   DAVIES CLOTHIER 
+identifier   --==>   kaykaykobani@gmail.com
+q   --==>   Text to Search...
+Email   --==>   kaykaykobani@gmail.com
+user_name   --==>   SIR_TEE
+phone_number   --==>   07012570946
+account_name   --==>   TAIWO DAVID SALISU
+account_number   --==>   2270187575
+form[input]   --==>   taiwosalisu3510@gmail.com
+email   --==>   davies_clothier
+s   --==>   meter tamper solution
+jform[contact_name]   --==>   Taiwo David
+jform[com_fields][mobile-phone-number]   --==>   07012570946
+jform[contact_email]   --==>   taiwosalisu3510@gmail.com
+jform[contact_subject]   --==>   Meter Tamper
+email_field_one   --==>   taiwosalisu3510@gmail.com
+fullName   --==>   Taiwo David
+login-name2   --==>   taiwosalisu3510@gmail.com
+userEmailId   --==>   taiwosalisu3510@gmail.com
+fullname   --==>   Taiwo Salisu
+name   --==>   Taiwo David  Salisu
+search-term   --==>   https://skills.shawacademy.com/en/recordings/5eb4a8e580a745061c1d9c2f?regId=5eb4ab01753339061c85b560
+q   --==>   https://www.domestika.org/en/courses/387-introduction-to-adobe-photoshop
+fname   --==>   Taiwo David Salisu
+fname   --==>   Taiwo Salisu
+code   --==>   7AE315
+username   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   COMPLETE DESIGNER MASTERCLASSCOMPLETE DESIGNER MASTERCLASS
+sf_url   --==>   https://youtu.be/LlfJVCve_Vs
+sf_url   --==>   How to make PHOTO REALISTIC t shirt mockups in Photoshop | Tutorial
+sf_url   --==>   https://www.youtube.com/watch?v=KsxqoeiOsKc
+sf_url   --==>   https://www.youtube.com/watch?v=mceZfU5lxcI
+sf_url   --==>   https://www.youtube.com/watch?v=0ausiScLJT8
+sf_url   --==>   https://www.youtube.com/watch?v=97gwDbXalBI
+sf_url   --==>   https://www.youtube.com/watch?v=M02QVTxhOM0
+sf_url   --==>   https://www.youtube.com/watch?v=Yce2ZvGeanY
+user_login   --==>   Sir_Tee
+user_email   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=MX_PTNjtEq0
+sf_url   --==>   https://www.youtube.com/watch?v=tDEvJRK6omM
+log   --==>   taiwosalisu3510@gmail.com
+log   --==>   Sir_Tee
+sf_url   --==>   https://youtu.be/JE3QJ-1muOY
+sf_url   --==>   https://youtu.be/5fd7j-ZTs4I
+sf_url   --==>   https://www.youtube.com/watch?v=x-uGN5P8TRM
+sf_url   --==>   https://www.youtube.com/watch?v=iOYz669WNpU
+sf_url   --==>   https://www.youtube.com/watch?v=DVEE84T9vh0
+sf_url   --==>   https://www.youtube.com/watch?v=uyaV_EWWRmo
+sf_url   --==>   https://youtu.be/hBgwhhYblEw
+sf_url   --==>   https://www.youtube.com/watch?v=GRGrbfvNQGs
+sf_url   --==>   https://www.youtube.com/watch?v=hzyMh6fMeHk
+sf_url   --==>   https://www.youtube.com/watch?v=ubukgJgm_58
+sf_url   --==>   https://www.youtube.com/watch?v=EbfoQUV26mM
+sf_url   --==>   https://www.youtube.com/watch?v=hALYqCD3HvQ
+sf_url   --==>   https://www.youtube.com/watch?v=ZGzfK6fapmA
+sf_url   --==>   https://www.youtube.com/watch?v=i8oxoJz43Eg
+sf_url   --==>   https://www.youtube.com/watch?v=9mLZHGSp42k
+sf_url   --==>   https://www.youtube.com/watch?v=--4iZuqETwk
+sf_url   --==>   https://www.youtube.com/watch?v=PA6n_KNoXHQ
+sf_url   --==>   https://www.youtube.com/watch?v=ipImCE6R9kA
+sf_url   --==>   https://www.youtube.com/watch?v=I_KfwTmcAN4
+sf_url   --==>   https://www.youtube.com/watch?v=Rl3LZMgTQCY
+sf_url   --==>   https://www.youtube.com/watch?v=U9hfVZyq690
+sf_url   --==>   https://www.youtube.com/watch?v=pH5Ab8ARixU
+sf_url   --==>   https://www.youtube.com/watch?v=U7Wzh1fT_hE
+sf_url   --==>   https://www.freeject.net/2020/03/how-to-create-retro-cover-art-design.html
+sf_url   --==>   http://www.youtube.com/embed/rvkDiwLzMU4
+sf_url   --==>   https://www.freeject.net/2020/02/how-to-create-neon-portrait-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/bCYmFz-X1Yg
+sf_url   --==>   https://1.bp.blogspot.com/-3gtAjdeErzE/XpBQONBfi0I/AAAAAAAAO9Q/aD2QdDJ8DrIaUiSSHXBl7DdYIO4h9yFogCLcBGAsYHQ/s1600/COVER%2BBLOG.jpg
+sf_url   --==>   https://www.youtube.com/watch?v=oefrLaLxevI
+sf_url   --==>   https://www.youtube.com/watch?v=dk9LN1uWx44
+sf_url   --==>   https://www.youtube.com/watch?v=qMCo-1QTHbA
+sf_url   --==>   https://www.youtube.com/watch?v=77xg_tW_d50
+sf_url   --==>   https://www.youtube.com/watch?v=GFr0b-K-fYI
+sf_url   --==>   https://www.youtube.com/watch?v=GLpB6RIC1Gk
+sf_url   --==>   https://www.youtube.com/watch?v=KZl68VJ4raU
+sf_url   --==>   https://www.youtube.com/watch?v=68w2VwalD5w
+sf_url   --==>   https://www.youtube.com/watch?v=FCyOmcvOBFA
+sf_url   --==>   https://www.youtube.com/watch?v=Ct-XgMWp4AI
+sf_url   --==>   https://www.youtube.com/watch?v=VpAQbA6Qyxs
+sf_url   --==>   https://www.youtube.com/watch?v=TAl_-UbHTZA
+sf_url   --==>   https://www.youtube.com/watch?v=zHfHT_u4kwQ
+sf_url   --==>   https://www.youtube.com/watch?v=57GQ1rS0yU0
+sf_url   --==>   https://www.youtube.com/watch?v=046enyNNwzs
+sf_url   --==>   https://www.youtube.com/watch?v=yl8f_siVU0k
+sf_url   --==>   https://www.youtube.com/watch?v=3LUCnxXoi1g
+q   --==>   Search and hit enswirlter
+q   --==>   swirl
+q   --==>   Grass and tables
+createEmail   --==>   taiwosalisu3510@gmail.com
+q   --==>   ALIEN
+sf_url   --==>   https://www.instagram.com/p/CAf0D-FJw-6/?utm_source=ig_web_copy_link
+png   --==>   CROWN
+sf_url   --==>   https://www.youtube.com/watch?v=xkeICA9eF6g
+sf_url   --==>   https://www.youtube.com/watch?v=A_25g6tKAvg
+sf_url   --==>   https://www.youtube.com/watch?v=CTNliX7J7_U
+sf_url   --==>   https://www.youtube.com/watch?v=KferWzhMvhI
+sf_url   --==>   https://www.youtube.com/watch?v=_PAvtT0oRxA
+sf_url   --==>   https://www.youtube.com/watch?v=pP4jcYAYB0I
+sf_url   --==>   https://www.youtube.com/watch?v=iKx1PH2nMOM
+sf_url   --==>   https://www.youtube.com/watch?v=LpvMR4Wx35E
+sf_url   --==>   https://www.youtube.com/watch?v=4nWRm2kLyLQ
+sf_url   --==>   https://www.youtube.com/watch?v=fj_iwNgv8aQ
+sf_url   --==>   https://www.youtube.com/watch?v=phl48dTE1KI
+sf_url   --==>   https://www.youtube.com/watch?v=f7d0yeMDhoM
+sf_url   --==>   https://www.youtube.com/watch?v=aetuS8O_6Tg
+sf_url   --==>   https://www.youtube.com/watch?v=hBDsFVcIFqw
+user[login]   --==>   specialdc
+sf_url   --==>   https://www.youtube.com/watch?v=OdsZrdqyYzo
+sf_url   --==>   https://www.youtube.com/watch?v=EaCeWAro4IE
+sf_url   --==>   https://www.youtube.com/watch?v=wZHoAPnfKTk
+bank_account_name   --==>   Taiwo David Salisu
+lastname   --==>   Taiwo
+email   --==>   benwcisse@gmail.com
+state   --==>   Rivers
+first-name   --==>   Taiwo
+sf_url   --==>   https://twitter.com/badboyakin/status/1260375603150282756?s=19
+firstname   --==>   Salisu
+username   --==>   UncleTee
+last-name   --==>   David
+expiry   --==>   07 / 22
+user[name]   --==>   Taiwo
+wc_name   --==>   _Special dc
+wc_email   --==>   taiwosalisu3510@gmail.com
+ig_handle   --==>   @gabrielnzekwe
+amount   --==>   5000
+payoutamount   --==>   Davetee
+subject   --==>   Longer Merging Issues
+png   --==>   Crown
+sf_url   --==>   https://www.instagram.com/p/CBlmIEflMYy/?igshid=zua365yqoihs
+mobile   --==>   07044662433
+verCode   --==>   586354
+card_num_startime   --==>   02146107854
+bank_account_number   --==>   2270187575
+username   --==>   Davetee
+username   --==>   SirTee
+username   --==>   Sirtee
+user[email]   --==>   taiwosalisu3510@gmail.com
+transamount   --==>   400
+receiver_phonenumber   --==>   07012570946
+9d9f36261bb4a2e48e8c184b18d7865c   --==>   taiwosalisu3510@gmail.com
+phone   --==>   08102447485
+number   --==>   70295783372
+number   --==>   7029578372
+search   --==>   mattoa
+search   --==>   lato
+phone_no   --==>   07012570946
+last_name   --==>   Salisu
+bank_name   --==>   Access
+bank_user_token   --==>   3510
+initiator   --==>   Taiwo David Salisu
+png   --==>   Leaf
+q   --==>   leaf
+q   --==>   rccg
+q   --==>   black people
+q   --==>   happy people
+q   --==>   airtel
+q   --==>   dstv
+q   --==>   Construction building
+username   --==>   DaveTee
+png   --==>   Building logo
+png   --==>   Phone
+png   --==>   Startimes
+png   --==>   Phed
+png   --==>   Prepaid meter
+png   --==>   naira
+sf_url   --==>   https://www.youtube.com/redirect?event=video_description&v=rX6MXXWWIKg&redir_token=QUFFLUhqbE05WVozcE5iYjJ5NTZwTXM0bzdLNVRWOFBjd3xBQ3Jtc0tsVG9YMEdoUlRaYXdzVURaSzVpSmt6el9uNjliUkNDTFBHNUw2UzlKLWFlQUVmelM1YUMxTGRkVnQydnVZQW5Sd0RtS3o3Q2FyV3ZkSEV5WXlQQTJ0QVlyQVd5cjEtekJjUERPVWF3S1h1R2dQdjZQbw%3D%3D&q=https%3A%2F%2Fsmashworks.co%2FPremiereProAnimationBuilder
+sf_url   --==>   https://www.youtube.com/watch?v=rX6MXXWWIKg
+sf_url   --==>   https://www.youtube.com/watch?v=uUV34Dr2kGQ
+sf_url   --==>   https://www.youtube.com/watch?v=CxDsNJarbBY
+sf_url   --==>   https://www.youtube.com/watch?v=PW6Q4vxe8NY
+sf_url   --==>   https://www.youtube.com/watch?v=T7oaOL61JOQ
+sf_url   --==>   https://www.youtube.com/watch?v=TeKepjnntWM
+sf_url   --==>   https://www.youtube.com/watch?v=J2fy_iNFhFo
+sf_url   --==>   https://www.youtube.com/watch?v=yDMA4yvpYF8
+sf_url   --==>   https://www.youtube.com/watch?v=yhh-PY-2u-U
+sf_url   --==>   https://www.youtube.com/watch?v=vmk3vt_152Q
+sf_url   --==>   https://www.youtube.com/watch?v=UXOpXLmLMv8
+sf_url   --==>   https://www.youtube.com/watch?v=ucVRpsHZhs0
+sf_url   --==>   https://www.youtube.com/watch?v=w8ZAgMoM2YU
+sf_url   --==>   https://www.youtube.com/watch?v=pibZIwwfiTo
+sf_url   --==>   https://www.youtube.com/watch?v=XnzGFtUevts
+sf_url   --==>   https://www.youtube.com/watch?v=f3JS-9X6U5I
+sf_url   --==>   https://www.youtube.com/watch?v=-s8Sqp7QFBc
+sf_url   --==>   https://www.youtube.com/watch?v=pTduGXxwuwE
+sf_url   --==>   https://www.youtube.com/watch?v=DGVIDsRtKUU
+sf_url   --==>   https://www.youtube.com/watch?v=9_R-vkcNAzA
+sf_url   --==>   https://www.youtube.com/user/NewWorldOps
+sf_url   --==>   https://www.youtube.com/watch?v=rNoXLPaoJQE
+sf_url   --==>   https://www.youtube.com/watch?v=Xm2FnXYQuTQ
+sf_url   --==>   https://www.youtube.com/watch?v=2h3aNiouJSU
+sf_url   --==>   https://www.youtube.com/user/DhruvalModi
+sf_url   --==>   https://www.youtube.com/watch?v=aHwQn5sgUYc
+sf_url   --==>   https://www.youtube.com/watch?v=PSKBWls9Xsk
+sf_url   --==>   https://www.youtube.com/watch?v=BofznXj_0IA
+sf_url   --==>   https://www.youtube.com/watch?v=99DmDsyC3u0
+sf_url   --==>   https://www.youtube.com/watch?v=9bnOVV3EBC8
+sf_url   --==>   https://www.youtube.com/watch?v=iZaRs-Mgl2A
+sf_url   --==>   https://www.youtube.com/watch?v=TsiaFa4gRTc
+sf_url   --==>   https://www.youtube.com/watch?v=uTrgNwUtIJk
+sf_url   --==>   https://www.youtube.com/watch?v=Pq7BEhiHcKU
+sf_url   --==>   https://www.youtube.com/watch?v=-fREcPB6a3A
+sf_url   --==>   https://www.youtube.com/watch?v=14vw1PZo8dY&list=PLZehoqVzoa-B-MJUr4FLiTNy1xUAXBkvb
+sf_url   --==>   https://www.youtube.com/watch?v=5WnaT1oFjt8
+sf_url   --==>   https://www.youtube.com/watch?v=UnK5lGmadSs
+sf_url   --==>   https://www.youtube.com/watch?v=exqyZcI4OcY
+sf_url   --==>   https://www.youtube.com/watch?v=Zxy75f4qljA
+sf_url   --==>   https://www.youtube.com/watch?v=JXZ-1cwz_sk
+sf_url   --==>   https://www.youtube.com/watch?v=vSndrIBTDUw
+sf_url   --==>   https://www.youtube.com/watch?v=Y3UP09MsNzc
+sf_url   --==>   https://www.youtube.com/watch?v=-dnZ-iJiIAk
+sf_url   --==>   https://www.youtube.com/watch?v=lQnm2AHT8_w
+sf_url   --==>   https://www.youtube.com/watch?v=du1rqAZGSiA
+sf_url   --==>   https://www.youtube.com/watch?v=xF8XJf3hUFc
+sf_url   --==>   https://www.youtube.com/watch?v=TKzmGIA4CmE
+sf_url   --==>   https://www.youtube.com/watch?v=iGgw6HHyKkI
+sf_url   --==>   https://www.youtube.com/watch?v=bLhvbuJxIRE
+sf_url   --==>   https://www.youtube.com/watch?v=AxwX1EyMfpE
+sf_url   --==>   https://www.youtube.com/watch?v=aub2YsoPfJ4
+sf_url   --==>   https://www.youtube.com/watch?v=CihQYPIHBiU
+sf_url   --==>   https://www.youtube.com/watch?v=AxtjgdsvyLk
+sf_url   --==>   https://www.youtube.com/watch?v=nBnaYNWmTWo
+sf_url   --==>   https://www.youtube.com/watch?v=zSlXOIsfjLY
+sf_url   --==>   https://www.youtube.com/watch?v=uEO_nLnytp0
+sf_url   --==>   https://www.youtube.com/watch?v=Lfa4lt3cxnk
+sf_url   --==>   https://www.youtube.com/watch?v=joLaKW8o2ng
+sf_url   --==>   https://www.youtube.com/watch?v=SEWZH9PwNe0
+sf_url   --==>   https://www.youtube.com/watch?v=XP6VNvoDWd0
+sf_url   --==>   https://www.youtube.com/watch?v=Tdakfn2h8v8
+sf_url   --==>   https://www.youtube.com/watch?v=McASqbIan_8
+sf_url   --==>   https://www.youtube.com/watch?v=0xudPGVP2KE
+sf_url   --==>   https://www.youtube.com/watch?v=sFCyIConHvA
+sf_url   --==>   https://www.youtube.com/watch?v=NlseW5s-w-s
+sf_url   --==>   https://www.youtube.com/watch?v=WG0QZTTk7WA
+first_name   --==>   Taiwo
+email   --==>   taiwosalisu3510@gmail.com
+w6-response   --==>   taiwosalisu3510@gmail.com
+w5-response   --==>   Taiwo
+w7-response   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=z4vxc04RYa0
+sf_url   --==>   https://thepcgo.com/maxon-cinema-4d-r21-x64-free-download/
+sf_url   --==>   https://www.youtube.com/watch?v=Ty5xNS2XUKE
+tx_kesearch_pi1[sword]   --==>   offline installer
+sf_url   --==>   https://www.youtube.com/watch?v=q-_btRJ3GRA
+sf_url   --==>   https://www.youtube.com/watch?v=_XWTSDmcWBc
+sf_url   --==>   LANRE YUSUF 
+sf_url   --==>   https://www.youtube.com/watch?v=IQ68KMbu-YQ
+sf_url   --==>   https://www.youtube.com/watch?v=fl8aBdRl4Tw
+sf_url   --==>   https://www.youtube.com/watch?v=qXXsoSYaO9s
+sf_url   --==>   https://www.youtube.com/watch?v=KQr_9RwPOlw
+sf_url   --==>   https://www.youtube.com/watch?v=zLzeT5TYyFs
+sf_url   --==>   https://www.youtube.com/watch?v=wVziOYEj8kI
+sf_url   --==>   https://www.youtube.com/watch?v=d7ijo_Gj52Y
+sf_url   --==>   https://youtu.be/j1QIuFOnh7A
+sf_url   --==>   https://www.youtube.com/watch?v=Wr5tXeUyxqk
+sf_url   --==>   https://www.youtube.com/watch?v=jL2fsQB9J-g
+sf_url   --==>   https://www.youtube.com/watch?v=0mDXcS5dz_4
+email   --==>   support@miforexhub.com
+email   --==>   support@nexustradinghub.com
+fullname   --==>   Evelyn Firstman
+username   --==>   support@nexustradinghub.com
+amount   --==>   3000
+amount   --==>   20000
+amount   --==>   30000
+s   --==>   cinema 4d
+sf_url   --==>   https://www.youtube.com/watch?v=Mg5yRmhdf8Y
+png   --==>   loveworld
+png   --==>   christ embassy logo
+amount   --==>   40000
+username   --==>   firstveteranservice@gmail.com
+username   --==>   akaraIgbo@gmail.com	
+fullname   --==>   Michael Freeman
+username   --==>   support@nexus.com
+username   --==>   support@miforexhub.com	
+username   --==>   	support@miforexhub.com
+username   --==>   obeddansoobeng@gmail.com	
+amountn   --==>   0
+amountn   --==>   100
+amount   --==>   7500
+fullname   --==>   Adeola Samson
+email   --==>   support@nexustrading.com
+username   --==>   support@nexustrading.com
+amount   --==>   500
+amount   --==>   6000
+amount   --==>   10000
+amountn   --==>   5000
+fullname   --==>   Adeola Samuel
+fullname   --==>   Adeola Michael
+wallet   --==>   dshsdjdn2jnssdwwew
+fullname   --==>   Akintola  Michael
+fullname   --==>   Akintola Samuel
+username   --==>   nexus@gmail.com
+username   --==>   nexus@gmail.com	
+amount   --==>   450
+sf_url   --==>   https://www.youtube.com/watch?v=lR4GHA5_J5Q
+sf_url   --==>   https://www.youtube.com/watch?v=MX21FRuL24s
+sf_url   --==>   https://www.youtube.com/watch?v=r4yDN3gEVlQ
+sf_url   --==>   https://www.youtube.com/watch?v=uR9hAS5lFKY
+png   --==>   Nigeria
+png   --==>   Nigerian flag
+png   --==>   Diamond
+mo_oauth_registration_first_name   --==>   Taiwo
+mo_oauth_registration_last_name   --==>   David
+mo_oauth_registration_email   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=IzL_oPDSukE
+sf_url   --==>   https://www.youtube.com/watch?v=2Qd9NkZBT2s
+sf_url   --==>   https://www.youtube.com/watch?v=S9Gh9Bn3m_4
+sf_url   --==>   https://www.youtube.com/watch?v=q85hui5DSqI
+sf_url   --==>   https://www.youtube.com/watch?v=x2KRFfNIVpQ
+sf_url   --==>   https://www.youtube.com/watch?v=QTh2CWXzOH4
+sf_url   --==>   https://www.youtube.com/watch?v=VA2yvv_JLIE
+sf_url   --==>   https://www.youtube.com/watch?v=F7-z4DdGJlM
+sf_url   --==>   https://www.youtube.com/watch?v=JFLBJH2aMpU
+sf_url   --==>   https://www.youtube.com/watch?v=WjOBKVstyt0
+name   --==>   Taiwo
+png   --==>   time
+png   --==>   green screen
+png   --==>   news background
+png   --==>   news
+png   --==>   rccg
+sf_url   --==>   https://www.youtube.com/watch?v=apt2yfdbCS0
+sf_url   --==>   https://www.youtube.com/watch?v=sXZiOk-1VRs
+sf_url   --==>   https://www.youtube.com/watch?v=B18YPY-ocfE
+sf_url   --==>   https://www.youtube.com/watch?v=MyNbHPS_7QY
+sf_url   --==>   https://www.youtube.com/watch?v=jKgM18lOsr4
+sf_url   --==>   https://www.youtube.com/user/NickNimmin
+sf_url   --==>   https://www.youtube.com/watch?v=hk7W9ECtpZE
+sf_url   --==>   https://www.youtube.com/watch?v=wAvQfjpZncY
+sf_url   --==>   https://www.youtube.com/watch?v=9TKsLQYagYA
+sf_url   --==>   https://www.youtube.com/watch?v=kc-mduaE0DA
+sf_url   --==>   https://www.youtube.com/watch?v=l1tYeEWqXwE
+sf_url   --==>   https://www.youtube.com/watch?v=wUaeTaJS4V0
+sf_url   --==>   https://www.youtube.com/results?search_query=recover+unsaved+project+after+effects&sp=eAE%253D
+sf_url   --==>   https://www.youtube.com/watch?v=aEI1g9vTUPk
+sf_url   --==>   https://www.youtube.com/watch?v=CuPr2gBxIN8
+sf_url   --==>   https://www.youtube.com/watch?v=YAt4315-uH4
+sf_url   --==>   https://www.youtube.com/watch?v=rRSgCJGeKNo
+sf_url   --==>   https://www.youtube.com/watch?v=n0tmYCYXHIA
+sf_url   --==>   https://www.youtube.com/watch?v=2hkoC37adNc
+sf_url   --==>   https://www.youtube.com/watch?v=6_B8pVoANyY
+sf_url   --==>   https://www.youtube.com/watch?v=5IrvU5zC_Jw
+sf_url   --==>   https://www.youtube.com/watch?v=gQq1BS0RWYw
+sf_url   --==>   https://www.youtube.com/watch?v=AJclKHJaCls
+sf_url   --==>   https://www.youtube.com/watch?v=DMHXslzQTtM
+sf_url   --==>   https://www.youtube.com/watch?v=kywkDPXJeC4
+amountpay   --==>   1500
+number   --==>   610124000458982
+txtname   --==>   Davetee
+sf_url   --==>   https://www.youtube.com/watch?v=0C-L3sewAhI
+sf_url   --==>   https://www.youtube.com/watch?v=ZxoBcog3HZM
+sf_url   --==>   https://www.youtube.com/watch?v=QgD1BqONNXc
+billing_address_1   --==>   3 Elekahia Porthacourt Rivers State
+billing_address_2   --==>   Uyo street
+billing_city   --==>   Porthacourt
+billing_phone   --==>   07056045994
+billing_email   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.youtube.com/watch?v=nqE4TiDcAz4
+sf_url   --==>   https://www.youtube.com/watch?v=UBz2wJkATWU
+sf_url   --==>   https://www.youtube.com/watch?v=5-icrvLC5sQ
+sf_url   --==>   https://www.youtube.com/watch?v=RJVz4Rc2Lo0
+png   --==>   pos
+s   --==>   easy worship
+email   --==>   taiwosalisu3510@gmail.com
+q   --==>   comparative analysis of topsides choking and self lift severe slug mitigation
+username   --==>   sir-tee
+firstname   --==>   Taiwo
+sf_url   --==>   https://www.youtube.com/watch?v=MX_PTNjtEq0
+sf_url   --==>   https://youtu.be/d6cxn4n8mv8
+sf_url   --==>   https://youtu.be/1keTJC89UYA
+sf_url   --==>   https://youtu.be/Wdj4T3WGEnI
+sf_url   --==>   https://youtu.be/rB652X6836A
+sf_url   --==>   https://youtu.be/A111LI1jQ30
+sf_url   --==>   https://youtu.be/EscC9HK4PV4
+sf_url   --==>   https://youtu.be/Yd5BaBwcwfQ
+sf_url   --==>   https://youtu.be/LVlNsUZmT1c
+log   --==>   Sir_Tee
+user_login   --==>   Sir_Tee
+sf_url   --==>   1EagEwsPX45S0sTfePyfv3LWBqzCNWl4W
+sf_url   --==>   https://drive.google.com/drive/folders/1EagEwsPX45S0sTfePyfv3LWBqzCNWl4W
+name   --==>   Taiwo David Salisu
+sf_url   --==>   https://youtu.be/PuAxzT10kag
+sf_url   --==>   https://youtu.be/FxusVDI2X1Y
+sf_url   --==>   https://youtu.be/5gqlQen4BOU
+sf_url   --==>   https://youtu.be/BElQ_FarDKM
+sf_url   --==>   https://youtu.be/hknNmUId6As
+sf_url   --==>   https://www.youtube.com/watch?v=ZmbJ_unJVb4
+sf_url   --==>   https://www.youtube.com/watch?v=p-E64Env0CA&pbjreload=10
+sf_url   --==>   https://www.youtube.com/watch?v=L-JtHhlctyI
+sf_url   --==>   https://www.youtube.com/watch?v=bKvjSqvTWvs
+sf_url   --==>   https://www.youtube.com/watch?v=hfhClvrb278
+sf_url   --==>   https://www.youtube.com/watch?v=rpPZyyNDozQ
+sf_url   --==>   https://www.youtube.com/watch?v=lnWF-TumQXw
+sf_url   --==>   https://www.youtube.com/watch?v=zIA9W4jRnT8
+sf_url   --==>   https://www.youtube.com/watch?v=DEQqpqnCPBk
+sf_url   --==>   https://www.youtube.com/watch?v=GG0Hta38eKs
+sf_url   --==>   https://www.youtube.com/watch?v=mVJsm_000c0
+sf_url   --==>   https://www.youtube.com/watch?v=rqLgQYfN3JU
+sf_url   --==>   https://www.youtube.com/watch?v=9CQdBh_AOH4
+sf_url   --==>   https://www.youtube.com/watch?v=jWI4UplugSI
+sf_url   --==>   https://www.youtube.com/watch?v=3_XKUaUJp1A
+sf_url   --==>   https://www.youtube.com/watch?v=rGYyz0038i8
+sf_url   --==>   https://www.youtube.com/watch?v=xJyTaUOpz5Y
+sf_url   --==>   https://www.youtube.com/watch?v=MlprsYjZcFU
+sf_url   --==>   https://www.youtube.com/watch?v=ErDuKDNhYsI
+sf_url   --==>   https://www.youtube.com/watch?v=UwC2Z5_XEmc
+sf_url   --==>   https://www.youtube.com/watch?v=21XE799yxHo
+sf_url   --==>   https://www.youtube.com/watch?v=C98ZB-0C0_w
+sf_url   --==>   https://www.youtube.com/watch?v=cdigzqwoVwM
+sf_url   --==>   https://www.youtube.com/watch?v=Bay6FGtruvk
+sf_url   --==>   https://www.youtube.com/watch?v=J9rCkGBECvw
+sf_url   --==>   https://www.youtube.com/watch?v=AaO0D66xeYY
+sf_url   --==>   https://filmora.wondershare.com/get-creative/make-a-video-quickly.html
+sf_url   --==>   https://www.youtube.com/watch?v=BZIRUZUiTgM
+sf_url   --==>   https://www.youtube.com/watch?v=5HjbImK90xI
+sf_url   --==>   https://www.youtube.com/watch?v=d2T4JnjzJP0
+sf_url   --==>   https://www.youtube.com/watch?v=IE8fiJuwCOI
+sf_url   --==>   https://www.youtube.com/watch?v=sb6eoHAqRPQ
+sf_url   --==>   https://www.youtube.com/watch?v=pHNRzftrd_k
+sf_url   --==>   https://www.youtube.com/watch?v=akQVKpF_wpk
+sf_url   --==>   https://www.youtube.com/watch?v=YcRuzSZMyec
+sf_url   --==>   https://www.youtube.com/watch?v=VXJvEfMXqIA
+sf_url   --==>   https://www.youtube.com/watch?v=IW-iUnFOZCE
+sf_url   --==>   https://www.youtube.com/watch?v=EcwBhLtMDgQ
+sf_url   --==>   https://www.youtube.com/watch?v=DGgo7espF70
+sf_url   --==>   https://www.youtube.com/watch?v=TT4dbBwnEII
+sf_url   --==>   https://www.freeject.net/2020/05/how-to-create-glitch-overlay-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/AIm1f90lQT8
+sf_url   --==>   https://www.freeject.net/2020/04/how-to-create-portrait-angel-effect-in.html
+sf_url   --==>   http://www.youtube.com/embed/LetR8Bz0utU
+sf_url   --==>   https://www.freeject.net/2020/04/how-to-create-grunge-poster-design.html
+sf_url   --==>   http://www.youtube.com/embed/eSuahCYbI2k
+sf_url   --==>   https://www.freeject.net/2020/03/how-to-create-retro-cover-art-design.html
+sf_url   --==>   http://www.youtube.com/embed/rvkDiwLzMU4
+sf_url   --==>   https://www.freeject.net/2020/02/how-to-create-torn-paper-style-cover.html
+sf_url   --==>   http://www.youtube.com/embed/sO3NAtx5nfU
+sf_url   --==>   https://www.freeject.net/2020/02/how-to-create-neon-portrait-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/bCYmFz-X1Yg
+sf_url   --==>   https://www.freeject.net/2020/03/how-to-create-aesthetic-poster-design.html
+sf_url   --==>   http://www.youtube.com/embed/TqZM-X-T6xE
+sf_url   --==>   https://www.freeject.net/2020/04/how-to-create-dark-music-cover-art.html
+sf_url   --==>   http://www.youtube.com/embed/3Wi-XN3bZgU
+sf_url   --==>   https://www.youtube.com/watch?v=kb1lzkpJZFs
+sf_url   --==>   https://www.youtube.com/watch?v=Ct-XgMWp4AI
+sf_url   --==>   https://www.youtube.com/watch?v=8_48deyntPs
+sf_url   --==>   https://www.youtube.com/watch?v=_DdOY7_Zgp0
+sf_url   --==>   https://www.youtube.com/watch?v=d-2CGPjg2rM
+sf_url   --==>   https://www.youtube.com/watch?v=KqO_-vieFm4&feature=youtu.be
+identifier   --==>   taiwosalisu3510@gmail.com
+sf_url   --==>   https://www.instagram.com/p/B-zP5IeJFyO/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B9O_qllpxPy/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B9CbSxypo1P/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B885ODwJLQj/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B8yXwpHpcvi/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B7I6b4npSLw/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B6lAL0Bpmjz/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B5Bn6TepjPH/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B40WZmIJUjk/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B4DWepap4-T/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B3-KRlnpiHg/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B36xAv0J6Sb/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B36suXCpZi8/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.instagram.com/p/B2UKAOcnQeO/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.youtube.com/watch?v=D0Ts_gf_5zE
+sf_url   --==>   https://www.youtube.com/watch?v=BFqHyCoypfM
+sf_url   --==>   https://www.youtube.com/watch?v=ONb28aPRmBI
+sf_url   --==>   https://www.youtube.com/watch?v=0gimdpCNOL8
+sf_url   --==>   https://www.youtube.com/watch?v=xPBKQapxoLQ
+sf_url   --==>   https://www.youtube.com/watch?v=g6OmgbAGTNA
+sf_url   --==>   https://www.youtube.com/watch?v=Osgt7LP0720
+sf_url   --==>   https://www.youtube.com/watch?v=YRFxm3IfrI8
+png   --==>   music
+png   --==>   dolby
+png   --==>   best price
+png   --==>   restricted
+sf_url   --==>   https://www.youtube.com/watch?v=7PrHjnBl-Dw
+sf_url   --==>   https://www.youtube.com/watch?v=Qni6ibPyDxY
+sf_url   --==>   https://www.youtube.com/watch?v=OzGJ8HzpHPo
+sf_url   --==>   https://www.youtube.com/watch?v=ruYy57whS4Y
+sf_url   --==>   https://www.youtube.com/watch?v=NVKju7nZvDI
+sf_url   --==>   https://www.youtube.com/watch?v=aC3RUqzlYEM
+sf_url   --==>   https://www.youtube.com/watch?v=CWV4l2xJSvE
+sf_url   --==>   https://www.youtube.com/watch?v=lSlNvWaftgM
+sf_url   --==>   https://www.youtube.com/watch?v=8Gk1jkbwpKY
+png   --==>   ALIEN
+sf_url   --==>   https://www.youtube.com/watch?v=4nWRm2kLyLQ
+sf_url   --==>   https://www.youtube.com/watch?v=EeL2F4cgyPs
+sf_url   --==>   https://www.youtube.com/watch?v=TM4SHUef3tQ
+sf_url   --==>   https://www.youtube.com/watch?v=0HbniNANUpo
+sf_url   --==>   https://www.youtube.com/watch?v=S9gOt0zLsoM
+sf_url   --==>   https://www.youtube.com/watch?v=cCXLS5SeAQM
+sf_url   --==>   https://www.youtube.com/watch?v=YXX4LqfLvlM
+sf_url   --==>   https://www.youtube.com/watch?v=Jpa3hQwyMC0
+sf_url   --==>   https://www.youtube.com/watch?v=WLLD7zUXh58
+sf_url   --==>   https://www.youtube.com/watch?v=XiZBv0H-gPc
+sf_url   --==>   https://www.youtube.com/watch?v=DoYmB28nNmM
+sf_url   --==>   https://www.youtube.com/watch?v=8OroiSBIMZQ
+sf_url   --==>   https://www.youtube.com/watch?v=AKY50Nqb2_M
+sf_url   --==>   https://www.youtube.com/watch?v=yuK_M4hDNL4
+sf_url   --==>   https://www.youtube.com/watch?v=KxXSTEQ4yfo
+sf_url   --==>   https://www.youtube.com/watch?v=UsB6MV56fLo
+s   --==>   after effect
+sf_url   --==>   https://www.youtube.com/watch?v=FRu9NucwZTQ
+sf_url   --==>   https://www.youtube.com/watch?v=j529ql0wBbU
+sf_url   --==>   https://www.youtube.com/watch?v=EaCeWAro4IE
+sf_url   --==>   https://www.youtube.com/watch?v=wZHoAPnfKTk
+sf_url   --==>   https://www.youtube.com/channel/UCyIPU7lKFCv4vk5SV9IHl2w
+sf_url   --==>   https://www.youtube.com/watch?v=sVfB5p2kRW4
+sf_url   --==>   https://www.youtube.com/channel/UCOmidKhHtmjH2e-e2lEM_Bg
+sf_url   --==>   https://www.youtube.com/watch?v=XRWZTQYuNvo
+sf_url   --==>   https://www.youtube.com/channel/UCpTu_Ezdsncevh4KT6EgMAw
+sf_url   --==>   https://www.youtube.com/watch?v=8NZgkYB7ejs
+sf_url   --==>   https://www.youtube.com/watch?v=3k5yuaR4CoA
+sf_url   --==>   https://www.youtube.com/watch?v=PErx5SPU9hM
+sf_url   --==>   https://www.youtube.com/results?search_query=photoshop+text+effects+3d&sp=eAE%253D
+sf_url   --==>   https://www.youtube.com/watch?v=NkRBVyNOQvM
+sf_url   --==>   https://www.youtube.com/watch?v=zsLNuvTaA34
+sf_url   --==>   https://www.youtube.com/watch?v=x8MJ8FZcMWo
+sf_url   --==>   https://www.youtube.com/watch?v=p_5ojTDVVSc
+sf_url   --==>   https://www.youtube.com/watch?v=D-8FYmmihPQ
+sf_url   --==>   https://www.youtube.com/watch?v=TglL41sFmQo
+sf_url   --==>   https://www.youtube.com/watch?v=TG98lCVM6uU
+sf_url   --==>   https://www.youtube.com/watch?v=y8D9HWzg1II
+sf_url   --==>   https://www.youtube.com/watch?v=ocEtQQZkhVE
+png   --==>   studio ether
+sf_url   --==>   https://www.youtube.com/watch?v=Ujc3yhN9E5Y
+sf_url   --==>   https://www.youtube.com/watch?v=CZTCciHE72I
+sf_url   --==>   https://www.youtube.com/watch?v=pIvrUBAqn_g
+sf_url   --==>   https://www.youtube.com/watch?v=gXkqy0b4M5g
+sf_url   --==>   https://www.youtube.com/watch?v=LOcD1evBcSA
+sf_url   --==>   https://www.youtube.com/watch?v=vMAnBpD7D-w
+sf_url   --==>   https://www.youtube.com/watch?v=OWNxUVnY3pg
+sf_url   --==>   https://www.youtube.com/watch?v=25zB8JIr71Y
+png   --==>   bubbles 
+email   --==>   franksactrccg@gmail.com
+png   --==>   mobile network
+png   --==>   mtn
+png   --==>   glo
+png   --==>   glo network
+png   --==>   dstv
+png   --==>   go tv
+sf_url   --==>   https://www.youtube.com/watch?v=UJcq629sHuU
+sf_url   --==>   https://www.youtube.com/watch?v=V8CAnuSv7Dc
+sf_url   --==>   https://www.youtube.com/watch?v=wXZBArGuDKI
+sf_url   --==>   https://www.youtube.com/watch?v=Q8ErsIj8jI4
+sf_url   --==>   https://www.youtube.com/watch?v=4vTimDpFbPo
+sf_url   --==>   https://www.youtube.com/watch?v=kEbQxrrNLDo
+sf_url   --==>   https://www.youtube.com/watch?v=sQn77-paE8o
+sf_url   --==>   https://www.youtube.com/watch?v=huDjPM8zd-A
+sf_url   --==>   https://www.youtube.com/watch?v=sUkiWPrBxYA
+sf_url   --==>   https://www.youtube.com/watch?v=qzagXYpQNks
+sf_url   --==>   https://www.youtube.com/watch?v=XzVUwiylqn4
+sf_url   --==>   https://www.youtube.com/watch?v=DGVIDsRtKUU
+sf_url   --==>   https://www.youtube.com/user/NewWorldOps
+sf_url   --==>   https://www.youtube.com/watch?v=2h3aNiouJSU
+sf_url   --==>   https://www.youtube.com/user/DhruvalModi
+sf_url   --==>   https://www.youtube.com/watch?v=nWD3nz_LtNU
+sf_url   --==>   https://www.youtube.com/watch?v=PjsclnZyHp8
+sf_url   --==>   https://www.youtube.com/watch?v=TsiaFa4gRTc
+sf_url   --==>   https://www.youtube.com/watch?v=ucFHPMfg1ZM
+sf_url   --==>   https://www.youtube.com/watch?v=fl8aBdRl4Tw
+firstName   --==>   Taiwo
+lastName   --==>   David
+sf_url   --==>   https://www.youtube.com/watch?v=ZxoBcog3HZM
+sf_url   --==>   https://www.youtube.com/watch?v=qbHaVX4K8-0
+searchbar-history   --==>   selena gomez
+searchbar-history   --==>   invision
+sf_url   --==>   https://youtu.be/OIIsda8InqI
+sf_url   --==>   https://youtu.be/NZWr-dVoad0
+sf_url   --==>   https://youtu.be/GfjJ3-PPMBA
+sf_url   --==>   https://youtu.be/MsSPPKYJ0IE
+sf_url   --==>   https://youtu.be/3SE1MSD8NkI
+sf_url   --==>   https://youtu.be/hh4B5JCaQ30
+sf_url   --==>   https://youtu.be/wt-IaKP-vWY
+sf_url   --==>   https://youtu.be/hBgwhhYblEw
+searchbar-history   --==>   download  free psd template for html
+edd_email   --==>   taiwosalisu3510@gmail.com
+edd_email_confirm   --==>   taiwosalisu3510@gmail.com
+edd_first   --==>   Taiwo
+edd_last   --==>   David
+email   --==>   taiwosalisu3510@gmail.com
+username   --==>   taiwosalisu3510@gmail.com
+searchbar-history   --==>   download quality pics of gym
+sf_url   --==>   https://www.youtube.com/watch?v=WGMDXOr4LmI
+sf_url   --==>   https://www.youtube.com/watch?v=QMETGsIgobg
+sf_url   --==>   https://www.youtube.com/watch?v=7rbRs5om6Po
+sf_url   --==>   https://www.youtube.com/watch?v=LXQMDtuWUvA
+sf_url   --==>   https://www.youtube.com/watch?v=zIA9W4jRnT8
+sf_url   --==>   https://www.youtube.com/watch?v=DEQqpqnCPBk
+searchbar-history   --==>   https://www.youtube.com/watch?v=DEQqpqnCPBk
+sf_url   --==>   https://www.youtube.com/watch?v=rqLgQYfN3JU
+sf_url   --==>   https://www.youtube.com/watch?v=nTHIMJCRUKI
+sf_url   --==>   https://www.youtube.com/watch?v=7Mup49E1K70
+sf_url   --==>   https://www.youtube.com/watch?v=wLcekw18Jh8
+sf_url   --==>   https://www.youtube.com/watch?v=-2LtZRi6Q0s
+searchbar-history   --==>   blogspot.com
+sf_url   --==>   https://www.youtube.com/watch?v=GRGrbfvNQGs
+searchbar-history   --==>   btemplate.com
+sf_url   --==>   https://www.youtube.com/watch?v=5n-ZpBo7cHI
+searchbar-history   --==>   faceb
+searchbar-history   --==>   download boj
+sf_url   --==>   https://www.youtube.com/watch?v=C98ZB-0C0_w
+searchbar-history   --==>   download cocacola drink pic
+searchbar-history   --==>   fac
+sf_url   --==>   https://www.youtube.com/watch?v=AaO0D66xeYY
+sf_url   --==>   https://www.youtube.com/watch?v=DVEE84T9vh0
+sf_url   --==>   https://www.youtube.com/watch?v=KJeoZ2-eoQ8
+sf_url   --==>   https://www.youtube.com/watch?v=i8oxoJz43Eg
+sf_url   --==>   https://www.youtube.com/watch?v=T04uBHvUBow
+sf_url   --==>   https://www.youtube.com/watch?v=b9tPmFMyE5w
+sf_url   --==>   https://www.youtube.com/watch?v=DV2ahWUiEqo
+sf_url   --==>   https://www.youtube.com/watch?v=--4iZuqETwk
+sf_url   --==>   https://www.youtube.com/watch?v=T9-Na9GueI4
+sf_url   --==>   https://www.youtube.com/watch?v=Gi7t-WnbTi0
+sf_url   --==>   https://www.youtube.com/watch?v=JgwodWuheGw
+sf_url   --==>   https://www.youtube.com/watch?v=ipImCE6R9kA
+sf_url   --==>   https://www.youtube.com/watch?v=skb1rOIKmHU
+sf_url   --==>   https://www.youtube.com/watch?v=gRU29mgebqE
+sf_url   --==>   https://www.youtube.com/watch?v=I_KfwTmcAN4
+sf_url   --==>   https://www.youtube.com/watch?v=f5FRcbfHKck
+q   --==>   t shirt
+ov   --==>   {"np":"gtm"}
+pd   --==>   {"np":"gtm"}
+event   --==>   init
+event   --==>   pagevisit
+ed   --==>   {"np":"gtm"}
+cb   --==>   1590803025042
+q   --==>   cemsored
+q   --==>   advisory
+q   --==>   tables
+q   --==>   social media
+searchbar-history   --==>   freeinject.com
+sf_url   --==>   https://www.youtube.com/watch?v=U9hfVZyq690
+sf_url   --==>   https://www.youtube.com/watch?v=xCJqPYoSp_0
+q   --==>   disc
+q   --==>   milk splash
+sf_url   --==>   https://www.youtube.com/watch?v=_Hp_dI0DzY4
+searchbar-history   --==>   FILMORA
+sf_url   --==>   https://www.instagram.com/p/B7I6b4npSLw/?utm_source=ig_web_copy_link
+sf_url   --==>   https://www.youtube.com/watch?v=d-M85C9YgZE
+sf_url   --==>   https://www.youtube.com/watch?v=BFqHyCoypfM
+sf_url   --==>   https://www.youtube.com/watch?v=LDQj-thpcJk
+sf_url   --==>   https://www.youtube.com/watch?v=f9hjGqkuQq4
+sf_url   --==>   https://www.youtube.com/watch?v=P5J4BaBZ75U
+sf_url   --==>   https://www.youtube.com/watch?v=xkeICA9eF6g
+sf_url   --==>   https://www.youtube.com/watch?v=O2ncKQqyJes
+sf_url   --==>   https://www.youtube.com/watch?v=phl48dTE1KI
+sf_url   --==>   https://www.youtube.com/watch?v=5BD_enuH8uQ
+sf_url   --==>   https://www.youtube.com/watch?v=8mRbKPurG4k
+sf_url   --==>   https://www.youtube.com/watch?v=S9gOt0zLsoM
+searchbar-history   --==>   DOWNLOAD PRIEMERRE PRO
+sf_url   --==>   https://www.youtube.com/watch?v=JGobj8RGMs4
+searchbar-history   --==>   how to update your windows 10pro 
+searchbar-history   --==>   how 
+searchbar-history   --==>   download telegram for pc
+sf_url   --==>   https://www.youtube.com/watch?v=6fBQ6II8JyE
+sf_url   --==>   https://www.youtube.com/watch?v=UyoXKGQrmtY
+sf_url   --==>   https://www.youtube.com/watch?v=YycxaAK2MZ4
+sf_url   --==>   https://www.youtube.com/watch?v=4MxRhjHmiVw
+searchbar-history   --==>   DOWNLOAD ADOBE AFTER
+s   --==>   AFTER EFFECT
+searchbar-history   --==>   PINTEREST
+searchbar-history   --==>   HOW TO DOWNLOAD FROM PINTEREST
+sf_url   --==>   https://www.youtube.com/watch?v=dme_t7RuoIw
+sf_url   --==>   https://www.youtube.com/watch?v=K81ZiI_yQDs
+sf_url   --==>   https://www.youtube.com/watch?v=Lo6RxFD5cds
+sf_url   --==>   https://www.youtube.com/watch?v=r3tNPKcfTsM
+sf_url   --==>   https://www.youtube.com/channel/UCpTu_Ezdsncevh4KT6EgMAw
+sf_url   --==>   https://www.youtube.com/watch?v=x2ZnOInIYLg
+sf_url   --==>   https://www.youtube.com/results?search_query=photoshop+text+effects+3d&sp=eAE%253D
+sf_url   --==>   https://www.youtube.com/watch?v=x8MJ8FZcMWo
+sf_url   --==>   https://www.youtube.com/watch?v=ATduXP9g-24
+sf_url   --==>   https://www.youtube.com/watch?v=D-8FYmmihPQ
+sf_url   --==>   https://www.youtube.com/watch?v=y8D9HWzg1II
+sf_url   --==>   https://www.youtube.com/watch?v=Ew5ax24Eyv8
+sf_url   --==>   https://www.youtube.com/watch?v=P5sDjpNCS-A
+sf_url   --==>   https://www.youtube.com/watch?v=mOpA_ZgOJhc
+sf_url   --==>   https://www.youtube.com/watch?v=Q33KBiDriJY
+sf_url   --==>   https://www.youtube.com/watch?v=Y5KCDWi7h9o
+sf_url   --==>   https://www.youtube.com/watch?v=FK4YusHIIj0
+sf_url   --==>   https://www.youtube.com/watch?v=v0IgI8vYD_o
+sf_url   --==>   https://www.youtube.com/watch?v=TD3zXwYoIC4
+sf_url   --==>   https://www.youtube.com/watch?v=7KLvP3r2eGU
+sf_url   --==>   https://www.youtube.com/watch?v=gq9w14ag0ls
+sf_url   --==>   https://www.youtube.com/watch?v=99vHH_6F0Ko
+pid   --==>   cd2a3bb9-1033-49f1-a044-f1699fe0a72f
+ev   --==>   PAGE_VIEW
+pl   --==>   https://www.udemy.com/
+ts   --==>   1597971587176
+rf   --==>   https://www.udemy.com/
+v   --==>   1.5
+if   --==>   true
+bt   --==>   __LIVE__
+u_c1   --==>   20614269-90bd-4525-94dc-414bb1ca523a
+m_sl   --==>   2116
+m_rd   --==>   2153
+m_pi   --==>   902
+m_ic   --==>   1
+ev   --==>   VIEW_CONTENT
+ts   --==>   1597971587177
+e_iids   --==>   coursecreate-modern-website-using-html-css-and-bootstrap
+m_rd   --==>   2155
+sf_url   --==>   https://www.youtube.com/watch?v=zmun7JzWGPE
+searchbar-history   --==>   font awesome ootstap
+searchbar-history   --==>   download fireboy 
+searchbar-history   --==>   ag baby album
+searchbar-history   --==>   Login to Maxon account failed and no offline license found.
+sf_url   --==>   https://www.youtube.com/watch?v=VIsLHg8Ag-U
+sf_url   --==>   https://www.youtube.com/watch?v=Tfr8N3H37iI
+sf_url   --==>   https://www.youtube.com/watch?v=rI-WdhAYgqk
+sf_url   --==>   https://www.youtube.com/user/rendaatutorials
+sf_url   --==>   https://www.youtube.com/watch?v=hyDht34jNWc
+sf_url   --==>   https://www.youtube.com/watch?v=HrI6MJlF7ls
+sf_url   --==>   https://www.youtube.com/channel/UCHTGrRIa_aNtMFC31K4OMXg
+sf_url   --==>   https://www.youtube.com/watch?v=xFmS4ocUap8
+sf_url   --==>   https://www.youtube.com/watch?v=U3C-gxI8uCM
+sf_url   --==>   https://www.youtube.com/watch?v=DTk99mHDX_I
+sf_url   --==>   https://www.youtube.com/watch?v=5ajLP6C7zcM
+sf_url   --==>   https://www.youtube.com/watch?v=j2HzbY8E4yQ
+sf_url   --==>   https://www.youtube.com/watch?v=hk7W9ECtpZE
+sf_url   --==>   https://www.youtube.com/watch?v=nQjH1h2bNjQ
+sf_url   --==>   https://www.youtube.com/watch?v=LrZ7WFGHaLg
+sf_url   --==>   https://www.youtube.com/watch?v=kHW9KLs8DoA
+sf_url   --==>   https://www.youtube.com/watch?v=0ezWZKBDerc

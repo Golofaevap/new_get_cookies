@@ -1,0 +1,14 @@
+Menu ativo
+
+Primeira mensagem qualquer mensagem
+Por exemplo para padaria
+
+Quando começa a ter algo programado
+
+
+Após submenu
+
+Exemplo:
+1 - Pedido
+2 Falar com atendente
+3- Cancelar pedido

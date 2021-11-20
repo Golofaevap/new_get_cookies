@@ -1,0 +1,21 @@
+Research Microsoft Windows OPK, improve the preinstall process.
+
+- 1yr exp in Windows XP/Vista installation, drivers installation/removing and troubleshooting.
+- Familiar with diskette partition/backup/restore tools.
+- Knowledge of Windows OPK
+
+
+Responsible of all aspects of the Operating System (OS) and related software components for Notebooks, including customer communication, deliverable development, schedule management, issue resolution, release and maintenance.
+
+Experience and knowledge
+‧ Demonstrated OS debugging and problem resolution experience.
+‧ Knowledge of Microsoft OS architectures and PC architectures.
+‧ Knowledge of Preinstall systems & Microsoft OEM Preinstallation Kit (OPK)
+‧ Programming/Scripting skills 
+‧ Project management skills
+‧ Ability to work effectively in a team environment is required. 
+‧ Good oral and written communication skills in English are required. 
+‧ Ability to work and prioritize multiple assignments effectively is required.
+
+Visual Studio 2019 Enterprise 企業版：BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
+Visual Studio 2019 Professional 專業版：NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y
